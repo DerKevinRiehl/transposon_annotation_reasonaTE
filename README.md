@@ -1,4 +1,4 @@
-# transposon_annotation_resonaTE
+# Transposon Annotator "reasonaTE"
 Transposon annotation tool "resonaTE" (part of TransposonUltimate)
 
 ## Installation
