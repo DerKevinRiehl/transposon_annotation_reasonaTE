@@ -90,7 +90,7 @@ Once all results are calculated, summarizing statistics can be generated using:
 reasonaTE -mode statistics -projectFolder workspace -projectName testProject
 ```
 The results will be print to console and stored to the statistics files (see section "Documentation of output files" below).
-The results consist of three tables, presenting the number of transposons, the number of base pairs included by the transposon annotations and the number of base pairs annotated by the transposon mask annotation. The numbers are present by transposon class (horizontaly) and sequence (verticaly, using the renamed sequence names and the original sequence names) for the first two mentioned numbers, and just by sequences for the last mentioned number. All reported values are separated by tabulator.
+The results consist of three tables, presenting the number of transposons, the number of base pairs included by the transposon annotations and the number of base pairs annotated by the transposon mask annotation. The numbers are present by transposon class (horizontaly) and sequence (verticaly, using the renamed sequence names and the original sequence names) for the first two mentioned numbers, and just by sequences for the last mentioned number. All reported values are separated by tabulator. The three tables are separated by two empty lines.
 ```
 SeqID	SeqName	#Num_transposons by classes
 SeqID	SeqName	all	1	1/1	1/1/1	1/1/2	1/1/3	1/2	1/2/1	1/2/2	2	2/1	2/1/1	2/1/2	2/1/3	2/1/4	2/1/5	2/1/6	2/2	2/3
@@ -98,6 +98,7 @@ all	all	28750	1290	1267	279	977	11	23	15	8	27460	27000	2276	4292	2952	1716	15674
 seq1	chrI	3707	220	218	43	173	2	2	1	1	3487	3430	265	566	343	313	1935	8	10	47	
 seq2	chrII	5041	194	187	29	157	1	7	2	5	4847	4760	366	625	605	240	2908	16	7	80	
 ...
+
 
 SeqID	SeqName	#BP_transposons by classes
 SeqID	SeqName	all	1	1/1	1/1/1	1/1/2	1/1/3	1/2	1/2/1	1/2/2	2	2/1	2/1/1	2/1/2	2/1/3	2/1/4	2/1/5	2/1/6	2/2	2/3
