@@ -90,8 +90,15 @@ reasonaTE -mode statistics -projectFolder workspace -projectName testProject
 ```
 
 ## Documentation of output files
-Inside a project's folder (e.g. *testProject*) there are multiple output folders, that are presented in the following:
 
+**Introduction**
+The outputs of the pipeline consist of mainly two parts:
+- Tool Annotations = merging the annotations by annotation software tools
+- Pipeline Annotations = Tool annotations + additional copies found in the genome
+
+**Project folder structure**
+Inside a project's folder (e.g. *testProject*) there are multiple output folders, that are presented in the following.
+The collapsed folders and marked files (by the + symbol in green) represent the relevant output files:
 ```diff
 +├── finalResults
 +│   ├── FinalAnnotations_ProteinFeatures.gff3
@@ -161,18 +168,7 @@ Inside a project's folder (e.g. *testProject*) there are multiple output folders
 +├── Statistics_ToolAnnotations.txt
 ├── tirvish
 ├── tirvish_rc
-+├── transposonCandA
-+│   ├── helitronScanner.gff3
-+│   ├── ltrHarvest.gff3
-+│   ├── ltrPred.gff3
-+│   ├── mitefind.gff3
-+│   ├── mitetracker.gff3
-+│   ├── must.gff3
-+│   ├── repeatmodel.gff3
-+│   ├── repMasker.gff3
-+│   ├── sinefind.gff3
-+│   ├── sinescan.gff3
-+│   └── tirvish.gff3
+├── transposonCandA
 ├── transposonCandB
 ├── transposonCandC
 ├── transposonCandD
@@ -180,6 +176,14 @@ Inside a project's folder (e.g. *testProject*) there are multiple output folders
 ├── transposonCandF
 └── transposonPSI
 ```
+
+First of all, the fasta file used for the creation of the project was copied to *sequence.fasta*. The sequences in the fasta file were renamed, a matching can be found in *sequence_heads.txt*. Also, the reverse complement sequence was copied to *sequence_rc.fasta* for all softwares that annotate a single strand only.
+
+Moreover, *Statistics_FinalAnnotations.txt* and *Statistics_ToolAnnotations.txt* contain the statistics produced by the statistics mode for the two outputs of **reasonaTE**.
+
+The folder *parsedAnnotations* includes the parsed transposon annotations, structural feature annotations and transposon characteristic protein annotations by the different software tools in GFF3 format, as well as extracted sequences for each annotation in a FASTA file.
+
+The folder *finalResults* includes all results - including the tool and pipeline annotations. The *ToolAnnotations_* files contain the tool annotations, the *PipelineAnnotations_* files contain the additional copies found and the *FinalAnnotations_* include both of the prior merged into one file. There are files of the annotated transposons, transposon characteristic proteins, structural features, the mask of transposon regions and the extracted and classified sequences as FASTA file. As transposon annotations are not intersection free and can include nested or overlapping transposon annotations, the basepairs annotated in the mask represent all base pairs that are annotated by one or more transposons of the transposon annotations.
 
 ## Citations
 Please cite our paper if you find transposition event detector "deTEct" useful:
