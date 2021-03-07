@@ -9,13 +9,13 @@ Installation as [CondaPackage](https://anaconda.org/DerKevinRiehl/transposon_ann
 *Note: Otherwise you can find all source codes in this Github repository.*
 
 ## How to use ''reasonaTE''
-**1) Create a project**
+**Step 1) Create a project**
 ```
 mkdir workspace
 resonaTE -mode createProject -projectFolder workspace -projectName testProject -inputFasta sequence.fasta
 ```
 
-**2) Annotate genome with annotation tools**
+**Step 2) Annotate genome with annotation tools**
 To annotate the genome with different annotation tools, three possible ways exist. 
 
 *Option 1:* annotate with all tools automatically (this does not include ltrPred).
@@ -66,13 +66,13 @@ resonaTE -mode checkAnnotations -projectFolder workspace -projectName testProjec
 ```
 All files that are reported as "completed" will be considered by **reasonaTE** in the next steps.
 
-**3) Parse annotations**
+**Step 3) Parse annotations**
 Each of the tools will produce different output file formats. **reasonaTE** therefore provides a parser module that will unify different output files to one standardized format (GFF3). The parser module will automatically detect annotations that are available as a result from step 2, and only the available files will be considered in the next steps by the pipeline.
 ```
 resonaTE -mode parseAnnotations -projectFolder workspace -projectName testProject
 ```
 
-**4) Run the pipeline on the genome annotations**
+**Step 4) Run the pipeline on the genome annotations**
 
 
 ## Documentation of output files
