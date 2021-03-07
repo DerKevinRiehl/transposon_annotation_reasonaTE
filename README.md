@@ -44,9 +44,15 @@ For this purpose, we provide conda packages of all [transposon_annotation_tools]
 Please use the fasta file with renamed sequence names of the workspace project folder. (e.g. *workspace/testProject/sequence.fasta*)
 Please note, as some tools (HelitronScanner, MiteFinderII, MITE-Tracker, SINE-Finder, TIRvish) do not annotate on both strands, we recommend to run these on the reverse complementary as well (e.g. *workspace/testProejct/sequence_rc.fasta*). Once you annotated the genomes with your own specified parameter settings, please copy the result files into the workspace's project Folder as shown in the example project (e.g. results of HelitronScanner to copy into *workspace/testProject/helitronScanner*) and rename the files accordingly.
 
-*Running ltrPred:* If you want to include ltrPred annotations into the pipeline as well, install and run [ltrPred](https://github.com/HajkD/LTRpred). Later on, copy the result files into the project folder (*workspace/testProject/ltrPred*) and rename the files accordingly.
+*Running ltrPred:* If you want to include ltrPred annotations into the pipeline as well, install and run [ltrPred](https://github.com/HajkD/LTRpred). Later on, copy the result files into the project folder (*workspace/testProject/ltrPred*) and rename the files accordingly. Please find our [tutorial](https://github.com/DerKevinRiehl/transposon_annotation_resonaTE/blob/main/TutorialRunLTRPred.md) for manually running LTRpred even without docker using the conda package [udocker](https://github.com/indigo-dc/udocker).
 
-**3) Run the pipeline on the genome annotations**
+**3) Parse annotations**
+Each of the tools will produce different output file formats. **reasonaTE** therefore provides a parser module that will unify different output files to one standardized format (GFF3). The parser module will automatically detect annotations that are available as a result from step 2, and only the available files will be considered in the next steps by the pipeline.
+```
+resonaTE -mode parseAnnotations -projectFolder workspace -projectName testProject
+```
+
+**4) Run the pipeline on the genome annotations**
 
 
 ## Documentation of output files
