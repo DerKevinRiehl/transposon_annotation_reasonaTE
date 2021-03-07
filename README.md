@@ -7,7 +7,7 @@ Transposon annotation tool for the annotation of transposons, transposon charact
 ## Installation
 Installation as [CondaPackage](https://anaconda.org/DerKevinRiehl/transposon_annotator_reasonate):
 ```
- conda install -c derkevinriehl transposon_annotator_reasonate 
+conda install -c derkevinriehl transposon_annotator_reasonate 
 ```
 *Note: Otherwise you can find all source codes in this Github repository.*
 
