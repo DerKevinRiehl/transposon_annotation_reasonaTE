@@ -33,7 +33,7 @@ wget https://website.com/myUploads/sequence.fasta
 
 Or you could use *SSH* and *SCP*:
 ```
-sshpass -p PWD scp USER@MACHINE:workspace/testProject/sequence.fa ltrpred_data/chromosomes.fa
+sshpass -p PWD scp USER@MACHINE:workspace/testProject/sequence.fa ltrpred_data/sequence.fa
 ```
 
 ## Step 5) Run LTR pred
