@@ -90,7 +90,96 @@ reasonaTE -mode statistics -projectFolder workspace -projectName testProject
 ```
 
 ## Documentation of output files
+Inside a project's folder (e.g. *testProject*) there are multiple output folders, that are presented in the following:
 
+```diff
++├── finalResults
++│   ├── FinalAnnotations_ProteinFeatures.gff3
++│   ├── FinalAnnotations_StructuralFeatures.gff3
++│   ├── FinalAnnotations_TransposonMask.gff3
++│   ├── FinalAnnotations_TransposonSequences.fasta
++│   ├── FinalAnnotations_Transposons.gff3
++│   ├── PipelineAnnotations_ProteinFeatures.gff3
++│   ├── PipelineAnnotations_TransposonMask.gff3
++│   ├── PipelineAnnotations_TransposonSequences.fasta
++│   ├── PipelineAnnotations_Transposons.gff3
++│   ├── ToolAnnotations_ProteinFeatures.gff3
++│   ├── ToolAnnotations_StructuralFeatures.gff3
++│   ├── ToolAnnotations_TransposonMask.gff3
++│   ├── ToolAnnotations_TransposonSequences.fasta
++│   └── ToolAnnotations_Transposons.gff3
+├── helitronScanner
+├── helitronScanner_rc
+├── ltrHarvest
+├── ltrPred
+├── mitefind
+├── mitefind_rc
+├── mitetracker
+├── mitetracker_rc
+├── must
+├── NCBICDD1000
++├── parsedAnnotations
++│   ├── helitronScanner.fasta
++│   ├── helitronScanner.gff3
++│   ├── ltrHarvest.fasta
++│   ├── ltrHarvest.gff3
++│   ├── ltrPred.fasta
++│   ├── ltrPred.gff3
++│   ├── mitefind.fasta
++│   ├── mitefind.gff3
++│   ├── mitetracker.fasta
++│   ├── mitetracker.gff3
++│   ├── must.fasta
++│   ├── must.gff3
++│   ├── NCBICDD1000.gff3
++│   ├── proteinfeatures.gff3
++│   ├── proteinfeatures_masked2.gff3
++│   ├── proteinfeatures_masked3.gff3
++│   ├── proteinfeatures_masked.gff3
++│   ├── repeatmodel.fasta
++│   ├── repeatmodel.gff3
++│   ├── repeatmodel_repeats.gff3
++│   ├── repMasker.fasta
++│   ├── repMasker.gff3
++│   ├── repMasker_repeats.gff3
++│   ├── sinefind.fasta
++│   ├── sinefind.gff3
++│   ├── sinescan.fasta
++│   ├── sinescan.gff3
++│   ├── tirvish.fasta
++│   ├── tirvish.gff3
++│   └── transposonPSI.gff3
+├── repeatmodel
+├── repMasker
++├── sequence.fasta
++├── sequence_heads.txt
++├── sequence_rc.fasta
+├── sinefind
+├── sinefind_rc
+├── sinescan
++├── Statistics_FinalAnnotations.txt
++├── Statistics_ToolAnnotations.txt
+├── tirvish
+├── tirvish_rc
++├── transposonCandA
++│   ├── helitronScanner.gff3
++│   ├── ltrHarvest.gff3
++│   ├── ltrPred.gff3
++│   ├── mitefind.gff3
++│   ├── mitetracker.gff3
++│   ├── must.gff3
++│   ├── repeatmodel.gff3
++│   ├── repMasker.gff3
++│   ├── sinefind.gff3
++│   ├── sinescan.gff3
++│   └── tirvish.gff3
+├── transposonCandB
+├── transposonCandC
+├── transposonCandD
+├── transposonCandE
+├── transposonCandF
+└── transposonPSI
+```
 
 ## Citations
 Please cite our paper if you find transposition event detector "deTEct" useful:
