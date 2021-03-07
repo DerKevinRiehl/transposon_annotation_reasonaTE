@@ -1,5 +1,8 @@
 # Transposon Annotator "reasonaTE"
-Transposon annotation tool "resonaTE" (part of TransposonUltimate)
+Transposon annotation tool for the annotation of transposons, transposon characteristic proteins and structural elements of transposons. *reasonaTE*  is part of TransposonUltimate.
+
+- **Input**: Genome assembly (FASTA file).
+- **Output**: Lots of transposon annotations (GFF3 file).
 
 ## Installation
 Installation as [CondaPackage](https://anaconda.org/DerKevinRiehl/transposon_annotator_reasonate):
@@ -73,6 +76,7 @@ resonaTE -mode parseAnnotations -projectFolder workspace -projectName testProjec
 ```
 
 **Step 4) Run the pipeline on the genome annotations**
+
 
 
 ## Documentation of output files
