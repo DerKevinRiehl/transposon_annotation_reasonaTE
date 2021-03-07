@@ -74,10 +74,20 @@ Each of the tools will produce different output file formats. **reasonaTE** ther
 ```
 resonaTE -mode parseAnnotations -projectFolder workspace -projectName testProject
 ```
+If you are unsure about the status of the parsing, you can run following command:
+```
+reasonaTE -mode checkParsed -projectFolder workspace -projectName testProject
+```
 
 **Step 4) Run the pipeline on the genome annotations**
+```
+reasonaTE -mode pipeline -projectFolder workspace -projectName testProject
+```
 
-
+**Step 5) Calculate final statistics**
+```
+reasonaTE -mode statistics -projectFolder workspace -projectName testProject
+```
 
 ## Documentation of output files
 
