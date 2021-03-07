@@ -85,8 +85,33 @@ reasonaTE -mode pipeline -projectFolder workspace -projectName testProject
 ```
 
 **Step 5) Calculate final statistics**
+Once all results are calculated, summarizing statistics can be generated using:
 ```
 reasonaTE -mode statistics -projectFolder workspace -projectName testProject
+```
+The results will be print to console and stored to the statistics files (see section "Documentation of output files" below).
+The results consist of three tables, presenting the number of transposons, the number of base pairs included by the transposon annotations and the number of base pairs annotated by the transposon mask annotation. The numbers are present by transposon class (horizontaly) and sequence (verticaly, using the renamed sequence names and the original sequence names) for the first two mentioned numbers, and just by sequences for the last mentioned number. All reported values are separated by tabulator.
+```
+SeqID	SeqName	#Num_transposons by classes
+SeqID	SeqName	all	1	1/1	1/1/1	1/1/2	1/1/3	1/2	1/2/1	1/2/2	2	2/1	2/1/1	2/1/2	2/1/3	2/1/4	2/1/5	2/1/6	2/2	2/3
+all	all	28750	1290	1267	279	977	11	23	15	8	27460	27000	2276	4292	2952	1716	15674	90	77	383	
+seq1	chrI	3707	220	218	43	173	2	2	1	1	3487	3430	265	566	343	313	1935	8	10	47	
+seq2	chrII	5041	194	187	29	157	1	7	2	5	4847	4760	366	625	605	240	2908	16	7	80	
+...
+
+SeqID	SeqName	#BP_transposons by classes
+SeqID	SeqName	all	1	1/1	1/1/1	1/1/2	1/1/3	1/2	1/2/1	1/2/2	2	2/1	2/1/1	2/1/2	2/1/3	2/1/4	2/1/5	2/1/6	2/2	2/3
+all	all	30914788	5533640	5410363	951426	4438898	20039	123277	120973	2304	25381148	23998275	2331383	7151643	6435895	853227	7149583	76544	1097361	285512	
+seq1	chrI	4950902	1017833	1013925	204630	806578	2717	3908	3660	248	3933069	3356902	264572	1364087	688504	155671	876952	7116	520558	55609	
+seq2	chrII	4934076	583591	574266	102006	471723	537	9325	7763	1562	4350485	4192651	283217	1297024	901063	138632	1553229	19486	69580	88254	
+...
+
+
+SeqID	SeqName	#BP_transposons
+all	all23412418
+seq1	chrI	3875312
+seq2	chrII	3492273
+...
 ```
 
 ## Documentation of output files
