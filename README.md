@@ -1,5 +1,5 @@
 # Transposon Annotator "reasonaTE"
-Transposon annotation tool for the annotation of transposons, transposon characteristic proteins and structural elements of transposons. *reasonaTE*  is part of TransposonUltimate.
+Transposon annotation tool for the annotation of transposons, transposon characteristic proteins and structural elements of transposons. *reasonaTE*  is part of [TransposonUltimate](https://github.com/DerKevinRiehl/TransposonUltimate).
 
 - **Input**: Genome assembly (FASTA file).
 - **Output**: Lots of transposon annotations (GFF3 file).
