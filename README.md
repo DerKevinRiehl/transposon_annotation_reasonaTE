@@ -23,24 +23,24 @@ To annotate the genome with different annotation tools, three possible ways exis
 
 *Option 1:* annotate with all tools automatically (this does not include ltrPred).
 ```
-reasonate -mode annotate -projectFolder workspace -projectName testProject -tool all
+reasonaTE -mode annotate -projectFolder workspace -projectName testProject -tool all
 ```
 
 *Option 2:* annotate with one specific tool (good for parallelization or rerunning, recommended).
 It is mandatory to run the protein annotation tools *transposonPSI* and *NCBICDD1000* for the next steps.
 ```
-reasonate -mode annotate -projectFolder workspace -projectName testProject -tool helitronScanner
-reasonate -mode annotate -projectFolder workspace -projectName testProject -tool ltrHarvest
-reasonate -mode annotate -projectFolder workspace -projectName testProject -tool mitefind
-reasonate -mode annotate -projectFolder workspace -projectName testProject -tool mitetracker
-reasonate -mode annotate -projectFolder workspace -projectName testProject -tool must
-reasonate -mode annotate -projectFolder workspace -projectName testProject -tool repeatmodel
-reasonate -mode annotate -projectFolder workspace -projectName testProject -tool repMasker
-reasonate -mode annotate -projectFolder workspace -projectName testProject -tool sinefind
-reasonate -mode annotate -projectFolder workspace -projectName testProject -tool sinescan
-reasonate -mode annotate -projectFolder workspace -projectName testProject -tool tirvish
-reasonate -mode annotate -projectFolder workspace -projectName testProject -tool transposonPSI
-reasonate -mode annotate -projectFolder workspace -projectName testProject -tool NCBICDD1000
+reasonaTE -mode annotate -projectFolder workspace -projectName testProject -tool helitronScanner
+reasonaTE -mode annotate -projectFolder workspace -projectName testProject -tool ltrHarvest
+reasonaTE -mode annotate -projectFolder workspace -projectName testProject -tool mitefind
+reasonaTE -mode annotate -projectFolder workspace -projectName testProject -tool mitetracker
+reasonaTE -mode annotate -projectFolder workspace -projectName testProject -tool must
+reasonaTE -mode annotate -projectFolder workspace -projectName testProject -tool repeatmodel
+reasonaTE -mode annotate -projectFolder workspace -projectName testProject -tool repMasker
+reasonaTE -mode annotate -projectFolder workspace -projectName testProject -tool sinefind
+reasonaTE -mode annotate -projectFolder workspace -projectName testProject -tool sinescan
+reasonaTE -mode annotate -projectFolder workspace -projectName testProject -tool tirvish
+reasonaTE -mode annotate -projectFolder workspace -projectName testProject -tool transposonPSI
+reasonaTE -mode annotate -projectFolder workspace -projectName testProject -tool NCBICDD1000
 ```
 
 *Option 3:* run annotation tools with specified parameters (for advanced users)
