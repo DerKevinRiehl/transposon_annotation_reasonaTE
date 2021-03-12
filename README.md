@@ -5,15 +5,20 @@ Transposon annotation tool for the annotation of transposons, transposon charact
 - **Output**: Lots of transposon annotations (GFF3 file).
 
 ## Installation
-Installation as [CondaPackage](https://anaconda.org/DerKevinRiehl/transposon_annotator_reasonate):
+The reasonaTE pipeline comes with two conda environments due to package incompatibilities. For some steps of the environment you will need the first, for others the second conda environment.
 ```
-conda install -c derkevinriehl transposon_annotator_reasonate 
+# Environment 1 - including all annotation tools
+wget https://raw.githubusercontent.com/DerKevinRiehl/transposon_annotation_tools/main/transposon_annotation_tools_env.yml
+conda env create -f transposon_annotation_tools_env.yml
+# Environment 2 - including CD-Hit and Transposon Classifier RFSB
+wget https://raw.githubusercontent.com/DerKevinRiehl/transposon_annotation_reasonaTE/main/transposon_annotation_reasonaTE.yml
+conda env create -f transposon_annotation_reasonaTE.yml
 ```
-*Note: Otherwise you can find all source codes in this Github repository.*
 
 ## How to use ''reasonaTE''
 **Step 1) Create a project**
 ```
+conda activate transposon_annotation_tools_env
 mkdir workspace
 reasonaTE -mode createProject -projectFolder workspace -projectName testProject -inputFasta sequence.fasta
 ```
@@ -23,12 +28,14 @@ To annotate the genome with different annotation tools, three possible ways exis
 
 *Option 1:* annotate with all tools automatically (this does not include ltrPred).
 ```
+conda activate transposon_annotation_tools_env
 reasonaTE -mode annotate -projectFolder workspace -projectName testProject -tool all
 ```
 
 *Option 2:* annotate with one specific tool (good for parallelization or rerunning, recommended).
 It is mandatory to run the protein annotation tools *transposonPSI* and *NCBICDD1000* for the next steps.
 ```
+conda activate transposon_annotation_tools_env
 reasonaTE -mode annotate -projectFolder workspace -projectName testProject -tool helitronScanner
 reasonaTE -mode annotate -projectFolder workspace -projectName testProject -tool ltrHarvest
 reasonaTE -mode annotate -projectFolder workspace -projectName testProject -tool mitefind
@@ -52,6 +59,7 @@ Please note, as some tools (HelitronScanner, MiteFinderII, MITE-Tracker, SINE-Fi
 
 *Check status of annotation tools:* If you are running multiple annotation tools in parallel, or run the manually, copied and renamed the result files into the workspace folder, you can check the status of the annotation files by:
 ```
+conda activate transposon_annotation_tools_env
 reasonaTE -mode checkAnnotations -projectFolder workspace -projectName testProject
 >Checking helitronScanner        ... completed
 >Checking ltrHarvest     ... completed
@@ -72,21 +80,25 @@ All files that are reported as "completed" will be considered by **reasonaTE** i
 **Step 3) Parse annotations**
 Each of the tools will produce different output file formats. **reasonaTE** therefore provides a parser module that will unify different output files to one standardized format (GFF3). The parser module will automatically detect annotations that are available as a result from step 2, and only the available files will be considered in the next steps by the pipeline.
 ```
+conda activate transposon_annotation_tools_env
 reasonaTE -mode parseAnnotations -projectFolder workspace -projectName testProject
 ```
 If you are unsure about the status of the parsing, you can run following command:
 ```
+conda activate transposon_annotation_tools_env
 reasonaTE -mode checkParsed -projectFolder workspace -projectName testProject
 ```
 
 **Step 4) Run the pipeline on the genome annotations**
 ```
+conda activate transposon_annotation_reasonaTE
 reasonaTE -mode pipeline -projectFolder workspace -projectName testProject
 ```
 
 **Step 5) Calculate final statistics**
 Once all results are calculated, summarizing statistics can be generated using:
 ```
+conda activate transposon_annotation_reasonaTE
 reasonaTE -mode statistics -projectFolder workspace -projectName testProject
 ```
 The results will be print to console and stored to the statistics files (see section "Documentation of output files" below).
