@@ -15,7 +15,7 @@ conda install -c derkevinriehl transposon_annotator_reasonate
 **Step 1) Create a project**
 ```
 mkdir workspace
-resonaTE -mode createProject -projectFolder workspace -projectName testProject -inputFasta sequence.fasta
+reasonaTE -mode createProject -projectFolder workspace -projectName testProject -inputFasta sequence.fasta
 ```
 
 **Step 2) Annotate genome with annotation tools**
@@ -48,11 +48,11 @@ For this purpose, we provide conda packages of all [transposon_annotation_tools]
 Please use the fasta file with renamed sequence names of the workspace project folder. (e.g. *workspace/testProject/sequence.fasta*)
 Please note, as some tools (HelitronScanner, MiteFinderII, MITE-Tracker, SINE-Finder, TIRvish) do not annotate on both strands, we recommend to run these on the reverse complementary as well (e.g. *workspace/testProejct/sequence_rc.fasta*). Once you annotated the genomes with your own specified parameter settings, please copy the result files into the workspace's project Folder as shown in the example project (e.g. results of HelitronScanner to copy into *workspace/testProject/helitronScanner*) and rename the files accordingly. Please note, it is mandatory to run the protein annotation tools *transposonPSI* and *NCBICDD1000* for the next steps using the commands of *option 2*.
 
-*Running ltrPred:* If you want to include ltrPred annotations into the pipeline as well, install and run [ltrPred](https://github.com/HajkD/LTRpred). Later on, copy the result files into the project folder (*workspace/testProject/ltrPred*) and rename the files accordingly. Please find [our tutorial for manually running LTRpred](https://github.com/DerKevinRiehl/transposon_annotation_resonaTE/blob/main/TutorialRunLTRPred.md)  even without docker using the conda package [udocker](https://github.com/indigo-dc/udocker). Based on our experience, ltrPred contributed valuable annotations including transposons and structure features. However, we were not able to create a conda package for easy and automated use, and it takes manual efforts to run it.
+*Running ltrPred:* If you want to include ltrPred annotations into the pipeline as well, install and run [ltrPred](https://github.com/HajkD/LTRpred). Later on, copy the result files into the project folder (*workspace/testProject/ltrPred*) and rename the files accordingly. Please find [our tutorial for manually running LTRpred](https://github.com/DerKevinRiehl/transposon_annotation_reasonaTE/blob/main/TutorialRunLTRPred.md)  even without docker using the conda package [udocker](https://github.com/indigo-dc/udocker). Based on our experience, ltrPred contributed valuable annotations including transposons and structure features. However, we were not able to create a conda package for easy and automated use, and it takes manual efforts to run it.
 
 *Check status of annotation tools:* If you are running multiple annotation tools in parallel, or run the manually, copied and renamed the result files into the workspace folder, you can check the status of the annotation files by:
 ```
-resonaTE -mode checkAnnotations -projectFolder workspace -projectName testProject
+reasonaTE -mode checkAnnotations -projectFolder workspace -projectName testProject
 >Checking helitronScanner        ... completed
 >Checking ltrHarvest     ... completed
 >Checking ltrPred        ... completed
@@ -72,7 +72,7 @@ All files that are reported as "completed" will be considered by **reasonaTE** i
 **Step 3) Parse annotations**
 Each of the tools will produce different output file formats. **reasonaTE** therefore provides a parser module that will unify different output files to one standardized format (GFF3). The parser module will automatically detect annotations that are available as a result from step 2, and only the available files will be considered in the next steps by the pipeline.
 ```
-resonaTE -mode parseAnnotations -projectFolder workspace -projectName testProject
+reasonaTE -mode parseAnnotations -projectFolder workspace -projectName testProject
 ```
 If you are unsure about the status of the parsing, you can run following command:
 ```
