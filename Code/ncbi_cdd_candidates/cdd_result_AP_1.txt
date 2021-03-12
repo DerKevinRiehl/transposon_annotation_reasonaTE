@@ -1,0 +1,60 @@
+
+1. pepsin_retropepsin_like: Cellular and retroviral pepsin-like aspartate proteases
+This family includes both cellular and retroviral pepsin-like aspartate proteases. The cellular peps...
+Accession: cl11403 ID: 386101
+
+2. Proteinase_A_fungi: Fungal Proteinase A , aspartic proteinase superfamily
+Fungal Proteinase A, a proteolytic enzyme distributed among a variety of organisms, is a member of t...
+Accession: cd05488 ID: 133155
+
+3. SQAPI: Aspartic acid proteinase inhibitor
+SQAPI, aspartic acid inhibitor first isolated from squash, inhibits a wide range of aspartic protein...
+Accession: pfam16845 ID: 374840
+
+4. Peptidases_S8_S53: Peptidase domain in the S8 and S53 families
+Members of the peptidases S8 (subtilisin and kexin) and S53 (sedolisin) family include endopeptidase...
+Accession: cl10459 ID: 385675
+
+5. EFh_PEF: The penta-EF hand (PEF) family
+The penta-EF hand (PEF) family contains a group of five EF-hand calcium-binding proteins, including ...
+Accession: cl25352 ID: 355382
+
+6. M35_like: Peptidase M35 family
+Family M35 Zn2+-metallopeptidase domain, also known as the deuterolysin family, contains fungal as w...
+Accession: cl03449 ID: 383355
+
+7. Cathepsin_D2: Cathepsin_D2, pepsin family of proteinases
+Cathepsin D is the major aspartic proteinase of the lysosomal compartment where it functions in prot...
+Accession: cd05490 ID: 133157
+
+8. Cathepsin_D_like: Cathepsin_D_like, pepsin family of proteinases
+Cathepsin D is the major aspartic proteinase of the lysosomal compartment where it functions in prot...
+Accession: cd05485 ID: 133152
+
+9. M35_deuterolysin_like: Peptidase M35 domain of deuterolysins and related proteins
+This family M35 Zn2+-metallopeptidase extracellular domain is found in fungal deutrolysins (acid met...
+Accession: cd11008 ID: 199914
+
+10. Peptidases_S53: Peptidase domain in the S53 family
+Members of the peptidases S53 (sedolisin) family include endopeptidases and exopeptidases sedolisin,...
+Accession: cd04056 ID: 173788
+
+11. SAP_like: SAPs, pepsin-like proteinases secreted from pathogens to degrade host proteins
+SAPs (Secreted aspartic proteinases) are secreted from a group of pathogenic fungi, predominantly Ca...
+Accession: cd05474 ID: 133141
+
+12. API3
+Ascaris pepsin inhibitor-3 (API3); protein inhibitor that reversibly inhibits aspartic proteinase ca...
+Accession: cl26972 ID: 391647
+
+13. EFh_PEF_CAPN2: Penta-EF hand, calcium binding motifs, found in m-type calpain (CAPN2)
+CAPN2, also termed millimolar-calpain (m-calpain), or calpain-2 catalytic subunit, or calcium-activa...
+Accession: cd16199 ID: 320074
+
+14. Peptidases_S53_like: Peptidase domain in the S53 family
+Members of the peptidase S53 (sedolisin) family include endopeptidases and exopeptidases. The S53 fa...
+Accession: cd05562 ID: 173798
+
+15. API3
+Ascaris pepsin inhibitor-3 (API3); protein inhibitor that reversibly inhibits aspartic proteinase ca...
+Accession: cd00225 ID: 119406

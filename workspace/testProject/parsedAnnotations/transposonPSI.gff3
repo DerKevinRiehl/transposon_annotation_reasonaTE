@@ -1,0 +1,27 @@
+# transposonPSI Annotation
+# Structure of this file: 
+# 1)	Chromosome
+# 2)	Annotation Software
+# 3)	Annotation Feature
+# 4)	Start Position
+# 5)	End Position
+# 6)	Score / Probability
+# 7)	Strand
+# 8)	Phase (not used)
+# 9)	TransposonNr
+# 10)	Attributes separated by ;
+seq1	transposonPSI	protein/domain	147777	151295	.	-	.	.	protein(ltr_Roo)
+seq1	transposonPSI	protein/domain	116300	117574	.	+	.	.	protein(LINE)
+seq1	transposonPSI	protein/domain	151303	152256	.	-	.	.	protein(ltr_Roo)
+seq1	transposonPSI	protein/domain	147016	147780	.	-	.	.	protein(ltr_Roo)
+seq1	transposonPSI	protein/domain	154729	155709	.	+	.	.	protein(mariner)
+seq1	transposonPSI	protein/domain	127679	128107	.	-	.	.	protein(LINE)
+seq1	transposonPSI	protein/domain	154822	155652	.	+	.	.	protein(mariner_ant1)
+seq1	transposonPSI	protein/domain	133459	133659	.	-	.	.	protein(LINE)
+seq1	transposonPSI	protein/domain	147777	148208	.	-	.	.	protein(gypsy)
+seq1	transposonPSI	protein/domain	452410	452700	.	+	.	.	protein(mariner_ant1)
+seq1	transposonPSI	protein/domain	452467	452793	.	+	.	.	protein(mariner)
+seq2	transposonPSI	protein/domain	1620	2150	.	+	.	.	protein(LINE)
+seq2	transposonPSI	protein/domain	254511	255215	.	+	.	.	protein(ltr_Roo)
+seq2	transposonPSI	protein/domain	255636	255980	.	+	.	.	protein(ltr_Roo)
+seq2	transposonPSI	protein/domain	253142	254113	.	+	.	.	protein(ltr_Roo)

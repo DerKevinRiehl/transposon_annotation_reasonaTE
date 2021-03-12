@@ -1,0 +1,13 @@
+# RPSTBLASTN 2.10.0+
+# Query: seq1
+# Database: /mnt/home3/riehl/miniconda3/envs/transposon_annotation_tools_env/share/proteinNCBICDD1000/selection/Selection1000Library004
+# Fields: subject title, evalue, q. start, q. end
+# 1 hits found
+cd14982, 7tmA_purinoceptor-like, purinoceptor and its related proteins, member of the class A family of seven-transmembrane G protein-coupled receptors.  Members of this subfamily include lysophosphatidic acid receptor, P2 purinoceptor, protease-activated receptor, platelet-activating factor receptor, Epstein-Barr virus induced gene 2, proton-sensing G protein-coupled receptors, GPR35, and GPR55, among others. All GPCRs have a common structural architecture comprising of seven-transmembrane (TM) alpha-helices interconnected by three extracellular and three intracellular loops. A general feature of GPCR signaling is agonist-induced conformational changes in the receptors, leading to activation of the heterotrimeric G proteins, which consist of the guanine nucleotide-binding G-alpha subunit and the dimeric G-beta-gamma subunits. The activated G proteins then bind to and activate numerous downstream effector proteins, which generate second messengers that mediate a broad range of cellular and physiological processes.	1.99e-07	301838	301440
+# RPSTBLASTN 2.10.0+
+# Query: seq2
+# Database: /mnt/home3/riehl/miniconda3/envs/transposon_annotation_tools_env/share/proteinNCBICDD1000/selection/Selection1000Library004
+# Fields: subject title, evalue, q. start, q. end
+# 1 hits found
+cd14982, 7tmA_purinoceptor-like, purinoceptor and its related proteins, member of the class A family of seven-transmembrane G protein-coupled receptors.  Members of this subfamily include lysophosphatidic acid receptor, P2 purinoceptor, protease-activated receptor, platelet-activating factor receptor, Epstein-Barr virus induced gene 2, proton-sensing G protein-coupled receptors, GPR35, and GPR55, among others. All GPCRs have a common structural architecture comprising of seven-transmembrane (TM) alpha-helices interconnected by three extracellular and three intracellular loops. A general feature of GPCR signaling is agonist-induced conformational changes in the receptors, leading to activation of the heterotrimeric G proteins, which consist of the guanine nucleotide-binding G-alpha subunit and the dimeric G-beta-gamma subunits. The activated G proteins then bind to and activate numerous downstream effector proteins, which generate second messengers that mediate a broad range of cellular and physiological processes.	0.003	481674	481793
+# BLAST processed 2 queries

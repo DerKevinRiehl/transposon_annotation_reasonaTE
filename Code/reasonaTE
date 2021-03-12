@@ -1,0 +1,6 @@
+#!/bin/bash
+MUSTPTH=$(which reasonaTE)
+NEWPTH=$(dirname "${MUSTPTH}") # go to parent directory (=bin folder)
+NEWPTH2=$(dirname "${NEWPTH}") # go to parent directory (=upper folder)
+PRLSPTH2="$NEWPTH2/share/TransposonAnnotator_reasonaTE/TransposonAnnotator.py"
+python3 ${PRLSPTH2} $@

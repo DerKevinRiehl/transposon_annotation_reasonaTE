@@ -1,0 +1,11 @@
+# RPSTBLASTN 2.10.0+
+# Query: seq1
+# Database: /mnt/home3/riehl/miniconda3/envs/transposon_annotation_tools_env/share/proteinNCBICDD1000/selection/Selection1000Library042
+# 0 hits found
+# RPSTBLASTN 2.10.0+
+# Query: seq2
+# Database: /mnt/home3/riehl/miniconda3/envs/transposon_annotation_tools_env/share/proteinNCBICDD1000/selection/Selection1000Library042
+# Fields: subject title, evalue, q. start, q. end
+# 1 hits found
+TIGR03103, trio_acet_GNAT, GNAT-family acetyltransferase TIGR03103.  Members of this protein family belong to the GNAT family of acetyltransferases. Each is part of a conserved three-gene cassette sparsely distributed across at least twenty different species known so far, including alpha, beta, and gamma Proteobacteria, Mycobacterium, and Prosthecochloris, which is a member of the Chlorobi. The other two members of the cassette are a probable protease and an asparagine synthetase family protein.	8.96e-05	340346	340507
+# BLAST processed 2 queries

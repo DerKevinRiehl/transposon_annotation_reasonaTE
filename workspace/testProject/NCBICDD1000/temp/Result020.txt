@@ -1,0 +1,11 @@
+# RPSTBLASTN 2.10.0+
+# Query: seq1
+# Database: /mnt/home3/riehl/miniconda3/envs/transposon_annotation_tools_env/share/proteinNCBICDD1000/selection/Selection1000Library020
+# Fields: subject title, evalue, q. start, q. end
+# 1 hits found
+TIGR00600, DNA_repair_protein_complementing_XP-G_cells, DNA excision repair protein (rad2).  All proteins in this family for which functions are known are flap endonucleases that generate the 3' incision next to DNA damage as part of nucleotide excision repair. This family is related to many other flap endonuclease families including the fen1 family. This family is based on the phylogenomic analysis of JA Eisen (1999, Ph.D. Thesis, Stanford University). [DNA metabolism, DNA replication, recombination, and repair].	0.010	281534	280962
+# RPSTBLASTN 2.10.0+
+# Query: seq2
+# Database: /mnt/home3/riehl/miniconda3/envs/transposon_annotation_tools_env/share/proteinNCBICDD1000/selection/Selection1000Library020
+# 0 hits found
+# BLAST processed 2 queries

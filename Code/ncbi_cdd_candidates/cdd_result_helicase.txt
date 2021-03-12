@@ -1,0 +1,2652 @@
+
+1. DEAD-like_helicase_N: N-terminal helicase domain of the DEAD-box helicase superfamily
+The DEAD-like helicase superfamily is a diverse family of proteins involved in ATP-dependent RNA or ...
+Accession: cl28899 ID: 391939
+
+2. DEAD-like_helicase_C: C-terminal helicase domain of the DEAD-like helicases
+This hierarchy of DEAD-like helicases is composed of two superfamilies, SF1 and SF2, that share almo...
+Accession: cl38915 ID: 365791
+
+3. GUCT_RHII_Gualpha_beta: RNA-binding GUCT domain found in vertebrate RNA helicase II/Gualpha (RH-II/Gualpha), RNA helicase II/Gubeta (RH-II/Gubeta) and similar proteins
+This subfamily corresponds to the Gu C-terminal (GUCT) domain of RH-II/Gualpha and RH-II/Gubeta, two...
+Accession: cd12936 ID: 240593
+
+4. GUCT: RNA-binding GUCT domain found in the RNA helicase II/Gu protein family
+This family includes vertebrate RNA helicase II/Gualpha (RH-II/Gualpha) and RNA helicase II/Gubeta (...
+Accession: cl06960 ID: 384768
+
+5. DEXXYc_viral_SF1-N: DEXXY-box helicase domain of viral superfamily 1 helicase
+Superfamily 1 (SF1) helicases are nucleic acid motor proteins that couple ATP hydrolysis to transloc...
+Accession: cd17937 ID: 350695
+
+6. DEXHc_CHD3_4_5: DEAH-box helicase domain of the chromodomain helicase DNA binding proteins 3, 4 and 5
+Chromodomain-helicase-DNA-binding protein 3 (CHD3) is a component of the histone deacetylase NuRD co...
+Accession: cd17994 ID: 350752
+
+7. DEXHc_CHD1_2: DEXH-box helicase domain of the chromodomain helicase DNA binding proteins 1 and 2, and similar proteins
+Chromodomain-helicase-DNA-binding protein 1 (CHD1) is an ATP-dependent chromatin-remodeling factor w...
+Accession: cd17993 ID: 350751
+
+8. unc_rv_SF1_Hel-like: uncharacterized domain which connects the Cys/His rich zinc-binding domain (ZBD) and linker to the first helicase domain of ronidovirus SF1 helicase and related proteins
+Helicases catalyze NTP-dependent unwinding of nucleic acid duplexes into single strands and are clas...
+Accession: cd21414 ID: 394820
+
+9. unc_tv_SF1_Hel-like: uncharacterized domain which connects the Cys/His rich zinc-binding (ZBD) and linker to the first helicase domain of tornidovirus SF1 helicase and related proteins
+Helicases catalyze NTP-dependent unwinding of nucleic acid duplexes into single strands and are clas...
+Accession: cd21413 ID: 394819
+
+10. DEXHc_CHD8: DEAH-box helicase domain of the chromodomain helicase DNA binding protein 8
+Chromodomain-helicase-DNA-binding protein 8 (CHD8) is a DNA helicase that acts as a chromatin remode...
+Accession: cd18060 ID: 350818
+
+11. DEXHc_CHD2: DEAH-box helicase domain of the chromodomain helicase DNA binding protein 2
+Chromodomain-helicase-DNA-binding protein 2 (CHD2) is a DNA-binding helicase that specifically binds...
+Accession: cd18054 ID: 350812
+
+12. DEXXQc_Helz-like: DEXXQ/H-box helicase domain of Helz-like helicase
+This subfamily contains HELZ, Mov10L1, and similar proteins. Helicase with zinc finger (HELZ) acts a...
+Accession: cd18038 ID: 350796
+
+13. DEXHc_DHX36: DEXH-box helicase domain of DEAH-box helicase 36
+DEAH-box helicase 36 (DHX36, also known as G4-resolvase 1 or G4R1, MLE-like protein 1 and RNA helica...
+Accession: cd17981 ID: 350739
+
+14. DEXHc_DHX9: DEXH-box helicase domain of DEAH-box helicase 9
+DEAH-box helicase 9 (DHX9, also known as ATP-dependent RNA helicase A or RHA and leukophysin or LKP)...
+Accession: cd17972 ID: 350730
+
+15. DEXHc_DHX8: DEXH-box helicase domain of DEAH-box helicase 8
+DEAH-box helicase 8 (DHX8 ,also known as pre-mRNA-splicing factor ATP-dependent RNA helicase PRP22) ...
+Accession: cd17971 ID: 350729
+
+16. DEXHc_viral_Ns3: DEXH-box helicase domain of NS3 protease-helicase
+NS3 is a nonstructural multifunctional protein found in pestiviruses that contains an N-terminal pro...
+Accession: cd17931 ID: 350689
+
+17. DEXHc_RE: DEXH-box helicase domain of DEAD-like helicase restriction enzyme family proteins
+This family is composed of helicase restriction enzymes and similar proteins such as TFIIH basal tra...
+Accession: cd17926 ID: 350684
+
+18. DEXHc_RHA-like: DEXH-box helicase domain of DEAD-like helicase RHA family proteins
+The RNA helicase A (RHA) family includes RHA, also called DEAH-box helicase 9 (DHX9), DHX8, DHX15-16...
+Accession: cd17917 ID: 350675
+
+19. DEXHc_CHD9: DEAH-box helicase domain of the chromodomain helicase DNA binding protein 9
+Chromodomain-helicase-DNA-binding protein 9 (CHD9) acts as a transcriptional coactivator for PPARA a...
+Accession: cd18061 ID: 350819
+
+20. DEXHc_CHD7: DEAH-box helicase domain of the chromodomain helicase DNA binding protein 7
+Chromodomain-helicase-DNA-binding protein 7 (CHD7) is a probable transcription regulator. It may be ...
+Accession: cd18059 ID: 350817
+
+21. DEXHc_CHD6: DEAH-box helicase domain of the chromodomain helicase DNA binding protein 6
+Chromodomain-helicase-DNA-binding protein 6 (CHD6) is a DNA-dependent ATPase that plays a role in ch...
+Accession: cd18058 ID: 350816
+
+22. DEXHc_CHD5: DEAH-box helicase domain of the chromodomain helicase DNA binding protein 5
+Chromodomain-helicase-DNA-binding protein 5 (CHD5) is a chromatin-remodeling protein that binds DNA ...
+Accession: cd18057 ID: 350815
+
+23. DEXHc_CHD4: DEAH-box helicase domain of the chromodomain helicase DNA binding protein 4
+Chromodomain-helicase-DNA-binding protein 4 (CHD4) is a component of the histone deacetylase NuRD co...
+Accession: cd18056 ID: 350814
+
+24. DEXHc_CHD3: DEAH-box helicase domain of the chromodomain helicase DNA binding protein 3
+Chromodomain-helicase-DNA-binding protein 3 (CHD3) is a component of the histone deacetylase NuRD co...
+Accession: cd18055 ID: 350813
+
+25. DEXHc_CHD1: DEAH-box helicase domain of the chromodomain helicase DNA binding protein 1
+Chromodomain-helicase-DNA-binding protein 1 (CHD1) is an ATP-dependent chromatin-remodeling factor w...
+Accession: cd18053 ID: 350811
+
+26. DEXHc_Mtr4-like: DEXH-box helicase domain of ATP-dependent RNA helicase Mtr4
+Mtr4 (also known as DOB1 or SKIV2L2) is a type II DEAD box helicase that plays a role in the process...
+Accession: cd18024 ID: 350782
+
+27. DEXHc_HFM1: DEXH-box helicase domain of ATP-dependent DNA helicase HFM1
+HFM1 is a type II DEAD box helicase, required for crossover formation and complete synapsis of homol...
+Accession: cd18023 ID: 350781
+
+28. DEXHc_Brr2_2: C-terminal D[D/E]X[H/Q]-box helicase domain of spliceosomal Brr2 RNA helicase
+Brr2 is a type II DEAD box helicase that mediates spliceosome catalytic activation. It is a stable s...
+Accession: cd18021 ID: 350779
+
+29. DEXHc_Brr2_1: N-terminal DEXH-box helicase domain of spliceosomal Brr2 RNA helicase
+Brr2 is a type II DEAD box helicase that mediates spliceosome catalytic activation. It is a stable s...
+Accession: cd18019 ID: 350777
+
+30. DEXHc_DHX57: DEXH-box helicase domain of DEAH-box helicase 57
+DEAH-box helicase 57 (DHX57) belongs to the DEAD-like helicase superfamily, a diverse family of prot...
+Accession: cd17985 ID: 350743
+
+31. DEXHc_DHX40: DEXH-box helicase domain of DEAH-box helicase 40
+DEAH-box helicase 40 (DHX40) belongs to the DEAD-like helicase superfamily, a diverse family of prot...
+Accession: cd17984 ID: 350742
+
+32. DEXHc_DHX38: DEXH-box helicase domain of DEAH-box helicase 38
+DEAH-box helicase 38 (DHX38, also known as PRP16) is involved in pre-mRNA splicing. DHX38 belongs to...
+Accession: cd17983 ID: 350741
+
+33. DEXHc_DHX37: DEXH-box helicase domain of DEAH-box helicase 37
+DHX37 plays a role in the development of the human nervous system and has been linked to schizophren...
+Accession: cd17982 ID: 350740
+
+34. DEXHc_DHX35: DEXH-box helicase domain of DEAH-box helicase 35
+DHX35 plays a role in colorectal cancers and seems to be associated with risk to thyroid cancers.  I...
+Accession: cd17980 ID: 350738
+
+35. DEXHc_DHX34: DEXH-box helicase domain of DEAH-box helicase 34
+DEAH-box helicase 34 (DHX34) plays a role in the nonsense-mediated decay (NMD), a surveillance mecha...
+Accession: cd17979 ID: 350737
+
+36. DEXHc_DHX33: DEXH-box helicase domain of DEAH-box helicase 33
+DEAH-box helicase 33 (DHX33) stimulates RNA polymerase I transcription of the 47S precursor rRNA. DH...
+Accession: cd17978 ID: 350736
+
+37. DEXHc_DHX32: DEXH-box helicase domain of DEAH-box helicase 32
+DEAH-box helicase 32 (DHX32) belongs to the DEAD-like helicase superfamily, a diverse family of prot...
+Accession: cd17977 ID: 350735
+
+38. DEXHc_DHX30: DEXH-box helicase domain of DEAH-box helicase 30
+DEAH-box helicase 30 (DHX30) plays an important role in the assembly of the mitochondrial large ribo...
+Accession: cd17976 ID: 350734
+
+39. DEXHc_DHX29: DEXH-box helicase domain of DEAH-box helicase 29
+DEAH-box helicase 29 (DHX29) is a part of the 43S pre-initiation complex involved in translation ini...
+Accession: cd17975 ID: 350733
+
+40. DEXHc_DHX16: DEXH-box helicase domain of DEAH-box helicase 16
+DEAH-box helicase 16 (DHX16) is probably involved in pre-mRNA splicing. DHX16 belongs to the DEAD-li...
+Accession: cd17974 ID: 350732
+
+41. DEXHc_DHX15: DEXH-box helicase domain of DEAH-box helicase 15
+DEAH-box helicase 15 (DHX15) is a pre-mRNA processing factor involved in disassembly of spliceosomes...
+Accession: cd17973 ID: 350731
+
+42. DEAHc_XPD: DEAH-box helicase domain of TFIIH basal transcription factor complex helicase XPD subunit
+TFIIH can be resolved biochemically into a seven subunit core complex containing XPD/Rad3, XPB/Ssl2,...
+Accession: cd17969 ID: 350727
+
+43. DEXXQc_Upf1-like: DEXXQ-box helicase domain of Upf1-like helicase
+The Upf1-like helicase family includes UPF1, HELZ, Mov10L1, Aquarius, IGHMBP2 (SMUBP2), and similar ...
+Accession: cd17934 ID: 350692
+
+44. DEXHc_RIG-I: DEXH-box helicase domain of DEAD-like helicase RIG-I family proteins
+Members of the RIG-I family include FANCM, dicer, Hef, and the RIG-I-like receptors. Fanconi anemia ...
+Accession: cd17927 ID: 350685
+
+45. DExxQc_SF1-N: DEXQ-box helicase domain of superfamily 1 helicase
+The superfamily (SF)1 family members include UvrD/Rep, Pif1-like, and Upf-1-like proteins. Like SF2,...
+Accession: cd17914 ID: 350672
+
+46. DEXHc_archSki2: DEXH-box helicase domain of archaeal Ski2-type helicase
+Archaeal Ski2-type RNA helicases play an important role in RNA degradation, processing and splicing ...
+Accession: cd18028 ID: 350786
+
+47. DEXHc_CHD6_7_8_9: DEXH-box helicase domain of the chromodomain helicase DNA binding protein 6, 7, 8 and 9
+Chromodomain-helicase-DNA-binding protein 6-9 (CHD6, CHD7, CHD8, and CHD9) are members of the DEAD-l...
+Accession: cd17995 ID: 350753
+
+48. DEXHc_HrpB: DEXH-box helicase domain of ATP-dependent helicase HrpB
+HrpB is part of the HrpB-HrpA two-partner secretion (TPS) system, a secretion pathway important to t...
+Accession: cd17990 ID: 350748
+
+49. DEXHc_HrpA: DEXH-box helicase domain of ATP-dependent RNA helicase HrpA
+HrpA is part of the HrpB-HrpA two-partner secretion (TPS) system, a secretion pathway important to t...
+Accession: cd17989 ID: 350747
+
+50. DEADc_MRH4: DEAD-box helicase domain of ATP-dependent RNA helicase MRH4
+Mitochondrial RNA helicase 4 (MRH4) plays an essential role during the late stages of mitochondrial ...
+Accession: cd17965 ID: 350723
+
+51. DEXHc_Ski2: DEXH-box helicase domain of DEAD-like helicase Ski2 family proteins
+Ski2-like RNA helicases play an important role in RNA degradation, processing, and splicing pathways...
+Accession: cd17921 ID: 350679
+
+52. DEXHc_RecG: DEXH/Q-box helicase domain of DEAD-like helicase RecG family proteins
+The DEAD-like helicase RecG family is part of the DEAD-like helicases superfamily, a diverse family ...
+Accession: cd17918 ID: 350676
+
+53. DEAD-like_helicase_N: N-terminal helicase domain of the DEAD-box helicase superfamily
+The DEAD-like helicase superfamily is a diverse family of proteins involved in ATP-dependent RNA or ...
+Accession: cd17912 ID: 350670
+
+54. SF2_C_RecG: C-terminal helicase domain of DNA helicase RecG
+ATP-dependent DNA helicase RecG plays a critical role in recombination and DNA repair. RecG helps pr...
+Accession: cd18811 ID: 350198
+
+55. SF2_C_suv3: C-terminal helicase domain of ATP-dependent RNA helicase
+The SUV3 (suppressor of Var 3) gene encodes a DNA and RNA helicase, which is localized in mitochondr...
+Accession: cd18805 ID: 350192
+
+56. SF2_C_priA: C-terminal helicase domain of ATP-dependent helicase PriA
+PriA, also known as replication factor Y or primosomal protein N', is a 3'-->5' DNA helicase that ac...
+Accession: cd18804 ID: 350191
+
+57. SF2_C_RHA: C-terminal helicase domain of the RNA helicase A (RHA) family helicases
+The RNA helicase A (RHA) family includes RHA, also called DEAH-box helicase 9 (DHX9), DHX8, DHX15-16...
+Accession: cd18791 ID: 350178
+
+58. DEAHc_DDX11_starthere: DEAH-box helicase domain of ATP-dependent DNA helicase DDX11
+DDX11 (also called ChlR1) encodes a protein of the conserved family of Iron-Sulfur (Fe-S) cluster DN...
+Accession: cd17968 ID: 350726
+
+59. DEADc_MSS116: DEAD-box helicase domain of DEAD-box helicase Mss116
+Mss116 is an RNA chaperone important for mitochondrial group I and II intron splicing, translational...
+Accession: cd17964 ID: 350722
+
+60. DEXHc_Snf: DEXH/Q-box helicase domain of DEAD-like helicase Snf family proteins
+Sucrose Non-Fermenting (SNF) proteins DEAD-like helicases superfamily. A diverse family of proteins ...
+Accession: cd17919 ID: 350677
+
+61. DECH_helic: helicase/secretion neighborhood putative DEAH-box helicase
+A conserved gene neighborhood widely spread in the Actinobacteria contains this uncharacterized DEAH...
+Accession: TIGR03817 ID: 274800
+
+62. Helicase_IV_N: DNA helicase IV / RNA helicase N terminal
+This domain family is found in bacteria, and is approximately 170 amino acids in length. This family...
+Accession: pfam12462 ID: 372126
+
+63. SF2_C_viral: C-terminal helicase domain of viral helicase
+Viral helicases in this family here are DEAD-like helicases belonging to superfamily (SF)2, a divers...
+Accession: cd18806 ID: 350193
+
+64. MCM: MCM helicase family
+MCM helicases are a family of helicases that play an important role in replication and homologous re...
+Accession: cl28901 ID: 355777
+
+65. helicase_insert_domain: helicase_insert_domain
+helicase_insert_domain; This helical domain can be found inserted in a subset of SF2-type DEAD-box r...
+Accession: cl17041 ID: 354301
+
+66. PLDc_SF: Catalytic domain of phospholipase D superfamily proteins
+Catalytic domain of phospholipase D (PLD) superfamily proteins. The PLD superfamily is composed of a...
+Accession: cl15239 ID: 387583
+
+67. GUCT: RNA-binding GUCT domain found in the RNA helicase II/Gu protein family
+This family includes vertebrate RNA helicase II/Gualpha (RH-II/Gualpha) and RNA helicase II/Gubeta (...
+Accession: cd12929 ID: 240592
+
+68. T4_Gp59_C: T4 gene Gp59 loader of gp41 DNA helicase C-term
+Bacteriophage T4 gene-59 helicase assembly protein is required for recombination-dependent DNA repli...
+Accession: pfam08994 ID: 370231
+
+69. T4_Gp59_N: T4 gene Gp59 loader of gp41 DNA helicase
+Bacteriophage T4 gene-59 helicase assembly protein is required for recombination-dependent DNA repli...
+Accession: pfam08993 ID: 370230
+
+70. DEXHc_Hef: DEXH-box helicase domain of Hef
+Hef (helicase-associated endonuclease fork-structure) belongs to the XPF/MUS81/FANCM family of endon...
+Accession: cd18035 ID: 350793
+
+71. Hef_ID: insert domain of Archaeal Hef helicase/nuclease
+Archaeal Hef helicase/nuclease, originally identified in the hyperthermophilic archaeon Pyrococcus f...
+Accession: cd12089 ID: 277188
+
+72. DEXXQc_UPF1: DEXXQ-box helicase domain of UPF1
+UPF1 (also called RNA Helicase And ATPase, Regulator Of Nonsense Transcripts, or ATP-Dependent Helic...
+Accession: cd18039 ID: 350797
+
+73. DEXHc_cas3: DEXH/Q-box helicase domain of Cas3
+CRISPR-associated (Cas) 3 is a nuclease-helicase responsible for degradation of dsDNA. The two enzym...
+Accession: cd17930 ID: 350688
+
+74. ZBD_UPF1_nv_SF1_Hel-like: Cys/His rich zinc-binding domain (CH/ZBD) of eukaryotic UPF1 helicase, nidovirus SF1 helicases including coronavirus Nsp13 and arterivirus Nsp10, and related proteins
+Helicases catalyze NTP-dependent unwinding of nucleic acid duplexes into single strands, and are cla...
+Accession: cd21343 ID: 394805
+
+75. DEXXQc_HELZ: DEXXQ-box helicase domain of HELZ
+Helicase with zinc finger (HELZ) acts as a helicase that plays a role in RNA metabolism during devel...
+Accession: cd18077 ID: 350835
+
+76. DEXHc_HLTF1_SMARC3: DEXH-box helicase domain of HLTF1
+Helicase like transcription factor (HLTF1, also known as HIP116 or SMARCA3) has both helicase and E3...
+Accession: cd18071 ID: 350829
+
+77. DEXXQc_SETX: DEXXQ-box helicase domain of SETX
+The RNA/DNA helicase senataxin (SETX) plays a role in transcription, neurogenesis, and antiviral res...
+Accession: cd18042 ID: 350800
+
+78. DEXXQc_DNA2: DEXXQ-box helicase domain of DNA2
+DNA2 (DNA Replication Helicase/Nuclease 2) possesses different enzymatic activities, such as single-...
+Accession: cd18041 ID: 350799
+
+79. DEXHc_dicer: DEXH-box helicase domain of endoribonuclease Dicer
+Dicer ribonucleases cleave double-stranded RNA (dsRNA) precursors to generate microRNAs (miRNAs) and...
+Accession: cd18034 ID: 350792
+
+80. DEXHc_XPB: DEXH-box helicase domain of TFIIH XPB subunit and similar proteins
+TFIIH basal transcription factor complex helicase XPB subunit (also known as DNA excision repair pro...
+Accession: cd18029 ID: 350787
+
+81. DEXHc_RecQ3: DEAH-box helicase domain of RecQ3
+DEAD-like helicase RecQ3 (also called Werner syndrome ATP-dependent helicase or WRN) is part of the ...
+Accession: cd18017 ID: 350775
+
+82. DEADc_DDX21_DDX50: DEAD-box helicase domain of DEAD box proteins 21 and 50
+DDX21 (also called Gu-Alpha and nucleolar RNA helicase 2) is an RNA helicase that acts as a sensor o...
+Accession: cd17944 ID: 350702
+
+83. DEXSc_RecD-like: DEXS-box helicase domain of RecD and similar proteins
+RecD is a member of the RecBCD (EC 3.1.11.5, Exonuclease V) complex. It is the alpha chain of the co...
+Accession: cd17933 ID: 350691
+
+84. DEXHc_LHR-like: DEXH-box helicase domain of LHR
+Large helicase-related protein (LHR) is a DNA damage-inducible helicase that uses ATP hydrolysis to ...
+Accession: cd17922 ID: 350680
+
+85. 1B_av_Nsp10-like: 1B domain of arterivirus EAV Nsp10 helicase and related proteins
+Helicases catalyze NTP-dependent unwinding of nucleic acid duplexes into single strands and are clas...
+Accession: cd21410 ID: 394818
+
+86. 1B_Sen1p-like: 1B domain of Saccharomyces cerevisiae Sen1p RNA helicase and related proteins
+Helicases catalyze NTP-dependent unwinding of nucleic acid duplexes into single strands and are clas...
+Accession: cd21408 ID: 394816
+
+87. 1B_UPF1_nv_SF1_Hel-like: 1B domain of eukaryotic UPF1 helicase, nidovirus SF1 helicases including coronavirus Nsp13 and arterivirus Nsp10, and related proteins
+Helicases catalyze NTP-dependent unwinding of nucleic acid duplexes into single strands and are clas...
+Accession: cd21344 ID: 394813
+
+88. ZBD_av_Nsp10-like: Cys/His rich zinc-binding domain (CH/ZBD) of arterivirus EAV Nsp10 helicase and related proteins
+Helicases catalyze NTP-dependent unwinding of nucleic acid duplexes into single strands and are clas...
+Accession: cd21405 ID: 394812
+
+89. ZBD_rv_SF1_Hel-like: Cys/His rich zinc-binding domain (CH/ZBD) of ronidovirus SF1 helicase and related proteins
+Helicases catalyze NTP-dependent unwinding of nucleic acid duplexes into single strands and are clas...
+Accession: cd21404 ID: 394811
+
+90. ZBD_tv_SF1_Hel-like: Cys/His rich zinc-binding domain (CH/ZBD) of tornidovirus SF1 helicase and related proteins
+Helicases catalyze NTP-dependent unwinding of nucleic acid duplexes into single strands and are clas...
+Accession: cd21403 ID: 394810
+
+91. ZBD_mv_SF1_Hel-like: Cys/His rich zinc-binding domain (CH/ZBD) of mesnidovirus SF1 helicase and related proteins
+Helicases catalyze NTP-dependent unwinding of nucleic acid duplexes into single strands and are clas...
+Accession: cd21402 ID: 394809
+
+92. ZBD_cv_Nsp13-like: Cys/His rich zinc-binding domain (CH/ZBD) of coronavirus SARS NSP13 helicase and related proteins
+Helicases catalyze NTP-dependent unwinding of nucleic acid duplexes into single strands and are clas...
+Accession: cd21401 ID: 394808
+
+93. PriA_CRR: PriA DNA helicase Cys-rich region (CRR) domain
+This is a cys-rich region (CRR) domain found in PriA DNA helicases. In bacteria, the replication res...
+Accession: pfam18319 ID: 375746
+
+94. DEXXQc_HELZ2-N: N-terminal DEXXQ-box helicase domain of HELZ2
+Helicase with zinc finger 2 (HELZ2, also known as PPAR-alpha-interacting complex protein 285 or PRIC...
+Accession: cd18076 ID: 350834
+
+95. DEXHc_RLR-3: DEXH-box helicase domain of RLR-3
+RIG-I-like receptor 3 (RLR-3, also known as laboratory of genetics and physiology 2 or LGP2 and DHX5...
+Accession: cd18075 ID: 350833
+
+96. DEXHc_RIG-I_DDX58: DEXH-box helicase domain of RIG-I
+RIG-I (Retinoic acid-inducible gene I protein), also called DEAD box protein 58 (DDX58), is a pathog...
+Accession: cd18073 ID: 350831
+
+97. DEADc_DDX25: DEAD-box helicase domain of DEAD box protein 25
+DDX25 (also called gonadotropin-regulated testicular RNA helicase (GRTH) is a testis-specific protei...
+Accession: cd18048 ID: 350806
+
+98. DEXXQc_SMUBP2: DEXXQ-box helicase domain of SMUBP2
+SMUBP2 (also called immunoglobulin mu-binding protein 2, or IGHMBP2) is a 5' to 3' helicase that unw...
+Accession: cd18044 ID: 350802
+
+99. DEXXc_HELZ2-C: C-terminal DEXX-box helicase domain of HELZ2
+Helicase with zinc finger 2 (HELZ2, also known as PPAR-alpha-interacting complex protein 285 or PRIC...
+Accession: cd18040 ID: 350798
+
+100. DEXHc_DDX60: DEXH-box helicase domain of DEAD box protein 60
+DEAD box protein 60 (DDX60) is an IFN-inducible cytoplasmic helicase that plays a role in RIG-I-medi...
+Accession: cd18025 ID: 350783
+
+101. DEXHc_ASCC3_2: C-terminal DEXH-box helicase domain of Activating signal cointegrator 1 complex subunit 3
+Activating signal cointegrator 1 complex subunit 3 (ASCC3) is a type II DEAD box helicase that plays...
+Accession: cd18022 ID: 350780
+
+102. DEXHc_ASCC3_1: N-terminal DEXH-box helicase domain of Activating signal cointegrator 1 complex subunit 3
+Activating signal cointegrator 1 complex subunit 3 (ASCC3) is a type II DEAD box helicase that plays...
+Accession: cd18020 ID: 350778
+
+103. DEXHc_RecQ4-like: DEAH-box helicase domain of RecQ4 and similar proteins
+ATP-dependent DNA helicase Q4 (RecQ4) is part of the RecQ family of highly conserved DNA repair heli...
+Accession: cd18018 ID: 350776
+
+104. DEXHc_RecQ2_BLM: DEAH-box helicase domain of RecQ2
+ATP-dependent DNA helicase Q2 (RecQ2, also called Bloom syndrome protein homolog or BLM) is part of ...
+Accession: cd18016 ID: 350774
+
+105. DEXHc_RecQ1: DEXH-box helicase domain of RecQ1
+ATP-dependent DNA helicase Q1 (RecQ1) is part of the RecQ family of highly conserved DNA repair heli...
+Accession: cd18015 ID: 350773
+
+106. DEXHc_RecQ5: DEAH-box helicase domain of RecQ5
+ATP-dependent DNA helicase Q5 (RecQ5) is part of the RecQ family of highly conserved DNA repair heli...
+Accession: cd18014 ID: 350772
+
+107. DEXHc_HELLS_SMARCA6: DEXH-box helicase domain of HELLS
+HELLS (helicase, lymphoid specific, also known as Lsh or SMARCA6) is a major epigenetic regulator cr...
+Accession: cd18009 ID: 350767
+
+108. DEXHc_CHD1L: DEAH/Q-box helicase domain of CHD1L
+Chromodomain helicase DNA binding protein 1 like (CHD1L, also known as ALC1) is involved in DNA repa...
+Accession: cd18006 ID: 350764
+
+109. DEXHc_ERCC6L: DEXH-box helicase domain of ERCC6L
+ERCC excision repair 6 like, spindle assembly checkpoint helicase (ERCC6L, also known as RAD26L) is ...
+Accession: cd18001 ID: 350759
+
+110. DEXHc_SMARCAD1: DEXH-box helicase domain of SMARCAD1
+SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A containing DEAD...
+Accession: cd17998 ID: 350756
+
+111. DEAHc_FancJ: DEAH-box helicase domain of Fanconi anemia group J protein and similar proteins
+Fanconi anemia group J protein (FACJ or FANCJ, also known as BRIP1) is a DNA helicase required for t...
+Accession: cd17970 ID: 350728
+
+112. DEADc_DDX19_DDX25: DEAD-box helicase domain of ATP-dependent RNA helicases DDX19 and DDX25
+DDX19 (also called DEAD box RNA helicase DEAD5) and DDX25 (also called gonadotropin-regulated testic...
+Accession: cd17963 ID: 350721
+
+113. EEXXQc_AQR: EEXXQ-box helicase domain of AQR
+Aquarius (AQR) is a multifunctional RNA helicase that binds precursor-mRNA introns at a defined posi...
+Accession: cd17935 ID: 350693
+
+114. DEXQc_UvrD: DEXQD-box helicase domain of UvrD
+UvrD is a highly conserved helicase involved in mismatch repair, nucleotide excision repair, and rec...
+Accession: cd17932 ID: 350690
+
+115. DEXHc_priA: DEXH-box helicase domain of PriA
+PriA, also known as replication factor Y or primosomal protein N', is a 3'-->5' superfamily 2 DNA he...
+Accession: cd17929 ID: 350687
+
+116. DEXDc_ComFA: DEXD-box helicase domain of ComFA
+ATP-dependent helicase ComFA (also called ComF operon protein 1) is part of the complex mediating th...
+Accession: cd17925 ID: 350683
+
+117. SF1_C_UvrD: C-terminal helicase domain of UvrD family helicases
+UvrD is a highly conserved helicase involved in mismatch repair, nucleotide excision repair, and rec...
+Accession: cd18807 ID: 350194
+
+118. SF2_C_dicer: C-terminal helicase domain of the endoribonuclease Dicer
+Dicer ribonucleases cleave double-stranded RNA (dsRNA) precursors to generate microRNAs (miRNAs) and...
+Accession: cd18802 ID: 350189
+
+119. SF2_C_XPB: C-terminal helicase domain of XPB-like helicases
+TFIIH basal transcription factor complex helicase XPB (xeroderma pigmentosum type B) subunit (also k...
+Accession: cd18789 ID: 350176
+
+120. PLDc_N_DEXD_c: N-terminal putative catalytic domain of uncharacterized prokaryotic and archeal HKD family nucleases fused to a DEAD/DEAH box helicase domain
+N-terminal putative catalytic domain of uncharacterized prokaryotic and archeal HKD family nucleases...
+Accession: cd10311 ID: 197304
+
+121. PLDc_N_DEXD_b3: N-terminal putative catalytic domain of uncharacterized prokaryotic and archeal HKD family nucleases fused to a DEAD/DEAH box helicase domain
+N-terminal putative catalytic domain of uncharacterized prokaryotic and archeal HKD family nucleases...
+Accession: cd09205 ID: 197299
+
+122. PLDc_N_DEXD_b2: N-terminal putative catalytic domain of uncharacterized prokaryotic and archeal HKD family nucleases fused to a DEAD/DEAH box helicase domain
+N-terminal putative catalytic domain of uncharacterized prokaryotic and archeal HKD family nucleases...
+Accession: cd09204 ID: 197298
+
+123. PLDc_N_DEXD_b1: N-terminal putative catalytic domain of uncharacterized prokaryotic and archeal HKD family nucleases fused to a DEAD/DEAH box helicase domain
+N-terminal putative catalytic domain of uncharacterized prokaryotic and archeal HKD family nucleases...
+Accession: cd09203 ID: 197297
+
+124. PLDc_N_DEXD_b: N-terminal putative catalytic domain of uncharacterized prokaryotic and archeal HKD family nucleases fused to a DEAD/DEAH box helicase domain
+N-terminal putative catalytic domain of uncharacterized prokaryotic and archeal HKD family nucleases...
+Accession: cd09180 ID: 197277
+
+125. PLDc_N_DEXD_a: N-terminal putative catalytic domain of uncharacterized prokaryotic and archeal HKD family nucleases fused to a DEAD/DEAH box helicase domain
+N-terminal putative catalytic domain of uncharacterized prokaryotic and archeal HKD family nucleases...
+Accession: cd09179 ID: 197276
+
+126. 1B_cv_Nsp13-like: 1B domain of coronavirus SARS NSP13 helicase and related proteins
+Helicases catalyze NTP-dependent unwinding of nucleic acid duplexes into single strands and are clas...
+Accession: cd21409 ID: 394817
+
+127. 1B_UPF1-like: 1B domain of eukaryotic UPF1 RNA helicase and related proteins
+Helicases catalyze NTP-dependent unwinding of nucleic acid duplexes into single strands and are clas...
+Accession: cd21407 ID: 394815
+
+128. UvsW: ATP-dependant DNA helicase UvsW
+This family of proteins represents the DNA helicase UvsW from bacteriophage T4. The protein is a mem...
+Accession: cl23906 ID: 390170
+
+129. UvsW: ATP-dependant DNA helicase UvsW
+This family of proteins represents the DNA helicase UvsW from bacteriophage T4. The protein is a mem...
+Accession: pfam11637 ID: 371641
+
+130. DEXXQc_Mov10L1: DEXXQ-box helicase domain of Mov10L1
+Moloney leukemia virus 10-like protein 1 (Mov10L1) binds Piwi-interacting RNA (piRNA) precursors to ...
+Accession: cd18078 ID: 350836
+
+131. DEXHc_RLR-2: DEXH-box helicase domain of RLR-2
+RIG-I-like receptor 2 (RLR-2, also known as melanoma differentiation-associated protein 5 or Mda5 an...
+Accession: cd18074 ID: 350832
+
+132. DEXHc_TTF2: DEAH-box helicase domain of TTF2
+Transcription termination factor 2 (TTF2 also called Forkhead-box E1/FOXE1 ) is a transcription term...
+Accession: cd18072 ID: 350830
+
+133. DEXQc_SHPRH: DEXQ-box helicase domain of SHPRH
+E3 ubiquitin-protein ligase SHPRH is a ubiquitously expressed protein that contains motifs character...
+Accession: cd18070 ID: 350828
+
+134. DEXHc_ARIP4: DEXH-box helicase domain of ARIP4
+Androgen receptor-interacting protein 4 (ARIP4, also called RAD54 like 2 or RAD54L2 ) modulates andr...
+Accession: cd18069 ID: 350827
+
+135. DEXHc_ATRX: DEXH-box helicase domain of ATRX
+Transcriptional regulator ATRX (also called alpha thalassemia/mental retardation syndrome X-linked a...
+Accession: cd18068 ID: 350826
+
+136. DEXHc_RAD54A: DEXH-box helicase domain of RAD54A
+DNA repair and recombination protein RAD54A, also known as RAD54L or RAD54, plays a role in homologo...
+Accession: cd18067 ID: 350825
+
+137. DEXHc_RAD54B: DEXH-box helicase domain of RAD54B
+DNA repair and recombination protein RAD54B, also known as RDH54, binds to double-stranded DNA, disp...
+Accession: cd18066 ID: 350824
+
+138. DEXHc_SMARCA1: DEAH-box helicase domain of SMARCA1
+SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 1 (S...
+Accession: cd18065 ID: 350823
+
+139. DEXHc_SMARCA5: DEAH-box helicase domain of SMARCA5
+SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 5 (S...
+Accession: cd18064 ID: 350822
+
+140. DEXHc_SMARCA2: DEXH-box helicase domain of SMARCA2
+SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2 (S...
+Accession: cd18063 ID: 350821
+
+141. DEXHc_SMARCA4: DEXH-box helicase domain of SMARCA4
+SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member  4 (...
+Accession: cd18062 ID: 350820
+
+142. DEADc_DDX4: DEAD-box helicase domain of DEAD box protein 4
+DEAD box protein 4 (DDX4, also known as VASA homolog) is an ATP-dependent RNA helicase required duri...
+Accession: cd18052 ID: 350810
+
+143. DEADc_DDX3: DEAD-box helicase domain of DEAD box protein 3
+DDX3 (also called helicase-like protein, DEAD box, X isoform, or DDX14) has been reported to display...
+Accession: cd18051 ID: 350809
+
+144. DEADc_DDX5: DEAD-box helicase domain of DEAD box protein 5
+DDX5 (also called RNA helicase P68, HLR1, G17P1, or HUMP68) is involved in pathways that include the...
+Accession: cd18049 ID: 350807
+
+145. DEADc_DDX19: DEAD-box helicase domain of DEAD box protein 19
+DDX19 is an RNA helicase involved in both mRNA (mRNA) export from the nucleus into the cytoplasm and...
+Accession: cd18047 ID: 350805
+
+146. DEXXQc_SF1: DEXXQ-box helicase domain of Superfamily 1 helicases
+Superfamily 1 (SF1) helicases are nucleic acid motor proteins that couple ATP hydrolysis to transloc...
+Accession: cd18043 ID: 350801
+
+147. DEXSc_Pif1_like: DEAD-box helicase domain of Pif1
+Pif1 and other members of this family are RecD-like helicases involved in maintaining genome stabili...
+Accession: cd18037 ID: 350795
+
+148. DEXHc_RLR: DEXH-box helicase domain of RIG-I-like receptors
+RIG-I-like receptors (RLRs) sense cytoplasmic viral RNA and comprise RIG-I, RLR-2/MDA5 (melanoma dif...
+Accession: cd18036 ID: 350794
+
+149. DEXDc_FANCM: DEAH-box helicase domain of FANCM
+Fanconi anemia group M (FANCM) protein is a DNA-dependent ATPase component of the Fanconi anemia (FA...
+Accession: cd18033 ID: 350791
+
+150. DEXHc_RE_I_III_res: DEXH-box helicase domain of type III restriction enzyme res subunit
+Members of this cd includes both type I and type III restriction enzymes. Both are hetero-oligomeric...
+Accession: cd18032 ID: 350790
+
+151. DEXHc_UvsW: DEXH-box helicase domain of bacteriophage UvsW
+Bacteriophage UvsW is part of the WXY system that repairs DNA damage by a process that involves homo...
+Accession: cd18031 ID: 350789
+
+152. DEXHc_RE_I_HsdR: DEXH-box helicase domain of type I restriction enzyme HdsR subunit
+The HdsR motor subunit of type I restriction-modification enzymes contains the DNA cleavage and ATP-...
+Accession: cd18030 ID: 350788
+
+153. DEXHc_SKIV2L: DEXH-box helicase domain of SKIV2L
+Superkiller viralicidic activity 2-like (SKIV2L, also called SKI2 or DHX13) plays a role in a number...
+Accession: cd18027 ID: 350785
+
+154. DEXHc_POLQ-like: DEXH-box helicase domain of DNA polymerase theta
+DNA polymerase theta (POLQ) is important in the repair of genomic double-strand breaks (DSBs). POLQ ...
+Accession: cd18026 ID: 350784
+
+155. DEXQc_bact_SNF2: DEXQ-box helicase domain of bacterial SNF2 family proteins
+Proteins belonging to the SNF2 family of DNA dependent ATPases are important members of the chromati...
+Accession: cd18013 ID: 350771
+
+156. DEXQc_arch_SWI2_SNF2: DEAQ-box helicase domain of archaeal and bacterial SNF2-related proteins
+Proteins belonging to SNF2 family of DNA dependent ATPases are important members of the chromatin re...
+Accession: cd18012 ID: 350770
+
+157. DEXDc_RapA: DEXH-box helicase domain of RapA
+In bacteria, RapA is an RNA polymerase (RNAP)-associated SWI2/SNF2 (switch/sucrose non-fermentable) ...
+Accession: cd18011 ID: 350769
+
+158. DEXHc_HARP_SMARCAL1: DEXH-box helicase domain of SMARCAL1
+SMARCAL1 (SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a li...
+Accession: cd18010 ID: 350768
+
+159. DEXDc_SHPRH-like: DEXH-box helicase domain of SHPRH-like proteins
+The SHPRH-like subgroup belongs to the DEAD-like helicase superfamily, a diverse family of proteins ...
+Accession: cd18008 ID: 350766
+
+160. DEXHc_ATRX-like: DEXH-box helicase domain of ATRX-like proteins
+This family includes ATRX-like members such as transcriptional regulator ATRX (also called alpha tha...
+Accession: cd18007 ID: 350765
+
+161. DEXHc_ERCC6L2: DEXH-box helicase domain of ERCC6L2
+ERCC excision repair 6 like 2 (ERCC6L2, also known as RAD26L) may play a role in DNA repair and mito...
+Accession: cd18005 ID: 350763
+
+162. DEXHc_RAD54: DEXH-box helicase domain of RAD54
+RAD54 proteins play a role in recombination. They are members of the DEAD-like helicase superfamily,...
+Accession: cd18004 ID: 350762
+
+163. DEXQc_SRCAP: DEXH/Q-box helicase domain of SRCAP
+Snf2-related CBP activator (SRCAP, also known as SWR1 or DOMO1) is the core catalytic component of t...
+Accession: cd18003 ID: 350761
+
+164. DEXQc_INO80: DEAQ-box helicase domain of INO80
+INO80 is the catalytic ATPase subunit of the INO80 chromatin remodeling complex. INO80 removes histo...
+Accession: cd18002 ID: 350760
+
+165. DEXHc_ERCC6: DEXH-box helicase domain of ERCC6
+ERCC excision repair 6, chromatin remodeling factor (ERCC6, also known Cockayne syndrome group B (CS...
+Accession: cd18000 ID: 350758
+
+166. DEXHc_Mot1: DEXH-box helicase domain of Mot1
+Modifier of transcription 1 (Mot1, also known as TAF172 in eukaryotes) regulates transcription in as...
+Accession: cd17999 ID: 350757
+
+167. DEXHc_SMARCA1_SMARCA5: DEAH-box helicase domain of SMARCA1 and SMARCA5
+SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 1 an...
+Accession: cd17997 ID: 350755
+
+168. DEXHc_SMARCA2_SMARCA4: DEXH-box helicase domain of SMARCA2 and SMARCA4
+SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, members 2 a...
+Accession: cd17996 ID: 350754
+
+169. DEXHc_RecG: DEXH/Q-box helicase domain of RecG
+ATP-dependent DNA helicase RecG plays a critical role in recombination and DNA repair. It is a membe...
+Accession: cd17992 ID: 350750
+
+170. DEXHc_TRCF: DEXH/Q-box helicase domain of the transcription-repair coupling factor
+Transcription-repair coupling factor (TrcF) dissociates transcription elongation complexes blocked a...
+Accession: cd17991 ID: 350749
+
+171. DEXHc_TDRD9: DEXH-box helicase domain of tudor domain containing 9
+Tudor domain containing 9 (TDRD9, also known as HIG-1or NET54 or C14orf75) is a part of the  nuclear...
+Accession: cd17988 ID: 350746
+
+172. DEXHc_YTHDC2: DEXH-box helicase domain of YTH domain containing 2
+YTH domain containing 2 (YTHDC2) regulates mRNA translation and stability via binding to N6-methylad...
+Accession: cd17987 ID: 350745
+
+173. DEXQc_DQX1: DEXQ-box helicase domain of DEAQ-box RNA dependent ATPase 1
+DEAQ-box RNA dependent ATPase 1 (DQX1) belongs to the DEAD-like helicase superfamily, a diverse fami...
+Accession: cd17986 ID: 350744
+
+174. DEADc_DDX3_DDX4: DEAD-box helicase domain of ATP-dependent RNA helicases DDX3 and DDX4
+This subfamily includes Drosophila melanogaster Vasa, which is essential for development. DEAD box p...
+Accession: cd17967 ID: 350725
+
+175. DEADc_DDX56: DEAD-box helicase domain of DEAD box protein 56
+DDX56 is a helicase required for assembly of infectious West Nile virus particles. New research sugg...
+Accession: cd17961 ID: 350719
+
+176. DEADc_DDX42: DEAD-box helicase domain of DEAD box protein 42
+DDX42 (also called Splicing Factor 3B-Associated 125 kDa Protein, RHELP, or RNAHP) is an NTPase with...
+Accession: cd17952 ID: 350710
+
+177. DEADc_DDX39: DEAD-box helicase domain of DEAD box protein 39
+DDX39A is involved in pre-mRNA splicing and is required for the export of mRNA out of the nucleus. D...
+Accession: cd17950 ID: 350708
+
+178. DEADc_DDX31: DEAD-box helicase domain of DEAD box protein 31
+DDX31 (also called helicain or G2 helicase) plays a role in ribosome biogenesis and TP53/p53 regulat...
+Accession: cd17949 ID: 350707
+
+179. DEADc_DDX28: DEAD-box helicase domain of DEAD box protein 28
+DDX28 (also called mitochondrial DEAD-box polypeptide 28) plays an essential role in facilitating th...
+Accession: cd17948 ID: 350706
+
+180. DEADc_DDX27: DEAD-box helicase domain of DEAD box protein 27
+DDX27 (also called RHLP, deficiency of ribosomal subunits protein 1 homolog, and probable ATP-depend...
+Accession: cd17947 ID: 350705
+
+181. DEADc_DDX24: DEAD-box helicase domain of DEAD box protein 24
+The human DDX24 gene encodes a DEAD box protein, which shows little similarity to any of the other k...
+Accession: cd17946 ID: 350704
+
+182. DEADc_DDX6: DEAD-box helicase domain of DEAD box protein 6
+DEAD box protein 6 (DDX6, also known as Rck or p54) participates in mRNA regulation mediated by miRN...
+Accession: cd17940 ID: 350698
+
+183. DEADc_DDX1: DEAD-box helicase domain of DEAD box protein 1
+DEAD box protein 1 (DDX1) acts as an ATP-dependent RNA helicase, able to unwind both RNA-RNA and RNA...
+Accession: cd17938 ID: 350696
+
+184. EEXXEc_NFX1: EEXXE-box helicase domain of NFX1
+Human NFX1 protein was identified as a protein that represses class II MHC (major histocompatibility...
+Accession: cd17936 ID: 350694
+
+185. DEXDc_SecA: DEXD-box helicase domain of SecA
+SecA is a part of the Sec translocase that transports the vast majority of bacterial and ER-exported...
+Accession: cd17928 ID: 350686
+
+186. DDXDc_reverse_gyrase: DDXD-box helicase domain of reverse gyrase
+Reverse gyrase modifies the topological state of DNA by introducing positive supercoils in an ATP-de...
+Accession: cd17924 ID: 350682
+
+187. DEXHc_Hrq1-like: DEAH-box helicase domain of Hrq1 and similar proteins
+Yeast Hrq1, similar to RecQ4, plays a role in DNA inter-strand crosslink (ICL) repair and in telomer...
+Accession: cd17923 ID: 350681
+
+188. DEXHc_RecQ: DEXH-box helicase domain of RecQ family proteins
+The RecQ family of the type II DEAD box helicase superfamily is a family of highly conserved DNA rep...
+Accession: cd17920 ID: 350678
+
+189. DEXHc_UvrB: DEXH-box helicase domain of excinuclease ABC subunit B
+Excinuclease ABC subunit B (or UvrB) plays a central role in nucleotide excision repair (NER). Toget...
+Accession: cd17916 ID: 350674
+
+190. DEXQc_Suv3: DEXQ-box helicase domain of Suv3
+Suppressor of var1 3-like protein (Suv3) is a DNA/RNA unwinding enzyme belonging to the class of Dex...
+Accession: cd17913 ID: 350671
+
+191. SF1_C_RecD: C-terminal helicase domain of RecD family helicases
+RecD is a member of the RecBCD (EC 3.1.11.5, Exonuclease V) complex. It is the alpha chain of the co...
+Accession: cd18809 ID: 350196
+
+192. SF2_C_LHR: C-terminal helicase domain of LHR family helicases
+Large helicase-related protein (LHR) is a DNA damage-inducible helicase that uses ATP hydrolysis to ...
+Accession: cd18796 ID: 350183
+
+193. SF2_C_UvrB: C-terminal helicase domain of the UvrB family helicases
+Excinuclease ABC subunit B (or UvrB) plays a central role in nucleotide excision repair (NER). Toget...
+Accession: cd18790 ID: 350177
+
+194. cas3_core: CRISPR-associated helicase Cas3
+This model represents the highly conserved core region of an alignment of Cas3, a protein found in a...
+Accession: TIGR01587 ID: 273707
+
+195. UBA_DHX57: UBA domain found in putative ATP-dependent RNA helicase DHX57 and similar proteins
+DHX57, also called DEAH box protein 57, is a multi-domain protein with an N-terminal ubiquitin-assoc...
+Accession: cd14317 ID: 270502
+
+196. UBA_YLR419W_like: UBA domain found in Saccharomyces cerevisiae putative ATP-dependent RNA helicase YLR419W and similar proteins
+The group includes some uncharacterized hypothetical proteins which show a high level of sequence si...
+Accession: cd14271 ID: 270457
+
+197. GUCT_RH7_like: RNA-binding GUCT domain found in plant DEAD-box ATP-dependent RNA helicase 7 (RH7) and similar proteins
+This subfamily corresponds to the  Gu C-terminal (GUCT) domain of RH7 and similar proteins. RH7, als...
+Accession: cd12937 ID: 240594
+
+198. ZBD_UPF1-like: Cys/His rich zinc-binding domain (CH/ZBD) of eukaryotic UPF1 RNA helicase and related proteins
+Helicases catalyze NTP-dependent unwinding of nucleic acid duplexes into single strands and are clas...
+Accession: cd21400 ID: 394807
+
+199. Cdt1_c: The C-terminal fold of replication licensing factor Cdt1 is essential for Cdt1 activity and directly interacts with MCM2-7 helicase
+Cdt1 is a replication licensing factor in eukaryotes that recruits the Minichromosome Maintenance Co...
+Accession: cl14631 ID: 387366
+
+200. SNF2_assoc: Bacterial SNF2 helicase associated
+This domain is found in bacterial proteins of the SWF/SNF/SWI helicase family to the N-terminus of t...
+Accession: pfam08455 ID: 377999
+
+201. Helicase_RecD: Helicase
+This domain contains a P-loop (Walker A) motif, suggesting that it has ATPase activity, and a Walker...
+Accession: pfam05127 ID: 377463
+
+202. Viral_helicase1: Viral (Superfamily 1) RNA helicase
+Helicase activity for this family has been demonstrated and NTPase activity. This helicase has multi...
+Accession: pfam01443 ID: 366646
+
+203. DnaB: DnaB-like helicase N terminal domain
+The hexameric helicase DnaB unwinds the DNA duplex at the Escherichia coli chromosome replication fo...
+Accession: pfam00772 ID: 366294
+
+204. Helicase_C: Helicase conserved C-terminal domain
+The Prosite family is restricted to DEAD/H helicases, whereas this domain family is found in a wide ...
+Accession: pfam00271 ID: 365992
+
+205. DEADc_DDX17: DEAD-box helicase domain of DEAD box protein 17
+DDX17 (also called DEAD Box Protein P72 or DEAD Box Protein P82) has a wide variety of functions inc...
+Accession: cd18050 ID: 350808
+
+206. DEADc_EIF4AII_EIF4AI_DDX2: DEAD-box helicase domain of eukaryotic initiation factor 4A-I and 4-II
+Eukaryotic initiation factor 4A-I (DDX2A) and eukaryotic initiation factor 4A-II (DDX2B) are involve...
+Accession: cd18046 ID: 350804
+
+207. DEADc_EIF4AIII_DDX48: DEAD-box helicase domain of eukaryotic initiation factor 4A-III
+Eukaryotic initiation factor 4A-III (EIF4AIII, also known as DDX48) is part of the exon junction com...
+Accession: cd18045 ID: 350803
+
+208. DEADc_DDX5_DDX17: DEAD-box helicase domain of ATP-dependent RNA helicases DDX5 and DDX17
+DDX5 and DDX17 are members of the DEAD-box helicases, a diverse family of proteins involved in ATP-d...
+Accession: cd17966 ID: 350724
+
+209. DEADc_DDX59: DEAD-box helicase domain of DEAD box protein 59
+DDX59 plays an important role in lung cancer development by promoting DNA replication. DDX59 knockdo...
+Accession: cd17962 ID: 350720
+
+210. DEADc_DDX55: DEAD-box helicase domain of DEAD box protein 55
+DDX55 is a member of the DEAD-box helicases, a diverse family of proteins involved in ATP-dependent ...
+Accession: cd17960 ID: 350718
+
+211. DEADc_DDX54: DEAD-box helicase domain of DEAD box protein 54
+DDX54 interacts in a hormone-dependent manner with nuclear receptors, and represses their transcript...
+Accession: cd17959 ID: 350717
+
+212. DEADc_DDX43_DDX53: DEAD-box helicase domain of DEAD box proteins 43 and 53
+DDX43 (also called cancer/testis antigen 13 or helical antigen) displays tumor-specific expression. ...
+Accession: cd17958 ID: 350716
+
+213. DEADc_DDX52: DEAD-box helicase domain of DEAD box protein 52
+DDX52 (also called ROK1 and HUSSY19) is ubiquitously expressed in testis, endometrium, and other tis...
+Accession: cd17957 ID: 350715
+
+214. DEADc_DDX51: DEAD-box helicase domain of DEAD box protein 51
+DDX51 aids cell cancer proliferation by regulating multiple signalling pathways. Mammalian DEAD box ...
+Accession: cd17956 ID: 350714
+
+215. DEADc_DDX49: DEAD-box helicase domain of DEAD box protein 49
+DDX49 (also called Dbp8) is a member of the DEAD-box helicases, a diverse family of proteins involve...
+Accession: cd17955 ID: 350713
+
+216. DEADc_DDX47: DEAD-box helicase domain of DEAD box protein 47
+DDX47 (also called E4-DEAD box protein) can shuttle between the nucleus and the cytoplasm, and has a...
+Accession: cd17954 ID: 350712
+
+217. DEADc_DDX46: DEAD-box helicase domain of DEAD box protein 46
+DDX46 (also called Prp5-like DEAD-box protein) is a component of the 17S U2 snRNP complex. It plays ...
+Accession: cd17953 ID: 350711
+
+218. DEADc_DDX41: DEAD-box helicase domain of DEAD box protein 41
+DDX41 (also called ABS and MPLPF) interacts with several spliceosomal proteins and may recognize the...
+Accession: cd17951 ID: 350709
+
+219. DEADc_DDX23: DEAD-box helicase domain of DEAD box protein 23
+DDX23 (also called U5 snRNP 100kD protein and PRP28 homolog) is involved in pre-mRNA splicing and it...
+Accession: cd17945 ID: 350703
+
+220. DEADc_DDX20: DEAD-box helicase domain of DEAD box protein 20
+DDX20 (also called DEAD Box Protein DP 103, Component Of Gems 3, Gemin-3, and SMN-Interacting Protei...
+Accession: cd17943 ID: 350701
+
+221. DEADc_DDX18: DEAD-box helicase domain of DEAD box protein 18
+This DDX18 gene encodes a DEAD box protein and is activated by Myc protein. DDX18 is a member of the...
+Accession: cd17942 ID: 350700
+
+222. DEADc_DDX10: DEAD-box helicase domain of DEAD box protein 10
+Fusion of the DDX10 gene and the nucleoporin gene, NUP98, by inversion 11 (p15q22) chromosome transl...
+Accession: cd17941 ID: 350699
+
+223. DEADc_EIF4A: DEAD-box helicase domain of eukaryotic initiation factor 4A
+The eukaryotic initiation factor-4A (eIF4A) family consists of 3 proteins EIF4A1, EIF4A2, and EIF4A3...
+Accession: cd17939 ID: 350697
+
+224. DEAHc_XPD-like: DEAH-box helicase domain of XPD family DEAD-like helicases
+The xeroderma pigmentosum group D (XPD)-like family members are DEAD-box helicases, a diverse family...
+Accession: cd17915 ID: 350673
+
+225. DEADc: DEAD-box helicase domain of DEAD box helicases
+DEAD-box helicases comprise a diverse family of proteins involved in ATP-dependent RNA unwinding, ne...
+Accession: cd00268 ID: 350669
+
+226. SF2-N: N-terminal DEAD/H-box helicase domain of superfamily 2 helicases
+The DEAD/H-like superfamily 2 helicases comprise a diverse family of proteins involved in ATP-depend...
+Accession: cd00046 ID: 350668
+
+227. SF2_C_TRCF: C-terminal helicase domain of the transcription-repair coupling factor
+Transcription-repair coupling factor (TrcF) dissociates transcription elongation complexes blocked a...
+Accession: cd18810 ID: 350197
+
+228. SF1_C_Upf1: C-terminal helicase domain of Upf1-like family helicases
+The Upf1-like helicase family includes UPF1, HELZ, Mov10L1, Aquarius, IGHMBP2 (SMUBP2), and similar ...
+Accession: cd18808 ID: 350195
+
+229. SF2_C_secA: C-terminal helicase domain of the protein translocase subunit secA
+SecA is a component of the Sec translocase that transports the vast majority of bacterial and ER-exp...
+Accession: cd18803 ID: 350190
+
+230. SF2_C_FANCM_Hef: C-terminal helicase domain of Fanconi anemia group M family helicases
+Fanconi anemia group M (FANCM) protein is a DNA-dependent ATPase component of the Fanconi anemia (FA...
+Accession: cd18801 ID: 350188
+
+231. SF2_C_EcoR124I-like: C-terminal helicase domain of EcoR124I HsdR-like restriction enzyme family helicases
+This family is composed of helicase restriction enzymes, including the HsdR subunit of restriction-m...
+Accession: cd18800 ID: 350187
+
+232. SF2_C_EcoAI-like: C-terminal helicase domain of EcoAI HsdR-like restriction enzyme family helicases
+This family is composed of helicase restriction enzymes, including the HsdR subunit of restriction-m...
+Accession: cd18799 ID: 350186
+
+233. SF2_C_reverse_gyrase: C-terminal helicase domain of the reverse gyrase
+Reverse gyrase modifies the topological state of DNA by introducing positive supercoils in an ATP-de...
+Accession: cd18798 ID: 350185
+
+234. SF2_C_Ski2: C-terminal helicase domain of the Ski2 family helicases
+Ski2-like RNA helicases play an important role in RNA degradation, processing, and splicing pathways...
+Accession: cd18795 ID: 350182
+
+235. SF2_C_RecQ: C-terminal helicase domain of the RecQ family helicases
+The RecQ helicase family is an evolutionarily conserved class of enzymes, dedicated to preserving ge...
+Accession: cd18794 ID: 350181
+
+236. SF2_C_RecG_TRCF: C-terminal helicase domain of the RecG family helicases
+The DEAD-like helicase RecG family contains recombination factor RecG and transcription-repair coupl...
+Accession: cd18792 ID: 350179
+
+237. SF2_C_XPD: C-terminal helicase domain of xeroderma pigmentosum group D (XPD) family DEAD-like helicases
+The xeroderma pigmentosum group D (XPD)-like family members are DEAD-box helicases belonging to supe...
+Accession: cd18788 ID: 350175
+
+238. CD1_tandem_CHD5-9_like: repeat 1 of the paired tandem chromodomains of chromodomain helicase DNA-binding protein 5-9, and similar proteins
+Repeat 1 of tandem CHRomatin Organization Modifier (chromo) domains, found in CHD (chromodomain heli...
+Accession: cd18668 ID: 349315
+
+239. CD1_tandem_CHD3-4_like: repeat 1 of the paired tandem chromodomains of chromodomain helicase DNA-binding protein 3 and 4, and similar proteins
+Repeat 1 of tandem CHRomatin Organization Modifier (chromo) domains, found in CHD (chromodomain heli...
+Accession: cd18667 ID: 349314
+
+240. CD1_tandem_CHD1-2_like: repeat 1 of the paired tandem chromodomains of chromodomain helicase DNA-binding protein 1 and 2, and similar proteins
+Repeat 1 of tandem CHRomatin Organization Modifier (chromo) domains, found in CHD (chromodomain heli...
+Accession: cd18666 ID: 349313
+
+241. CD2_tandem_CHD5-9_like: repeat 2 of the paired tandem chromodomains of chromodomain helicase DNA-binding protein 5-9, and similar proteins
+Repeat 2 of tandem CHRomatin Organization Modifier (chromo) domains, found in CHD (chromodomain heli...
+Accession: cd18663 ID: 349310
+
+242. CD2_tandem_CHD3-4_like: repeat 2 of the paired tandem chromodomains of chromodomain helicase DNA-binding protein 3 and 4, and similar proteins
+Repeat 2 of tandem CHRomatin Organization Modifier (chromo) domains, found in CHD (chromodomain heli...
+Accession: cd18662 ID: 349309
+
+243. CD2_tandem_CHD1-2_like: repeat 2 of the paired tandem chromodomains of chromodomain helicase DNA-binding protein 1 and 2, and similar proteins
+Repeat 2 of tandem CHRomatin Organization Modifier (chromo) domains, found in CHD (chromodomain heli...
+Accession: cd18661 ID: 349308
+
+244. Herpes_heli_pri: Herpesvirus helicase-primase complex component
+This family consists of several helicase-primase complex components from the Gammaherpesviruses.
+Accession: cl27948 ID: 332769
+
+245. RING-HC_HLTF: RING finger, HC subclass, found in helicase-like transcription factor (HLTF) and similar proteins
+HLTF, also known as DNA-binding protein/plasminogen activator inhibitor 1 regulator, or HIP116, or R...
+Accession: cd16509 ID: 319423
+
+246. NPH-II: RNA helicase NPH-II
+RNA helicase NPH-II or I8 is found in Poxviridae. It is essential for viral replication and plays an...
+Accession: pfam12011 ID: 288834
+
+247. helicase_insert_domain: helicase_insert_domain
+helicase_insert_domain; This helical domain can be found inserted in a subset of SF2-type DEAD-box r...
+Accession: cd12088 ID: 277187
+
+248. PHD2_CHD_II: PHD finger 2 found in class II Chromodomain-Helicase-DNA binding (CHD) proteins
+Class II CHD proteins includes chromodomain-helicase-DNA-binding protein CHD3, CHD4, and CHD5, which...
+Accession: cd15532 ID: 277007
+
+249. PHD1_CHD_II: PHD finger 1 found in class II Chromodomain-Helicase-DNA binding (CHD) proteins
+Class II CHD proteins includes chromodomain-helicase-DNA-binding protein CHD3, CHD4, and CHD5, which...
+Accession: cd15531 ID: 277006
+
+250. Cdt1_c: The C-terminal fold of replication licensing factor Cdt1 is essential for Cdt1 activity and directly interacts with MCM2-7 helicase
+Cdt1 is a replication licensing factor in eukaryotes that recruits the Minichromosome Maintenance Co...
+Accession: cd08767 ID: 176572
+
+251. Helicase_Sgs1: Sgs1 RecQ helicase
+RecQ helicases unwind DNA in an ATP-dependent manner. Sgs1 has a HRDC (helicase and RNaseD C-termina...
+Accession: pfam11408 ID: 151847
+
+252. ruvB: Holliday junction DNA helicase, RuvB subunit
+All proteins in this family for which functions are known are 5'-3' DNA helicases that, as part of a...
+Accession: TIGR00635 ID: 129721
+
+253. Herpes_HEPA: Herpesvirus DNA helicase/primase complex associated protein
+This family includes HSV UL8, EHV-1 54, VZV 52 AND HCMV 102.
+Accession: cl28610 ID: 391819
+
+254. zf-WRNIP1_ubi: Werner helicase-interacting protein 1 ubiquitin-binding domain
+This domain is found in the Werner helicase-interacting protein 1 present in Homo sapiens. The domai...
+Accession: cl02765 ID: 383112
+
+255. Helicase_C_3: Helicase conserved C-terminal domain
+This domain family is found in a wide variety of helicases and helicase-related proteins.
+Accession: pfam13625 ID: 379300
+
+256. UvrD_C: UvrD-like helicase C-terminal domain
+This domain is found at the C-terminus of a wide variety of helicase enzymes. This domain has a AAA-...
+Accession: pfam13361 ID: 379141
+
+257. SUV3_C: Mitochondrial degradasome RNA helicase subunit C terminal
+This domain family is found in bacteria and eukaryotes, and is approximately 50 amino acids in lengt...
+Accession: pfam12513 ID: 378870
+
+258. DnaB_bind: DnaB-helicase binding domain of primase
+This domain is the C-terminal region three-helical domain of primase. Primases synthesize short RNA ...
+Accession: pfam10410 ID: 378428
+
+259. RuvB_C: Holliday junction DNA helicase ruvB C-terminus
+The RuvB protein makes up part of the RuvABC revolvasome which catalyzes the resolution of Holliday ...
+Accession: pfam05491 ID: 377515
+
+260. DnaB_C: DnaB-like helicase C terminal domain
+The hexameric helicase DnaB unwinds the DNA duplex at the Escherichia coli chromosome replication fo...
+Accession: pfam03796 ID: 377132
+
+261. XPB_DRD: Xeroderma pigmentosum group B helicase damage recognition domain
+This domain is found in the N-terminal region of xeroderma pigmentosum group B (XPB) helicase presen...
+Accession: pfam18458 ID: 375884
+
+262. SH3_14: Dda helicase SH3 domain
+This is a Src homology-3 (SH3) like beta-barrel domain which can be found in Dda enzyme. Dda is a ph...
+Accession: pfam18343 ID: 375770
+
+263. zf-WRNIP1_ubi: Werner helicase-interacting protein 1 ubiquitin-binding domain
+This domain is found in the Werner helicase-interacting protein 1 present in Homo sapiens. The domai...
+Accession: pfam18279 ID: 375706
+
+264. Cdh1_DBD_1: Chromodomain helicase DNA-binding domain 1
+This domain can be found in chromodomain helicase DNA-binding protein 1 (Chd1) present in Saccharomy...
+Accession: pfam18196 ID: 375625
+
+265. Helicase_PWI: N-terminal helicase PWI domain
+This domain is found in spliceosomal RNA helicase Brr2. Brr2 is required for the assembly of a catal...
+Accession: pfam18149 ID: 375590
+
+266. DnaGprimase_HBD: DnaG-primase C-terminal, helicase-binding domain
+DnaG-primase_C is the C-terminal of a set of eubacterial DnaG primases that are a single-stranded DN...
+Accession: pfam16730 ID: 374760
+
+267. ERCC3_RAD25_C: ERCC3/RAD25/XPB C-terminal helicase
+This is the C-terminal helicase domain of ERCC3, RAD25 and XPB helicases.
+Accession: pfam16203 ID: 374428
+
+268. UvrD_C_2: UvrD-like helicase C-terminal domain
+This domain is found at the C-terminus of a wide variety of helicase enzymes. This domain has a AAA-...
+Accession: pfam13538 ID: 372629
+
+269. UPF1_Zn_bind: RNA helicase (UPF2 interacting domain)
+UPF1 is an essential RNA helicase that detects mRNAs containing premature stop codons and triggers t...
+Accession: pfam09416 ID: 370475
+
+270. TraI: DNA helicase TraI
+This family represents a conserved region approximately 130 residues long within the bacterial DNA h...
+Accession: pfam07057 ID: 369187
+
+271. PIF1: PIF1-like helicase
+This family includes homologs of the PIF1 helicase, which inhibits telomerase activity and is cell c...
+Accession: pfam05970 ID: 368688
+
+272. HA: Helicase associated domain
+This short domain is found in multiple copies in bacterial helicase proteins. The domain is predicte...
+Accession: pfam03457 ID: 367510
+
+273. Csf4_U: CRISPR/Cas system-associated DinG family helicase Csf4
+CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) and associated Cas proteins compr...
+Accession: cl30285 ID: 357161
+
+274. MCM: MCM helicase family
+MCM helicases are a family of helicases that play an important role in replication and homologous re...
+Accession: cd17706 ID: 350658
+
+275. SF2_C_Hrq: C-terminal helicase domain of HrQ family helicases
+Yeast Hrq1, similar to RecQ4, plays a role in DNA inter-strand crosslink (ICL) repair and in telomer...
+Accession: cd18797 ID: 350184
+
+276. SF2_C_SNF: C-terminal helicase domain of the SNF family helicases
+The Sucrose Non-Fermenting (SNF) family includes chromatin-remodeling factors, such as CHD proteins ...
+Accession: cd18793 ID: 350180
+
+277. SF2_C_DEAD: C-terminal helicase domain of the DEAD box helicases
+DEAD-box helicases comprise a diverse family of proteins involved in ATP-dependent RNA unwinding, ne...
+Accession: cd18787 ID: 350174
+
+278. SF1_C: C-terminal helicase domain of superfamily 1 DEAD/H-box helicases
+Superfamily (SF)1 family members include UvrD/Rep, Pif1-like, and Upf-1-like proteins. Similar to SF...
+Accession: cd18786 ID: 350173
+
+279. SF2_C: C-terminal helicase domain of superfamily 2 DEAD/H-box helicases
+Superfamily (SF)2 helicases include DEAD-box helicases, UvrB, RecG, Ski2, Sucrose Non-Fermenting (SN...
+Accession: cd18785 ID: 350172
+
+280. DEAD-like_helicase_C: C-terminal helicase domain of the DEAD-like helicases
+This hierarchy of DEAD-like helicases is composed of two superfamilies, SF1 and SF2, that share almo...
+Accession: cd09300 ID: 350171
+
+281. CD1_tandem_CHD1_yeast_like: repeat 1 of the paired tandem chromodomains of yeast chromodomain helicase DNA-binding protein 1, and similar proteins
+Repeat 1 of tandem CHRomatin Organization Modifier (chromo) domains, found in CHD (chromodomain heli...
+Accession: cd18665 ID: 349312
+
+282. CD2_tandem_ScCHD1_like: repeat 2 of the paired tandem chromodomains of yeast chromodomain helicase DNA-binding protein 1, and similar proteins
+Repeat 2 of tandem CHRomatin Organization Modifier (chromo) domains, found in CHD (chromodomain heli...
+Accession: cd18664 ID: 349311
+
+283. Herpes_Helicase: Helicase
+This family consists of Helicases from the Herpes viruses. Helicases are responsible for the unwindi...
+Accession: cl28079 ID: 332900
+
+284. RING-HC_SHPRH: RING finger, HC subclass, found in SNF2 histone-linker PHD finger RING finger helicase (SHPRH) and similar proteins
+SHPRH is a yeast RAD5 homolog found in mammals. It functions as an E3 ubiquitin-protein ligase that ...
+Accession: cd16569 ID: 319483
+
+285. RecQ5: RecQ helicase protein-like 5 (RecQ5)
+This family represents a conserved region approximately 200 residues long within eukaryotic RecQ hel...
+Accession: pfam06959 ID: 311110
+
+286. Herpes_heli_pri: Herpesvirus helicase-primase complex component
+This family consists of several helicase-primase complex components from the Gammaherpesviruses.
+Accession: pfam05774 ID: 283441
+
+287. Orbi_VP6: Orbivirus helicase VP6
+The VP6 protein a minor protein in the core of the virion is probably the viral helicase.
+Accession: pfam01516 ID: 279812
+
+288. PPV_E1_C: Papillomavirus helicase
+This protein is a DNA helicase that is required for initiation of viral DNA replication. This protei...
+Accession: pfam00519 ID: 278920
+
+289. tadE_like_DECH: helicase/secretion neighborhood TadE-like protein
+Members of this small, highly hydrophobic protein family occur in a pilus/secretion-like region that...
+Accession: TIGR03816 ID: 274799
+
+290. CpaE_hom_Actino: helicase/secretion neighborhood CpaE-like protein
+Members of this protein family belong to the MinD/ParA family of P-loop NTPases, and in particular s...
+Accession: TIGR03815 ID: 274798
+
+291. phage_DnaB: phage replicative helicase, DnaB family, HK022 subfamily
+Members of this family are phage (or prophage-region) homologs of the bacterial homohexameric replic...
+Accession: TIGR03600 ID: 274672
+
+292. cas3_cyano: CRISPR-associated helicase Cas3, subtype CYANO
+CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) is a widespread family of prokary...
+Accession: TIGR03158 ID: 274457
+
+293. cas3_GSU0051: CRISPR-associated helicase Cas3, subtype Dpsyc
+This model describes a CRISPR-associated putative DEAH-box helicase, or Cas3, of a subtype found in ...
+Accession: TIGR02621 ID: 274235
+
+294. cas3_yersinia: CRISPR-associated helicase Cas3, subtype I-F/YPEST
+The helicase in many CRISPR-associated (cas) gene clusters is designated Cas3, and most Cas3 protein...
+Accession: TIGR02562 ID: 274201
+
+295. dinG_rel: DnaQ family exonuclease/DinG family helicase, putative
+This model represents a family of proteins in Gram-positive bacteria. The N-terminal region of about...
+Accession: TIGR01407 ID: 273602
+
+296. recQ: ATP-dependent DNA helicase RecQ
+The ATP-dependent DNA helicase RecQ of E. coli is about 600 residues long. This model represents bac...
+Accession: TIGR01389 ID: 273594
+
+297. DnaB: replicative DNA helicase
+This model describes the helicase DnaB, a homohexameric protein required for DNA replication. The ho...
+Accession: TIGR00665 ID: 273206
+
+298. TIGR00376: DNA helicase, putative
+The gene product may represent a DNA helicase. Eukaryotic members of this family have been character...
+Accession: TIGR00376 ID: 273041
+
+299. HN_RTEL1: harmonin_N_like domain of regulator of telomere elongation helicase 1 (also known as RTEL)
+Mouse Rtel is an essential protein required for the maintenance of both telomeric and genomic stabil...
+Accession: cd13932 ID: 259826
+
+300. RRM_EcDbpA_like: RNA recognition motif in Escherichia coli RNA helicase dbpA and similar proteins
+This subgroup corresponds to the C-terminal RRM homology domain of dbpA. E. coli dbpA is a member of...
+Accession: cd12501 ID: 240945
+
+301. heli_sec_ATPase: helicase/secretion neighborhood ATPase
+Members of this protein family comprise a distinct clade of putative ATPase associated with an integ...
+Accession: TIGR03819 ID: 200328
+
+302. Cas3_I-D: CRISPR/Cas system-associated protein Cas3; Distinct diverged subfamily of Cas3 helicase domain
+CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) and associated Cas proteins compr...
+Accession: cd09710 ID: 187841
+
+303. Csf4_U: CRISPR/Cas system-associated DinG family helicase Csf4
+CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) and associated Cas proteins compr...
+Accession: cd09708 ID: 187839
+
+304. Cas3_I: CRISPR/Cas system-associated protein Cas3; Distinct Cas3 family with HD domain fused to C-termus of Helicase domain
+CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) and associated Cas proteins compr...
+Accession: cd09696 ID: 187827
+
+305. ruvA: Holliday junction DNA helicase, RuvA subunit
+RuvA specifically binds Holliday junctions as a sandwich of two tetramers and maintains the configur...
+Accession: TIGR00084 ID: 129193
+
+306. Prim_Zn_Ribbon: Zinc-binding domain of primase-helicase
+This region represents the zinc binding domain. It is found in the N-terminal region of the bacterio...
+Accession: smart00778 ID: 129016
+
+307. SecA: Preprotein translocase subunit SecA (ATPase, RNA helicase) [Intracellular trafficking, secretion, and vesicular transport]
+preprotein translocase subunit SecA; Reviewed
+Accession: cl39078 ID: 393448
+
+308. HA2: Helicase associated domain (HA2)
+This presumed domain is about 90 amino acid residues in length. It is found is a diverse set of RNA ...
+Accession: cl29319 ID: 392050
+
+309. TraI_2: Putative helicase
+Some members of this family have been annotated as helicases.
+Accession: cl26884 ID: 391625
+
+310. HATPase_c_4: Putative ATP-dependent DNA helicase recG C-terminal
+This domain may well interact selectively and non-covalently with ATP, adenosine 5'-triphosphate, a ...
+Accession: pfam13749 ID: 379358
+
+311. Helicase_C_2: Helicase C-terminal domain
+This domain is found at the C-terminus of DEAD-box helicases.
+Accession: pfam13307 ID: 379116
+
+312. DUF3670: SNF2 Helicase protein
+This domain family is found in bacteria, archaea and eukaryotes, and is approximately 140 amino acid...
+Accession: pfam12419 ID: 378855
+
+313. HrpB_C: ATP-dependent helicase C-terminal
+This domain is found near the C-terminus of bacterial ATP-dependent helicases such as HrpB.
+Accession: pfam08482 ID: 378003
+
+314. TraI_2: Putative helicase
+Some members of this family have been annotated as helicases.
+Accession: pfam07514 ID: 377859
+
+315. RuvB_N: Holliday junction DNA helicase ruvB N-terminus
+The RuvB protein makes up part of the RuvABC revolvasome which catalyzes the resolution of Holliday ...
+Accession: pfam05496 ID: 377518
+
+316. SH3_13: ATP-dependent RecD-like DNA helicase SH3 domain
+This is an SH3 (SRC homology domain 3) domain found in RecD helicases (EC 3.6.4.12) that belong to t...
+Accession: pfam18335 ID: 375762
+
+317. VIGSSK: Helicase-associated putative binding domain, C-terminal
+The function of this short, serine-rich C-terminal region is not known. However, as it is frequently...
+Accession: pfam14773 ID: 373284
+
+318. Helitron_like_N: Helitron helicase-like domain at N-terminus
+This family is found in Helitrons, recently recognized eukaryotic transposons that are predicted to ...
+Accession: pfam14214 ID: 372963
+
+319. RhlB: ATP-dependent RNA helicase RhlB
+Proteins in this entry are DEAD Box RhlB RNA Helicases found in Xanthomonadaceae bacteria.
+Accession: pfam12300 ID: 372025
+
+320. TraI_2_C: Putative conjugal transfer nickase/helicase TraI C-term
+
+Accession: pfam07515 ID: 369398
+
+321. HA2: Helicase associated domain (HA2)
+This presumed domain is about 90 amino acid residues in length. It is found is a diverse set of RNA ...
+Accession: pfam04408 ID: 367926
+
+322. Herpes_HEPA: Herpesvirus DNA helicase/primase complex associated protein
+This family includes HSV UL8, EHV-1 54, VZV 52 AND HCMV 102.
+Accession: pfam03324 ID: 367447
+
+323. RNA_helicase: RNA helicase
+This family includes RNA helicases thought to be involved in duplex unwinding during viral RNA repli...
+Accession: pfam00910 ID: 366365
+
+324. DEAD: DEAD/DEAH box helicase
+Members of this family include the DEAD and DEAH box helicases. Helicases are involved in unwinding ...
+Accession: pfam00270 ID: 365991
+
+325. PriA: Primosomal protein N&apos; (replication factor Y) - superfamily II helicase [Replication, recombination and repair]
+
+Accession: cl30559 ID: 357435
+
+326. MCM9: DNA helicase Mcm9
+Mcm9 plays an important role homologous recombination repair. It forms a complex with Mcm8 that is r...
+Accession: cd17760 ID: 350666
+
+327. MCM8: DNA helicase Mcm8
+Mcm8 plays an important role homologous recombination repair. It forms a complex with Mcm9 that is r...
+Accession: cd17759 ID: 350665
+
+328. Prim_Zn_Ribbon: Zinc-binding domain of primase-helicase
+
+Accession: pfam08273 ID: 336980
+
+329. UvrD-helicase: UvrD/REP helicase N-terminal domain
+The Rep family helicases are composed of four structural domains. The Rep family function as dimers....
+Accession: pfam00580 ID: 334157
+
+330. Baculo_helicase: Baculovirus DNA helicase
+
+Accession: pfam04735 ID: 282577
+
+331. Herpes_Helicase: Helicase
+This family consists of Helicases from the Herpes viruses. Helicases are responsible for the unwindi...
+Accession: pfam02689 ID: 280797
+
+332. DEXH_lig_assoc: DEXH box helicase, DNA ligase-associated
+Members of this protein family are DEAD/DEAH box helicases found associated with a bacterial ATP-dep...
+Accession: TIGR04121 ID: 274994
+
+333. cas_csf4: CRISPR type AFERR-associated DEAD/DEAH-box helicase Csf4
+Members of this family show up near CRISPR repeats in Acidithiobacillus ferrooxidans ATCC 23270, Azo...
+Accession: TIGR03117 ID: 274436
+
+334. addA_Gpos: helicase-exonuclease AddAB, AddA subunit, Firmicutes type
+AddAB, also called RexAB, substitutes for RecBCD in several bacterial lineages. These DNA recombinat...
+Accession: TIGR02785 ID: 274299
+
+335. addA_alphas: double-strand break repair helicase AddA, alphaproteobacterial type
+AddAB, also called RexAB, substitutes for RecBCD in several bacterial lineages. These DNA recombinat...
+Accession: TIGR02784 ID: 274298
+
+336. DEAH_box_HrpB: ATP-dependent helicase HrpB
+This model represents HrpB, one of two related but uncharacterized DEAH-box ATP-dependent helicases ...
+Accession: TIGR01970 ID: 273901
+
+337. DEAH_box_HrpA: RNA helicase HrpA
+This model represents HrpA, one of two related but uncharacterized DEAH-box ATP-dependent helicases ...
+Accession: TIGR01967 ID: 273900
+
+338. recD_rel: helicase, putative, RecD/TraA family
+This model describes a family similar to RecD, the exodeoxyribonuclease V alpha chain of TIGR01447. ...
+Accession: TIGR01448 ID: 273632
+
+339. pcrA: ATP-dependent DNA helicase PcrA
+Designed to identify pcrA members of the uvrD/rep subfamily. [DNA metabolism, DNA replication, recom...
+Accession: TIGR01073 ID: 273429
+
+340. recG: ATP-dependent DNA helicase RecG
+[DNA metabolism, DNA replication, recombination, and repair]
+Accession: TIGR00643 ID: 273192
+
+341. rad3: DNA repair helicase (rad3)
+All proteins in this family for which funcitons are known are DNA-DNA helicases that funciton in the...
+Accession: TIGR00604 ID: 273169
+
+342. rad25: DNA repair helicase rad25
+All proteins in this family for which functions are known are DNA-DNA helicases used for the initiat...
+Accession: TIGR00603 ID: 273168
+
+343. ku70: ATP-dependent DNA helicase II, 70 kDa subunit (ku70)
+Proteins in this family are involved in non-homologous end joining, a process used for the repair of...
+Accession: TIGR00578 ID: 273151
+
+344. UBA_RuvA_C: C-terminal UBA-like domain of holliday junction ATP-dependent DNA helicase RuvA
+RuvA, along with RuvB and RuvC proteins, is involved in branch migration of heteroduplex DNA in homo...
+Accession: cd14332 ID: 270517
+
+345. RRM_BsYxiN_like: RNA recognition motif in Bacillus subtilis ATP-dependent RNA helicase YxiN and similar proteins
+This subgroup corresponds to the C-terminal RRM homology domain of YxiN. B. subtilis YxiN is a membe...
+Accession: cd12500 ID: 240944
+
+346. PRK13909: RecB-like helicase
+
+Accession: PRK13909 ID: 237554
+
+347. PRK02362: ATP-dependent DNA helicase
+
+Accession: PRK02362 ID: 235032
+
+348. ruvB: Holliday junction branch migration DNA helicase RuvB
+
+Accession: PRK00080 ID: 234619
+
+349. COG4889: Predicted helicase  [General function prediction only]
+
+Accession: COG4889 ID: 227226
+
+350. Dob10: Superfamily II RNA helicase  [Replication, recombination and repair]
+
+Accession: COG4581 ID: 226947
+
+351. comFA: Superfamily II DNA/RNA helicase required for DNA uptake (late competence protein)  [Replication, recombination and repair]
+
+Accession: COG4098 ID: 226583
+
+352. HelD: DNA helicase IV [Replication, recombination and repair]
+
+Accession: COG3973 ID: 226482
+
+353. COG3893: Inactivated superfamily I helicase  [Replication, recombination and repair]
+
+Accession: COG3893 ID: 226409
+
+354. AddB: ATP-dependent helicase/DNAse subunit B [Replication, recombination and repair]
+
+Accession: COG3857 ID: 226375
+
+355. RuvB: Holliday junction resolvasome RuvABC, ATP-dependent DNA helicase subunit [Replication, recombination and repair]
+
+Accession: COG2255 ID: 225164
+
+356. HrpA: HrpA-like RNA helicase [Translation, ribosomal structure and biogenesis]
+
+Accession: COG1643 ID: 224557
+
+357. Mcm2: DNA replicative helicase MCM subunit Mcm2, Cdc46/Mcm family  [Replication, recombination and repair]
+
+Accession: COG1241 ID: 224162
+
+358. TIP49: DNA helicase TIP49, TBP-interacting protein [Transcription]
+
+Accession: COG1224 ID: 224145
+
+359. YprA: ATP-dependent helicase YprA,  contains C-terminal metal-binding DUF1998 domain [Replication, recombination and repair]
+
+Accession: COG1205 ID: 224126
+
+360. BRR2: Replicative superfamily II helicase [Replication, recombination and repair]
+
+Accession: COG1204 ID: 224125
+
+361. Cas3: CRISPR/Cas system-associated endonuclease/helicase Cas3 [Defense mechanisms]
+
+Accession: COG1203 ID: 224124
+
+362. COG1202: Superfamily II helicase, archaea-specific [Replication, recombination and repair]
+
+Accession: COG1202 ID: 224123
+
+363. Lhr: Lhr-like helicase [Replication, recombination and repair]
+
+Accession: COG1201 ID: 224122
+
+364. RecG: RecG-like helicase [Replication, recombination and repair]
+
+Accession: COG1200 ID: 224121
+
+365. DinG: Rad3-related DNA helicase [Replication, recombination and repair]
+
+Accession: COG1199 ID: 224120
+
+366. PriA: Primosomal protein N' (replication factor Y) - superfamily II helicase [Replication, recombination and repair]
+
+Accession: COG1198 ID: 224119
+
+367. Mfd: Transcription-repair coupling factor (superfamily II helicase) [Replication, recombination and repair, Transcription]
+
+Accession: COG1197 ID: 224118
+
+368. DNA2: Superfamily I DNA and/or RNA helicase [Replication, recombination and repair]
+
+Accession: COG1112 ID: 224037
+
+369. MPH1: ERCC4-related helicase [Replication, recombination and repair]
+
+Accession: COG1111 ID: 224036
+
+370. RecB: ATP-dependent exoDNAse (exonuclease V) beta subunit (contains helicase and exonuclease domains) [Replication, recombination and repair]
+
+Accession: COG1074 ID: 224000
+
+371. SSL2: Superfamily II DNA or RNA helicase [Transcription, Replication, recombination and repair]
+
+Accession: COG1061 ID: 223989
+
+372. SecA: Preprotein translocase subunit SecA (ATPase, RNA helicase) [Intracellular trafficking, secretion, and vesicular transport]
+
+Accession: COG0653 ID: 223726
+
+373. UvrB: Excinuclease UvrABC helicase subunit UvrB [Replication, recombination and repair]
+
+Accession: COG0556 ID: 223630
+
+374. HepA: Superfamily II DNA or RNA helicase, SNF2 family [Transcription, Replication, recombination and repair]
+
+Accession: COG0553 ID: 223627
+
+375. RecQ: Superfamily II DNA helicase RecQ [Replication, recombination and repair]
+
+Accession: COG0514 ID: 223588
+
+376. SrmB: Superfamily II DNA and RNA helicase [Replication, recombination and repair]
+
+Accession: COG0513 ID: 223587
+
+377. RecD: ATP-dependent exoDNAse (exonuclease V), alpha subunit, helicase superfamily I  [Replication, recombination and repair]
+
+Accession: COG0507 ID: 223581
+
+378. YjgR: Archaeal DNA helicase HerA or a related bacterial ATPase, contains HAS-barrel and ATPase domains [Replication, recombination and repair]
+
+Accession: COG0433 ID: 223510
+
+379. DnaB: Replicative DNA helicase [Replication, recombination and repair]
+
+Accession: COG0305 ID: 223382
+
+380. UvrD: Superfamily I DNA or RNA helicase [Replication, recombination and repair]
+
+Accession: COG0210 ID: 223288
+
+381. T5orf172: This entry represents the putative helicase A859L
+
+Accession: smart00974 ID: 214947
+
+382. RQC: This DNA-binding domain is found in the RecQ helicase among others and has a helix-turn-helix structure
+The RQC domain, found only in RecQ family enzymes, is a high affinity G4 DNA binding domain.
+Accession: smart00956 ID: 214936
+
+383. HA2: Helicase associated domain (HA2) Add an annotation
+This presumed domain is about 90 amino acid residues in length. It is found is a diverse set of RNA ...
+Accession: smart00847 ID: 214852
+
+384. HELICc2: helicase superfamily c-terminal domain
+
+Accession: smart00491 ID: 214694
+
+385. addB_Gpos: helicase-exonuclease AddAB, AddB subunit
+DNA repair is accomplished by several different systems in prokaryotes. Recombinational repair of do...
+Accession: TIGR02773 ID: 213736
+
+386. HELICc: helicase superfamily c-terminal domain
+
+Accession: smart00490 ID: 197757
+
+387. PRK09694: CRISPR-associated helicase/endonuclease Cas3
+
+Accession: PRK09694 ID: 182031
+
+388. PRK08006: replicative DNA helicase DnaB
+
+Accession: PRK08006 ID: 181193
+
+389. uvrD: DNA helicase II
+Designed to identify uvrD members of the uvrD/rep subfamily. [DNA metabolism, DNA replication, recom...
+Accession: TIGR01075 ID: 130147
+
+390. rep: ATP-dependent DNA helicase Rep
+Designed to identify rep members of the uvrD/rep subfamily. [DNA metabolism, DNA replication, recomb...
+Accession: TIGR01074 ID: 130146
+
+391. recQ_fam: ATP-dependent DNA helicase, RecQ family
+All proteins in this family for which functions are known are 3'-5' DNA-DNA helicases. These protein...
+Accession: TIGR00614 ID: 129701
+
+392. HRDC: Helicase and RNase D C-terminal
+Hypothetical role in nucleic acid binding. Mutations in the HRDC domain cause human disease.
+Accession: smart00341 ID: 128635
+
+393. PRK01172: ATP-dependent DNA helicase
+
+Accession: PRK01172 ID: 100801
+
+394. CD_CSD: CHROMO (CHRromatin Organization Modifier) domains and chromo shadow domains
+Members of this group are chromodomains or chromo shadow domains; these are SH3-fold-beta-barrel dom...
+Accession: cl28914 ID: 391946
+
+395. RRM_SF: RNA recognition motif (RRM) superfamily
+RRM, also known as RBD (RNA binding domain) or RNP (ribonucleoprotein domain), is a highly abundant ...
+Accession: cl17169 ID: 388407
+
+396. DD: Death Domain Superfamily of protein-protein interaction domains
+The Death Domain (DD) superfamily includes the DD, Pyrin, CARD (Caspase activation and recruitment d...
+Accession: cl14633 ID: 387368
+
+397. DSRM_SF: double-stranded RNA binding motif (DSRM) superfamily
+DSRM (also known as dsRBM) is a 65-70 amino acid domain that adopts an alpha-beta-beta-beta-alpha fo...
+Accession: cl00054 ID: 381777
+
+398. RING_Ubox: The superfamily of RING finger (Really Interesting New Gene) domain and U-box domain
+RING finger is a specialized type of Zn-finger of 40 to 60 residues that binds two atoms of zinc. It...
+Accession: cl17238 ID: 388418
+
+399. P-loop_NTPase: P-loop containing Nucleoside Triphosphate Hydrolases
+Members of the P-loop NTPase domain superfamily are characterized by a conserved nucleotide phosphat...
+Accession: cl38936 ID: 393306
+
+400. RLR_C_like: C-terminal domain of Retinoic acid-inducible gene (RIG)-I-like Receptors, Cereblon (CRBN), and similar protein domains
+Retinoic acid-inducible gene (RIG)-I-like Receptors (RLRs) are cytoplasmic RNA receptors that recogn...
+Accession: cl13152 ID: 386805
+
+401. P-loop_NTPase: P-loop containing Nucleoside Triphosphate Hydrolases
+Members of the P-loop NTPase domain superfamily are characterized by a conserved nucleotide phosphat...
+Accession: cl38985 ID: 393355
+
+402. PHD_SF: PHD finger superfamily
+The PHD finger superfamily includes a canonical plant homeodomain (PHD) finger typically characteriz...
+Accession: cl22851 ID: 389947
+
+403. UBA_like_SF: UBA domain-like superfamily
+The ubiquitin-associated (UBA) domain-like superfamily contains alpha-helical structural homology ub...
+Accession: cl21463 ID: 389751
+
+404. DnaQ_like_exo: DnaQ-like (or DEDD) 3&apos;-5&apos; exonuclease domain superfamily
+The DnaQ-like exonuclease superfamily is a structurally conserved group of 3'-5' exonucleases, which...
+Accession: cl10012 ID: 385652
+
+405. FANCM_ID: Insert domain of FANCM and related proteins
+FANCM and related proteins, like Mph1 and Fml1, are DNA junction-specific helicases/translocases tha...
+Accession: cd12091 ID: 277190
+
+406. ZBD_nv_SF1_Hel-like: Cys/His rich zinc-binding domain (CH/ZBD) of nidovirus helicases including coronavirus Nsp13 and arterivirus Nsp10, and related proteins
+Helicases catalyze NTP-dependent unwinding of nucleic acid duplexes into single strands and are clas...
+Accession: cd21399 ID: 394806
+
+407. DSRM_DHX9_rpt2: second double-stranded RNA binding motif of DEAH box protein 9 (DHX9) and similar proteins
+DHX9 (EC 3.6.4.13; also known as ATP-dependent RNA helicase A, DExH-box helicase 9 (DDX9), Leukophys...
+Accession: cd19855 ID: 380684
+
+408. DSRM_DHX9_rpt1: first double-stranded RNA binding motif of DEAH box protein 9 (DHX9) and similar proteins
+DHX9 (EC 3.6.4.13; also known as ATP-dependent RNA helicase A, DExH-box helicase 9 (DDX9), Leukophys...
+Accession: cd19854 ID: 380683
+
+409. TraI_2B: DNA relaxase TraI 2B/2B-like domain
+This is the 2B and 2B-like sub-domain found in TraI (EC:5.99.1.2) a relaxase of F-family plasmids. I...
+Accession: pfam18340 ID: 375767
+
+410. Herpes_UL52: Herpesviridae UL52/UL70 DNA primase
+Herpes simplex virus type 1 DNA replication in host cells is known to be mediated by seven viral-enc...
+Accession: pfam03121 ID: 367342
+
+411. MDA5_ID: Insert domain of MDA5
+MDA5 (melanoma-differentiation-associated gene 5, also known as IFIH1), as well as RIG-I (Retinoic a...
+Accession: cd12090 ID: 277189
+
+412. GUCT_Hera: RNA-binding GUCT-like domain found in Thermus thermophilus heat resistant RNA-dependent ATPase (Hera) and similar proteins
+This subfamily corresponds to the  Gu C-terminal (GUCT)-like domain of Hera and similar proteins. Th...
+Accession: cd12938 ID: 240595
+
+413. PLDc_N_Snf2_like: N-terminal putative catalytic domain of uncharacterized HKD family nucleases fused to putative helicases from the Snf2-like family
+N-terminal putative catalytic domain of uncharacterized archaeal and prokaryotic HKD family nuclease...
+Accession: cd09178 ID: 197275
+
+414. 1B_nv_SF1_Hel-like: 1B domain of nidovirus helicases including coronavirus Nsp13 and arterivirus Nsp10, and related proteins
+Helicases catalyze NTP-dependent unwinding of nucleic acid duplexes into single strands and are clas...
+Accession: cd21406 ID: 394814
+
+415. RPA_2b-aaRSs_OBF_like: Replication protein A, class 2b aminoacyl-tRNA synthetases, and related proteins with oligonucleotide/oligosaccharide (OB) fold
+This superfamily includes two oligonucleotide/oligosaccharide binding fold (OBF) domain families. On...
+Accession: cl09930 ID: 385638
+
+416. S1_like
+S1_like: Ribosomal protein S1-like RNA-binding domain. Found in a wide variety of RNA-associated pro...
+Accession: cl09927 ID: 385635
+
+417. HRDC: HRDC domain
+The HRDC (Helicase and RNase D C-terminal) domain has a putative role in nucleic acid binding. Mutat...
+Accession: cl02578 ID: 383037
+
+418. KOW: KOW: an acronym for the authors&apos; surnames (Kyrpides, Ouzounis and Woese)
+KOW domain is known as an RNA-binding motif that is shared so far among some families of ribosomal p...
+Accession: cl00354 ID: 381967
+
+419. R3H
+R3H domain. The name of the R3H domain comes from the characteristic spacing of the most conserved a...
+Accession: cl00297 ID: 381928
+
+420. RING-HC_RAD16_like: RING finger, HC subclass, found in Saccharomyces cerevisiae DNA repair protein RAD16, Schizosaccharomyces pombe rhp16, and similar proteins
+Budding yeast RAD16, also known as ATP-dependent helicase RAD16, is encoded by a yeast excision repa...
+Accession: cd16567 ID: 319481
+
+421. DNA_pol_A_exo1: 3'-5' exonuclease
+This domain is responsible for the 3'-5' exonuclease proofreading activity of E. coli DNA polymerase...
+Accession: pfam01612 ID: 366728
+
+422. PHA03144
+helicase-primase primase subunit; Provisional
+Accession: cl28051 ID: 355697
+
+423. PHD_SHPRH: PHD finger found in E3 ubiquitin-protein ligase SHPRH
+SHPRH, also termed SNF2, histone-linker, PHD and RING finger domain-containing helicase, belongs to ...
+Accession: cd15547 ID: 277022
+
+424. MDA5_C: C-terminal domain of Melanoma differentiation-associated protein 5, a cytoplasmic viral RNA receptor
+Melanoma differentiation-associated protein 5 (MDA5) is also called Interferon-induced helicase C do...
+Accession: cd15807 ID: 276945
+
+425. CARD_MDA5_r2: Caspase activation and recruitment domain found in MDA5, second repeat
+Caspase activation and recruitment domain (CARD) found in MDA5 (melanoma-differentiation-associated ...
+Accession: cd08819 ID: 260078
+
+426. CARD_MDA5_r1: Caspase activation and recruitment domain found in MDA5, first repeat
+Caspase activation and recruitment domain (CARD) found in MDA5 (melanoma-differentiation-associated ...
+Accession: cd08818 ID: 260077
+
+427. CARD_RIG-I_r2: Caspase activation and recruitment domain found in RIG-I, second repeat
+Caspase activation and recruitment domain (CARD) found in RIG-I (Retinoic acid Inducible Gene I, als...
+Accession: cd08817 ID: 260076
+
+428. CARD_RIG-I_r1: Caspase activation and recruitment domain found in RIG-I, first repeat
+Caspase activation and recruitment domain (CARD) found in RIG-I (Retinoic acid Inducible Gene I, als...
+Accession: cd08816 ID: 260075
+
+429. S1_DHX8_helicase
+S1_DHX8_helicase: The  N-terminal S1 domain of human ATP-dependent RNA helicase DHX8, a DEAH (Asp-Gl...
+Accession: cd05684 ID: 240189
+
+430. Ubiquitin_like_fold: Beta-grasp ubiquitin-like fold
+Ubiquitin is a protein modifier that is involved in various cellular processes including transcripti...
+Accession: cl28922 ID: 391949
+
+431. Parvo_NS1: Parvovirus non-structural protein NS1
+This family also contains the NS2 protein. Parvoviruses encode two non-structural proteins, NS1 and ...
+Accession: cl24009 ID: 390233
+
+432. Cdt1_m: The middle winged helix fold of replication licensing factor Cdt1 binds geminin to inhibit binding of the MCM complex to origins of replication and DNA
+Cdt1 is a replication licensing factor in eukaryotes that recruits the Minichromosome Maintenance Co...
+Accession: cl07443 ID: 385022
+
+433. Cas4_I-A_I-B_I-C_I-D_II-B: CRISPR/Cas system-associated protein Cas4
+CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) and associated Cas proteins compr...
+Accession: cl00641 ID: 382125
+
+434. CarD_CdnL_TRCF: CarD-like/TRCF domain
+CarD is a Myxococcus xanthus protein required for the activation of light- and starvation-inducible ...
+Accession: cl00588 ID: 382094
+
+435. DSRM_DICER: double-stranded RNA binding motif of endoribonuclease Dicer and similar proteins
+Dicer (also known as helicase with RNase motif (HERNA), or helicase MOI) is a double-stranded RNA (d...
+Accession: cd10843 ID: 380680
+
+436. PriA_C: Primosomal protein N C-terminal domain
+This is the C-terminal domain found in PriA DNA helicase, a multifunctional enzyme that mediates the...
+Accession: pfam18074 ID: 380103
+
+437. Sld7_N: Mitochondrial morphogenesis protein SLD7 N-terminal domain
+The initiation of eukaryotic chromosomal DNA replication requires the formation of an active replica...
+Accession: pfam18636 ID: 376062
+
+438. zf-RING_13: RING/Ubox like zinc-binding domain
+This is a zinc binding domain found in nidovirus helicase. It includes includes 12 or 13 conserved C...
+Accession: pfam17977 ID: 375459
+
+439. rRNA_proc-arch: rRNA-processing arch domain
+Mtr4 is the essential RNA helicase, and is an exosome-activating cofactor. This arch domain is carri...
+Accession: pfam13234 ID: 372527
+
+440. OB_NTP_bind: Oligonucleotide/oligosaccharide-binding (OB)-fold
+This family is found towards the C-terminus of the DEAD-box helicases (pfam00270). In these helicase...
+Accession: pfam07717 ID: 369483
+
+441. Peptidase_S29: Hepatitis C virus NS3 protease
+Hepatitis C virus NS3 protein is a serine protease which has a trypsin-like fold. The non-structural...
+Accession: pfam02907 ID: 367242
+
+442. HRDC: HRDC domain
+The HRDC (Helicase and RNase D C-terminal) domain has a putative role in nucleic acid binding. Mutat...
+Accession: pfam00570 ID: 366173
+
+443. SWIB-MDM2: SWIB/MDM2 domain family
+The SWIB/MDM2 protein domain, short for SWI/SNF complex B/MDM2, has been found in both SWI/SNF compl...
+Accession: cl38907 ID: 365783
+
+444. MCM_arch: archaeal MCM protein
+archaeal MCM proteins form a homohexameric ring homologous to the eukaryotic Mcm2-7 helicase and als...
+Accession: cd17761 ID: 350667
+
+445. MCM7: DNA replication licensing factor Mcm7
+Mcm7 is a helicase that play an important role in replication. It is part of the heterohexameric rin...
+Accession: cd17758 ID: 350664
+
+446. MCM6: DNA replication licensing factor Mcm6
+Mcm6 is a helicase that play an important role in replication. It is part of the heterohexameric rin...
+Accession: cd17757 ID: 350663
+
+447. MCM5: DNA replication licensing factor Mcm5
+Mcm5 is a helicase that play an important role in replication. It is part of the heterohexameric rin...
+Accession: cd17756 ID: 350662
+
+448. MCM4: DNA replication licensing factor Mcm4
+Mcm4 is a helicase that play an important role in replication. It is part of the heterohexameric rin...
+Accession: cd17755 ID: 350661
+
+449. MCM3: DNA replication licensing factor Mcm3
+Mcm3 is a helicase that play an important role in replication. It is part of the heterohexameric rin...
+Accession: cd17754 ID: 350660
+
+450. MCM2: DNA replication licensing factor Mcm2
+Mcm2 is a helicase that play an important role in replication. It is part of the heterohexameric rin...
+Accession: cd17753 ID: 350659
+
+451. CD1_tandem: repeat 1 of paired tandem chromodomains
+Repeat 1 of tandem CHRomatin Organization Modifier (chromo) domains, found in CHD (chromodomain heli...
+Accession: cd18660 ID: 349307
+
+452. CD2_tandem: repeat 2 of paired tandem chromodomains
+Repeat 2 of tandem CHRomatin Organization Modifier (chromo) domains, found in CHD (chromodomain heli...
+Accession: cd18659 ID: 349306
+
+453. RING-HC_SpRad8_like: RING finger, HC subclass, found in Schizosaccharomyces pombe DNA repair protein Rad8 (SpRad8) and similar proteins
+SpRad8 is a conserved protein homologous to Saccharomyces cerevisiae DNA repair protein Rad5 and hum...
+Accession: cd16572 ID: 319486
+
+454. Inhibitor_G39P: Loader and inhibitor of phage G40P
+G39P inhibits the initiation of DNA replication by blocking G40P replicative helicase. G39P has a bi...
+Accession: pfam11417 ID: 288299
+
+455. RIG-I_C: C-terminal domain of Retinoic acid-inducible gene (RIG)-I protein, a cytoplasmic viral RNA receptor
+Retinoic acid-inducible gene (RIG)-I protein, also called DEAD box protein 58 (DDX58), is one of thr...
+Accession: cd15805 ID: 276943
+
+456. RLR_C: C-terminal domain of Retinoic acid-inducible gene (RIG)-I-like Receptors
+Retinoic acid-inducible gene (RIG)-I-like Receptors (RLRs) are cytoplasmic RNA receptors that recogn...
+Accession: cd15804 ID: 276942
+
+457. recB: exodeoxyribonuclease V, beta subunit
+The RecBCD holoenzyme is a multifunctional nuclease with potent ATP-dependent exodeoxyribonuclease a...
+Accession: TIGR00609 ID: 273172
+
+458. RRM4_NCL: RNA recognition motif 4 in vertebrate nucleolin
+This subfamily corresponds to the RRM4 of ubiquitously expressed protein nucleolin, also termed prot...
+Accession: cd12406 ID: 240852
+
+459. RRM3_NCL: RNA recognition motif 3 in vertebrate nucleolin
+This subfamily corresponds to the RRM3 of ubiquitously expressed protein nucleolin, also termed prot...
+Accession: cd12405 ID: 240851
+
+460. RRM2_NCL: RNA recognition motif 2 in vertebrate nucleolin
+This subfamily corresponds to the RRM2 of ubiquitously expressed protein nucleolin, also termed prot...
+Accession: cd12404 ID: 240850
+
+461. RRM1_NCL: RNA recognition motif 1 in vertebrate nucleolin
+This subfamily corresponds to the RRM1 of ubiquitously expressed protein nucleolin, also termed prot...
+Accession: cd12403 ID: 240849
+
+462. RRM_eIF4B: RNA recognition motif in eukaryotic translation initiation factor 4B (eIF-4B) and similar proteins
+This subfamily corresponds to the RRM of eIF-4B, a multi-domain RNA-binding protein that has been pr...
+Accession: cd12402 ID: 240848
+
+463. RRM_eIF4H: RNA recognition motif in eukaryotic translation initiation factor 4H (eIF-4H) and similar proteins
+This subfamily corresponds to the RRM of eIF-4H, also termed Williams-Beuren syndrome chromosomal re...
+Accession: cd12401 ID: 240847
+
+464. KOW_Mtr4: KOW_Mtr4 is an inserted domain in Mtr4 globular domain
+Mtr4 is a conserved helicase with a core DExH region that cooperates with the eukaryotic nuclear exo...
+Accession: cd13154 ID: 240518
+
+465. repA
+Hexameric Replicative Helicase RepA.  RepA is encoded by a plasmid, which is found in most Gram nega...
+Accession: cd01125 ID: 238545
+
+466. DnaB_C
+DnaB helicase C terminal domain. The hexameric helicase DnaB unwinds the DNA duplex at the  chromoso...
+Accession: cd00984 ID: 238484
+
+467. PLDc_C_DEXD_like: C-terminal putative phospholipase D-like domain of uncharacterized prokaryotic HKD family nucleases fused to DEAD/DEAH box helicases
+C-terminal putative phospholipase D (PLD)-like domain of uncharacterized prokaryotic HKD family nucl...
+Accession: cd09126 ID: 197224
+
+468. Cas3_I: CRISPR/Cas system-associated protein Cas3
+CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) and associated Cas proteins compr...
+Accession: cd09639 ID: 187770
+
+469. Cdt1_m: The middle winged helix fold of replication licensing factor Cdt1 binds geminin to inhibit binding of the MCM complex to origins of replication and DNA
+Cdt1 is a replication licensing factor in eukaryotes that recruits the Minichromosome Maintenance Co...
+Accession: cd08674 ID: 176571
+
+470. R3H
+R3H domain. The name of the R3H domain comes from the characteristic spacing of the most conserved a...
+Accession: cd02325 ID: 100064
+
+471. Tad: Putative Flp pilus-assembly TadE/G-like
+This is an N-terminal domain on a family of putative Flp pilus-assembly proteins. The exact function...
+Accession: cl29703 ID: 392163
+
+472. DnaB_2: Replication initiation and membrane attachment
+This family consists of several bacterial replication initiation and membrane attachment (DnaB) prot...
+Accession: cl29255 ID: 392032
+
+473. RQC: RQC domain
+This DNA-binding domain is found in the RecQ helicase among others and has a helix-turn-helix struct...
+Accession: cl29183 ID: 392015
+
+474. Sec63: Sec63 Brl domain
+This domain (also known as the Brl domain) is required for assembly of functional endoplasmic reticu...
+Accession: cl22482 ID: 389923
+
+475. HDc
+Metal dependent phosphohydrolases with conserved 'HD' motif
+Accession: cl21469 ID: 389754
+
+476. TrwC: TrwC relaxase
+Relaxases are DNA strand transferases which function during the conjugative cell to cell DNA transfe...
+Accession: cl19905 ID: 388702
+
+477. DndB: DNA-sulfur modification-associated
+This is family of bacterial proteins likely to be necessary for binding to DNA and recognising the m...
+Accession: cl17621 ID: 388434
+
+478. PH-like: Pleckstrin homology-like domain
+The PH-like family includes the PH domain, both the Shc-like and IRS-like PTB domains, the ran-bindi...
+Accession: cl17171 ID: 388408
+
+479. BPSL1549: Burkholderia Lethal Factor 1
+BPSL1549, also suggested to be called Burkholderia lethal factor 1, is a protein of unknown function...
+Accession: cl17160 ID: 388403
+
+480. GINS_A: Alpha-helical domain of GINS complex proteins; Sld5, Psf1, Psf2 and Psf3
+The GINS complex is involved in both initiation and elongation stages of eukaryotic chromosome repli...
+Accession: cl17012 ID: 388376
+
+481. GIY-YIG_SF: GIY-YIG nuclease domain superfamily
+The GIY-YIG nuclease domain superfamily includes a large and diverse group of proteins involved in m...
+Accession: cl15257 ID: 387588
+
+482. MPP_superfamily: metallophosphatase superfamily, metallophosphatase domain
+Metallophosphatases (MPPs), also known as metallophosphoesterases, phosphodiesterases (PDEs), binucl...
+Accession: cl13995 ID: 387346
+
+483. harmonin_N_like: N-terminal protein-binding module of harmonin and similar domains, also known as HHD (harmonin homology domain)
+This domain is found in harmonin, and similar proteins such as delphilin, and whirlin. These are pos...
+Accession: cl11968 ID: 386235
+
+484. Cas6-I-III: CRISPR/Cas system-associated RAMP superfamily protein Cas6
+CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) and associated Cas proteins compr...
+Accession: cl11443 ID: 386115
+
+485. Cdc6_C: Winged-helix domain of essential DNA replication protein Cell division control protein (Cdc6), which mediates DNA binding
+This model characterizes the winged-helix, C-terminal domain of the Cell division control protein (C...
+Accession: cl08520 ID: 385399
+
+486. DnaG_DnaB_bind: DNA primase DnaG DnaB-binding
+Eubacterial DnaG primases interact with several factors to from the replisome. One of these factors ...
+Accession: cl07879 ID: 385263
+
+487. KU
+Ku-core domain; includes the central DNA-binding beta-barrels, polypeptide rings, and the C-terminal...
+Accession: cl02666 ID: 383080
+
+488. DNA_pol_A: Family A polymerase primarily fills DNA gaps that arise during DNA repair, recombination and replication
+DNA polymerase family A, 5'-3' polymerase domain. Family A polymerase functions primarily to fill DN...
+Accession: cl02626 ID: 383059
+
+489. SPRY: SPRY domain
+SPRY domains, first identified in the SP1A kinase of Dictyostelium and rabbit Ryanodine receptor (he...
+Accession: cl02614 ID: 383051
+
+490. Tm-1-like: ATP-binding domain found in plant Tm-1-like (Tm-1L) and similar proteins
+Members of this family have been annotated as UPF0261-domain containing proteins. They are found in ...
+Accession: cl02262 ID: 382904
+
+491. Cas7_I-C: CRISPR/Cas system-associated RAMP superfamily protein Cas7
+CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) and associated Cas proteins compr...
+Accession: cl00803 ID: 382212
+
+492. vWFA
+Von Willebrand factor type A (vWA) domain was originally found in the blood coagulation protein von ...
+Accession: cl00057 ID: 381780
+
+493. BRCT: C-terminal domain of the breast cancer suppressor protein (BRCA1) and related domains
+The BRCT (BRCA1 C-terminus) domain is found within many DNA damage repair and cell cycle checkpoint ...
+Accession: cl00038 ID: 381769
+
+494. HTH_56: Cch helix turn helix domain
+Staphylococcal Cassette Chromosome, or SCC elements, are a family of genomic islands found in S. aur...
+Accession: pfam18662 ID: 380139
+
+495. MID_pPIWI_RE: MID domain of pPIWI_RE
+MID domain of the pPIWI_RE PIWI/Argonaute module. pPIWI_RE is found in a conserved three-gene island...
+Accession: pfam18157 ID: 380127
+
+496. pPIWI_RE_REase: REase associating with pPIWI_RE
+Restriction endonuclease (REase) domain family, found in a conserved three-gene island that also con...
+Accession: pfam18154 ID: 380126
+
+497. HD_6: HD domain
+This HD domain is found at the N-terminus of Cas3 enzymes fused to a helicase domain. This domain is...
+Accession: pfam18019 ID: 380092
+
+498. RecQ_Zn_bind: RecQ zinc-binding
+This domain is the zinc-binding domain of ATP-dependent DNA helicase RecQ.
+Accession: pfam16124 ID: 379773
+
+499. HTH_40: Helix-turn-helix domain
+This presumed domain is found at the C-terminus of a large number of helicase proteins.
+Accession: pfam14493 ID: 379623
+
+500. TerB_N: TerB N-terminal domain
+The TerB_N domain is found N-terminal to TerB, and TerB_C containing proteins. It has a predominantl...
+Accession: pfam13208 ID: 379075
+
+501. DUF4011: Protein of unknown function (DUF4011)
+This family of proteins is found in archaea and bacteria. Many members are annotated as being putati...
+Accession: pfam13195 ID: 379066
+
+502. DUF3320: Protein of unknown function (DUF3320)
+This family is conserved in Proteobacteria and Chlorobi families. Many members are annotated as bein...
+Accession: pfam11784 ID: 378718
+
+503. Z1: Z1 domain
+This uncharacterized domain was identified by Iyer and colleagues. It is found associated with a hel...
+Accession: pfam10593 ID: 378453
+
+504. RQC: RQC domain
+This DNA-binding domain is found in the RecQ helicase among others and has a helix-turn-helix struct...
+Accession: pfam09382 ID: 378173
+
+505. DUF1998: Domain of unknown function (DUF1998)
+This family of proteins are functionally uncharacterized. They are mainly found in helicase proteins...
+Accession: pfam09369 ID: 378167
+
+506. DEAD_assoc: DEAD/H associated
+This domain is found in ATP-dependent helicases as well as a number of hypothetical proteins togethe...
+Accession: pfam08494 ID: 378010
+
+507. DnaG_DnaB_bind: DNA primase DnaG DnaB-binding
+Eubacterial DnaG primases interact with several factors to from the replisome. One of these factors ...
+Accession: pfam08278 ID: 377968
+
+508. DnaI_N: Primosomal protein DnaI N-terminus
+This family represents the N-terminus (approximately 120 residues) of bacterial primosomal DnaI prot...
+Accession: pfam07319 ID: 377814
+
+509. DnaB_2: Replication initiation and membrane attachment
+This family consists of several bacterial replication initiation and membrane attachment (DnaB) prot...
+Accession: pfam07261 ID: 377797
+
+510. DbpA: DbpA RNA binding domain
+This RNA binding domain is found at the C-terminus of a number of DEAD helicase proteins. It is suff...
+Accession: pfam03880 ID: 377150
+
+511. CarD_CdnL_TRCF: CarD-like/TRCF domain
+CarD is a Myxococcus xanthus protein required for the activation of light- and starvation-inducible ...
+Accession: pfam02559 ID: 376818
+
+512. DevR: CRISPR-associated negative auto-regulator DevR/Csa2
+This group of families is one of several protein families that are always found associated with prok...
+Accession: pfam01905 ID: 376656
+
+513. Cas_Cas6: CRISPR associated protein Cas6
+This group of families is one of several protein families that are always found associated with prok...
+Accession: pfam01881 ID: 376642
+
+514. Sld7_C: Sld7 C-terminal domain
+This is an alpha helical domain found at the C-terminal region of Sld7 proteins. Yeast Sld3 and its ...
+Accession: pfam18596 ID: 376022
+
+515. Sld3_N: Sld3 N-terminal domain
+Sld3 is conserved in yeast and fungi, and treslin, also known as Ticrr, has been identified as the f...
+Accession: pfam18523 ID: 375949
+
+516. Cas3_C: Cas3 C-terminal domain
+This is the C-temrinal domain of Cas3 proteins. The C-terminal domain (CTD) is shown to completely w...
+Accession: pfam18395 ID: 375821
+
+517. MCM6_C: MCM6 C-terminal winged-helix domain
+The minichromosome maintenance (Mcm) complex is the replicative helicase in eukaryotic species, that...
+Accession: pfam18263 ID: 375690
+
+518. Knl1_RWD_C: Knl1 RWD C-terminal domain
+This domain is found in Knl1, a sub-unit of the KMN network, present in Homo sapiens. The KMN networ...
+Accession: pfam18210 ID: 375637
+
+519. pPIWI_RE_Y: pPIWI_RE three-gene island domain Y
+Poorly-understood domain observed N-terminal to restriction endonuclease (REase) domain, which is pa...
+Accession: pfam18156 ID: 375594
+
+520. pPIWI_RE_Z: pPIWI RE three-gene island domain Z
+Poorly-understood domain observed N-terminal to DinG-type helicase, which is part of a conserved thr...
+Accession: pfam18155 ID: 375593
+
+521. Suv3_C_1: Suv3 C-terminal domain 1
+This domain is found in Suv3 present in Homo sapiens. Suv3 is an NTP-dependent RNA/DNA helicase that...
+Accession: pfam18147 ID: 375588
+
+522. TFA2_Winged_2: TFA2 Winged helix domain 2
+This is the second winged helix domain can be found in TFA2 proteins present in Saccharomyces cerevi...
+Accession: pfam18121 ID: 375569
+
+523. RIG-I_C: RIG-I receptor C-terminal domain
+This is the C-terminal domain of Innate Immune Pattern-Recognition Receptor RIG-I present in homo sa...
+Accession: pfam18119 ID: 375568
+
+524. Suv3_N: Suv3 helical N-terminal domain
+This is the N-terminal domain of Suv3 present in Homo sapiens. Suv3 is an NTP-dependent RNA/DNA heli...
+Accession: pfam18114 ID: 375563
+
+525. Rol_Rep_N: Rolling Circle replication initiation protein N-terminal domain
+This is the N-terminal domain of the Rolling Circle Replication Initiator Protein (Rep) from Geobaci...
+Accession: pfam18106 ID: 375555
+
+526. Bac_RepA_C: Replication initiator protein A C-terminal domain
+This is the C-terminal domain (CTD) that can be found in the conserved replication initiator, RepA,e...
+Accession: pfam18008 ID: 375483
+
+527. zf_Rg: Reverse gyrase zinc finger
+This is the N-terminal zinc finger domain present in reverse gyrase proteins. Most reverse gyrases c...
+Accession: pfam17915 ID: 375426
+
+528. Rep_1B: Replicase polyprotein 1ab
+This entry relates to a regulatory domain found in replicase polyprotein 1ab found in Arterivirus. S...
+Accession: pfam17873 ID: 375396
+
+529. TIP49_C: TIP49 AAA-lid domain
+This family consists of the C-terminal region of several eukaryotic and archaeal RuvB-like 1 (Pontin...
+Accession: pfam17856 ID: 375384
+
+530. GFD1: GFD1 mRNA transport factor
+Following transcription, mRNA is processed, packaged into messenger ribonucleoprotein (mRNP) particl...
+Accession: pfam17331 ID: 375134
+
+531. TFB6: Subunit 11 of the general transcription factor TFIIH
+TFB6 is a family of fungal proteins that form the 11th subunit of the general transcription factor T...
+Accession: pfam17110 ID: 374994
+
+532. CARD_2: Caspase recruitment domain
+In the probable ATP-dependent RNA helicase DDX58 this CARD domain is found near the N-terminus and i...
+Accession: pfam16739 ID: 374766
+
+533. NTR2: Nineteen complex-related protein 2
+NTR2 or Nineteen complex-related protein 2 is a family of largely fungal and plant proteins that for...
+Accession: pfam15458 ID: 373862
+
+534. DUF4217: Domain of unknown function (DUF4217)
+This short domain is found at the C-terminus of many helicase proteins.
+Accession: pfam13959 ID: 372842
+
+535. DUF4208: Domain of unknown function (DUF4208)
+This domain is found at the C-terminus of chromodomain-helicase-DNA-binding proteins. The exact func...
+Accession: pfam13907 ID: 372803
+
+536. SEN1_N: SEN1 N terminal
+This domain is found at the N terminal of the helicase SEN1. SEN1 is a Pol II termination factor for...
+Accession: pfam12726 ID: 372274
+
+537. Dna2: DNA replication factor Dna2
+Dna2 is a DNA replication factor with single-stranded DNA-dependent ATPase, ATP-dependent nuclease, ...
+Accession: pfam08696 ID: 370071
+
+538. GUCT: GUCT (NUC152) domain
+This is the C terminal domain found in the RNA helicase II / Gu protein family.
+Accession: pfam08152 ID: 369716
+
+539. BDHCT: BDHCT (NUC031) domain
+This is a C-terminal domain in Bloom's syndrome DEAD helicase subfamily.
+Accession: pfam08072 ID: 369682
+
+540. SecA_DEAD: SecA DEAD-like domain
+SecA protein binds to the plasma membrane where it interacts with proOmpA to support translocation o...
+Accession: pfam07517 ID: 369399
+
+541. Phage_lambda_P: Replication protein P
+This family consists of several Bacteriophage lambda replication protein P like proteins. The bacter...
+Accession: pfam06992 ID: 369163
+
+542. DUF1086: Domain of Unknown Function (DUF1086)
+This family consists of several eukaryotic domains of unknown function which are present in chromodo...
+Accession: pfam06461 ID: 368921
+
+543. TIP49: TIP49 C-terminus
+This family consists of the C-terminal region of several eukaryotic and archaeal RuvB-like 1 (Pontin...
+Accession: pfam06068 ID: 368730
+
+544. DUF29: Domain of unknown function DUF29
+This family consists of various hypothetical proteins from cyanobacteria, none of which are function...
+Accession: pfam01724 ID: 366774
+
+545. tRNA_anti-codon: OB-fold nucleic acid binding domain
+This family contains OB-fold domains that bind to nucleic acids. The family includes the anti-codon ...
+Accession: pfam01336 ID: 366580
+
+546. Parvo_NS1: Parvovirus non-structural protein NS1
+This family also contains the NS2 protein. Parvoviruses encode two non-structural proteins, NS1 and ...
+Accession: pfam01057 ID: 366441
+
+547. zf-CHC2: CHC2 zinc finger
+This domain is principally involved in DNA binding in DNA primases.
+Accession: cl21601 ID: 354885
+
+548. DUF927: Domain of unknown function (DUF927)
+Family of bacterial proteins of unknown function. The C-terminal half of this family contains a P-lo...
+Accession: cl12098 ID: 353359
+
+549. Tm-1-like: ATP-binding domain found in plant Tm-1-like (Tm-1L) and similar proteins
+Members of this family have been annotated as UPF0261-domain containing proteins. They are found in ...
+Accession: cd15488 ID: 350626
+
+550. SWIB_like: SWIB domain found in the 60 kda subunit of the ATP-dependent SWI/SNF chromatin-remodeling complexes and similar proteins
+SWIB domain is a conserved region found within proteins in the SWI/SNF family of complexes. SWI/SNF ...
+Accession: cd10568 ID: 349490
+
+551. SWIB-MDM2: SWIB/MDM2 domain family
+The SWIB/MDM2 protein domain, short for SWI/SNF complex B/MDM2, has been found in both SWI/SNF compl...
+Accession: cd00855 ID: 349487
+
+552. BRCT: C-terminal domain of the breast cancer suppressor protein (BRCA1) and related domains
+The BRCT (BRCA1 C-terminus) domain is found within many DNA damage repair and cell cycle checkpoint ...
+Accession: cd00027 ID: 349339
+
+553. CD_CSD: CHROMO (CHRromatin Organization Modifier) domains and chromo shadow domains
+Members of this group are chromodomains or chromo shadow domains; these are SH3-fold-beta-barrel dom...
+Accession: cd00024 ID: 349274
+
+554. Ubl_SLD2_Esc2_like: SUMO-like domain 2 (SLD2), structurally similar to a beta-grasp ubiquitin-like fold, found in Saccharomyces cerevisiae establishes silent chromatin protein 2 (Esc2p) and similar proteins
+Protein Esc2p belongs to the eukaryotic-specific Rad60-Esc2-Nip45 (RENi) protein family, whose membe...
+Accession: cd17080 ID: 340600
+
+555. Ubl_WDR48: Ubiquitin-like (Ubl) domain found in WD repeat-containing protein 48 (WDR48) and similar proteins
+WDR48, also termed USP1-associated factor 1 (UAF1), or WD repeat endosomal protein, or p80, is requi...
+Accession: cd17041 ID: 340561
+
+556. DUF927: Domain of unknown function (DUF927)
+Family of bacterial proteins of unknown function. The C-terminal half of this family contains a P-lo...
+Accession: pfam06048 ID: 336282
+
+557. CNF1_CheD_YfiH-like: cytotoxic necrotizing factor 1 (CNF1), chemotaxis protein CheD and YfiH (DUF152) are distant homologs
+This family contains distant homologs that include cytotoxic necrotizing factor 1 (CNF1), chemotaxis...
+Accession: cl28892 ID: 333712
+
+558. FYVE_like_SF: FYVE domain like superfamily
+FYVE domain is a 60-80 residue double zinc finger motif-containing module named after the four prote...
+Accession: cl28890 ID: 333710
+
+559. EFh_SPARC_EC: EF-hand, extracellular calcium-binding (EC) motif, found in secreted protein acidic and rich in cysteine (SPARC)-like proteins
+The SPARC protein family represents a diverse group of proteins that share a follistatin-like (FS) d...
+Accession: cl25349 ID: 330171
+
+560. EFh_SPARC_TICN1: EF-hand, extracellular calcium-binding (EC) motif, found in testican-1 (TICN1)
+TICN1, also termed protein SPOCK, or SPARC/osteonectin, CWCV, and Kazal-like domains proteoglycan 1 ...
+Accession: cd16237 ID: 320016
+
+561. SP-RING_PIAS1: SP-RING finger found in protein inhibitor of activated STAT protein 1 (PIAS1) and similar proteins
+PIAS1, also known as DEAD/H box-binding protein 1, Gu-binding protein (GBP), or RNA helicase II-bind...
+Accession: cd16818 ID: 319732
+
+562. CNF1-like: cytotoxic necrotizing factor 1 (CNF1) and similar proteins
+This subfamily contains Rho-activating toxins cytotoxic necrotizing factor 1 (CNF1) and dermonecroti...
+Accession: cd16834 ID: 319355
+
+563. SPRY_SOCS1-2-4: SPRY domain in the suppressor of cytokine signaling 1, 2, 4 families (SOCS1, SOCS2, SOCS4)
+The SPRY domain-containing SOCS box protein family (SPSB1-4, also known as SSB-1 to -4) is composed ...
+Accession: cd12906 ID: 293963
+
+564. NPHI_C: Nucleoside triphosphatase I C-terminal
+This viral domain is found to the C-terminus of Poxvirus nucleoside triphosphatase phosphohydrolase ...
+Accession: pfam08469 ID: 285643
+
+565. Baculo_LEF-3: Nucleopolyhedrovirus late expression factor 3 (LEF-3)
+This family consists of LEF-3 Nucleopolyhedrovirus late expression factor 3 (LEF-3) sequences which ...
+Accession: pfam05847 ID: 283501
+
+566. ADDz_ATRX: ADDz domain found in ATRX (alpha-thalassemia/mental retardation, X-linked)
+ADDz_ATRX is a PHD-like zinc finger domain of ATRX, which belongs to the SNF2 family of chromatin re...
+Accession: cd11726 ID: 277252
+
+567. LGP2_C: C-terminal domain of Laboratory of Genetics and Physiology 2 (LGP2), a cytoplasmic viral RNA receptor
+Laboratory of Genetics and Physiology 2 (LGP2) is one of three members of the RIG-I-like Receptor (R...
+Accession: cd15806 ID: 276944
+
+568. RLR_C_like: C-terminal domain of Retinoic acid-inducible gene (RIG)-I-like Receptors, Cereblon (CRBN), and similar protein domains
+Retinoic acid-inducible gene (RIG)-I-like Receptors (RLRs) are cytoplasmic RNA receptors that recogn...
+Accession: cd15803 ID: 276941
+
+569. cas_Cpf1: CRISPR-associated protein Cpf1, subtype PREFRAN
+This family is the long protein of a novel CRISPR subtype, PREFRAN, which is most common in Prevotel...
+Accession: TIGR04330 ID: 275131
+
+570. P_estr_lig_assc: metallophosphoesterase, DNA ligase-associated
+Members of this protein family are an uncharacterized putative metallophosphoesterase associated wit...
+Accession: TIGR04123 ID: 274996
+
+571. Xnuc_lig_assoc: putative exonuclease, DNA ligase-associated
+Members of this protein family frequently are found annotated as a putative exonuclease involved in ...
+Accession: TIGR04122 ID: 274995
+
+572. DNA_lig_bact: DNA ligase, ATP-dependent, PP_1105 family
+This model describes a family of ATP-dependent DNA ligases present in about 12 % of prokaryotic geno...
+Accession: TIGR04120 ID: 274993
+
+573. DGQHR: DGQHR domain
+This highly divergent, uncharacterized domain has several absolutely conserved residues, including a...
+Accession: TIGR03187 ID: 274476
+
+574. TraA_Ti: Ti-type conjugative transfer relaxase TraA
+This protein contains domains distinctive of a single strand exonuclease (N-terminus, MobA/MobL, pfa...
+Accession: TIGR02768 ID: 274289
+
+575. TraI_TIGR: conjugative transfer relaxase protein TraI
+This protein is a component of the relaxosome complex. In the process of conjugative plasmid transfe...
+Accession: TIGR02760 ID: 274285
+
+576. relax_trwC: conjugative relaxase domain, TrwC/TraI family
+This domain is in the N-terminal (relaxase) region of TrwC, a relaxase-helicase that acts in plasmid...
+Accession: TIGR02686 ID: 274258
+
+577. cas3_HD: CRISPR-associated endonuclease Cas3-HD
+CRISPR/Cas systems are widespread, mobile systems for host defense against invasive elements such as...
+Accession: TIGR01596 ID: 273711
+
+578. rgy: reverse gyrase
+This model describes reverse gyrase, found in both archaeal and bacterial thermophiles. This enzyme,...
+Accession: TIGR01054 ID: 273418
+
+579. cas4: CRISPR-associated protein Cas4
+This model represents a family of proteins associated with CRISPR repeats in a wide set of prokaryot...
+Accession: TIGR00372 ID: 273040
+
+580. PH_TFIIH: Transcription Factor II H (TFIIH) Pleckstrin homology (PH) domain
+The transcription factor II H (TFIIH) is one of the general transcription factors (GTFs) known to be...
+Accession: cd13229 ID: 270049
+
+581. CARD_IPS-1_RIG-I: Caspase activation and recruitment domains (CARDs) found in IPS-1 and RIG-I-like RNA helicases
+Caspase activation and recruitment domains (CARDs) found in IPS-1 (Interferon beta promoter stimulat...
+Accession: cd08789 ID: 260057
+
+582. RRM_EcCsdA_like: RNA recognition motif in Escherichia coli cold-shock DEAD box protein A (CsdA) and similar proteins
+This subgroup corresponds to the C-terminal RRM homology domain of E. coli CsdA, also termed ATP-dep...
+Accession: cd12499 ID: 240943
+
+583. RRM_G3BP1: RNA recognition motif found in ras GTPase-activating protein-binding protein 1 (G3BP1) and similar proteins
+This subgroup corresponds to the RRM of G3BP1, also termed ATP-dependent DNA helicase VIII (DH VIII)...
+Accession: cd12463 ID: 240909
+
+584. PTZ00110
+helicase; Provisional
+Accession: PTZ00110 ID: 240273
+
+585. SoSSB_OBF
+SoSSB_OBF: A subfamily of OB folds similar to the OB fold of the crenarchaeote Sulfolobus solfataric...
+Accession: cd04491 ID: 239937
+
+586. RecG_wedge_OBF
+RecG_wedge_OBF: A subfamily of OB folds corresponding to the OB fold found in the N-terminal (wedge)...
+Accession: cd04488 ID: 239934
+
+587. S1_RNase_E
+S1_RNase_E: RNase E and RNase G, S1-like RNA-binding domain. RNase E is an essential endoribonucleas...
+Accession: cd04453 ID: 239900
+
+588. RPA2_OBF_family
+RPA2_OBF_family: A family of oligonucleotide binding (OB) folds with similarity to the OB fold of th...
+Accession: cd03524 ID: 239601
+
+589. vWA_transcription_factor_IIH_type
+Transcription factors IIH type: TFIIH is a multiprotein complex that is one of the five general tran...
+Accession: cd01453 ID: 238730
+
+590. rho_factor
+Transcription termination factor rho is a bacterial ATP-dependent RNA/DNA helicase. It is a homohexa...
+Accession: cd01128 ID: 238548
+
+591. GP4d_helicase
+GP4d_helicase is a homohexameric 5'-3' helicases. Helicases couple NTP hydrolysis to the unwinding o...
+Accession: cd01122 ID: 238542
+
+592. PRK14712
+conjugal transfer nickase/helicase TraI; Provisional
+Accession: PRK14712 ID: 237796
+
+593. PRK13767
+ATP-dependent helicase; Provisional
+Accession: PRK13767 ID: 237497
+
+594. PRK13709
+conjugal transfer nickase/helicase TraI; Provisional
+Accession: PRK13709 ID: 237478
+
+595. PRK11776
+ATP-dependent RNA helicase DbpA; Provisional
+Accession: PRK11776 ID: 236977
+
+596. uvrD
+DNA-dependent helicase II; Provisional
+Accession: PRK11773 ID: 236976
+
+597. dinG
+ATP-dependent DNA helicase DinG; Provisional
+Accession: PRK11747 ID: 236966
+
+598. PRK11664
+ATP-dependent RNA helicase HrpB; Provisional
+Accession: PRK11664 ID: 236950
+
+599. PRK11634
+ATP-dependent RNA helicase DeaD; Provisional
+Accession: PRK11634 ID: 236941
+
+600. PRK11192
+ATP-dependent RNA helicase SrmB; Provisional
+Accession: PRK11192 ID: 236877
+
+601. PRK10917
+ATP-dependent DNA helicase RecG; Provisional
+Accession: PRK10917 ID: 236794
+
+602. PRK10590
+ATP-dependent RNA helicase RhlE; Provisional
+Accession: PRK10590 ID: 236722
+
+603. PRK08506
+replicative DNA helicase; Provisional
+Accession: PRK08506 ID: 236278
+
+604. PRK08074
+bifunctional ATP-dependent DNA helicase/DNA polymerase III subunit epsilon; Validated
+Accession: PRK08074 ID: 236148
+
+605. PRK07773
+replicative DNA helicase; Validated
+Accession: PRK07773 ID: 236093
+
+606. PRK07004
+replicative DNA helicase; Provisional
+Accession: PRK07004 ID: 235907
+
+607. PRK05595
+replicative DNA helicase; Provisional
+Accession: PRK05595 ID: 235525
+
+608. PRK04837
+ATP-dependent RNA helicase RhlB; Provisional
+Accession: PRK04837 ID: 235314
+
+609. PRK04537
+ATP-dependent RNA helicase RhlB; Provisional
+Accession: PRK04537 ID: 235307
+
+610. PRK01297
+ATP-dependent RNA helicase RhlB; Provisional
+Accession: PRK01297 ID: 234938
+
+611. PRK00254
+ski2-like helicase; Provisional
+Accession: PRK00254 ID: 234702
+
+612. PHA03311
+helicase-primase subunit BBLF4; Provisional
+Accession: PHA03311 ID: 223040
+
+613. PHA03144
+helicase-primase primase subunit; Provisional
+Accession: PHA03144 ID: 223000
+
+614. PHA03142
+helicase-primase primase subunit BSLF1; Provisional
+Accession: PHA03142 ID: 222999
+
+615. PHA03140
+helicase-primase primase subunit; Provisional
+Accession: PHA03140 ID: 222998
+
+616. PHA03119
+helicase-primase primase subunit; Provisional
+Accession: PHA03119 ID: 222991
+
+617. uvsW
+UvsW helicase; Provisional
+Accession: PHA02558 ID: 222875
+
+618. 41
+41 helicase; Provisional
+Accession: PHA02542 ID: 222864
+
+619. PLN03137
+ATP-dependent DNA helicase; Q4-like; Provisional
+Accession: PLN03137 ID: 215597
+
+620. PLN00206
+DEAD-box ATP-dependent RNA helicase; Provisional
+Accession: PLN00206 ID: 215103
+
+621. CarD_TRCF: CarD-like/TRCF domain
+CarD is a Myxococcus xanthus protein required for the activation of light- and starvation-inducible ...
+Accession: smart01058 ID: 215001
+
+622. Sec63: Sec63 Brl domain
+This domain was named after the yeast Sec63 (or NPL1) (also known as the Brl domain) protein in whic...
+Accession: smart00973 ID: 214946
+
+623. SecA_DEAD: SecA DEAD-like domain
+SecA protein binds to the plasma membrane where it interacts with proOmpA to support translocation o...
+Accession: smart00957 ID: 214937
+
+624. 35EXOc: 3'-5' exonuclease
+3\' -5' exonuclease proofreading domain present in DNA polymerase I, Werner syndrome helicase, RNase...
+Accession: smart00474 ID: 214681
+
+625. BPSL1549: Burkholderia Lethal Factor 1
+BPSL1549, also suggested to be called Burkholderia lethal factor 1, is a protein of unknown function...
+Accession: cd12812 ID: 214010
+
+626. lambda-1: inner capsid protein lambda-1 or VP3
+The reovirus inner capsid protein lambda-1 displays nucleoside triphosphate phosphohydrolase (NTPase...
+Accession: cd11674 ID: 212564
+
+627. GINS_A: Alpha-helical domain of GINS complex proteins; Sld5, Psf1, Psf2 and Psf3
+The GINS complex is involved in both initiation and elongation stages of eukaryotic chromosome repli...
+Accession: cd11581 ID: 212547
+
+628. GIY-YIG_HE_Tlr8p_PBC-V_like: GIY-YIG domain of uncharacterized hypothetical protein found in phycodnavirus PBCV-1 DNA virus, T. thermophila Tlr element eoncoding protein Tlr8p, and similar proteins found in bacteria
+The family includes a group of diverse uncharacterized hypothetical proteins with a GIY-YIG domain t...
+Accession: cd10443 ID: 198390
+
+629. PLDc_Bfil_DEXD_like: Catalytic domain of type II restriction endonucleases BfiI and NgoFVII, and uncharacterized proteins with a DEAD domain
+Catalytic domain of type II restriction endonucleases BfiI and NgoFVII, uncharacterized type III res...
+Accession: cd09117 ID: 197216
+
+630. Cas3_Cas2_I-F: CRISPR/Cas system-associated protein Cas3/Cas2
+CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) and associated Cas proteins compr...
+Accession: cd09673 ID: 187804
+
+631. PTZ00424
+helicase 45; Provisional
+Accession: PTZ00424 ID: 185609
+
+632. PRK11131
+ATP-dependent RNA helicase HrpA; Provisional
+Accession: PRK11131 ID: 182986
+
+633. PRK11057
+ATP-dependent DNA helicase RecQ; Provisional
+Accession: PRK11057 ID: 182933
+
+634. helD
+DNA helicase IV; Provisional
+Accession: PRK11054 ID: 182930
+
+635. PRK10919
+ATP-dependent DNA helicase Rep; Provisional
+Accession: PRK10919 ID: 182838
+
+636. PRK09165
+replicative DNA helicase; Provisional
+Accession: PRK09165 ID: 181676
+
+637. PRK08840
+replicative DNA helicase; Provisional
+Accession: PRK08840 ID: 181562
+
+638. PRK08760
+replicative DNA helicase; Provisional
+Accession: PRK08760 ID: 181547
+
+639. PRK07246
+bifunctional ATP-dependent DNA helicase/DNA polymerase III subunit epsilon; Validated
+Accession: PRK07246 ID: 180905
+
+640. PRK06321
+replicative DNA helicase; Provisional
+Accession: PRK06321 ID: 180528
+
+641. PRK05748
+replicative DNA helicase; Provisional
+Accession: PRK05748 ID: 180232
+
+642. PRK05636
+replicative DNA helicase; Provisional
+Accession: PRK05636 ID: 180177
+
+643. PHA03312
+helicase-primase subunit BBLF2/3; Provisional
+Accession: PHA03312 ID: 177582
+
+644. PHA03146
+helicase-primase primase subunit; Provisional
+Accession: PHA03146 ID: 177543
+
+645. PHA03141
+helicase-primase primase subunit; Provisional
+Accession: PHA03141 ID: 177540
+
+646. PHA02653
+RNA helicase NPH-II; Provisional
+Accession: PHA02653 ID: 177443
+
+647. WRN_exo: DEDDy 3'-5' exonuclease domain of WRN and similar proteins
+WRN is a unique RecQ DNA helicase exhibiting an exonuclease activity. It contains a DEDDy-type DnaQ-...
+Accession: cd06141 ID: 176653
+
+648. RNaseD_like: DEDDy 3'-5' exonuclease domain of RNase D, WRN, and similar proteins
+The RNase D-like group is composed of RNase D, WRN, and similar proteins. They contain a DEDDy-type,...
+Accession: cd06129 ID: 176650
+
+649. Cdc6_C: Winged-helix domain of essential DNA replication protein Cell division control protein (Cdc6), which mediates DNA binding
+This model characterizes the winged-helix, C-terminal domain of the Cell division control protein (C...
+Accession: cd08768 ID: 176573
+
+650. DNA_pol_A_theta: DNA polymerase theta is a low-fidelity family A enzyme implicated in translesion synthesis and in somatic hypermutation
+DNA polymerase theta is a low-fidelity family A enzyme implicated in translesion synthesis (TLS) and...
+Accession: cd08638 ID: 176475
+
+651. PRK06749
+replicative DNA helicase; Provisional
+Accession: PRK06749 ID: 168658
+
+652. PRK05973
+replicative DNA helicase; Provisional
+Accession: PRK05973 ID: 168322
+
+653. PHA03181
+helicase-primase primase subunit; Provisional
+Accession: PHA03181 ID: 165452
+
+654. PHA03180
+helicase-primase primase subunit; Provisional
+Accession: PHA03180 ID: 165451
+
+655. PHA03145
+helicase-primase primase subunit; Provisional
+Accession: PHA03145 ID: 165416
+
+656. PHA03139
+helicase-primase primase subunit; Provisional
+Accession: PHA03139 ID: 165411
+
+657. rho: transcription termination factor Rho
+This RNA helicase, the transcription termination factor Rho, occurs in nearly all bacteria but is mi...
+Accession: TIGR00767 ID: 162030
+
+658. PRK09751
+putative ATP-dependent helicase Lhr; Provisional
+Accession: PRK09751 ID: 137505
+
+659. PRK06904
+replicative DNA helicase; Validated
+Accession: PRK06904 ID: 136106
+
+660. dnaQ_proteo: DNA polymerase III, epsilon subunit, Proteobacterial
+This model represents DnaQ, the DNA polymerase III epsilon subunit, as found in most Proteobacteria....
+Accession: TIGR01406 ID: 130473
+
+661. Ku78: Ku70 and Ku80 are 70kDa and 80kDa subunits of the Lupus Ku autoantigen
+This is a single stranded DNA- and ATP-depedent helicase that has a role in chromosome translocation...
+Accession: smart00559 ID: 128831
+
+662. R3H_DEXH_helicase
+R3H domain of a group of proteins which also contain a DEXH-box helicase domain, and may function as...
+Accession: cd06007 ID: 100077
+
+663. R3H_Smubp-2_like
+R3H domain of Smubp-2_like proteins.  Smubp-2_like proteins also contain a helicase_like and an AN1-...
+Accession: cd02641 ID: 100070

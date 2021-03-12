@@ -1,0 +1,412 @@
+
+1. rve: Integrase core domain
+Integrase mediates integration of a DNA copy of the viral genome into the host chromosome. Integrase...
+Accession: cl21549 ID: 389805
+
+2. DNA_BRE_C: DNA breaking-rejoining enzymes, C-terminal catalytic domain
+The DNA breaking-rejoining enzyme superfamily includes type IB topoisomerases and tyrosine based sit...
+Accession: cl00213 ID: 381866
+
+3. Arm-DNA-bind_1: Bacteriophage lambda integrase, Arm DNA-binding domain
+The amino terminal domain of bacteriophage lambda integrase folds into a three-stranded, antiparalle...
+Accession: pfam09003 ID: 370236
+
+4. Integrase_Zn: Integrase Zinc binding domain
+Integrase mediates integration of a DNA copy of the viral genome into the host chromosome. Integrase...
+Accession: pfam02022 ID: 366880
+
+5. rve: Integrase core domain
+Integrase mediates integration of a DNA copy of the viral genome into the host chromosome. Integrase...
+Accession: pfam00665 ID: 366234
+
+6. IN_DBD_C: Integrase DNA binding domain
+Integrase mediates integration of a DNA copy of the viral genome into the host chromosome. Integrase...
+Accession: pfam00552 ID: 366160
+
+7. INT_IntI_C: Integron integrase and similar protiens, C-terminal catalytic domain
+Integron integrases mediate site-specific DNA recombination between a proximal primary site (attI) a...
+Accession: cd01193 ID: 271193
+
+8. INT_P4_C: Bacteriophage P4 integrase, C-terminal catalytic domain
+P4-like integrases are found in temperate bacteriophages, integrative plasmids, pathogenicity and sy...
+Accession: cd00801 ID: 271182
+
+9. integrase_gron: integron integrase
+Members of this family are integrases associated with integrons (and super-integrons), which are sys...
+Accession: TIGR02249 ID: 131303
+
+10. Phage_int_SAM_3: Phage integrase, N-terminal SAM-like domain
+This domain is found in a variety of phage integrase proteins.
+Accession: cl29123 ID: 391995
+
+11. PHINT_rpt: Phage-integrase repeat unit
+This repeat family is found on phage-integrase proteins in up to 15 copies. The function is not know...
+Accession: pfam14882 ID: 379711
+
+12. Phage_int_SAM_3: Phage integrase, N-terminal SAM-like domain
+This domain is found in a variety of phage integrase proteins.
+Accession: pfam14659 ID: 379665
+
+13. MLVIN_C: Murine leukemia virus (MLV) integrase (IN) C-terminal domain
+This is the C-terminal domain (CTD) which can be found in murine leukemia virus (MLV) integrase (IN)...
+Accession: pfam18697 ID: 376121
+
+14. SH3_11: Retroviral integrase C-terminal SH3 domain
+This is the carboxy-terminal domain (CTD) found in retroviral integrase, an essential retroviral enz...
+Accession: pfam18103 ID: 375552
+
+15. Integrase_H2C2: Integrase zinc binding domain
+This zinc binding domain is found in a wide variety of integrase proteins.
+Accession: pfam17921 ID: 375431
+
+16. gag_pre-integrs: GAG-pre-integrase domain
+This domain is found associated with retroviral insertion elements and lies just upstream of the int...
+Accession: pfam13976 ID: 372857
+
+17. INT_FimBE_like: FimB and FimE and related proteins, integrase/recombinases
+This CD includes proteins similar to E.coli FimE and FimB and Proteus mirabilis MrpI. FimB and FimE ...
+Accession: cd01197 ID: 271197
+
+18. INT_Lambda_C: C-terminal catalytic domain of Lambda integrase, a tyrosine-based site-specific recombinase
+Lambda-type integrases catalyze site-specific integration and excision of temperate bacteriophages a...
+Accession: cd00800 ID: 271181
+
+19. INT_Rci_Hp1_C: Shufflon-specific DNA recombinase Rci and Bacteriophage Hp1_like integrase, C-terminal catalytic domain
+Rci protein is a tyrosine recombinase specifically involved in Shufflon type of DNA rearrangement in...
+Accession: cd00796 ID: 271177
+
+20. rve_3: Integrase core domain
+
+Accession: cl22978 ID: 389996
+
+21. Phage_int_SAM_1: Phage integrase, N-terminal SAM-like domain
+FliZ is involved in the regulation of flagellar assembly and possibly also the down-regulation of th...
+Accession: cl12235 ID: 386292
+
+22. Phage_int_SAM_5: Phage integrase SAM-like domain
+A family of uncharacterized proteins found by clustering human gut metagenomic sequences. This famil...
+Accession: pfam13102 ID: 379036
+
+23. Phage_Integr_2: Putative phage integrase
+This family is found in association with IS elements.
+Accession: pfam13009 ID: 379019
+
+24. Integrase_DNA: DNA binding domain of tn916 integrase
+
+Accession: pfam02920 ID: 376963
+
+25. Phage_int_SAM_6: Phage integrase SAM-like domain
+Xer recombinases are members of the tyrosine site-specific recombinase superfamily, a large group of...
+Accession: pfam18644 ID: 376070
+
+26. Phage_integr_3: Archaeal phage integrase
+catalyzes cleavage and ligation of DNA.
+Accession: pfam16795 ID: 374808
+
+27. rve_3: Integrase core domain
+
+Accession: pfam13683 ID: 372671
+
+28. rve_2: Integrase core domain
+
+Accession: pfam13333 ID: 372570
+
+29. Integrase_1: Integrase
+This is a family of DNA-binding prophage integrases found in Proteobacteria.
+Accession: pfam12835 ID: 372340
+
+30. Phage_int_SAM_2: Phage integrase, N-terminal
+This is a family of DNA-binding prophage integrases. It is found largely in Proteobacteria.
+Accession: pfam12834 ID: 372339
+
+31. DUF3701: Phage integrase protein
+This domain family is found in bacteria, and is approximately 100 amino acids in length. The family ...
+Accession: pfam12482 ID: 372139
+
+32. Phage_int_SAM_1: Phage integrase, N-terminal SAM-like domain
+
+Accession: pfam02899 ID: 367238
+
+33. Phage_int_SAM_4: Phage integrase, N-terminal SAM-like domain
+
+Accession: pfam13495 ID: 338776
+
+34. Phage_integrase: Phage integrase family
+Members of this family cleave DNA substrates by a series of staggered cuts, during which the protein...
+Accession: pfam00589 ID: 334163
+
+35. INTN1_C_like: Integrase IntN1 of Bacteroides mobilizable transposon NBU1 and similar proteins, C-terminal catalytic domain
+IntN1 is a tyrosine recombinase for the integration and excision of Bacteroides mobilizable transpos...
+Accession: cd01185 ID: 271185
+
+36. INT_Cre_C: C-terminal catalytic domain of Cre recombinase (also called integrase)
+Cre-like recombinases are tyrosine based site specific recombinases. They belong to the superfamily ...
+Accession: cd00799 ID: 271180
+
+37. COG2452: Predicted site-specific integrase-resolvase  [Mobilome: prophages, transposons]
+
+Accession: COG2452 ID: 225296
+
+38. XerC: Integrase [Replication, recombination and repair, Mobilome: prophages, transposons]
+
+Accession: COG0582 ID: 223655
+
+39. PRK15417: integron integrase
+
+Accession: PRK15417 ID: 185315
+
+40. PRK02944: YidC family membrane integrase SpoIIIJ
+
+Accession: PRK02944 ID: 179508
+
+41. CD_CSD: CHROMO (CHRromatin Organization Modifier) domains and chromo shadow domains
+Members of this group are chromodomains or chromo shadow domains; these are SH3-fold-beta-barrel dom...
+Accession: cl28914 ID: 391946
+
+42. pepsin_retropepsin_like: Cellular and retroviral pepsin-like aspartate proteases
+This family includes both cellular and retroviral pepsin-like aspartate proteases. The cellular peps...
+Accession: cl11403 ID: 386101
+
+43. PIN_SF: PIN (PilT N terminus) domain: Superfamily
+The PIN (PilT N terminus) domain belongs to a large nuclease superfamily, and were originally named ...
+Accession: cl28905 ID: 391943
+
+44. LEDGF: Lens epithelium-derived growth factor (LEDGF)
+LEDGF is a chromatin-associated protein that protects cells from stress-induced apoptosis. It is the...
+Accession: pfam11467 ID: 371545
+
+45. CD_POL_like: chromodomain of a Zea maize putative metaviridae (gypsy-type) retrotransposon polyproteins (Z195D10.9), and similar proteins
+This subgroup includes the CHROMO (CHRromatin Organization Modifier) domain found in Zea maize Z195D...
+Accession: cd18979 ID: 349335
+
+46. CD_POL_like: chromodomain of a Rhizoctonia solani AG-3 Rhs1AP polyprotein, and similar proteins
+This subgroup includes the CHROMO (CHRromatin Organization Modifier) domain found in a Rhizoctonia s...
+Accession: cd18977 ID: 349333
+
+47. CD_MarY1_POL_like: chromodomain of Tricholoma matsutake polyprotein, and similar proteins
+This subgroup includes the CHROMO (CHRromatin Organization Modifier) domain found in the polyprotein...
+Accession: cd18975 ID: 349331
+
+48. CD_POL_like: chromodomain of Penicillium solitum protein PENSOL_c198G03123
+This subgroup includes the CHROMO (CHRromatin Organization Modifier) domain found in Penicillium sol...
+Accession: cd18974 ID: 349330
+
+49. CD_Tf2-1_POL_like: chromodomain of Rhizoctonia solani AG-1 IB retrotransposable element Tf2 155 kDa protein type 1, and similar proteins
+This subgroup includes the CHROMO (CHRromatin Organization Modifier) domain found in Rhizoctonia sol...
+Accession: cd18973 ID: 349329
+
+50. CD_POL_like: chromodomain of a Moniliophthora perniciosa FA553 putative retrotransposon polyprotein, and similar proteins
+This subgroup includes the CHROMO (CHRromatin Organization Modifier) domain found in a Moniliophthor...
+Accession: cd18972 ID: 349328
+
+51. CD_POL_like: chromodomain of a Magnaporthe grisea putative retrotransposon polyprotein, and similar proteins
+This subgroup includes the CHROMO (CHRromatin Organization Modifier) domain found in a Magnaporthe g...
+Accession: cd18971 ID: 349327
+
+52. CD_POL_like: chromodomain of Hypsizygus marmoreus TY3B-I_0 protein, and similar proteins
+This subgroup includes the CHROMO (CHRromatin Organization Modifier) domain found in Hypsizygus marm...
+Accession: cd18970 ID: 349326
+
+53. Ndc10: Ndc10 component of the yeast centromere-binding factor 3
+Ndc10 is a multidomain protein conserved in Saccharomycotina that interacts with kinetochore compone...
+Accession: cl16937 ID: 388366
+
+54. IPT
+Immunoglobulin-like fold, Plexins, Transcription factors (IPT). IPTs are also known as Transcription...
+Accession: cl15674 ID: 387656
+
+55. RT_like
+RT_like: Reverse transcriptase (RT, RNA-dependent DNA polymerase)_like family. An RT gene is usually...
+Accession: cl02808 ID: 383137
+
+56. Ser_Recombinase
+Serine Recombinase family, catalytic domain; a DNA binding domain may be present either N- or C-term...
+Accession: cl02788 ID: 383127
+
+57. HTH_MerR-SF: Helix-Turn-Helix DNA binding domain of transcription regulators from the MerR superfamily
+Helix-turn-helix (HTH) transcription regulator MerR superfamily, N-terminal domain. The MerR family ...
+Accession: cl02600 ID: 383042
+
+58. DDE_Tnp_IS1595: ISXO2-like transposase domain
+This domain probably functions as an integrase that is found in a wide variety of transposases, incl...
+Accession: cl01481 ID: 382559
+
+59. Arm-DNA-bind_3: Arm DNA-binding domain
+This DNA-binding domain is found at the N-terminus of a wide variety of phage integrase proteins.
+Accession: pfam13356 ID: 379139
+
+60. Arm-DNA-bind_4: Arm DNA-binding domain
+This family includes AP2-like domains found in a variety of phage integrase proteins. These domains ...
+Accession: pfam14657 ID: 373198
+
+61. DDE_Tnp_IS1595: ISXO2-like transposase domain
+This domain probably functions as an integrase that is found in a wide variety of transposases, incl...
+Accession: pfam12762 ID: 372298
+
+62. DUF3806: Domain of unknown function (DUF3806)
+This family represent the C-terminal domain of the structure. In two related Bacteroides species the...
+Accession: pfam12713 ID: 372263
+
+63. DUF3435: Protein of unknown function (DUF3435)
+This family of proteins are functionally uncharacterized. This protein is found in eukaryotes. Prote...
+Accession: pfam11917 ID: 371796
+
+64. DUF3258: Protein of unknown function DUF3258
+This viral family are possible phage integrase proteins however this cannot be confirmed.
+Accession: pfam11646 ID: 371648
+
+65. DUF3173: Domain of unknown function (DUF3173)
+This family of proteins with unknown function appears to be restricted to Firmicutes. These proteins...
+Accession: pfam11372 ID: 371495
+
+66. Phage_Cox: Regulatory phage protein cox
+This family of phage Cox proteins is expressed by Enterobacteria phages. The Cox protein is a 79-res...
+Accession: pfam10743 ID: 371218
+
+67. SNF5: SNF5 / SMARCB1 / INI1
+SNF5 is a component of the yeast SWI/SNF complex, which is an ATP-dependent nucleosome-remodelling c...
+Accession: pfam04855 ID: 368157
+
+68. BTB_POZ: BTB (Broad-Complex, Tramtrack and Bric a brac)/POZ (poxvirus and zinc finger) domain superfamily
+Proteins in this superfamily are characterized by the presence of a common protein-protein interacti...
+Accession: cl38908 ID: 365784
+
+69. PIN_N4BP1-like: PRORP-like PIN domain of NEDD4 binding protein 1 and related proteins
+NEDD4-binding partner-1 (N4BP1) interacts with and is a substrate of NEDD4 ubiquitin ligase (neural ...
+Accession: cd18728 ID: 350295
+
+70. PIN_Zc3h12a-N4BP1-like: PRORP-like PIN domain of ribonuclease Zc3h12a, NEDD4-binding partner-1, and related proteins
+Zc3h12a (zinc finger CCCH-type containing 12A, also known as MCPIP1/MCP induced protein 1 and Regnas...
+Accession: cd18719 ID: 350286
+
+71. PIN_PRORP-Zc3h12a-like: PIN domain of protein-only RNase P (PRORP), ribonuclease Zc3h12a, and related proteins
+PRORPs catalyze the maturation of the 5' end of precursor tRNAs in eukaryotes. This family includes ...
+Accession: cd18671 ID: 350238
+
+72. BTB_POZ_ZBTB11: BTB (Broad-Complex, Tramtrack and Bric a brac)/POZ (poxvirus and zinc finger) domain found in zinc finger and BTB domain-containing protein 11 (ZBTB11)
+ZBTB11 is a transcriptional repressor of TP53. It is critical for basal and emergency granulopoiesis...
+Accession: cd18202 ID: 349511
+
+73. DUF5314: Family of unknown function (DUF5314)
+This is a family of unknown function usually preceded by the GAG-pre-integrase domain pfam13976.
+Accession: pfam17241 ID: 339957
+
+74. DUF3158: Protein of unknown function (DUF3158)
+Some members in this family of proteins are annotated as integrase regulator R however this cannot b...
+Accession: pfam11358 ID: 314329
+
+75. SSV1_ORF_D-335: ORF D-335-like protein
+The sequences featured in this family are similar to a probable integrase expressed by the SSV1 viru...
+Accession: pfam07935 ID: 311750
+
+76. Tn916-Xis: Excisionase from transposon Tn916
+The phage-encoded excisionase protein Tn916-Xis adopts a winged-helix structure that consists of a t...
+Accession: pfam09035 ID: 286167
+
+77. recomb_XerD: tyrosine recombinase XerD
+The phage integrase family describes a number of recombinases with tyrosine active sites that transi...
+Accession: TIGR02225 ID: 274043
+
+78. recomb_XerC: tyrosine recombinase XerC
+The phage integrase family describes a number of recombinases with tyrosine active sites that transi...
+Accession: TIGR02224 ID: 274042
+
+79. INT_C_like_6: Uncharacterized site-specific tyrosine recombinase, C-terminal catalytic domain
+Tyrosine recombinase (integrase) belongs to a DNA breaking-rejoining enzyme superfamily. The catalyt...
+Accession: cd01196 ID: 271196
+
+80. INT_C_like_5: Uncharacterized site-specific tyrosine recombinase, C-terminal catalytic domain
+Tyrosine recombinase (integrase) belongs to a DNA breaking-rejoining enzyme superfamily. The catalyt...
+Accession: cd01195 ID: 271195
+
+81. INT_C_like_4: Uncharacterized site-specific tyrosine recombinase, C-terminal catalytic domain
+Tyrosine recombinase (integrase) belongs to a DNA breaking-rejoining enzyme superfamily. The catalyt...
+Accession: cd01194 ID: 271194
+
+82. INT_C_like_3: Uncharacterized site-specific tyrosine recombinase, C-terminal catalytic domain
+Tyrosine recombinase (integrase) belongs to a DNA breaking-rejoining enzyme superfamily. The catalyt...
+Accession: cd01192 ID: 271192
+
+83. INT_C_like_2: Uncharacterized site-specific tyrosine recombinase, C-terminal catalytic domain
+Tyrosine recombinase (integrase) belongs to a DNA breaking-rejoining enzyme superfamily. The catalyt...
+Accession: cd01191 ID: 271191
+
+84. INT_ICEBs1_C_like: C-terminal catalytic domain of integrases from bacterial phages and conjugate transposons
+This family of tyrosine based site-specific integrases is has origins in bacterial phages and conjug...
+Accession: cd01189 ID: 271189
+
+85. INT_C_like_1: Uncharacterized site-specific tyrosine recombinase, C-terminal catalytic domain
+Tyrosine recombinase (integrase) belongs to a DNA breaking-rejoining enzyme superfamily. The catalyt...
+Accession: cd01184 ID: 271184
+
+86. DNA_BRE_C: DNA breaking-rejoining enzymes, C-terminal catalytic domain
+The DNA breaking-rejoining enzyme superfamily includes type IB topoisomerases and tyrosine based sit...
+Accession: cd00397 ID: 271175
+
+87. INT_Flp_C: Flp Tyrosine-based site-specific recombinases (also called integrases), C-terminal catalytic domain
+Yeast Flp-like recombinases mediate the amplification of the 2 micron circular plasmid copy number b...
+Accession: cd00217 ID: 271174
+
+88. RT_DIRS1
+RT_DIRS1: Reverse transcriptases (RTs) occurring in the DIRS1 group of retransposons. Members of the...
+Accession: cd03714 ID: 239684
+
+89. IPT_RBP-Jkappa
+IPT domain of the recombination signal Jkappa binding protein (RBP-Jkappa). RBP-J kappa, was initial...
+Accession: cd01176 ID: 238581
+
+90. Ser_Recombinase
+Serine Recombinase family, catalytic domain; a DNA binding domain may be present either N- or C-term...
+Accession: cd00338 ID: 238206
+
+91. int
+integrase; Provisional
+Accession: PHA02601 ID: 222904
+
+92. int
+integrase
+Accession: PHA00730 ID: 222813
+
+93. Ndc10: Ndc10 component of the yeast centromere-binding factor 3
+Ndc10 is a multidomain protein conserved in Saccharomycotina that interacts with kinetochore compone...
+Accession: cd11602 ID: 211427
+
+94. PHA02731
+putative integrase; Provisional
+Accession: PHA02731 ID: 177485
+
+95. PRK09692
+integrase; Provisional
+Accession: PRK09692 ID: 170049
+
+96. RP_RTVL_H_like: Retropepsin of the RTVL_H family of human endogenous retrovirus-like elements
+This family includes aspartate proteases from retroelements with LTR (long terminal repeats) includi...
+Accession: cd06095 ID: 133159
+
+97. RP_Saci_like: RP_Saci_like, retropepsin family
+Retropepsin on retrotransposons with long terminal repeats (LTR) including Saci-1, -2 and -3 of Schi...
+Accession: cd06094 ID: 133158
+
+98. retropepsin_like_LTR_2: Retropepsins_like_LTR, pepsin-like aspartate proteases
+Retropepsin of retrotransposons with long terminal repeats are pepsin-like aspartate proteases. Whil...
+Accession: cd05484 ID: 133151
+
+99. HIV_retropepsin_like: Retropepsins, pepsin-like aspartate proteases
+This is a subfamily of retropepsins. The family includes pepsin-like aspartate proteases from retrov...
+Accession: cd05482 ID: 133149
+
+100. retropepsin_like_LTR_1: Retropepsins_like_LTR; pepsin-like aspartate protease from retrotransposons with long terminal repeats
+Retropepsin of retrotransposons with long terminal repeats are pepsin-like aspartate proteases. Whil...
+Accession: cd05481 ID: 133148
+
+101. pepsin_retropepsin_like: Cellular and retroviral pepsin-like aspartate proteases
+This family includes both cellular and retroviral pepsin-like aspartate proteases. The cellular peps...
+Accession: cd05470 ID: 133137
+
+102. retropepsin_like: Retropepsins; pepsin-like aspartate proteases
+The family includes pepsin-like aspartate proteases from retroviruses, retrotransposons and retroele...
+Accession: cd00303 ID: 133136
+
+103. Exc: Excisionase-like protein
+The phage-encoded excisionase protein (Xis) is involved in excisive recombination by regulating the ...
+Accession: pfam07825 ID: 116439

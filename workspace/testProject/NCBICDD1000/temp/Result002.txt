@@ -1,0 +1,13 @@
+# RPSTBLASTN 2.10.0+
+# Query: seq1
+# Database: /mnt/home3/riehl/miniconda3/envs/transposon_annotation_tools_env/share/proteinNCBICDD1000/selection/Selection1000Library002
+# Fields: subject title, evalue, q. start, q. end
+# 1 hits found
+pfam13683, rve_3, Integrase core domain.  	0.006	147684	147556
+# RPSTBLASTN 2.10.0+
+# Query: seq2
+# Database: /mnt/home3/riehl/miniconda3/envs/transposon_annotation_tools_env/share/proteinNCBICDD1000/selection/Selection1000Library002
+# Fields: subject title, evalue, q. start, q. end
+# 1 hits found
+pfam13975, gag-asp_proteas, gag-polyprotein putative aspartyl protease.  This family of putative aspartyl proteases is found pre-dominantly in retroviral proteins.	0.005	213890	213636
+# BLAST processed 2 queries

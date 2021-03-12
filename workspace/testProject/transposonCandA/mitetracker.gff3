@@ -1,0 +1,32 @@
+# miteTracker Annotation
+# Structure of this file: 
+# 1)	Chromosome
+# 2)	Annotation Software
+# 3)	Annotation Feature
+# 4)	Start Position
+# 5)	End Position
+# 6)	Score / Probability
+# 7)	Strand
+# 8)	Phase (not used)
+# 9)	TransposonNr
+# 10)	Attributes separated by ;
+seq1	miteTracker	transposon	382281	382489	.	+	.	1	
+seq1	miteTracker	transposon	28090	28283	.	+	.	2	
+seq1	miteTracker	transposon	685580	685767	.	+	.	4	
+seq1	miteTracker	transposon	228276	228461	.	+	.	5	
+seq1	miteTracker	transposon	173088	173268	.	+	.	7	
+seq1	miteTracker	transposon	304536	304714	.	+	.	8	
+seq1	miteTracker	transposon	27016	27193	.	+	.	9	
+seq1	miteTracker	transposon	301110	301293	.	+	.	11	
+seq1	miteTracker	transposon	599763	599939	.	+	.	13	
+seq1	miteTracker	transposon	599287	599459	.	+	.	14	
+seq1	miteTracker	transposon	371058	371238	.	+	.	15	
+seq1	miteTracker	transposon	293215	293391	.	+	.	16	
+seq1	miteTracker	transposon	369228	369397	.	+	.	17	
+seq1	miteTracker	transposon	436219	436396	.	+	.	18	
+seq1	miteTracker	transposon	209149	209324	.	+	.	19	
+seq1	miteTracker	transposon	436804	436981	.	-	.	27	
+seq2	miteTracker	transposon	287982	288170	.	+	.	3	
+seq2	miteTracker	transposon	283107	283290	.	+	.	6	
+seq2	miteTracker	transposon	100325	100491	.	+	.	10	
+seq2	miteTracker	transposon	22087	22264	.	+	.	12	

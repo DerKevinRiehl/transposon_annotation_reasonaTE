@@ -1,0 +1,37 @@
+# repeatMasker Annotation
+# Structure of this file: 
+# 1)	Chromosome
+# 2)	Annotation Software
+# 3)	Annotation Feature
+# 4)	Start Position
+# 5)	End Position
+# 6)	Score / Probability
+# 7)	Strand
+# 8)	Phase (not used)
+# 9)	TransposonNr
+# 10)	Attributes separated by ;
+seq1	repeatMasker	transposon	39704	39938	.	-	.	0	class 2 (DNA)
+seq1	repeatMasker	transposon	39819	39942	.	+	.	1	class 2.1 (DNA/MULE-MuDR)
+seq1	repeatMasker	transposon	67599	67723	.	+	.	2	class 2.1 (DNA/MULE-MuDR)
+seq1	repeatMasker	transposon	116632	116741	.	+	.	3	class 1.2.1 (LINE/CR1)
+seq1	repeatMasker	transposon	152620	152693	.	+	.	4	class 1.2.2 (tRNA)
+seq1	repeatMasker	transposon	155415	155614	.	+	.	5	class 2.1.1 (DNA/TcMar-Mariner)
+seq1	repeatMasker	transposon	226489	226740	.	+	.	6	class 2.1 (DNA/MULE-MuDR)
+seq1	repeatMasker	transposon	253336	253499	.	+	.	7	class 2.1 (DNA/MULE-MuDR)
+seq1	repeatMasker	transposon	292286	292441	.	-	.	8	class 2.1 (DNA/MULE-MuDR)
+seq1	repeatMasker	transposon	381844	381993	.	-	.	9	class 2 (DNA)
+seq1	repeatMasker	transposon	424329	424497	.	-	.	10	class 2.1 (DNA/MULE-MuDR)
+seq1	repeatMasker	transposon	605621	605679	.	+	.	11	class 2.1.2 (DNA/hAT-Ac)
+seq1	repeatMasker	transposon	631238	631282	.	+	.	12	class 2.1 (DNA/MULE-MuDR)
+seq1	repeatMasker	transposon	655766	655907	.	+	.	13	class 2.1 (DNA/MULE-MuDR)
+seq1	repeatMasker	transposon	683923	684006	.	+	.	14	class 2.1 (DNA/MULE-MuDR)
+seq1	repeatMasker	transposon	726532	726610	.	+	.	15	class 2.1 (DNA/MULE-MuDR)
+seq1	repeatMasker	transposon	779977	780041	.	-	.	16	class 1.2.1 (LINE/L1)
+seq2	repeatMasker	transposon	160831	160882	.	-	.	17	class 2 (DNA)
+seq2	repeatMasker	transposon	183803	183928	.	+	.	18	class 2.1 (DNA/MULE-MuDR)
+seq2	repeatMasker	transposon	280978	281116	.	+	.	19	class 2.1 (DNA/MULE-MuDR)
+seq2	repeatMasker	transposon	281423	281567	.	-	.	20	class 2 (DNA)
+seq2	repeatMasker	transposon	286793	286907	.	-	.	21	class 2 (DNA)
+seq2	repeatMasker	transposon	338162	338194	.	+	.	22	class 1.2.1 (LINE/L2)
+seq2	repeatMasker	transposon	404888	404959	.	-	.	23	class 1.2.2 (tRNA)
+seq2	repeatMasker	transposon	504067	504100	.	+	.	24	class 1.2.1 (LINE/Penelope)

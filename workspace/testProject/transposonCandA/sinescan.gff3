@@ -1,0 +1,96 @@
+# sineScan Annotation
+# Structure of this file: 
+# 1)	Chromosome
+# 2)	Annotation Software
+# 3)	Annotation Feature
+# 4)	Start Position
+# 5)	End Position
+# 6)	Score / Probability
+# 7)	Strand
+# 8)	Phase (not used)
+# 9)	TransposonNr
+# 10)	Attributes separated by ;
+seq1	sineScan	transposon	10386	10560	.	-	.	1	
+seq1	sineScan	tsd	10369	10386	.	-	.	1	Left TSD of transposon 1
+seq1	sineScan	tsd	10560	10577	.	-	.	1	Right TSD of transposon 1
+seq1	sineScan	transposon	27422	27909	.	-	.	2	
+seq1	sineScan	tsd	27407	27422	.	-	.	2	Left TSD of transposon 2
+seq1	sineScan	tsd	27909	27924	.	-	.	2	Right TSD of transposon 2
+seq1	sineScan	transposon	100083	100228	.	+	.	3	
+seq1	sineScan	tsd	100072	100083	.	+	.	3	Left TSD of transposon 3
+seq1	sineScan	tsd	100228	100239	.	+	.	3	Right TSD of transposon 3
+seq1	sineScan	transposon	200654	200843	.	-	.	4	
+seq1	sineScan	tsd	200644	200654	.	-	.	4	Left TSD of transposon 4
+seq1	sineScan	tsd	200843	200853	.	-	.	4	Right TSD of transposon 4
+seq1	sineScan	transposon	238968	239291	.	-	.	5	
+seq1	sineScan	tsd	238955	238968	.	-	.	5	Left TSD of transposon 5
+seq1	sineScan	tsd	239291	239304	.	-	.	5	Right TSD of transposon 5
+seq1	sineScan	transposon	213622	213805	.	+	.	6	
+seq1	sineScan	tsd	213610	213622	.	+	.	6	Left TSD of transposon 6
+seq1	sineScan	tsd	213805	213817	.	+	.	6	Right TSD of transposon 6
+seq1	sineScan	transposon	317242	317467	.	-	.	7	
+seq1	sineScan	tsd	317231	317242	.	-	.	7	Left TSD of transposon 7
+seq1	sineScan	tsd	317467	317478	.	-	.	7	Right TSD of transposon 7
+seq1	sineScan	transposon	436879	437089	.	-	.	8	
+seq1	sineScan	tsd	436868	436879	.	-	.	8	Left TSD of transposon 8
+seq1	sineScan	tsd	437089	437100	.	-	.	8	Right TSD of transposon 8
+seq1	sineScan	transposon	472652	472914	.	-	.	9	
+seq1	sineScan	tsd	472641	472652	.	-	.	9	Left TSD of transposon 9
+seq1	sineScan	tsd	472914	472925	.	-	.	9	Right TSD of transposon 9
+seq1	sineScan	transposon	544532	544679	.	-	.	10	
+seq1	sineScan	tsd	544520	544532	.	-	.	10	Left TSD of transposon 10
+seq1	sineScan	tsd	544679	544691	.	-	.	10	Right TSD of transposon 10
+seq1	sineScan	transposon	559774	559923	.	-	.	11	
+seq1	sineScan	tsd	559763	559774	.	-	.	11	Left TSD of transposon 11
+seq1	sineScan	tsd	559923	559934	.	-	.	11	Right TSD of transposon 11
+seq1	sineScan	transposon	481224	481424	.	+	.	12	
+seq1	sineScan	tsd	481213	481224	.	+	.	12	Left TSD of transposon 12
+seq1	sineScan	tsd	481424	481435	.	+	.	12	Right TSD of transposon 12
+seq1	sineScan	transposon	478292	478504	.	+	.	13	
+seq1	sineScan	tsd	478280	478292	.	+	.	13	Left TSD of transposon 13
+seq1	sineScan	tsd	478504	478516	.	+	.	13	Right TSD of transposon 13
+seq1	sineScan	transposon	595032	595262	.	-	.	15	
+seq1	sineScan	tsd	595019	595032	.	-	.	15	Left TSD of transposon 15
+seq1	sineScan	tsd	595262	595275	.	-	.	15	Right TSD of transposon 15
+seq1	sineScan	transposon	630410	630587	.	-	.	16	
+seq1	sineScan	tsd	630397	630410	.	-	.	16	Left TSD of transposon 16
+seq1	sineScan	tsd	630587	630600	.	-	.	16	Right TSD of transposon 16
+seq1	sineScan	transposon	630053	630230	.	+	.	17	
+seq1	sineScan	tsd	630040	630053	.	+	.	17	Left TSD of transposon 17
+seq1	sineScan	tsd	630230	630243	.	+	.	17	Right TSD of transposon 17
+seq1	sineScan	transposon	572346	572804	.	+	.	18	
+seq1	sineScan	tsd	572335	572346	.	+	.	18	Left TSD of transposon 18
+seq1	sineScan	tsd	572804	572815	.	+	.	18	Right TSD of transposon 18
+seq1	sineScan	transposon	692750	693054	.	+	.	19	
+seq1	sineScan	tsd	692738	692750	.	+	.	19	Left TSD of transposon 19
+seq1	sineScan	tsd	693054	693066	.	+	.	19	Right TSD of transposon 19
+seq1	sineScan	transposon	750974	751298	.	+	.	20	
+seq1	sineScan	tsd	750959	750974	.	+	.	20	Left TSD of transposon 20
+seq1	sineScan	tsd	751298	751313	.	+	.	20	Right TSD of transposon 20
+seq2	sineScan	transposon	35246	35404	.	-	.	21	
+seq2	sineScan	tsd	35234	35246	.	-	.	21	Left TSD of transposon 21
+seq2	sineScan	tsd	35404	35416	.	-	.	21	Right TSD of transposon 21
+seq2	sineScan	transposon	55272	55496	.	-	.	22	
+seq2	sineScan	tsd	55255	55272	.	-	.	22	Left TSD of transposon 22
+seq2	sineScan	tsd	55496	55513	.	-	.	22	Right TSD of transposon 22
+seq2	sineScan	transposon	57590	57899	.	-	.	23	
+seq2	sineScan	tsd	57578	57590	.	-	.	23	Left TSD of transposon 23
+seq2	sineScan	tsd	57899	57911	.	-	.	23	Right TSD of transposon 23
+seq2	sineScan	transposon	98454	98579	.	+	.	24	
+seq2	sineScan	tsd	98439	98454	.	+	.	24	Left TSD of transposon 24
+seq2	sineScan	tsd	98579	98594	.	+	.	24	Right TSD of transposon 24
+seq2	sineScan	transposon	16712	16835	.	+	.	25	
+seq2	sineScan	tsd	16700	16712	.	+	.	25	Left TSD of transposon 25
+seq2	sineScan	tsd	16835	16847	.	+	.	25	Right TSD of transposon 25
+seq2	sineScan	transposon	147939	148457	.	+	.	26	
+seq2	sineScan	tsd	147928	147939	.	+	.	26	Left TSD of transposon 26
+seq2	sineScan	tsd	148457	148468	.	+	.	26	Right TSD of transposon 26
+seq2	sineScan	transposon	288295	288535	.	+	.	28	
+seq2	sineScan	tsd	288282	288295	.	+	.	28	Left TSD of transposon 28
+seq2	sineScan	tsd	288535	288548	.	+	.	28	Right TSD of transposon 28
+seq2	sineScan	transposon	471474	471727	.	+	.	29	
+seq2	sineScan	tsd	471462	471474	.	+	.	29	Left TSD of transposon 29
+seq2	sineScan	tsd	471727	471739	.	+	.	29	Right TSD of transposon 29
+seq2	sineScan	transposon	432804	433319	.	-	.	30	
+seq2	sineScan	tsd	432793	432804	.	-	.	30	Left TSD of transposon 30
+seq2	sineScan	tsd	433319	433330	.	-	.	30	Right TSD of transposon 30

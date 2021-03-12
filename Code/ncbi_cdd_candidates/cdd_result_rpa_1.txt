@@ -1,0 +1,3232 @@
+
+1. PKc_like: Protein Kinases, catalytic domain
+The protein kinase superfamily is mainly composed of the catalytic domains of serine/threonine-speci...
+Accession: cl21453 ID: 389743
+
+2. RRM_SF: RNA recognition motif (RRM) superfamily
+RRM, also known as RBD (RNA binding domain) or RNP (ribonucleoprotein domain), is a highly abundant ...
+Accession: cl17169 ID: 388407
+
+3. RING_Ubox: The superfamily of RING finger (Really Interesting New Gene) domain and U-box domain
+RING finger is a specialized type of Zn-finger of 40 to 60 residues that binds two atoms of zinc. It...
+Accession: cl17238 ID: 388418
+
+4. 7tm_GPCRs: seven-transmembrane G protein-coupled receptor superfamily
+This hierarchical evolutionary model represents the seven-transmembrane (7TM) receptors, often refer...
+Accession: cl28897 ID: 391938
+
+5. Ubiquitin_like_fold: Beta-grasp ubiquitin-like fold
+Ubiquitin is a protein modifier that is involved in various cellular processes including transcripti...
+Accession: cl28922 ID: 391949
+
+6. BTB_POZ: BTB (Broad-Complex, Tramtrack and Bric a brac)/POZ (poxvirus and zinc finger) domain superfamily
+Proteins in this superfamily are characterized by the presence of a common protein-protein interacti...
+Accession: cl38908 ID: 365784
+
+7. SH3: Src Homology 3 domain superfamily
+Src Homology 3 (SH3) domains are protein interaction domains that bind proline-rich ligands with mod...
+Accession: cl17036 ID: 388381
+
+8. LIM: LIM is a small protein-protein interaction domain, containing two zinc fingers
+LIM domains are identified in a diverse group of proteins with wide variety of biological functions,...
+Accession: cl02475 ID: 351770
+
+9. PH-like: Pleckstrin homology-like domain
+The PH-like family includes the PH domain, both the Shc-like and IRS-like PTB domains, the ran-bindi...
+Accession: cl17171 ID: 388408
+
+10. PHD_SF: PHD finger superfamily
+The PHD finger superfamily includes a canonical plant homeodomain (PHD) finger typically characteriz...
+Accession: cl22851 ID: 389947
+
+11. PTP_DSP_cys: cys-based protein tyrosine phosphatase and dual-specificity phosphatase superfamily
+This superfamily is composed of cys-based phosphatases, which includes classical protein tyrosine ph...
+Accession: cl28904 ID: 391942
+
+12. P-loop_NTPase: P-loop containing Nucleoside Triphosphate Hydrolases
+Members of the P-loop NTPase domain superfamily are characterized by a conserved nucleotide phosphat...
+Accession: cl38936 ID: 393306
+
+13. PIN_SF: PIN (PilT N terminus) domain: Superfamily
+The PIN (PilT N terminus) domain belongs to a large nuclease superfamily, and were originally named ...
+Accession: cl28905 ID: 391943
+
+14. Periplasmic_Binding_Protein_Type_2: Type 2 periplasmic binding fold superfamily
+This evolutionary model and hierarchy represent the ligand-binding domains found in solute binding p...
+Accession: cl21456 ID: 389745
+
+15. Bbox_SF: B-box-type zinc finger superfamily
+The B-box-type zinc finger is a short zinc binding domain of around 40 amino acid residues in length...
+Accession: cl00034 ID: 381767
+
+16. RPA_2b-aaRSs_OBF_like: Replication protein A, class 2b aminoacyl-tRNA synthetases, and related proteins with oligonucleotide/oligosaccharide (OB) fold
+This superfamily includes two oligonucleotide/oligosaccharide binding fold (OBF) domain families. On...
+Accession: cl09930 ID: 385638
+
+17. SPRY: SPRY domain
+SPRY domains, first identified in the SP1A kinase of Dictyostelium and rabbit Ryanodine receptor (he...
+Accession: cl02614 ID: 383051
+
+18. DSRM_SF: double-stranded RNA binding motif (DSRM) superfamily
+DSRM (also known as dsRBM) is a 65-70 amino acid domain that adopts an alpha-beta-beta-beta-alpha fo...
+Accession: cl00054 ID: 381777
+
+19. SH2: Src homology 2 (SH2) domain
+In general, SH2 domains are involved in signal transduction; they bind pTyr-containing polypeptide l...
+Accession: cl15255 ID: 387587
+
+20. ArfGap: GTPase-activating protein (GAP) for the ADP ribosylation factors (ARFs)
+ArfGAPs are a family of proteins containing an ArfGAP catalytic domain that induces the hydrolysis o...
+Accession: cl28907 ID: 355783
+
+21. DEAD-like_helicase_N: N-terminal helicase domain of the DEAD-box helicase superfamily
+The DEAD-like helicase superfamily is a diverse family of proteins involved in ATP-dependent RNA or ...
+Accession: cl28899 ID: 391939
+
+22. NBD_sugar-kinase_HSP70_actin: Nucleotide-Binding Domain of the sugar kinase/HSP70/actin superfamily
+This superfamily includes the actin family, the HSP70 family of molecular chaperones and nucleotide ...
+Accession: cl17037 ID: 388382
+
+23. BRCT: C-terminal domain of the breast cancer suppressor protein (BRCA1) and related domains
+The BRCT (BRCA1 C-terminus) domain is found within many DNA damage repair and cell cycle checkpoint ...
+Accession: cl00038 ID: 381769
+
+24. S1_like
+S1_like: Ribosomal protein S1-like RNA-binding domain. Found in a wide variety of RNA-associated pro...
+Accession: cl09927 ID: 385635
+
+25. MPP_superfamily: metallophosphatase superfamily, metallophosphatase domain
+Metallophosphatases (MPPs), also known as metallophosphoesterases, phosphodiesterases (PDEs), binucl...
+Accession: cl13995 ID: 387346
+
+26. COG3390: Replication protein A (RPA) family protein [Replication, recombination and repair]
+
+Accession: COG3390 ID: 225925
+
+27. PLDc_SF: Catalytic domain of phospholipase D superfamily proteins
+Catalytic domain of phospholipase D (PLD) superfamily proteins. The PLD superfamily is composed of a...
+Accession: cl15239 ID: 387583
+
+28. Cdc6_C: Winged-helix domain of essential DNA replication protein Cell division control protein (Cdc6), which mediates DNA binding
+This model characterizes the winged-helix, C-terminal domain of the Cell division control protein (C...
+Accession: cl08520 ID: 385399
+
+29. Cdc6_C: Winged-helix domain of essential DNA replication protein Cell division control protein (Cdc6), which mediates DNA binding
+This model characterizes the winged-helix, C-terminal domain of the Cell division control protein (C...
+Accession: cd08768 ID: 176573
+
+30. Ter: DNA replicatioN-terminus site-binding protein (Ter protein)
+This family contains several bacterial Ter proteins. The Ter protein specifically binds to DNA repli...
+Accession: cl11502 ID: 386145
+
+31. DEAD-like_helicase_C: C-terminal helicase domain of the DEAD-like helicases
+This hierarchy of DEAD-like helicases is composed of two superfamilies, SF1 and SF2, that share almo...
+Accession: cl38915 ID: 365791
+
+32. alpha-crystallin-Hsps_p23-like: alpha-crystallin domain (ACD) found in alpha-crystallin-type small heat shock proteins, and a similar domain found in p23 (a cochaperone for Hsp90) and in other p23-like proteins
+The alpha-crystallin-Hsps_p23-like superfamily includes the alpha-crystallin domain (ACD) of alpha-c...
+Accession: cl00175 ID: 381838
+
+33. Ter: DNA replicatioN-terminus site-binding protein (Ter protein)
+This family contains several bacterial Ter proteins. The Ter protein specifically binds to DNA repli...
+Accession: pfam05472 ID: 368456
+
+34. HR1: Protein kinase C-related kinase homology region 1 (HR1) domain that binds Rho family small GTPases
+The HR1 domain, also called the ACC (anti-parallel coiled-coil) finger domain or Rho-binding domain ...
+Accession: cl00087 ID: 381797
+
+35. RepB_like_N: plasmid segregation replication protein B like protein, N-terminal domain
+RepB, found on plasmids and secondary chromosomes, works along with repA in directing plasmid segreg...
+Accession: cd16405 ID: 319262
+
+36. PriA: Primosomal protein N&apos; (replication factor Y) - superfamily II helicase [Replication, recombination and repair]
+
+Accession: cl30559 ID: 357435
+
+37. RFA2: Single-stranded DNA-binding replication protein A (RPA), medium (30 kD) subunit [DNA replication, recombination, and repair]
+
+Accession: COG5235 ID: 227560
+
+38. DBF4: Protein kinase essential for the initiation of DNA replication [DNA replication, recombination, and repair / Cell division and chromosome partitioning]
+
+Accession: COG5067 ID: 227399
+
+39. DnaD: DNA replication protein DnaD  [Replication, recombination and repair]
+
+Accession: COG3935 ID: 226445
+
+40. PriC: Primosomal replication protein N'' [Replication, recombination and repair]
+
+Accession: COG3923 ID: 226436
+
+41. DnaB: Replication initiation and membrane attachment protein DnaB [Replication, recombination and repair]
+
+Accession: COG3611 ID: 226138
+
+42. PriB: Primosomal replication protein N [Replication, recombination and repair]
+
+Accession: COG2965 ID: 225513
+
+43. RarA: Replication-associated recombination protein RarA (DNA-dependent ATPase) [Replication, recombination and repair]
+
+Accession: COG2256 ID: 225165
+
+44. DnaC: DNA replication protein DnaC [Replication, recombination and repair]
+
+Accession: COG1484 ID: 224401
+
+45. PriA: Primosomal protein N' (replication factor Y) - superfamily II helicase [Replication, recombination and repair]
+
+Accession: COG1198 ID: 224119
+
+46. CrfC: Replication fork clamp-binding protein CrfC (dynamin-like GTPase family) [Replication, recombination and repair]
+
+Accession: COG0699 ID: 223771
+
+47. ParB_N_Srx: ParB N-terminal domain and sulfiredoxin protein-related families
+The ParB N-terminal domain/Sulfiredoxin (Srx) superfamily contains proteins with diverse activities....
+Accession: cl28891 ID: 333711
+
+48. REC: phosphoacceptor receiver (REC) domain of response regulators (RRs) and pseudo response regulators (PRRs)
+Two-component systems (TCSs) involving a sensor and a response regulator are used by bacteria to ada...
+Accession: cl19078 ID: 388505
+
+49. Cdt1_m: The middle winged helix fold of replication licensing factor Cdt1 binds geminin to inhibit binding of the MCM complex to origins of replication and DNA
+Cdt1 is a replication licensing factor in eukaryotes that recruits the Minichromosome Maintenance Co...
+Accession: cl07443 ID: 385022
+
+50. Phage_rep_O: Bacteriophage replication protein O
+Replication protein O is necessary for the initiation of bacteriophage DNA replication. Protein O in...
+Accession: cl04545 ID: 352201
+
+51. P-loop_NTPase: P-loop containing Nucleoside Triphosphate Hydrolases
+Members of the P-loop NTPase domain superfamily are characterized by a conserved nucleotide phosphat...
+Accession: cl38985 ID: 393355
+
+52. Rep_3: Initiator Replication protein
+This protein is an initiator of plasmid replication. RepB possesses nicking-closing (topoisomerase I...
+Accession: cl19398 ID: 388556
+
+53. Phage_rep_O: Bacteriophage replication protein O
+Replication protein O is necessary for the initiation of bacteriophage DNA replication. Protein O in...
+Accession: pfam04492 ID: 335810
+
+54. RING-like_Rtf2: RING-like Rtf2 domain, C2HC2-type, found in the replication termination factor 2 (Rtf2) protein family
+The Rtf2 protein family includes a group of conserved proteins found in eukaryotes ranging from fiss...
+Accession: cd16653 ID: 319567
+
+55. Cdt1_m: The middle winged helix fold of replication licensing factor Cdt1 binds geminin to inhibit binding of the MCM complex to origins of replication and DNA
+Cdt1 is a replication licensing factor in eukaryotes that recruits the Minichromosome Maintenance Co...
+Accession: cd08674 ID: 176571
+
+56. PriB_gamma: primosomal replication protein PriB
+Members of this protein family are primosomal replication protein N (PriB), virtually always encoded...
+Accession: TIGR04418 ID: 275211
+
+57. Phage_lambda_P: Replication protein P
+This family consists of several Bacteriophage lambda replication protein P like proteins. The bacter...
+Accession: pfam06992 ID: 369163
+
+58. rep_II_X: phage/plasmid replication protein, gene II/X family
+This model represents a family of phage and plasmid replication proteins. In bacteriophage IKe and r...
+Accession: TIGR01629 ID: 273723
+
+59. rep_term_tus: DNA replication terminus site-binding protein
+Members of this protein family are found on the main chromosomes of a number of the Gammaproteobacte...
+Accession: TIGR02648 ID: 131696
+
+60. ORF4b_HKU5-CoV: accessory protein ORF4b, also known as non-structural protein 3c (NS3c), of Pipistrellus bat coronavirus HKU5 and similar proteins
+This model represents the accessory protein 4b, ORF4b (also called NS3c protein) of Pipistrellus bat...
+Accession: cd21653 ID: 394927
+
+61. ORF4b_HKU4-CoV: accessory protein ORF4b, also known as non-structural protein 3c (NS3c), of Tylonycteris bat coronavirus HKU4 and similar proteins
+This model represents the accessory protein 4b, ORF4b (also called NS3c protein) of Tylonycteris bat...
+Accession: cd21652 ID: 394926
+
+62. ORF4b_MERS-CoV-like: accessory protein ORF4b, also known as non-structural protein 3c (NS3c) in Middle East respiratory syndrome (MERS)-related CoV
+This model represents the accessory protein 4b, ORF4b (also called NS3c protein) of Middle East resp...
+Accession: cd21651 ID: 394925
+
+63. ORF4b_NS3c-betaCoV: accessory protein ORF4b, also known as non-structural protein 3c (NS3c), of betacoronaviruses in the C lineage
+This model represents the accessory protein 4b, ORF4b (also called NS3c protein) of Middle East resp...
+Accession: cd21647 ID: 394924
+
+64. RepB-RCR_reg: Replication regulatory protein RepB
+This is a family of proteins which regulate replication of rolling circle replication (RCR) plasmids...
+Accession: cl27844 ID: 332665
+
+65. RepB-RCR_reg: Replication regulatory protein RepB
+This is a family of proteins which regulate replication of rolling circle replication (RCR) plasmids...
+Accession: pfam10723 ID: 287668
+
+66. STKc_CDK1_CdkB_like: Catalytic domain of Cyclin-Dependent protein Kinase 1-like Serine/Threonine Kinases and of Plant B-type Cyclin-Dependent protein Kinase
+STKs catalyze the transfer of the gamma-phosphoryl group from ATP to serine/threonine residues on pr...
+Accession: cd07835 ID: 270829
+
+67. Rep_1: Replication protein
+Replication proteins (rep) are involved in plasmid replication. The Rep protein binds to the plasmid...
+Accession: cl02412 ID: 382960
+
+68. Bbox2_TRIM19_C-V: B-box-type 2 zinc finger  found in tripartite motif-containing protein 19, also called promyelocytic leukemia protein (PML), and similar proteins
+Protein PML, also known as RING finger protein 71 (RNF71) or tripartite motif-containing protein 19 ...
+Accession: cd19770 ID: 380828
+
+69. Rep_3: Initiator Replication protein
+This protein is an initiator of plasmid replication. RepB possesses nicking-closing (topoisomerase I...
+Accession: pfam01051 ID: 376444
+
+70. Rol_Rep_N: Rolling Circle replication initiation protein N-terminal domain
+This is the N-terminal domain of the Rolling Circle Replication Initiator Protein (Rep) from Geobaci...
+Accession: pfam18106 ID: 375555
+
+71. Rep_1: Replication protein
+Replication proteins (rep) are involved in plasmid replication. The Rep protein binds to the plasmid...
+Accession: pfam01446 ID: 366647
+
+72. Phage_GPA: Bacteriophage replication gene A protein (GPA)
+This family consists of a group of bacteriophage replication gene A protein (GPA) like sequences fro...
+Accession: cl15276 ID: 353932
+
+73. RNase_H_like: Ribonuclease H-like superfamily, including RNase H, HI, HII, HIII, and RNase-like domain IV of spliceosomal protein Prp8
+Ribonuclease H (RNase H) enzymes are divided into two major families, Type 1 and Type 2, based on am...
+Accession: cl14782 ID: 387386
+
+74. PriC: Primosomal replication protein priC
+This family contains the bacterial primosomal replication protein priC. In Escherichia coli, this fu...
+Accession: cl11483 ID: 386137
+
+75. RTP: Replication terminator protein
+The bacterial replication terminator protein (RTP) plays a role in the termination of DNA replicatio...
+Accession: pfam02334 ID: 376766
+
+76. SLD5_C: DNA replication complex GINS protein SLD5 C-terminus
+The C-terminal domain of DNA replication complex GINS protein SLD5 is important in the assembly of t...
+Accession: pfam16922 ID: 374889
+
+77. RPA_interact_C: Replication protein A interacting C-terminal
+This family of proteins represents the C-terminal domain of replication protein A (RPA) interacting ...
+Accession: pfam14768 ID: 373280
+
+78. RPA_interact_M: Replication protein A interacting middle
+This family of proteins represents the middle domain of replication protein A (RPA) interacting prot...
+Accession: pfam14767 ID: 373279
+
+79. RPA_interact_N: Replication protein A interacting N-terminal
+This family of proteins represents the N-terminal domain of replication protein A (RPA) interacting ...
+Accession: pfam14766 ID: 373278
+
+80. Drc1-Sld2: DNA replication and checkpoint protein
+Genome duplication is precisely regulated by cyclin-dependent kinases CDKs, which bring about the on...
+Accession: pfam11719 ID: 371692
+
+81. SirA: Sporulation inhibitor of replication protein SirA
+This entry represents the Sporulation inhibitor of replication (sirA) family of proteins from Bacill...
+Accession: pfam10747 ID: 371220
+
+82. RPA_C: Replication protein A C terminal
+This domain corresponds to the C terminal of the single stranded DNA binding protein RPA (replicatio...
+Accession: pfam08784 ID: 370121
+
+83. SPRY_PRY_TRIM22: PRY/SPRY domain in tripartite motif-containing protein 22 (TRIM22), also known as RING finger protein 94 (RNF94) or Stimulated trans-acting factor of 50 kDa (STAF50)
+This domain, consisting of the distinct N-terminal PRY subdomain followed by the SPRY subdomain, is ...
+Accession: cd15824 ID: 293996
+
+84. batCoV-HKU9-like_RdRp: Bat coronavirus HKU9 RNA-dependent RNA polymerase, also known as non-structural protein 12, and similar proteins from betacoronaviruses in the D lineage: responsible for replication and transcription of the viral RNA genome
+This group contains the RNA-dependent RNA polymerase (RdRp) of bat coronavirus HKU9 and similar prot...
+Accession: cd21596 ID: 394898
+
+85. HCoV_HKU1-like_RdRp: human coronavirus HKU1 RNA-dependent RNA polymerase, also known as non-structural protein 12, and similar proteins from betacoronaviruses in the A lineage: responsible for replication and transcription of the viral RNA genome
+This group contains the RNA-dependent RNA polymerase (RdRp) of human coronavirus HKU1, murine hepati...
+Accession: cd21593 ID: 394897
+
+86. MERS-CoV-like_RdRp: Middle East respiratory syndrome-related coronavirus RNA-dependent RNA polymerase, also known as non-structural protein 12, and similar proteins from betacoronaviruses in the C lineage: responsible for replication and transcription of the viral RNA genome
+This group contains the RNA-dependent RNA polymerase (RdRp) of Middle East respiratory syndrome (MER...
+Accession: cd21592 ID: 394896
+
+87. SARS-CoV-like_RdRp: Severe acute respiratory syndrome coronavirus RNA-dependent RNA polymerase, also known as non-structural protein 12, and similar proteins from betacoronaviruses in the B lineage: responsible for replication and transcription of the viral RNA genome
+This group contains the RNA-dependent RNA polymerase (RdRp) of Severe acute respiratory syndrome cor...
+Accession: cd21591 ID: 394895
+
+88. deltaCoV_RdRp: deltacoronavirus RNA-dependent RNA polymerase, also known as non-structural protein 12: responsible for replication and transcription of the viral RNA genome
+This subfamily contains the RNA-dependent RNA polymerase (RdRp) of deltacoronaviruses. CoVs utilize ...
+Accession: cd21590 ID: 394894
+
+89. betaCoV_RdRp: betacoronavirus RNA-dependent RNA polymerase, also known as non-structural protein 12: responsible for replication and transcription of the viral RNA genome
+This subfamily contains the RNA-dependent RNA polymerase (RdRp) of betacoronaviruses, including the ...
+Accession: cd21589 ID: 394893
+
+90. alphaCoV_RdRp: alphacoronavirus RNA-dependent RNA polymerase, also known as non-structural protein 12: responsible for replication and transcription of the viral RNA genome
+This subfamily contains the RNA-dependent RNA polymerase (RdRp) of alphacoronaviruses, including hum...
+Accession: cd21588 ID: 394892
+
+91. gammaCoV_RdRp: gammacoronavirus RNA-dependent RNA polymerase, also known as non-structural protein 12: responsible for replication and transcription of the viral RNA genome
+This subfamily contains the RNA-dependent RNA polymerase (RdRp) of gammacoronaviruses, including the...
+Accession: cd21587 ID: 394891
+
+92. CoV_RdRp: coronavirus RNA-dependent RNA polymerase, also known as non-structural protein 12: responsible for replication and transcription of the viral RNA genome
+This family contains the RNA-dependent RNA polymerase of alpha-, beta-, gamma-, delta-coronaviruses,...
+Accession: cd21530 ID: 394890
+
+93. RP-C_C: Replication protein C C-terminal region
+Replication protein C is involved in the early stages of viral DNA replication.
+Accession: pfam11800 ID: 371731
+
+94. TBPIP: Tat binding protein 1(TBP-1)-interacting protein (TBPIP)
+This family consists of several eukaryotic TBP-1 interacting protein (TBPIP) sequences. TBP-1 has be...
+Accession: pfam07106 ID: 369210
+
+95. RepA_N: Replication initiator protein A (RepA) N-terminus
+This of family of predicted proteins represents the N-terminus (approximately 80 residues) of replic...
+Accession: pfam06970 ID: 369151
+
+96. Phage_CRI: Phage replication protein CRI
+The phage replication protein CRI, is also known as Gene II, is essential for DNA replication.
+Accession: pfam05144 ID: 368303
+
+97. RP-C: Replication protein C N-terminal domain
+Replication protein C is involved in the early stages of viral DNA replication.
+Accession: pfam03428 ID: 367494
+
+98. Rep_2: Plasmid replication protein
+This family consists of various bacterial plasmid replication (Rep) proteins. These proteins are ess...
+Accession: pfam01719 ID: 366772
+
+99. Herpes_ori_bp: Origin of replication binding protein
+This Pfam family represents the herpesvirus origin of replication binding protein, probably involved...
+Accession: pfam02399 ID: 280546
+
+100. Orbi_NS1: Orbivirus non-structural protein NS1, or hydrophobic tubular protein
+This family consists of orbivirus non-structural protein NS1, or hydrophobic tubular protein. NS1 ha...
+Accession: pfam01718 ID: 279979
+
+101. TIGR02928: orc1/cdc6 family replication initiation protein
+Members of this protein family are found exclusively in the archaea. This set of DNA binding protein...
+Accession: TIGR02928 ID: 274354
+
+102. phage_O_Nterm: phage replication protein O, N-terminal domain
+This model represents the N-terminal region of the phage lambda replication protein O and homologous...
+Accession: TIGR01610 ID: 273715
+
+103. HR1_PKN2_3: Third Protein kinase C-related kinase homology region 1 (HR1) Rho-binding domain of Protein Kinase N2
+PKN2, also called PKNgamma or Protein-kinase C-related kinase 2 (PRK2), is a serine/threonine protei...
+Accession: cd11635 ID: 212025
+
+104. HR1_PKN2_2: Second Protein kinase C-related kinase homology region 1 (HR1) Rho-binding domain of Protein Kinase N2
+PKN2, also called PKNgamma or Protein-kinase C-related kinase 2 (PRK2), is a serine/threonine protei...
+Accession: cd11631 ID: 212021
+
+105. Bac_RepA_C: Replication initiator protein A C-terminal domain
+This is the C-terminal domain (CTD) that can be found in the conserved replication initiator, RepA,e...
+Accession: pfam18008 ID: 375483
+
+106. REPA_OB_2: Replication protein A OB domain
+Replication protein A contains two OB domains in it's DNA binding region. This is the second of the ...
+Accession: pfam16900 ID: 374875
+
+107. Rep_fac-A_3: Replication factor A protein 3
+Replication factor A is involved in eukaryotic DNA replication, recombination and repair.
+Accession: pfam08661 ID: 370046
+
+108. PriC: Primosomal replication protein priC
+This family contains the bacterial primosomal replication protein priC. In Escherichia coli, this fu...
+Accession: pfam07445 ID: 369368
+
+109. Gag_p24: gag gene protein p24 (core nucleocapsid protein)
+p24 forms inner protein layer of the nucleocapsid. ELISA tests for p24 is the most commonly used met...
+Accession: pfam00607 ID: 366190
+
+110. Phage_GPA: Bacteriophage replication gene A protein (GPA)
+This family consists of a group of bacteriophage replication gene A protein (GPA) like sequences fro...
+Accession: pfam05840 ID: 336220
+
+111. 7tmA_GPR1: G protein-coupled receptor 1 for chemerin, member of the class A family of seven-transmembrane G protein-coupled receptors
+G-protein coupled receptor 1 (GPR1) belongs to the class A of the seven transmembrane domain recepto...
+Accession: cd15119 ID: 320247
+
+112. RepC: Replication protein C (RepC)
+This family consists of several bacterial replication protein C (RepC) sequences.
+Accession: pfam06504 ID: 284027
+
+113. Viral_Rep: Putative viral replication protein
+This is a family of viral ORFs from various plant and animal ssDNA circoviruses. Published evidence ...
+Accession: pfam02407 ID: 280553
+
+114. DnaA: chromosomal replication initiator protein DnaA
+DnaA is involved in DNA biosynthesis; initiation of chromosome replication and can also be transcrip...
+Accession: TIGR00362 ID: 273037
+
+115. ComEA: DNA uptake protein ComE and related DNA-binding proteins [Replication, recombination and repair]
+This model describes the ComEA protein in bacteria. The com E locus is obligatory for bacterial cell...
+Accession: cl39090 ID: 393460
+
+116. MKT1_N: Temperature dependent protein affecting M2 dsRNA replication
+This domain family is found in eukaryotes, and is typically between 231 and 255 amino acids in lengt...
+Accession: pfam12247 ID: 371988
+
+117. MKT1_C: Temperature dependent protein affecting M2 dsRNA replication
+This domain family is found in eukaryotes, and is typically between 231 and 255 amino acids in lengt...
+Accession: pfam12246 ID: 371987
+
+118. RPA: Replication initiator protein A
+Members of this family of bacterial proteins are single-stranded DNA binding proteins that are invol...
+Accession: pfam10134 ID: 370826
+
+119. BAH
+BAH, or Bromo Adjacent Homology domain (also called ELM1 and BAM for Bromo Adjacent Motif). BAH doma...
+Accession: cl02608 ID: 351822
+
+120. T_Ag_DNA_bind: Origin of replication binding protein
+This domain of large T antigen binds to the SV40 origin of DNA replication.
+Accession: pfam02217 ID: 280395
+
+121. rpa1: replication factor-a protein 1 (rpa1)
+All proteins in this family for which functions are known are part of a multiprotein complex made up...
+Accession: TIGR00617 ID: 273177
+
+122. RepL: Firmicute plasmid replication protein (RepL)
+This family consists of Firmicute RepL proteins which are involved in plasmid replication.
+Accession: pfam05732 ID: 253356
+
+123. H3TH_StructSpec-5&apos;-nucleases: H3TH domains of structure-specific 5&apos; nucleases (or flap endonuclease-1-like) involved in DNA replication, repair, and recombination
+The 5' nucleases of this superfamily are capable of both 5'-3' exonucleolytic activity and cleaving ...
+Accession: cl22433 ID: 389913
+
+124. Rep-A_N: Replication factor-A protein 1, N-terminal domain
+
+Accession: pfam04057 ID: 367790
+
+125. dnaA: chromosomal replication initiator protein DnaA
+
+Accession: PRK14086 ID: 237605
+
+126. cdc6: ORC1-type DNA replication protein
+
+Accession: PRK00411 ID: 234751
+
+127. dnaA: chromosomal replication initiator protein DnaA
+
+Accession: PRK00149 ID: 234667
+
+128. REP: Plasmid rolling circle replication initiator protein REP and truncated derivatives  [Mobilome: prophages, transposons]
+
+Accession: COG5655 ID: 227942
+
+129. COG5600: Transcription-associated recombination protein [DNA replication, recombination, and repair]
+
+Accession: COG5600 ID: 227887
+
+130. RAD4: DNA repair protein RAD4 [DNA replication, recombination, and repair]
+
+Accession: COG5535 ID: 227822
+
+131. RepA: Plasmid replication initiator protein [Mobilome: prophages, transposons]
+
+Accession: COG5534 ID: 227821
+
+132. COG5527: Protein involved in initiation of plasmid replication  [Mobilome: prophages, transposons]
+
+Accession: COG5527 ID: 227814
+
+133. RAD14: DNA excision repair protein [DNA replication, recombination, and repair]
+
+Accession: COG5145 ID: 227474
+
+134. OXR1: Oxidation resistance protein [DNA replication, recombination, and repair]
+
+Accession: COG5142 ID: 227471
+
+135. RAD52: Recombination DNA repair protein (RAD52 pathway)  [Replication, recombination and repair]
+
+Accession: COG5055 ID: 227388
+
+136. GINS: DNA-binding ferritin-like protein (Dps family)  [Replication, recombination and repair]
+
+Accession: COG4817 ID: 227154
+
+137. ArdC: Antirestriction protein ArdC [Replication, recombination and repair]
+
+Accession: COG4227 ID: 226680
+
+138. YjqB: Phage-related replication protein YjqB, UPF0714/DUF867 family [Mobilome: prophages, transposons]
+
+Accession: COG4195 ID: 226658
+
+139. comFA: Superfamily II DNA/RNA helicase required for DNA uptake (late competence protein)  [Replication, recombination and repair]
+
+Accession: COG4098 ID: 226583
+
+140. Vsr: G:T-mismatch repair DNA endonuclease, very short patch repair protein [Replication, recombination and repair]
+
+Accession: COG3727 ID: 226250
+
+141. RecT: Recombinational DNA repair protein RecT [Replication, recombination and repair]
+
+Accession: COG3723 ID: 226246
+
+142. YebG: dsDNA-binding SOS-regulon protein, induction by DNA damage requires cAMP [Replication, recombination and repair]
+
+Accession: COG3141 ID: 225683
+
+143. MatP: Macrodomain Ter protein organizer, MatP/YcbG family [Replication, recombination and repair]
+
+Accession: COG3120 ID: 225662
+
+144. MutH: DNA mismatch repair protein MutH [Replication, recombination and repair]
+
+Accession: COG3066 ID: 225608
+
+145. AdaA: Methylphosphotriester-DNA--protein-cysteine methyltransferase (N-terminal fragment of Ada), contains Zn-binding and two AraC-type DNA-binding domains [Replication, recombination and repair]
+
+Accession: COG2169 ID: 225080
+
+146. RadC: DNA repair protein RadC, contains a helix-hairpin-helix DNA-binding motif  [Replication, recombination and repair]
+
+Accession: COG2003 ID: 224914
+
+147. COG1860: Uncharacterized conserved protein, UPF0179 family [Nucleotide transport and metabolism, Replication, recombination and repair]
+
+Accession: COG1860 ID: 224773
+
+148. ComEA: DNA uptake protein ComE and related DNA-binding proteins [Replication, recombination and repair]
+
+Accession: COG1555 ID: 224472
+
+149. CDC6: Cdc6-related protein, AAA superfamily ATPase  [Replication, recombination and repair]
+
+Accession: COG1474 ID: 224391
+
+150. COG1423: ATP-dependent RNA circularization protein, DNA/RNA ligase (PAB1020)  family    [Replication, recombination and repair]
+
+Accession: COG1423 ID: 224341
+
+151. RecO: Recombinational DNA repair protein (RecF pathway) [Replication, recombination and repair]
+
+Accession: COG1381 ID: 224299
+
+152. ScpA: Chromatin segregation and condensation protein Rec8/ScpA/Scc1, kleisin family  [Replication, recombination and repair]
+
+Accession: COG1354 ID: 224273
+
+153. RmuC: DNA anti-recombination protein (rearrangement mutator) RmuC [Replication, recombination and repair]
+
+Accession: COG1322 ID: 224241
+
+154. YkoV: Non-homologous end joining protein Ku, dsDNA break repair [Replication, recombination and repair]
+
+Accession: COG1273 ID: 224192
+
+155. HimA: Bacterial nucleoid DNA-binding protein [Replication, recombination and repair]
+
+Accession: COG0776 ID: 223847
+
+156. Smf: Predicted Rossmann fold nucleotide-binding protein DprA/Smf involved in DNA uptake [Replication, recombination and repair]
+
+Accession: COG0758 ID: 223829
+
+157. Ssb: Single-stranded DNA-binding protein [Replication, recombination and repair]
+
+Accession: COG0629 ID: 223702
+
+158. RecR: Recombinational DNA repair protein RecR [Replication, recombination and repair]
+
+Accession: COG0353 ID: 223430
+
+159. AdaB: O6-methylguanine-DNA--protein-cysteine methyltransferase [Replication, recombination and repair]
+
+Accession: COG0350 ID: 223427
+
+160. PRK13742: replication initiation protein RepE
+
+Accession: PRK13742 ID: 184293
+
+161. PRK13702: replication regulatory protein RepA
+
+Accession: PRK13702 ID: 184258
+
+162. PRK13169: DNA replication initiation control protein YabA
+
+Accession: PRK13169 ID: 183876
+
+163. PRK12422: chromosomal replication initiator protein DnaA
+
+Accession: PRK12422 ID: 183521
+
+164. dnaA: chromosomal replication initiator protein DnaA
+
+Accession: PRK14088 ID: 172578
+
+165. dnaA: chromosomal replication initiator protein DnaA
+
+Accession: PRK14087 ID: 172577
+
+166. HTH: Helix-turn-helix domains
+A large family of mostly alpha-helical protein domains with a characteristic fold; most members func...
+Accession: cl21459 ID: 389747
+
+167. GIY-YIG_SF: GIY-YIG nuclease domain superfamily
+The GIY-YIG nuclease domain superfamily includes a large and diverse group of proteins involved in m...
+Accession: cl15257 ID: 387588
+
+168. DNA_pol_A: Family A polymerase primarily fills DNA gaps that arise during DNA repair, recombination and replication
+DNA polymerase family A, 5'-3' polymerase domain. Family A polymerase functions primarily to fill DN...
+Accession: cl02626 ID: 383059
+
+169. EEP: Exonuclease-Endonuclease-Phosphatase (EEP) domain superfamily
+This large superfamily includes the catalytic domain (exonuclease/endonuclease/phosphatase or EEP do...
+Accession: cl00490 ID: 382041
+
+170. vRING-HC-C4C4_RBBP6: Variant RING finger, HC subclass (C4C4-type), found in retinoblastoma-binding protein 6 (RBBP6) and similar proteins
+RBBP6, also known as proliferation potential-related protein, protein P2P-R, retinoblastoma-binding ...
+Accession: cd16620 ID: 319534
+
+171. embe-CoV_Protein-I_like: BECV protein I and related Embecovirus proteins
+This subfamily includes protein I (also known as accessory protein N2) from bovine enteritic coronav...
+Accession: cd21662 ID: 394943
+
+172. embe-merbe_CoV_ORF8b_protein-I-like: MERS-CoV ORF8b, BECV protein I, and related Embecovirus and Merbecovirus proteins
+This family includes the ORF8b accessory protein from Middle East respiratory syndrome-related coron...
+Accession: cd21654 ID: 394941
+
+173. SARS-CoV-like_ORF3a: accessory protein ORF3a of severe acute respiratory syndrome-associated coronavirus and similar proteins from related betacoronavirus
+This model represents the accessory protein ORF3a of Severe acute respiratory syndrome-associated co...
+Accession: cd21648 ID: 394922
+
+174. MPN: Mpr1p, Pad1p N-terminal (MPN) domains
+MPN (also known as Mov34, PAD-1, JAMM, JAB, MPN+) domains are found in the N-terminal termini of pro...
+Accession: cl13996 ID: 387347
+
+175. SARS-CoV-2_E: Severe acute respiratory syndrome coronavirus 2 Envelope small membrane protein
+This group contains the Envelope (E) small membrane protein of Severe acute respiratory syndrome cor...
+Accession: cd21536 ID: 394862
+
+176. SARS-CoV-like_E: Severe acute respiratory syndrome coronavirus Envelope small membrane protein and similar proteins
+This group contains the Envelope (E) small membrane protein of Severe acute respiratory syndrome (SA...
+Accession: cd21534 ID: 394861
+
+177. MERS-CoV-like_E: Middle East respiratory syndrome-related coronavirus Envelope small membrane protein and similar proteins
+This group contains the Envelope (E) small membrane protein of Middle East respiratory syndrome (MER...
+Accession: cd21533 ID: 394860
+
+178. HKU1-CoV-like_E: human coronavirus HKU1 Envelope small membrane protein and similar proteins
+This group contains the Envelope (E) small membrane protein of human coronavirus HKU1 and related co...
+Accession: cd21532 ID: 394859
+
+179. CoV_E: Coronavirus Envelope (E) small membrane protein
+This family contains the Envelope (E) small membrane protein of betacoronaviruses, including the E p...
+Accession: cd21531 ID: 394858
+
+180. bZIP: Basic leucine zipper (bZIP) domain of bZIP transcription factors: a DNA-binding and dimerization domain
+Basic leucine zipper (bZIP) factors comprise one of the most important classes of enhancer-type tran...
+Accession: cl21462 ID: 389750
+
+181. Cdt1_c: The C-terminal fold of replication licensing factor Cdt1 is essential for Cdt1 activity and directly interacts with MCM2-7 helicase
+Cdt1 is a replication licensing factor in eukaryotes that recruits the Minichromosome Maintenance Co...
+Accession: cl14631 ID: 387366
+
+182. DNA_BRE_C: DNA breaking-rejoining enzymes, C-terminal catalytic domain
+The DNA breaking-rejoining enzyme superfamily includes type IB topoisomerases and tyrosine based sit...
+Accession: cl00213 ID: 381866
+
+183. zf-Paramyx-P: Zinc-binding domain of Paramyxoviridae V protein
+The Paramyxoviridae, which include such respiroviruses as para-influenzae and measles, produce phosp...
+Accession: pfam13008 ID: 372427
+
+184. merbe_CoV_ORF8b-like: MERS-CoV ORF8b protein and related Merbecovirus proteins
+This subfamily includes the ORF8b accessory protein from Middle East respiratory syndrome-related co...
+Accession: cd21661 ID: 394942
+
+185. DnaB_2: Replication initiation and membrane attachment
+This family consists of several bacterial replication initiation and membrane attachment (DnaB) prot...
+Accession: cl29255 ID: 392032
+
+186. IncFII_repA: IncFII RepA protein family
+This protein is plasmid encoded and found to be essential for plasmid replication.
+Accession: cl11495 ID: 386143
+
+187. Maf_Ham1
+Maf_Ham1. Maf, a nucleotide binding protein, has been implicated in inhibition of septum formation i...
+Accession: cl00276 ID: 381917
+
+188. Pneumo_NS1: Pneumovirus NS1 protein
+This non-structural protein is one of two found in pneumoviruses. The protein is about 140 amino aci...
+Accession: pfam03438 ID: 367500
+
+189. HipA-like: serine/threonine-protein kinases similar to HipA and CtkA
+This family contains serine/threonine-protein kinases similar to Escherichia coli HipA, a type II to...
+Accession: cl28916 ID: 355792
+
+190. Phi29_Phage_SSB: Phage Single-stranded DNA-binding protein
+DNA replication of phi29 and related phages takes place via a strand displacement mechanism, a proce...
+Accession: cl10308 ID: 353070
+
+191. Ubl_UHRF1: ubiquitin-like (Ubl) domain found in ubiquitin-like PHD and RING finger domain-containing protein 1(UHRF1)
+UHRF1, also termed inverted CCAAT box-binding protein of 90 kDa, or nuclear protein 95, or nuclear z...
+Accession: cd17122 ID: 340642
+
+192. RING-HC_UHRF1: RING finger, HC subclass, found in ubiquitin-like PHD and RING finger domain-containing protein 1 (UHRF1)
+UHRF1, also known as inverted CCAAT box-binding protein of 90 kDa, nuclear protein 95, nuclear zinc ...
+Accession: cd16769 ID: 319683
+
+193. PHD_UHRF1: PHD finger found in ubiquitin-like PHD and RING finger domain-containing protein 1 (UHRF1)
+UHRF1 (also termed inverted CCAAT box-binding protein of 90 kDa, nuclear protein 95, nuclear zinc fi...
+Accession: cd15616 ID: 277088
+
+194. Cdt1_c: The C-terminal fold of replication licensing factor Cdt1 is essential for Cdt1 activity and directly interacts with MCM2-7 helicase
+Cdt1 is a replication licensing factor in eukaryotes that recruits the Minichromosome Maintenance Co...
+Accession: cd08767 ID: 176572
+
+195. FeS_assembly_P: Iron-sulfur cluster assembly protein
+This family has an alpha/beta topology, with 13 conserved hydrophobic residues at its core and a put...
+Accession: cl00941 ID: 382298
+
+196. Cas4_I-A_I-B_I-C_I-D_II-B: CRISPR/Cas system-associated protein Cas4
+CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) and associated Cas proteins compr...
+Accession: cl00641 ID: 382125
+
+197. Phi29_Phage_SSB: Phage Single-stranded DNA-binding protein
+DNA replication of phi29 and related phages takes place via a strand displacement mechanism, a proce...
+Accession: pfam17427 ID: 340142
+
+198. SP-RING_ZMIZ1: SP-RING finger found in zinc finger MIZ domain-containing protein 1 (Zmiz1) and similar proteins
+Zmiz1, also known as PIAS-like protein Zimp10 (zinc finger-containing, Miz1, PIAS-like protein on ch...
+Accession: cd16822 ID: 319736
+
+199. mRING-C3HGC3_RFWD3: Modified RING finger, C3HGC3-type, found in RING finger and WD repeat domain-containing protein 3 (RFWD3) and similar proteins
+RFWD3, also known as RING finger protein 201 (RNF201) or FLJ10520, is an E3 ubiquitin-protein ligase...
+Accession: cd16450 ID: 319364
+
+200. PHD_BAZ1A_like: PHD finger found in bromodomain adjacent to zinc finger domain protein BAZ1A and BAZ1B
+BAZ1A, also termed ATP-dependent chromatin-remodeling protein, or ATP-utilizing chromatin assembly a...
+Accession: cd15544 ID: 277019
+
+201. YaaA_near_RecF: S4 domain protein YaaA
+This small protein has a single S4 domain (pfam01479), as do bacterial ribosomal protein S4, some ps...
+Accession: TIGR02988 ID: 274378
+
+202. RRM3_TIA1_like: RNA recognition motif 2 in granule-associated RNA binding proteins (p40-TIA-1 and TIAR), and yeast nuclear and cytoplasmic polyadenylated RNA-binding protein PUB1
+This subfamily corresponds to the RRM3 of TIA-1, TIAR, and PUB1. Nucleolysin TIA-1 isoform p40 (p40-...
+Accession: cd12354 ID: 240800
+
+203. NS7a_deltaCoV_HKU30-like: accessory protein NS7a found in deltacoronavirus, including avian coronavirus HKU30 and related coronaviruses
+This group includes the accessory protein NS7a from Quail deltacoronavirus (QdCoV) UAE-HKU30 and spa...
+Accession: cd21639 ID: 394933
+
+204. NS7a_deltaCoV_HKU16-like: accessory protein NS7a found in deltacoronavirus, including avian coronavirus HKU16 and related coronaviruses
+This group includes the accessory protein NS7a from White-eye coronavirus HKU16, Falcon coronavirus ...
+Accession: cd21638 ID: 394932
+
+205. Levi_coat: Levivirus coat protein
+The Levivirus coat protein forms the bacteriophage coat that encapsidates the viral RNA. 180 copies ...
+Accession: cl28115 ID: 391811
+
+206. Parvo_NS1: Parvovirus non-structural protein NS1
+This family also contains the NS2 protein. Parvoviruses encode two non-structural proteins, NS1 and ...
+Accession: cl24009 ID: 390233
+
+207. DnaQ_like_exo: DnaQ-like (or DEDD) 3&apos;-5&apos; exonuclease domain superfamily
+The DnaQ-like exonuclease superfamily is a structurally conserved group of 3'-5' exonucleases, which...
+Accession: cl10012 ID: 385652
+
+208. HU_IHF: DNA sequence specific (IHF) and non-specific (HU) domains
+This family includes integration host factor (IHF) and HU, also called type II DNA-binding proteins ...
+Accession: cl00257 ID: 381905
+
+209. DnaB_2: Replication initiation and membrane attachment
+This family consists of several bacterial replication initiation and membrane attachment (DnaB) prot...
+Accession: pfam07261 ID: 377797
+
+210. Ubl_SLD2_Esc2_like: SUMO-like domain 2 (SLD2), structurally similar to a beta-grasp ubiquitin-like fold, found in Saccharomyces cerevisiae establishes silent chromatin protein 2 (Esc2p) and similar proteins
+Protein Esc2p belongs to the eukaryotic-specific Rad60-Esc2-Nip45 (RENi) protein family, whose membe...
+Accession: cd17080 ID: 340600
+
+211. Ubl2_OASL: ubiquitin-like (Ubl) domain 2 found in 2'-5'-oligoadenylate synthase-like protein (OASL) and similar proteins
+OASL, also termed 2'-5'-OAS-related protein (2'-5'-OAS-RP), or 59 kDa 2'-5'-oligoadenylate synthase-...
+Accession: cd16103 ID: 340520
+
+212. Ubl1_OASL: ubiquitin-like (Ubl) domain 1 found in 2'-5'-oligoadenylate synthase-like protein (OASL) and similar proteins
+OASL, also termed 2'-5'-OAS-related protein (2'-5'-OAS-RP), or 59 kDa 2'-5'-oligoadenylate synthase-...
+Accession: cd01811 ID: 340509
+
+213. ParB_N_Srx: ParB N-terminal domain and sulfiredoxin protein-related families
+The ParB N-terminal domain/Sulfiredoxin (Srx) superfamily contains proteins with diverse activities....
+Accession: cd16387 ID: 319246
+
+214. Rota_NSP3: Rotavirus non-structural protein NSP3
+This family consist of rotaviral non-structural RNA binding protein 34 (NS34 or NSP3). The NSP3 prot...
+Accession: pfam01665 ID: 279933
+
+215. RRM3_PUB1: RNA recognition motif 3 in yeast nuclear and cytoplasmic polyadenylated RNA-binding protein PUB1 and similar proteins
+This subfamily corresponds to the RRM3 of yeast protein PUB1, also termed ARS consensus-binding prot...
+Accession: cd12622 ID: 241066
+
+216. RRM2_PUB1: RNA recognition motif 2 in yeast nuclear and cytoplasmic polyadenylated RNA-binding protein PUB1 and similar proteins
+This subgroup corresponds to the RRM2 of yeast protein PUB1, also termed ARS consensus-binding prote...
+Accession: cd12619 ID: 241063
+
+217. RRM1_PUB1: RNA recognition motif 1 in yeast nuclear and cytoplasmic polyadenylated RNA-binding protein PUB1 and similar proteins
+This subgroup corresponds to the RRM1 of yeast protein PUB1, also termed ARS consensus-binding prote...
+Accession: cd12614 ID: 241058
+
+218. batCoV-HKU9_NS7b: NS7b protein from Rousettus bat coronavirus HKU9 and related betacoronaviruses in the D lineage
+This model represents the NS7b protein of Rousettus bat coronavirus (CoV) HKU9 and related proteins ...
+Accession: cd21644 ID: 394940
+
+219. NS7_PDCoV: Porcine deltacoronavirus (PDCoV) accessory protein NS7
+This group includes the accessory protein NS7 found in Porcine coronavirus HKU15. There are five ess...
+Accession: cd21637 ID: 394931
+
+220. deltaCoV_NS7_NS7a: deltacoronavirus accessory protein NS7 and NS7a
+This family includes the accessory protein NS7 found in deltacoronaviruses from the Buldecovirus sub...
+Accession: cd21628 ID: 394930
+
+221. MERS-CoV-like_ORF5: Non-structural protein ORF5 from Middle East respiratory syndrome-related coronavirus and related betacoronaviruses in the C lineage
+This model represents the non-structural protein ORF5 from Middle East respiratory syndrome-related ...
+Accession: cd21645 ID: 394928
+
+222. Sld7_N: Mitochondrial morphogenesis protein SLD7 N-terminal domain
+The initiation of eukaryotic chromosomal DNA replication requires the formation of an active replica...
+Accession: pfam18636 ID: 376062
+
+223. Paramyxo_PNT: Paramyxovirus structural protein V/P N-terminus
+This family consists of several Paramyxoviridae structural protein P and V sequences. From a structu...
+Accession: pfam13825 ID: 372740
+
+224. Levi_coat: Levivirus coat protein
+The Levivirus coat protein forms the bacteriophage coat that encapsidates the viral RNA. 180 copies ...
+Accession: pfam01819 ID: 366823
+
+225. BTB_POZ_TNFAIP1_BACURD2: BTB (Broad-Complex, Tramtrack and Bric a brac)/POZ (poxvirus and zinc finger) domain found in tumor necrosis factor, alpha-induced protein 1, endothelial (TNFAIP1)
+TNFAIP1, also called BTB/POZ domain-containing adapter for CUL3-mediated RhoA degradation protein 2 ...
+Accession: cd18401 ID: 349709
+
+226. BTB_POZ_KCTD10_BACURD3: BTB (Broad-Complex, Tramtrack and Bric a brac)/POZ (poxvirus and zinc finger) domain found in potassium channel tetramerization domain-containing protein 10 (KCTD10)
+KCTD10, also called BTB/POZ domain-containing adapter for CUL3-mediated RhoA degradation protein 3 (...
+Accession: cd18399 ID: 349707
+
+227. BTB_POZ_ZBTB25_ZNF46_KUP: BTB (Broad-Complex, Tramtrack and Bric a brac)/POZ (poxvirus and zinc finger) domain found in zinc finger and BTB domain-containing protein 25 (ZBTB25)
+ZBTB25, also called zinc finger protein 46 (ZNF46) or zinc finger protein KUP, is a transcription re...
+Accession: cd18213 ID: 349522
+
+228. STKc_EIF2AK2_PKR: Catalytic domain of the Serine/Threonine kinase, eukaryotic translation Initiation Factor 2-Alpha Kinase 2 or Protein Kinase regulated by RNA
+STKs catalyze the transfer of the gamma-phosphoryl group from ATP to serine/threonine residues on pr...
+Accession: cd14047 ID: 270949
+
+229. SH3_Nbp2-like: Src Homology 3 domain of Saccharomyces cerevisiae Nap1-binding protein 2 and similar fungal proteins
+This subfamily includes Saccharomyces cerevisiae Nbp2 (Nucleosome assembly protein 1 (Nap1)-binding ...
+Accession: cd11865 ID: 212799
+
+230. CoV_N-CTD: C-terminal domain of nucleocapsid (N) protein of coronavirus
+The coronavirus nucleocapsid (N) protein is a major structural and multifunctional protein. It plays...
+Accession: cd21595 ID: 394954
+
+231. SARS-CoV_ORF3b: accessory protein ORF3b of severe acute respiratory syndrome-associated coronavirus
+This model represents the accessory protein ORF3b of Severe acute respiratory syndrome-associated co...
+Accession: cd21649 ID: 394923
+
+232. SUD_C_MERS-CoV_Nsp3: C-terminal SARS-Unique Domain (SUD) of non-structural protein 3 (Nsp3) from Middle East respiratory syndrome-related coronavirus and related betacoronaviruses in the C lineage
+This subfamily contains the SUD-C of Middle East respiratory syndrome-related (MERS) coronavirus (Co...
+Accession: cd21523 ID: 394839
+
+233. Rep_trans: Replication initiation factor
+Plasmid replication is initiated by the replication initiation factor (REP). This family represents ...
+Accession: cl27417 ID: 391736
+
+234. Phi-29_GP3: Phi-29 DNA terminal protein GP3
+This family consists of DNA terminal protein GP3 sequences from Phi-29 like bacteriophages. DNA term...
+Accession: cl27031 ID: 391663
+
+235. PHP: Polymerase and Histidinol Phosphatase domain
+The PHP (also called histidinol phosphatase-2/HIS2) domain is associated with several types of DNA p...
+Accession: cl23724 ID: 390047
+
+236. Bbox1_TRIM19_C-V: B-box-type 1 zinc finger found in promyelocytic leukemia protein (PML) and similar proteins
+Protein PML, also known as RING finger protein 71 (RNF71) or tripartite motif-containing protein 19 ...
+Accession: cd19804 ID: 380862
+
+237. Corona_NSP4_C: Coronavirus nonstructural protein 4 C-terminus
+This is the C-terminal domain of the coronavirus nonstructural protein 4 (NSP4). NSP4 is a membrane-...
+Accession: pfam16348 ID: 374495
+
+238. ECM11: Extracellular mutant protein 11
+ECM11 is a family of largely fungal proteins. ECM11 interacts with Cdc6, an essential protein involv...
+Accession: pfam15463 ID: 373866
+
+239. FeS_assembly_P: Iron-sulfur cluster assembly protein
+This family has an alpha/beta topology, with 13 conserved hydrophobic residues at its core and a put...
+Accession: pfam01883 ID: 366850
+
+240. BRCT_RFC1: BRCT domain of replication factor C subunit 1 (RFC1) and similar proteins
+RFC1, also termed activator 1 140 kDa subunit, or A1 140 kDa subunit, or activator 1 large subunit, ...
+Accession: cd17752 ID: 349383
+
+241. BRCT_SLF1: BRCT domain of SMC5-SMC6 complex localization factor protein 1 (SLF1) and similar proteins
+SLF1, also termed Smc5/6 localization factor 1, or ankyrin repeat domain-containing protein 32 (ANKR...
+Accession: cd17750 ID: 349381
+
+242. Mobilization_B: Mobilization protein B
+This is a family of unknown function found in Bacteria. Family members include Mobilization protein ...
+Accession: pfam17511 ID: 340226
+
+243. RING-HC_PML_C-V: RING finger, HC subclass, found in promyelocytic leukemia protein (PML) and similar proteins
+Protein PML, also known as RING finger protein 71 (RNF71) or tripartite motif-containing protein 19 ...
+Accession: cd16579 ID: 319493
+
+244. RING-HC_RAD18: RING finger, HC subclass, found in postreplication repair protein RAD18 and similar proteins
+RAD18, also known as HR18 or RING finger protein 73 (RNF73), is an E3 ubiquitin-protein ligase invol...
+Accession: cd16529 ID: 319443
+
+245. PHD_BAZ1B: PHD finger found in bromodomain adjacent to zinc finger domain protein 1B (BAZ1B)
+BAZ1B, also termed Tyrosine-protein kinase BAZ1B, or Williams syndrome transcription factor (WSTF), ...
+Accession: cd15628 ID: 277098
+
+246. ygfZ_signature: folate-binding protein YgfZ
+YgfZ is a protein from Escherichia coli, homologous to the glycine cleavage system T protein, or ami...
+Accession: TIGR03317 ID: 274518
+
+247. STKc_CK1_alpha: Catalytic domain of the Serine/Threonine protein kinases, Casein Kinase 1 alpha
+STKs catalyze the transfer of the gamma-phosphoryl group from ATP to serine/threonine residues on pr...
+Accession: cd14128 ID: 271030
+
+248. STKc_VRK2: Catalytic domain of the Serine/Threonine protein kinase, Vaccinia Related Kinase 2
+STKs catalyze the transfer of the gamma-phosphoryl group from ATP to serine/threonine residues on pr...
+Accession: cd14123 ID: 271025
+
+249. STKc_VRK1: Catalytic domain of the Serine/Threonine protein kinase, Vaccinia Related Kinase 1
+STKs catalyze the transfer of the gamma-phosphoryl group from ATP to serine/threonine residues on pr...
+Accession: cd14122 ID: 271024
+
+250. PIKK_TRRAP: Pseudokinase domain of TRansformation/tRanscription domain-Associated Protein
+TRRAP belongs to the the phosphoinositide 3-kinase-related protein kinase (PIKK) subfamily. It conta...
+Accession: cd05163 ID: 270707
+
+251. RRM2_DND1: RNA recognition motif 2 found in vertebrate dead end protein homolog 1 (DND1)
+This subgroup corresponds to the RRM2 of DND1, also termed RNA-binding motif, single-stranded-intera...
+Accession: cd12493 ID: 240937
+
+252. RRM1_DND1: RNA recognition motif 1 found in vertebrate dead end protein homolog 1 (DND1)
+This subgroup corresponds to the RRM1 of DND1, also termed RNA-binding motif, single-stranded-intera...
+Accession: cd12487 ID: 240931
+
+253. RRM2_MSSP2: RNA recognition motif 2 found in vertebrate single-stranded DNA-binding protein MSSP-2
+This subgroup corresponds to the RRM2 of MSSP-2, also termed RNA-binding motif, single-stranded-inte...
+Accession: cd12474 ID: 240918
+
+254. RRM2_MSSP1: RNA recognition motif 2 found in vertebrate single-stranded DNA-binding protein MSSP-1
+This subgroup corresponds to the RRM2 of MSSP-1, also termed RNA-binding motif, single-stranded-inte...
+Accession: cd12473 ID: 240917
+
+255. RRM1_MSSP2: RNA recognition motif 1 in vertebrate single-stranded DNA-binding protein MSSP-2
+This subgroup corresponds to the RRM1 of MSSP-2, also termed RNA-binding motif, single-stranded-inte...
+Accession: cd12471 ID: 240915
+
+256. RRM1_MSSP1: RNA recognition motif 1 in vertebrate single-stranded DNA-binding protein MSSP-1
+This subgroup corresponds to the RRM1 of MSSP-1, also termed RNA-binding motif, single-stranded-inte...
+Accession: cd12470 ID: 240914
+
+257. LIM4_FHL: The fourth LIM domain of Four and a half LIM domains protein (FHL)
+The fourth LIM domain of Four and a half LIM domains protein (FHL): LIM-only protein family consists...
+Accession: cd09347 ID: 188733
+
+258. LIM3_FHL: The third LIM domain of Four and a half LIM domains protein (FHL)
+The third LIM domain of Four and a half LIM domains protein (FHL): LIM-only protein family consists ...
+Accession: cd09346 ID: 188732
+
+259. LIM2_FHL: The second LIM domain of Four and a half LIM domains protein (FHL)
+The second LIM domain of Four and a half LIM domains protein (FHL): LIM-only protein family consists...
+Accession: cd09345 ID: 188731
+
+260. LIM1_FHL: The first LIM domain of Four and a half LIM domains protein (FHL)
+The first LIM domain of Four and a half LIM domains protein (FHL): LIM-only protein family consists ...
+Accession: cd09343 ID: 188729
+
+261. incFII_RepA: incFII family plasmid replication initiator RepA
+Members of this protein are the plasmid replication initiator RepA of incFII (plasmid incompatibilit...
+Accession: TIGR03474 ID: 132514
+
+262. alphaCoV_Nsp14: nonstructural protein 14 of alphacoronavirus
+Nonstructural protein 14 (Nsp14) of coronavirus (CoV) plays an important role in viral replication a...
+Accession: cd21660 ID: 394959
+
+263. betaCoV_Nsp14: nonstructural protein 14 of betacoronavirus
+Nonstructural protein 14 (Nsp14) of coronavirus (CoV) plays an important role in viral replication a...
+Accession: cd21659 ID: 394958
+
+264. gammaCoV_Nsp14: nonstructural protein 14 of gammacoronavirus
+Nonstructural protein 14 (Nsp14) of coronavirus (CoV) plays an important role in viral replication a...
+Accession: cd21658 ID: 394957
+
+265. deltaCoV_Nsp14: nonstructural protein 14 of deltacoronavirus
+Nonstructural protein 14 (Nsp14) of coronavirus (CoV) plays an important role in viral replication a...
+Accession: cd21657 ID: 394956
+
+266. CoV_Nsp14: nonstructural protein 14 of coronavirus
+Nonstructural protein 14 (Nsp14) of coronavirus (CoV) plays an important role in viral replication a...
+Accession: cd21528 ID: 394955
+
+267. NS6_deltaCoV: deltacoronavirus accessory protein NS6
+This family includes the accessory protein NS6 from deltacoronaviruses such as porcine coronavirus H...
+Accession: cd21629 ID: 394929
+
+268. CoV_N-NTD: N-terminal domain of nucleocapsid (N) protein of coronavirus
+The coronavirus nucleocapsid (N) protein is a major structural and multifunctional protein. It plays...
+Accession: cd21554 ID: 394863
+
+269. SUD_C_HKU9_CoV_Nsp3: C-terminal SARS-Unique Domain (SUD) of non-structural protein 3 (Nsp3) from Rousettus bat coronavirus HKU9 and related betacoronaviruses in the D lineage
+This subfamily contains the SUD-C of Rousettus bat coronavirus (CoV) HKU9 non-structural protein 3 (...
+Accession: cd21537 ID: 394842
+
+270. SUD_C_SARS-CoV_Nsp3: C-terminal SARS-Unique Domain (SUD) of non-structural protein 3 (Nsp3) from Severe Acute Respiratory Syndrome coronavirus and related betacoronaviruses in the B lineage
+This subfamily contains the SUD-C of Severe Acute Respiratory Syndrome (SARS) coronavirus (CoV) non-...
+Accession: cd21525 ID: 394841
+
+271. DPUP_MHV_Nsp3: DPUP (domain preceding Ubl2 and PLP2) of non-structural protein 3 (Nsp3) from murine hepatitis virus and related betacoronaviruses in the A lineage
+This subfamily contains the DPUP (domain preceding Ubl2 and PLP2) of murine hepatitis virus (MHV) no...
+Accession: cd21524 ID: 394840
+
+272. Ubl1_cv_Nsp3_N-like: first ubiquitin-like (Ubl) domain located at the N-terminus of coronavirus SARS-CoV non-structural protein 3 (Nsp3) and related proteins
+This ubiquitin-like (Ubl) domain (Ubl1) is found at the N-terminus of coronavirus Nsp3, a large mult...
+Accession: cd21467 ID: 394822
+
+273. Viral_DNA_bp: ssDNA binding protein
+This protein is found in herpesviruses and is needed for replication.
+Accession: cl28142 ID: 391814
+
+274. CAF1C_H4-bd: Histone-binding protein RBBP4 or subunit C of CAF1 complex
+The CAF-1 complex is a conserved heterotrimeric protein complex that promotes histone H3 and H4 depo...
+Accession: pfam12265 ID: 372002
+
+275. DNMT1-RFD: Cytosine specific DNA methyltransferase replication foci domain
+This domain is part of a cytosine specific DNA methyltransferase enzyme. It functions non-catalytica...
+Accession: pfam12047 ID: 371865
+
+276. Phi-29_GP3: Phi-29 DNA terminal protein GP3
+This family consists of DNA terminal protein GP3 sequences from Phi-29 like bacteriophages. DNA term...
+Accession: pfam05435 ID: 368442
+
+277. HLD_clamp_RarA: helical lid domain of recombination factor protein RarA
+Recombination factor RarA (Replication associated recombination gene/protein A, also known as MgsA (...
+Accession: cd18139 ID: 350841
+
+278. DEADc_DDX3: DEAD-box helicase domain of DEAD box protein 3
+DDX3 (also called helicase-like protein, DEAD box, X isoform, or DDX14) has been reported to display...
+Accession: cd18051 ID: 350809
+
+279. PIN_VapC-FitB-like: VapC-like PIN domain of ribonucleases (toxins), VapC and FitB, of prokaryotic toxin/antitoxin operons, Pyrococcus horikoshii protein PH0500, and other similar bacterial and archaeal homologs
+PIN (PilT N terminus) domain-containing proteins of prokaryotic toxin/antitoxin (TA) operons, such a...
+Accession: cd09875 ID: 350223
+
+280. ArfGap_AGFG1: ArfGAP domain of AGFG1 (ArfGAP domain and FG repeat-containing protein 1)
+The ArfGAP domain and FG repeat-containing proteins (AFGF) subfamily of Arf GTPase-activating protei...
+Accession: cd08857 ID: 350082
+
+281. TGS_Obg: TGS (ThrRS, GTPase and SpoT) domain found in the Obg protein family
+The Obg family of GTPases function has been implicated in cellular processes as diverse as sporulati...
+Accession: cd04938 ID: 340517
+
+282. RING-HC_RNF125: RING finger, HC subclass, found in RING finger protein 125 (RNF125)
+RNF125, also known as T-cell RING activation protein 1 (TRAC-1), is an E3 ubiquitin-protein ligase t...
+Accession: cd16542 ID: 319456
+
+283. Herpes_UL82_83: Betaherpesvirus UL82/83 protein N-terminus
+This family represents the N terminal region of the Betaherpesvirus UL82 and UL83 proteins. As virus...
+Accession: pfam05784 ID: 283448
+
+284. arch_KAE1: universal archaeal protein Kae1
+This family represents the archaeal protein Kae1. Its partner Bud32 is fused with it in about half o...
+Accession: TIGR03722 ID: 274747
+
+285. STKc_VRK: Catalytic domain of the Serine/Threonine protein kinase, Vaccinia Related Kinase
+STKs catalyze the transfer of the gamma-phosphoryl group from ATP to serine/threonine residues on pr...
+Accession: cd14015 ID: 270917
+
+286. STKc_CDK2_3: Catalytic domain of the Serine/Threonine Kinases, Cyclin-Dependent protein Kinase 2 and 3
+STKs catalyze the transfer of the gamma-phosphoryl group from ATP to serine/threonine residues on pr...
+Accession: cd07860 ID: 270844
+
+287. RRM_MCM3A_like: RNA recognition motif in 80 kDa MCM3-associated protein (Map80) and similar proteins
+This subfamily corresponds to the RRM of Map80, also termed germinal center-associated nuclear prote...
+Accession: cd12443 ID: 240889
+
+288. GIY-YIG_MSH: Catalytic GIY-YIG domain of eukaryotic DNA mismatch repair protein MutS homologs
+This family represents a putative GIY-YIG nuclease domain C-terminally fused to the DNA-repair ATPas...
+Accession: cd10438 ID: 198385
+
+289. LIM4_FHL2: The fourth LIM domain of Four and a half LIM domains protein 2 (FHL2)
+The fourth LIM domain of Four and a half LIM domains protein 2 (FHL2):  FHL2 is one of the best stud...
+Accession: cd09433 ID: 188817
+
+290. LIM3_Fhl2: The third LIM domain of Four and a half LIM domains protein 2 (FHL2)
+The third LIM domain of Four and a half LIM domains protein 2 (FHL2):  FHL2 is one of the best studi...
+Accession: cd09431 ID: 188815
+
+291. LIM2_FHL2: The second LIM domain of Four and a half LIM domains protein 2 (FHL2)
+The second LIM domain of Four and a half LIM domains protein 2 (FHL2):  FHL2 is one of the best stud...
+Accession: cd09426 ID: 188810
+
+292. LIM1_FHL2: The first LIM domain of Four and a half LIM domains protein 2 (FHL2)
+The first LIM domain of Four and a half LIM domains protein 2 (FHL2):  FHL2 is one of the best studi...
+Accession: cd09422 ID: 188806
+
+293. Pathogen_betaC1: Beta-satellite pathogenicity beta C1 protein
+Cotton leaf-curl disease - CLCuD - is of major economic importance in cotton-growing areas of the fa...
+Accession: pfam09593 ID: 150305
+
+294. Rota_NS53: Rotavirus RNA-binding Protein 53 (NS53)
+This protein is also known as NSP1. NS53 is encoded by gene 5. It is made in low levels in the infec...
+Accession: pfam00981 ID: 144538
+
+295. deltaCoV_Nsp5_Mpro: deltacoronavirus non-structural protein 5, also called Main protease (Mpro)
+This subfamily contains the coronavirus (CoV) non-structural protein 5 (Nsp5) also called the Main p...
+Accession: cd21668 ID: 394889
+
+296. gammaCoV_Nsp5_Mpro: gammacoronavirus non-structural protein 5, also called Main protease (Mpro)
+This subfamily contains the coronavirus (CoV) non-structural protein 5 (Nsp5) also called the Main p...
+Accession: cd21667 ID: 394888
+
+297. betaCoV_Nsp5_Mpro: betacoronavirus non-structural protein 5, also called Main protease (Mpro)
+This subfamily contains the coronavirus (CoV) non-structural protein 5 (Nsp5) also called the Main p...
+Accession: cd21666 ID: 394887
+
+298. alphaCoV_Nsp5_Mpro: alphacoronavirus non-structural protein 5, also called Main protease (Mpro)
+This subfamily contains the coronavirus (CoV) non-structural protein 5 (Nsp5) also called the Main p...
+Accession: cd21665 ID: 394886
+
+299. CoV_Nsp5_Mpro: coronavirus non-structural protein 5, also called Main protease (Mpro)
+This family contains the coronavirus (CoV) non-structural protein 5 (Nsp5) also called the Main prot...
+Accession: cd21646 ID: 394885
+
+300. deltaCoV-Nsp6: deltacoronavirus non-structural protein 6
+Coronaviruses (CoV) redirect and rearrange host cell membranes as part of the viral genome replicati...
+Accession: cd21561 ID: 394847
+
+301. betaCoV-Nsp6: betacoronavirus non-structural protein 6
+Coronaviruses (CoV) redirect and rearrange host cell membranes as part of the viral genome replicati...
+Accession: cd21560 ID: 394846
+
+302. gammaCoV-Nsp6: gammacoronavirus non-structural protein 6
+Coronaviruses (CoV) redirect and rearrange host cell membranes as part of the viral genome replicati...
+Accession: cd21559 ID: 394845
+
+303. alphaCoV-Nsp6: alphacoronavirus non-structural protein 6
+Coronaviruses (CoV) redirect and rearrange host cell membranes as part of the viral genome replicati...
+Accession: cd21558 ID: 394844
+
+304. CoV_Nsp6: coronavirus non-structural protein 6
+Coronaviruses (CoV) redirect and rearrange host cell membranes as part of the viral genome replicati...
+Accession: cd21526 ID: 394843
+
+305. SUD_C_DPUP_CoV_Nsp3: C-terminal SARS-Unique Domain (SUD) of betacoronavirus non-structural protein 3 (Nsp3)
+This family contains the SUD-C of Nsp3 from Severe Acute Respiratory Syndrome (SARS) coronavirus (Co...
+Accession: cd21513 ID: 394838
+
+306. Ubl2_cv_PLpro_N_Nsp3-like: second ubiquitin-like (Ubl) domain located N-terminal to the coronavirus SARS-CoV papain-like protease (PLpro) domain in the non-structural protein 3 (Nsp3) and related proteins
+Severe acute respiratory syndrome coronavirus (SARS-CoV) non-structural proteins (Nsps) are encoded ...
+Accession: cd21466 ID: 394821
+
+307. gp32: gp32 DNA binding protein like
+gp32 is a single stranded (ss) DNA binding protein in bacteriophage T4 that is essential for DNA rep...
+Accession: cl17537 ID: 388430
+
+308. Restriction_endonuclease_like
+Superfamily of nucleases including Short Patch Repair (Vsr) Endonucleases, archaeal Holliday junctio...
+Accession: cl00516 ID: 382053
+
+309. DUF3584: Protein of unknown function (DUF3584)
+This protein is found in bacteria and eukaryotes. Proteins in this family are typically between 943 ...
+Accession: pfam12128 ID: 378817
+
+310. Croc_4: Contingent replication of cDNA 4
+Family members are 18-kDa serine/threonine-rich polypeptides containing a P-loop motif and an SH3-bi...
+Accession: pfam17691 ID: 375259
+
+311. CDC24_OB1: Cell division control protein 24, OB domain 1
+This family contains OB-fold domains that bind to nucleic acids. The family includes a domain found ...
+Accession: pfam17246 ID: 375078
+
+312. CDC24_OB2: Cell division control protein 24, OB domain 2
+This family contains OB-fold domains that bind to nucleic acids. The family includes a domain found ...
+Accession: pfam17245 ID: 375077
+
+313. CDC24_OB3: Cell division control protein 24, OB domain 3
+This family contains OB-fold domains that bind to nucleic acids. The family includes a domain found ...
+Accession: pfam17244 ID: 375076
+
+314. m04gp34like: Immune evasion protein
+This protein is found in archaea and viruses. Proteins in this family are typically between 265 to 3...
+Accession: pfam12216 ID: 371968
+
+315. Spy1: Cell cycle regulatory protein
+Speedy (Spy1) is a cell cycle regulatory protein which activates CDK2, the major kinase that allows ...
+Accession: pfam11357 ID: 371488
+
+316. Dcc1: Sister chromatid cohesion protein Dcc1
+Sister chromatid cohesion protein Dcc1 is a component of the Ctf18-RFC complex. This complex is requ...
+Accession: pfam09724 ID: 370633
+
+317. Picorna_P3A: Picornaviridae P3A protein
+This family consists of the P3A protein of picornaviridae. P3A has been identified as a genome-linke...
+Accession: pfam06363 ID: 368858
+
+318. DMAP1: DNA methyltransferase 1-associated protein 1 (DMAP1)
+DNA methylation can contribute to transcriptional silencing through several transcriptionally repres...
+Accession: pfam05499 ID: 368472
+
+319. UL45: UL45 protein, carbohydrate-binding C-type lectin-like
+This family consists of several UL45 proteins. The herpes simplex virus UL45 gene encodes an 18 kDa ...
+Accession: pfam05473 ID: 368457
+
+320. TBSV_P22: TBSV core protein P21/P22
+This protein is required for cell-to-cell movement in plants. Furthermore, the membrane-associated p...
+Accession: pfam03558 ID: 367561
+
+321. Ilar_coat: Ilarvirus coat protein
+This family consists of various coat proteins from the ilarviruses part of the Bromoviridae, members...
+Accession: pfam01787 ID: 366810
+
+322. Parvo_NS1: Parvovirus non-structural protein NS1
+This family also contains the NS2 protein. Parvoviruses encode two non-structural proteins, NS1 and ...
+Accession: pfam01057 ID: 366441
+
+323. CinA: Competence-damaged protein
+CinA is the first gene in the competence-inducible (cin) operon, and is thought to be specifically r...
+Accession: cl00666 ID: 351203
+
+324. BRCT_TopBP1_rpt5: fifth BRCT domain of DNA topoisomerase 2-binding protein 1 (TopBP1) and similar proteins
+TopBP1, also termed DNA topoisomerase II-beta-binding protein 1, or DNA topoisomerase II-binding pro...
+Accession: cd18434 ID: 349387
+
+325. BRCT_TopBP1_rpt4: fourth BRCT domain of DNA topoisomerase 2-binding protein 1 (TopBP1) and similar proteins
+TopBP1, also called DNA topoisomerase II-beta-binding protein 1, or DNA topoisomerase II-binding pro...
+Accession: cd17749 ID: 349380
+
+326. BRCT_TopBP1_rpt7: seventh BRCT domain of DNA topoisomerase 2-binding protein 1
+TopBP1, also termed DNA topoisomerase II-beta-binding protein 1, or DNA topoisomerase II-binding pro...
+Accession: cd17738 ID: 349370
+
+327. BRCT_TopBP1_rpt1: first BRCT domain of DNA topoisomerase 2-binding protein 1 (TopBP1) and similar proteins
+TopBP1, also termed DNA topoisomerase II-beta-binding protein 1, or DNA topoisomerase II-binding pro...
+Accession: cd17737 ID: 349369
+
+328. BRCT_TopBP1_rpt2_like: second BRCT domain of DNA topoisomerase 2-binding protein 1 (TopBP1) and similar proteins
+TopBP1, also termed DNA topoisomerase II-beta-binding protein 1, or DNA topoisomerase II-binding pro...
+Accession: cd17731 ID: 349363
+
+329. BRCT_TopBP1_rpt8: eighth (C-terminal) BRCT domain of DNA topoisomerase 2-binding protein 1
+TopBP1, also termed DNA topoisomerase II-beta-binding protein 1, or DNA topoisomerase II-binding pro...
+Accession: cd17728 ID: 349360
+
+330. BRCT_TopBP1_rpt6: sixth BRCT domain of DNA topoisomerase 2-binding protein 1 (TopBP1) and similar proteins
+TopBP1, also termed DNA topoisomerase II-beta-binding protein 1, or DNA topoisomerase II-binding pro...
+Accession: cd17727 ID: 349359
+
+331. BRCT_TopBP1_rpt3: third BRCT domain of DNA topoisomerase 2-binding protein 1 (TopBP1) and similar proteins
+TopBP1, also termed DNA topoisomerase II-beta-binding protein 1, or DNA topoisomerase II-binding pro...
+Accession: cd17718 ID: 349350
+
+332. Ubl_WDR48: Ubiquitin-like (Ubl) domain found in WD repeat-containing protein 48 (WDR48) and similar proteins
+WDR48, also termed USP1-associated factor 1 (UAF1), or WD repeat endosomal protein, or p80, is requi...
+Accession: cd17041 ID: 340561
+
+333. NS3: Non-structural protein NS3
+This is a family of proteins found in Densoviruses. Members of this family such as NS3 found in Juno...
+Accession: pfam17530 ID: 340245
+
+334. U71: Tegument protein UL11 homolog
+Human herpesvirus 6A (HHV-6A) and HHV-6B are classified as roseoloviruses and are highly prevalent i...
+Accession: pfam17474 ID: 340189
+
+335. Putative_CCL4: Chemokine-like protein, HHV-6 U83 gene product
+Human herpesvirus 6A (HHV-6A) and HHV-6B are classified as roseoloviruses and are highly prevalent i...
+Accession: pfam17465 ID: 340180
+
+336. Nramp: Natural resistance-associated macrophage protein
+The natural resistance-associated macrophage protein (NRAMP) family consists of Nramp1, Nramp2, and ...
+Accession: pfam01566 ID: 334596
+
+337. RING-HC_TRIM25_C-IV: RING finger, HC subclass, found in tripartite motif-containing protein TRIM25 and similar proteins
+TRIM25, also known as estrogen-responsive finger protein (EFP), RING finger protein 147 (RNF147), or...
+Accession: cd16597 ID: 319511
+
+338. Rep_N: Rep protein catalytic domain like
+Adeno-associated virus (AAV) Replication (Rep) protein is essential for viral replication and integr...
+Accession: pfam08724 ID: 312303
+
+339. Paramyxo_ncap: Paramyxovirus nucleocapsid protein
+The nucleocapsid protein is referred to as NP. NP is is the major structural component of the nucleo...
+Accession: pfam00973 ID: 307220
+
+340. Nsp1: Non structural protein Nsp1
+Nsp1 is the N-terminal cleavage product from the viral replicase that mediates RNA replication and p...
+Accession: pfam11501 ID: 288369
+
+341. Chordopox_A20R: Chordopoxvirus A20R protein
+This family consists of several Chordopoxvirus A20R proteins. The A20R protein is required for DNA r...
+Accession: pfam05941 ID: 283569
+
+342. Viral_DNA_Zn_bi: Viral DNA-binding protein, zinc binding domain
+This family represents the zinc binding domain of the viral DNA- binding protein, a multi functional...
+Accession: pfam03728 ID: 281690
+
+343. Rota_NS35: Rotavirus non-structural protein 35
+Rotavirus non-structural protein 35 (NS35) is a basic protein which possesses RNA-binding activity a...
+Accession: pfam02509 ID: 280642
+
+344. Viral_DNA_bi: Viral DNA-binding protein, all alpha domain
+This family represents a domain of the viral DNA- binding protein, a multi functional protein involv...
+Accession: pfam02236 ID: 280410
+
+345. Gemini_AL3: Geminivirus AL3 protein
+Geminiviruses are small, ssDNA-containing plant viruses. Geminiviruses contain three ORFs (designate...
+Accession: pfam01407 ID: 279715
+
+346. PHD_BAZ1A: PHD finger found in bromodomain adjacent to zinc finger domain protein 1A (BAZ1A)
+BAZ1A, also termed ATP-dependent chromatin-remodeling protein, or ATP-utilizing chromatin assembly a...
+Accession: cd15627 ID: 277097
+
+347. AbiV_defense: abortive infection protein, AbiV family
+This family includes AbiV (abortive infection system V) from Lactococcus lactis, a phage resistance ...
+Accession: TIGR04498 ID: 275291
+
+348. ssb: single stranded DNA-binding protein (ssb)
+All proteins in this family for which functions are known are single-stranded DNA binding proteins t...
+Accession: TIGR00621 ID: 273179
+
+349. STKc_Nek11: Catalytic domain of the Protein Serine/Threonine Kinase, Never In Mitosis gene A (NIMA)-related kinase 11
+STKs catalyze the transfer of the gamma-phosphoryl group from ATP to serine/threonine residues on pr...
+Accession: cd08222 ID: 270861
+
+350. TEBP_beta: Telomere-binding protein beta subunit (TEBP beta)
+This family consists of several telomere-binding protein beta subunits which appear to be specific t...
+Accession: pfam07404 ID: 254188
+
+351. Adeno_E3: Adenovirus E3 protein
+This family consists of several Adenovirus E3 proteins. The E3 protein does not seem to be essential...
+Accession: pfam06040 ID: 253527
+
+352. Spheroidin: Entomopoxvirus spheroidin protein
+Entomopoxviruses (EPVs) are large (300-400 nm) oval-shaped viruses replicating in the cytoplasm of t...
+Accession: pfam05541 ID: 253243
+
+353. Closter_coat: Closterovirus coat protein
+This family consist of coat proteins from closteroviruses a member of the closteroviridae. The viral...
+Accession: pfam01785 ID: 250863
+
+354. HIRAN: The HIRAN protein (HIP116, Rad5p N-terminal) is found in the N-terminal regions of the SWI2/SNF2 proteins typified by HIP116 and Rad5p
+HIRAN is found as a standalone protein in several bacteria and prophages, or fused to other catalyti...
+Accession: smart00910 ID: 214906
+
+355. CASP8AP2: Caspase 8-associated protein 2 myb-like domain
+This domain is the SANT/myb-like domain of Caspase 8-associated protein 2 (CASP8AP2) / GON-4 like pr...
+Accession: cd12202 ID: 213401
+
+356. GINS_A_psf3: Alpha-helical domain of GINS complex protein Psf3 (partner of Sld5 3)
+Psf3 is a component of GINS, a tetrameric protein complex. Psf3 expression is up regulated in malign...
+Accession: cd11713 ID: 212551
+
+357. GINS_A_psf2: Alpha-helical domain of GINS complex protein Psf2 (partner of Sld5 2)
+Psf2 is a component of GINS tetrameric protein complex and has been found to play important roles in...
+Accession: cd11712 ID: 212550
+
+358. GINS_A_Sld5: Alpha-helical domain of GINS complex protein Sld5
+Sld5 is a component of GINS tetrameric protein complex, and within the complex Sld5 interacts with P...
+Accession: cd11711 ID: 212549
+
+359. GINS_A_psf1: Alpha-helical domain of GINS complex protein Psf1
+Psf1 is a component of the GINS tetrameric protein complex. Psf1 is mainly expressed in highly proli...
+Accession: cd11710 ID: 212548
+
+360. cspD: cold shock domain protein CspD
+This model represents what appears to be a phylogenetically distinct clade, containing E. coli CspD ...
+Accession: TIGR02381 ID: 131434
+
+361. recomb_radA: DNA repair and recombination protein RadA
+This family consists exclusively of archaeal RadA protein, a homolog of bacterial RecA (TIGR02012), ...
+Accession: TIGR02236 ID: 131290
+
+362. ASFV_L11L: African swine fever virus (ASFV) L11L protein
+L11L is an integral membrane protein of the African swine fever virus (ASFV) which is expressed late...
+Accession: pfam05293 ID: 114041
+
+363. cv-alpha_beta_Nsp2-like: alpha- and betacoronavirus non-structural protein 2 (Nsp2), similar to SARS-CoV Nsp2 and HCoV-229E Nsp2, and related proteins
+Coronavirus Nsps are encoded in ORF1a and ORF1b. Post infection, the genomic RNA is released into th...
+Accession: cd21511 ID: 394864
+
+364. cv_gamma-delta_Nsp2_IBV-like: gamma- and deltacoronavirus non-structural protein 2 (Nsp2), similar to IBV Nsp2 and related proteins
+Coronavirus non-structural proteins (Nsps) are encoded in ORF1a and ORF1b. Post infection, the genom...
+Accession: cd21512 ID: 394837
+
+365. DnaX: DNA polymerase III, gamma/tau subunits [Replication, recombination and repair]
+DNA polymerase III subunits gamma and tau; Validated
+Accession: cl39080 ID: 393450
+
+366. RecO_C: Recombination protein O C terminal
+Recombination protein O (RecO) is involved in DNA repair and pfam00470 pathway recombination.
+Accession: cl27405 ID: 391732
+
+367. Replic_Relax: Replication-relaxation
+This family includes proteins which are essential for plasmid replication and plasmid DNA relaxation...
+Accession: cl23910 ID: 390171
+
+368. SeqA: SeqA protein C-terminal domain
+The binding of SeqA protein to hemimethylated GATC sequences is important in the negative modulation...
+Accession: cl11470 ID: 386128
+
+369. HTH_ParB: HTH domain found in ParB protein
+This family consists of several KorB transcriptional repressor proteins. The korB gene is a major re...
+Accession: cl07234 ID: 384891
+
+370. Rad10: Binding domain of DNA repair protein Ercc1 (rad10/Swi10)
+Ercc1 and XPF (xeroderma pigmentosum group F-complementing protein) are two structure-specific endon...
+Accession: cl04283 ID: 383660
+
+371. RecU: Recombination protein U
+The Bacillus protein has been shown to be required for DNA recombination and repair. RJD 11/20/00 [D...
+Accession: cl01314 ID: 382481
+
+372. PriA_C: Primosomal protein N C-terminal domain
+This is the C-terminal domain found in PriA DNA helicase, a multifunctional enzyme that mediates the...
+Accession: pfam18074 ID: 380103
+
+373. Rep_fac_C: Replication factor C C-terminal domain
+This is the C-terminal domain of RFC (replication factor-C) protein of the clamp loader complex whic...
+Accession: pfam08542 ID: 378018
+
+374. Sld5: GINS complex protein
+The eukaryotic GINS complex is essential for the initiation and elongation phases of DNA replication...
+Accession: pfam05916 ID: 377568
+
+375. zf-CCCH_8: Zinc-finger antiviral protein (ZAP) zinc finger domain 3
+Zinc-finger antiviral protein (ZAP) is a host factor that specifically inhibits the replication of c...
+Accession: pfam18633 ID: 376059
+
+376. NfI_DNAbd_pre-N: Nuclear factor I protein pre-N-terminus
+The Nuclear factor I (NFI) family of site-specific DNA-binding proteins (also known as CTF or CAAT b...
+Accession: pfam10524 ID: 371114
+
+377. gp32: gp32 DNA binding protein like
+gp32 is a single stranded (ss) DNA binding protein in bacteriophage T4 that is essential for DNA rep...
+Accession: pfam08804 ID: 370133
+
+378. P3A: Poliovirus 3A protein like
+This domain is found in positive-strand RNA viruses. The 3A protein is a critical component of the p...
+Accession: pfam08727 ID: 370083
+
+379. NOC3p: Nucleolar complex-associated protein
+Nucleolar complex-associated protein (Noc3p) is conserved in eukaryotes and has essential roles in r...
+Accession: pfam07540 ID: 369414
+
+380. SeqA: SeqA protein C-terminal domain
+The binding of SeqA protein to hemimethylated GATC sequences is important in the negative modulation...
+Accession: pfam03925 ID: 367730
+
+381. IncFII_repA: IncFII RepA protein family
+This protein is plasmid encoded and found to be essential for plasmid replication.
+Accession: pfam02387 ID: 367066
+
+382. Viral_DNA_bp: ssDNA binding protein
+This protein is found in herpesviruses and is needed for replication.
+Accession: pfam00747 ID: 366279
+
+383. Flu_NS1: Influenza non-structural protein (NS1)
+NS1 is a homodimeric RNA-binding protein that is required for viral replication. NS1 binds polyA tai...
+Accession: pfam00600 ID: 366187
+
+384. SSB: Single-strand binding protein family
+This family includes single stranded binding proteins and also the primosomal replication protein N ...
+Accession: pfam00436 ID: 366099
+
+385. HLD_clamp_RFC: helical lid domain of replication factor C subunit
+Replication factor C (RFC) is five-protein clamp loader complex that forms a stable ATP-dependent co...
+Accession: cd18140 ID: 350842
+
+386. DEADc_DDX59: DEAD-box helicase domain of DEAD box protein 59
+DDX59 plays an important role in lung cancer development by promoting DNA replication. DDX59 knockdo...
+Accession: cd17962 ID: 350720
+
+387. PIN_Pox_G5: FEN-like PIN domain of vaccinia virus G5 protein and related proteins
+Poxvirus G5 nuclease is involved in DNA replication and double-strand break repair by homologous rec...
+Accession: cd18674 ID: 350241
+
+388. ArfGap_AGFG2: ArfGAP domain of AGFG2 (ArfGAP domain and FG repeat-containing protein 2)
+The ArfGAP domain and FG repeat-containing proteins (AFGF) subfamily of Arf GTPase-activating protei...
+Accession: cd17903 ID: 350090
+
+389. BRCT_Rad4_rpt3: third BRCT domain of Schizosaccharomyces pombe S-M checkpoint control protein Rad4 and similar proteins
+Rad4, also termed P74, or protein cut5, is an essential component for DNA replication and the checkp...
+Accession: cd18433 ID: 349386
+
+390. BRCT_Rad4_rpt2: second BRCT domain of Schizosaccharomyces pombe S-M checkpoint control protein Rad4 and similar proteins
+Rad4, also termed P74, or protein cut5, is an essential component for DNA replication and the checkp...
+Accession: cd17746 ID: 349377
+
+391. BRCT_Rad4_rpt1: first BRCT domain of Schizosaccharomyces pombe S-M checkpoint control protein Rad4 and similar proteins
+Rad4, also termed P74, or protein cut5, is an essential component for DNA replication and the checkp...
+Accession: cd17740 ID: 349371
+
+392. BRCT_Rad4_rpt4: fourth BRCT domain of Schizosaccharomyces pombe S-M checkpoint control protein Rad4 and similar proteins
+Rad4, also termed P74, or protein cut5, is an essential component for DNA replication and the checkp...
+Accession: cd17723 ID: 349355
+
+393. UL21a: Viral Unique Long protein 21a
+Members of this family such as UL21a found in Human cytomegalovirus (HCMV) is required for HCMV to e...
+Accession: pfam17636 ID: 340351
+
+394. SatRNA_48: Satellite RNA 48 kDa protein
+Satellite RNAs (satRNAs) are short RNA molecules, usually <1,500 nt, that depend on cognate helper v...
+Accession: pfam17485 ID: 340200
+
+395. HobA: DNA replication regulator
+This family of proteins is found exclusively in epsilon-proteobacteria. Proteins in this family are ...
+Accession: pfam12163 ID: 338263
+
+396. SeqA_N: SeqA protein N-terminal domain
+The binding of SeqA protein to hemimethylated GATC sequences is important in the negative modulation...
+Accession: pfam17206 ID: 319224
+
+397. Lambda_Kil: Bacteriophage lambda Kil protein
+This family consists of several Bacteriophage lambda Kil protein like sequences from both phages and...
+Accession: pfam06301 ID: 310716
+
+398. RepA_C: Plasmid encoded RepA protein
+Family of plasmid encoded proteins involved in plasmid replication. The role of RepA in the replicat...
+Accession: pfam04796 ID: 309782
+
+399. SPRY_PRY_RNF135: PRY/SPRY domain in RING finger protein RNF135
+This domain, consisting of the distinct N-terminal PRY subdomain followed by the SPRY subdomain, is ...
+Accession: cd12902 ID: 293959
+
+400. Pneumo_M2: Pneumovirus M2 protein
+This family consists of several Pneumovirus M2 proteins. The M2-1 protein of respiratory syncytial v...
+Accession: pfam07380 ID: 284734
+
+401. Adeno_E4_ORF3: Mastadenovirus E4 ORF3 protein
+This family consists of several Mastadenovirus E4 ORF3 proteins. Early proteins E4 ORF3 and E4 ORF6 ...
+Accession: pfam06931 ID: 284372
+
+402. Cytomega_UL84: Cytomegalovirus UL84 protein
+This family consists of several Cytomegalovirus UL84 proteins. The open reading frame UL84 of human ...
+Accession: pfam06284 ID: 283854
+
+403. Herpes_DNAp_acc: Herpes DNA replication accessory factor
+Replicative DNA polymerases are capable of polymerising tens of thousands of nucleotides without dis...
+Accession: pfam04929 ID: 282746
+
+404. RSV_NS2: Respiratory synctial virus non-structural protein NS2
+The molecular structure and function of the NS2 protein is not known. However, mutants lacking the N...
+Accession: pfam03113 ID: 281153
+
+405. Adeno_IVa2: Adenovirus IVa2 protein
+IVa2 protein can interact with the adenoviral packaging signal and that this interaction involves DN...
+Accession: pfam02456 ID: 280594
+
+406. Flavi_NS4B: Flavivirus non-structural protein NS4B
+Flaviviruses encode a single polyprotein. This is cleaved into three structural and seven non-struct...
+Accession: pfam01349 ID: 279665
+
+407. Gag_p12: Gag polyprotein, inner coat protein p12
+The retroviral p12 is a virion structural protein. p12 is proline rich. The function carried out by ...
+Accession: pfam01141 ID: 279483
+
+408. Flavi_NS1: Flavivirus non-structural Protein NS1
+The NS1 protein is well conserved amongst the flaviviruses. It contains 12 cysteines, and undergoes ...
+Accession: pfam00948 ID: 279316
+
+409. Flu_NS2: Influenza non-structural protein (NS2)
+NS2 may play a role in promoting normal replication of the genomic RNAs by preventing the replicatio...
+Accession: pfam00601 ID: 278996
+
+410. Ku_bact: Ku protein, prokaryotic
+Members of this protein family are Ku proteins of non-homologous end joining (NHEJ) DNA repair in ba...
+Accession: TIGR02772 ID: 274290
+
+411. rad23: UV excision repair protein Rad23
+All proteins in this family for which functions are known are components of a multiprotein complex u...
+Accession: TIGR00601 ID: 273167
+
+412. priA: primosomal protein N'
+All proteins in this family for which functions are known are components of the primosome which is i...
+Accession: TIGR00595 ID: 273162
+
+413. cas4: CRISPR-associated protein Cas4
+This model represents a family of proteins associated with CRISPR repeats in a wide set of prokaryot...
+Accession: TIGR00372 ID: 273040
+
+414. PH2_SSRP1-like: Structure Specific Recognition protein 1 (SSRP1) Pleckstrin homology (PH) domain, repeat 2
+SSRP1 is a component of FACT (facilitator of chromatin transcription), an essential chromatin reorga...
+Accession: cd13231 ID: 270051
+
+415. PH1_SSRP1-like: Structure Specific Recognition protein 1 (SSRP1) Pleckstrin homology (PH) domain, repeat 1
+SSRP1 is a component of FACT (facilitator of chromatin transcription), an essential chromatin reorga...
+Accession: cd13230 ID: 270050
+
+416. RNase_H_like: Ribonuclease H-like superfamily, including RNase H, HI, HII, HIII, and RNase-like domain IV of spliceosomal protein Prp8
+Ribonuclease H (RNase H) enzymes are divided into two major families, Type 1 and Type 2, based on am...
+Accession: cd06222 ID: 259998
+
+417. Dicty_REP: Dictyostelium (Slime Mold) REP protein
+This family consists of REP proteins from Dictyostelium (Slime molds). REP protein is likely involve...
+Accession: pfam05086 ID: 252996
+
+418. FBX4_GTPase_like: C-terminal GTPase-like domain of F-Box Only Protein 4
+F-box proteins are involved in substrate recognition as part of SCF (Skp1-Cul1-Rbx1-F-box protein) u...
+Accession: cd11656 ID: 212555
+
+419. LSm10: Like-Sm protein 10
+The eukaryotic Sm and Sm-like (LSm) proteins associate with RNA to form the core domain of the ribon...
+Accession: cd01733 ID: 212480
+
+420. viperin: antiviral radical SAM protein viperin
+Viperin (Virus Inhibitory Protein, ER-associated, Iterferon-inducible) is a radical SAM enzyme found...
+Accession: TIGR04278 ID: 212001
+
+421. PLDc_yjhR_C_like: C-terminal domain of Escherichia coli uncharacterized protein yjhR and similar proteins
+C-terminal domain of Escherichia coli uncharacterized protein yjhR, encoded by the o338 gene, and si...
+Accession: cd09118 ID: 197217
+
+422. Tenui_NS3: Tenuivirus movement protein
+This family of ssRNA negative-strand crop plant tenuivirus proteins appears to combine PV2, NS2, NS3...
+Accession: pfam05310 ID: 191255
+
+423. H3TH_StructSpec-5'-nucleases: H3TH domains of structure-specific 5' nucleases (or flap endonuclease-1-like) involved in DNA replication, repair, and recombination
+The 5' nucleases of this superfamily are capable of both 5'-3' exonucleolytic activity and cleaving ...
+Accession: cd00080 ID: 188616
+
+424. DNA_pol_A_pol_I_B: Polymerase I functions primarily to fill DNA gaps that arise during DNA repair, recombination and replication
+Family A polymerase functions primarily to fill DNA gaps that arise during DNA repair, recombination...
+Accession: cd08643 ID: 176480
+
+425. DNA_pol_A_pol_I_A: Polymerase I functions primarily to fill DNA gaps that arise during DNA repair, recombination and replication
+Family A polymerase (polymerase I) functions primarily to fill DNA gaps that arise during DNA repair...
+Accession: cd08642 ID: 176479
+
+426. DNA_pol_A_pol_I_C: Polymerase I functions primarily to fill DNA gaps that arise during DNA repair, recombination and replication
+Family A polymerase (polymerase I) functions primarily to fill DNA gaps that arise during DNA repair...
+Accession: cd08637 ID: 176474
+
+427. tigrfam_recA: protein RecA
+This model describes orthologs of the recA protein. RecA promotes hybridization of homolgous regions...
+Accession: TIGR02012 ID: 162659
+
+428. cinA_nterm: competence/damage-inducible protein CinA N-terminal domain
+cinA is a DNA damage- or competence-inducible protein that is polycistronic with recA in a number of...
+Accession: TIGR00200 ID: 161761
+
+429. TIGR03252: uncharacterized HhH-GPD family protein
+This model describes a small, well-conserved bacterial protein family. Its sequence largely consists...
+Accession: TIGR03252 ID: 132296
+
+430. recU: recombination protein U
+The Bacillus protein has been shown to be required for DNA recombination and repair. RJD 11/20/00 [D...
+Accession: TIGR00648 ID: 129734
+
+431. TrfA: TrfA protein
+This family consists of several bacterial TrfA proteins. The trfA operon of broad-host-range IncP pl...
+Accession: pfam07042 ID: 115680
+
+432. X: Trans-activation protein X
+This protein is found in hepadnaviruses where it is indispensable for replication.
+Accession: pfam00739 ID: 109783
+
+433. NendoU_cv_Nsp15-like: Nidoviral uridylate-specific endoribonuclease (NendoU) domain of coronavirus Nonstructural Protein 15 (Nsp15) and related proteins
+Nidovirus endoribonucleases (NendoUs) are uridylate-specific endoribonucleases, which release a clea...
+Accession: cd21161 ID: 394912
+
+434. NendoU_av_Nsp11-like: Nidoviral uridylate-specific endoribonuclease (NendoU) domain of arterivirus PRRSV Nonstructural protein 11 (Nsp11), and related proteins
+Nidovirus endoribonucleases (NendoUs) are uridylate-specific endoribonucleases, which release a clea...
+Accession: cd21160 ID: 394911
+
+435. NendoU_nv: Nidoviral uridylate-specific endoribonuclease (NendoU) domain of coronavirus Nonstructural protein 15 (Nsp15), arterivirus Nsp11, torovirus endoribonuclease, and related proteins
+Nidovirus endoribonucleases (NendoUs) are uridylate-specific endoribonucleases which release a cleav...
+Accession: cd21158 ID: 394909
+
+436. NendoU_XendoU-like: Nidoviral uridylate-specific endoribonuclease (NendoU) domain of coronavirus Nonstructural protein 15 (Nsp15), arterivirus Nsp11, torovirus endoribonuclease, Xenopus laevis endoribonuclease XendoU, and related proteins
+Nidovirus endoribonucleases (NendoUs) and eukaryotic Xenopus laevis-like endoribonucleases (XendoUs)...
+Accession: cd21144 ID: 394908
+
+437. M_dcv_Nsp15-like: middle domain of delta coronavirus Nonstructural protein 15 (Nsp15), and related proteins
+Nidovirus endoribonucleases (NendoUs) are uridylate-specific endoribonucleases, which release a clea...
+Accession: cd21169 ID: 394907
+
+438. M_gcv_Nsp15-like: middle domain of gammacoronavirus Nonstructural protein 15 (Nsp15), and related proteins
+Nidovirus endoribonucleases (NendoUs) are uridylate-specific endoribonucleases, which release a clea...
+Accession: cd21168 ID: 394906
+
+439. M_alpha_beta_cv_Nsp15-like: middle domain of alpha- and beta-coronavirus Nonstructural protein 15 (Nsp15), and related proteins
+Nidovirus endoribonucleases (NendoUs) are uridylate-specific endoribonucleases, which release a clea...
+Accession: cd21167 ID: 394905
+
+440. NTD_av_Nsp11-like: N-terminal domain (NTD) of arterivirus Nonstructural protein 11 (Nsp11), and related proteins
+Nidovirus endoribonucleases (NendoUs) are uridylate-specific endoribonucleases, which release a clea...
+Accession: cd21166 ID: 394904
+
+441. M_cv-Nsp15-like: middle domain of coronavirus Nonstructural protein 15 (Nsp15), and related proteins
+Nidovirus endoribonucleases (NendoUs) are uridylate-specific endoribonucleases, which release a clea...
+Accession: cd21165 ID: 394903
+
+442. M_cv_Nsp15-NTD_av_Nsp11-like: middle (M) domain of coronavirus Nonstructural protein 15 (Nsp15) and the N-terminal domain (NTD) of arterivirus Nsp11 and related proteins
+Nidovirus endoribonucleases (NendoUs) are uridylate-specific endoribonucleases, which release a clea...
+Accession: cd21163 ID: 394902
+
+443. NTD_dcv_Nsp15-like: N-terminal domain of deltacoronavirus Nonstructural protein 15 (Nsp15), and related proteins
+Coronavirus Nsp15 is a nidovirus endoribonuclease (NendoU). NendoUs are uridylate-specific endoribon...
+Accession: cd21172 ID: 394901
+
+444. NTD_alpha_beta_cv_Nsp15-like: N-terminal domain of alpha- and beta-coronavirus Nonstructural protein 15 (Nsp15), and related proteins
+Coronavirus Nsp15 is a nidovirus endoribonuclease (NendoU). NendoUs are uridylate-specific endoribon...
+Accession: cd21171 ID: 394900
+
+445. NTD_cv_Nsp15-like: N-terminal domain of coronavirus Nonstructural protein 15 (Nsp15) and related proteins
+Coronavirus Nsp15 is a nidovirus endoribonuclease (NendoU). NendoUs are uridylate-specific endoribon...
+Accession: cd21170 ID: 394899
+
+446. cv_beta_Nsp2_MHV-like: betacoronavirus non-structural protein 2 (Nsp2) similar to MHV Nsp2/p65 and related proteins from betacoronaviruses in the A lineage
+Coronavirus non-structural proteins (Nsps) are encoded in ORF1a and ORF1b. Post infection, the genom...
+Accession: cd21519 ID: 394870
+
+447. cv_beta_Nsp2_HKU9-like: betacoronavirus non-structural protein 2 (Nsp2) similar to bat coronavirus HKU9 Nsp2, and related proteins from betacoronaviruses in the D lineage
+Coronavirus non-structural proteins (Nsps) are encoded in ORF1a and ORF1b. Post infection, the genom...
+Accession: cd21518 ID: 394869
+
+448. cv_beta_Nsp2_MERS-like: betacoronavirus non-structural protein 2 (Nsp2) similar to MERS-CoV Nsp2, and related proteins from betacoronaviruses in the C lineage
+Coronavirus non-structural proteins (Nsps) are encoded in ORF1a and ORF1b. Post infection, the genom...
+Accession: cd21517 ID: 394868
+
+449. cv_beta_Nsp2_SARS-like: betacoronavirus non-structural protein 2 (Nsp2) similar to SARS-CoV Nsp2, and related proteins from betacoronaviruses in the B lineage
+Non-structural proteins (Nsps) from Severe acute respiratory syndrome coronavirus (SARS-CoV) and bet...
+Accession: cd21516 ID: 394867
+
+450. cv_beta_Nsp2_SARS_MHV-like: betacoronavirus non-structural protein 2 (Nsp2), similar to SARS-CoV Nsp2 and MHV Nsp2 (p65), and related proteins
+Coronavirus non-structural proteins (Nsps) are encoded in ORF1a and ORF1b. Post infection, the genom...
+Accession: cd21515 ID: 394866
+
+451. cv_alpha_Nsp2_HCoV-229E-like: alphacoronavirus non-structural protein 2 (Nsp2), similar to HCoV-229E Nsp2 and related proteins
+Coronavirus non-structural proteins (Nsps) are encoded in ORF1a and ORF1b. Post infection, the genom...
+Accession: cd21514 ID: 394865
+
+452. cv_Nsp4_TM: coronavirus non-structural protein 4 (Nsp4) transmembrane domain
+Nsp4 may be involved in coronavirus-induced membrane remodeling. In order to assemble the replicatio...
+Accession: cd21473 ID: 394836
+
+453. XPA_C: XPA protein C-terminus
+All proteins in this family for which functions are known are used for the recognition of DNA damage...
+Accession: cl27062 ID: 391673
+
+454. RTT106_N: histone chaperone RTT106, regulator of Ty1 transposition protein 106; N-terminal homodimerization domain
+This cd includes the N-terminal homodimerization domain of Saccharomyces cerevisiae Rtt106, a histon...
+Accession: cl16939 ID: 388368
+
+455. Rad52_Rad22: Rad52/22 family double-strand break repair protein
+The DNA single-strand annealing proteins (SSAPs), such as RecT, Red-beta, ERF and Rad52, function in...
+Accession: cl01936 ID: 382770
+
+456. DSRM_DHX9_rpt2: second double-stranded RNA binding motif of DEAH box protein 9 (DHX9) and similar proteins
+DHX9 (EC 3.6.4.13; also known as ATP-dependent RNA helicase A, DExH-box helicase 9 (DDX9), Leukophys...
+Accession: cd19855 ID: 380684
+
+457. DSRM_DHX9_rpt1: first double-stranded RNA binding motif of DEAH box protein 9 (DHX9) and similar proteins
+DHX9 (EC 3.6.4.13; also known as ATP-dependent RNA helicase A, DExH-box helicase 9 (DDX9), Leukophys...
+Accession: cd19854 ID: 380683
+
+458. KfrA_N: Plasmid replication region DNA-binding N-term
+The broad host-range plasmid RK2 is able to replicate in and be inherited in a stable manner in dive...
+Accession: pfam11740 ID: 378704
+
+459. DnaI_N: Primosomal protein DnaI N-terminus
+This family represents the N-terminus (approximately 120 residues) of bacterial primosomal DnaI prot...
+Accession: pfam07319 ID: 377814
+
+460. YabB: Initiation control protein YabA
+YabA is involved in initiation control of chromosome replication. It interacts with both DnaA and Dn...
+Accession: pfam06156 ID: 377617
+
+461. MCM2_N: Mini-chromosome maintenance protein 2
+This domain family is found in eukaryotes, and is typically between 138 and 153 amino acids in lengt...
+Accession: pfam12619 ID: 372227
+
+462. Csm1: Chromosome segregation protein Csm1/Pcs1
+Saccharomyces cerevisiae Csm1 is part of the monopolin complex. Csm1 forms a complex with Mde4 and p...
+Accession: pfam12539 ID: 372174
+
+463. Cid2: Caffeine-induced death protein 2
+Members of this family of proteins mediate the disruption of the DNA replication checkpoint (S-M che...
+Accession: pfam09774 ID: 370680
+
+464. Pneumovirus_M2: Pneumovirus matrix protein 2 (M2)
+This family consists of several Pneumovirus matrix glycoprotein M2 sequences. This family functions ...
+Accession: pfam06436 ID: 368905
+
+465. SSrecog: Structure-specific recognition protein (SSRP1)
+SSRP1 has been implicated in transcriptional initiation and elongation and in DNA replication and re...
+Accession: pfam03531 ID: 367548
+
+466. Pox_D5: Poxvirus D5 protein-like
+This family includes D5 from Poxviruses which is necessary for viral DNA replication, and is a nucle...
+Accession: pfam03288 ID: 367437
+
+467. CDC45: CDC45-like protein
+CDC45 is an essential gene required for initiation of DNA replication in S. cerevisiae, forming a co...
+Accession: pfam02724 ID: 367156
+
+468. DEADc_DDX19: DEAD-box helicase domain of DEAD box protein 19
+DDX19 is an RNA helicase involved in both mRNA (mRNA) export from the nucleus into the cytoplasm and...
+Accession: cd18047 ID: 350805
+
+469. MCM_arch: archaeal MCM protein
+archaeal MCM proteins form a homohexameric ring homologous to the eukaryotic Mcm2-7 helicase and als...
+Accession: cd17761 ID: 350667
+
+470. PIN_FEN-like: FEN-like PIN domains of structure-specific 5' nucleases (or Flap endonuclease-1-like) involved in DNA replication, repair, and recombination
+Structure-specific 5' nucleases are capable of both 5'-3' exonucleolytic activity and cleaving bifur...
+Accession: cd09853 ID: 350204
+
+471. Gemini_BL1: Geminivirus BL1 movement protein
+Geminiviruses encode two movement proteins that are essential for systemic infection of their host b...
+Accession: pfam00845 ID: 307131
+
+472. SPRY_PRY_TRIM5_6_22_34: PRY/SPRY domain of tripartite motif-binding protein 5, 6, 22 and 34 (TRIM5, TRIM6, TRIM22 and TRIM34)
+This domain, consisting of the distinct N-terminal PRY subdomain followed by the SPRY subdomain, is ...
+Accession: cd15810 ID: 293982
+
+473. Pkip-1: Pkip-1 protein
+This family consists of several Pkip-1 proteins which seem to be specific to Nucleopolyhedroviruses....
+Accession: pfam06878 ID: 284331
+
+474. Baculo_LEF-11: Baculovirus LEF-11 protein
+This family consists of several Baculovirus LEF-11 proteins. The exact function of this family is un...
+Accession: pfam06385 ID: 283929
+
+475. Rubella_Capsid: Rubella capsid protein
+Rubella virus is an enveloped positive-strand RNA virus of the family Togaviridae. Virions are compo...
+Accession: pfam05750 ID: 283420
+
+476. DUF536: Protein of unknown function, DUF536
+This family aligns the C-terminal region from several bacterial proteins of unknown function that ma...
+Accession: pfam04394 ID: 282276
+
+477. Luteo_Vpg: Luteovirus putative VPg genome linked protein
+This family consists of several putative genome linked proteins. The genomic RNA of luteoviruses are...
+Accession: pfam01659 ID: 279928
+
+478. DnaD_Mollicutes: DnaD family protein, Mollicutes type
+This model describes the full length of a family of proteins in the Mollicutes (Mycoplasma, Spiropla...
+Accession: TIGR04548 ID: 275341
+
+479. addB_alphas: double-strand break repair protein AddB, alphaproteobacterial type
+AddAB is a system well described in the Firmicutes as a replacement for RecBCD in many prokaryotes f...
+Accession: TIGR02786 ID: 274300
+
+480. mutS1: DNA mismatch repair protein MutS
+[DNA metabolism, DNA replication, recombination, and repair]
+Accession: TIGR01070 ID: 273427
+
+481. recN: DNA repair protein RecN
+All proteins in this family for which functions are known are ATP binding proteins involved in the i...
+Accession: TIGR00634 ID: 273187
+
+482. recR: recombination protein RecR
+All proteins in this family for which functions are known are involved in the initiation of recombin...
+Accession: TIGR00615 ID: 273176
+
+483. reco: DNA repair protein RecO
+All proteins in this family for which functions are known are DNA binding proteins that are involved...
+Accession: TIGR00613 ID: 273175
+
+484. recf: recF protein
+All proteins in this family for which functions are known are DNA binding proteins that assist the f...
+Accession: TIGR00611 ID: 273173
+
+485. radc: DNA repair protein radc
+The genes in this family for which the functions are known have an as yet porrly defined role in det...
+Accession: TIGR00608 ID: 273171
+
+486. rad4: DNA repair protein rad4
+All proteins in this family for which functions are known are involved in targeting nucleotide excis...
+Accession: TIGR00605 ID: 273170
+
+487. rad2: DNA excision repair protein (rad2)
+All proteins in this family for which functions are known are flap endonucleases that generate the 3...
+Accession: TIGR00600 ID: 273166
+
+488. rad18: DNA repair protein rad18
+All proteins in this family for which functions are known are involved in nucleotide excision repair...
+Accession: TIGR00599 ID: 273165
+
+489. rad14: DNA repair protein
+All proteins in this family for which functions are known are used for the recognition of DNA damage...
+Accession: TIGR00598 ID: 273164
+
+490. rad1: DNA repair protein (rad1)
+All proteins in this family for which functions are known are components in a multiprotein endonucle...
+Accession: TIGR00596 ID: 273163
+
+491. mutl: DNA mismatch repair protein MutL
+All proteins in this family for which the functions are known are involved in the process of general...
+Accession: TIGR00585 ID: 273155
+
+492. mre11: DNA repair protein (mre11)
+All proteins in this family for which functions are known are subunits of a nuclease complex made up...
+Accession: TIGR00583 ID: 273153
+
+493. lexA: SOS regulatory protein LexA
+LexA acts as a homodimer to repress a number of genes involved in the response to DNA damage (SOS re...
+Accession: TIGR00498 ID: 273106
+
+494. sms: DNA repair protein RadA
+The gene protuct codes for a probable ATP-dependent protease involved in both DNA repair and degrada...
+Accession: TIGR00416 ID: 273067
+
+495. Baculo_PP31: Baculovirus 33KDa late protein (PP31)
+Autographa californica nuclear polyhedrosis virus (AcMNPV) pp31 is a nuclear phosphoprotein that acc...
+Accession: pfam05311 ID: 253146
+
+496. PH2-like_Rtt106: Pleckstrin homology-like domain, repeat 2, of Histone chaperone RTT106 (regulator of Ty1 transposition protein 106)
+Rtt106 is a histone chaperone. Rtt106 contains an N-terminal homodimerization domain and two C-termi...
+Accession: cd13304 ID: 241458
+
+497. PH1-like_Rtt106: Pleckstrin homology-like domain, repeat 1, of Histone chaperone RTT106 (regulator of Ty1 transposition protein 106)
+Rtt106 is a histone chaperone. The binding of Rtt106 to H3K56-acetylated (H3-H4)2 tetramers contribu...
+Accession: cd13303 ID: 241457
+
+498. LSm11_M: Like-Sm protein 11, middle domain
+The eukaryotic Sm and Sm-like (LSm) proteins associate with RNA to form the core domain of the ribon...
+Accession: cd01739 ID: 212485
+
+499. LSm16_N: Like-Sm protein 16, N-terminal domain
+LSm16 (also known as enhancer of decapping-3 or EDC3) has been shown to be associated with an mRNA-d...
+Accession: cd01737 ID: 212484
+
+500. LSm14_N: Like-Sm protein 14, N-terminal domain
+LSm14 (also known as RAP55) belongs to a family of Sm-like proteins that associate with RNA to form ...
+Accession: cd01736 ID: 212483
+
+501. LSm12_N: Like-Sm protein 12, N-terminal domain
+LSm12 belongs to a family of Sm-like proteins that associate with RNA to form the core domain of the...
+Accession: cd01735 ID: 212482
+
+502. RTT106_N: histone chaperone RTT106, regulator of Ty1 transposition protein 106; N-terminal homodimerization domain
+This cd includes the N-terminal homodimerization domain of Saccharomyces cerevisiae Rtt106, a histon...
+Accession: cd11604 ID: 211429
+
+503. DLP_1: Dynamin_like protein family includes dynamins and Mx proteins
+The dynamin family of large mechanochemical GTPases includes the classical dynamins and dynamin-like...
+Accession: cd08771 ID: 206738
+
+504. mutt: mutator mutT protein
+All proteins in this family for which functions are known are involved in repairing oxidative damage...
+Accession: TIGR00586 ID: 200031
+
+505. rad52: recombination protein rad52
+All proteins in this family for which functions are known are involved in recombination and recombin...
+Accession: TIGR00607 ID: 129695
+
+506. rad24: checkpoint protein rad24
+All proteins in this family for which functions are known are involved in DNA damage tolerance (like...
+Accession: TIGR00602 ID: 129690
+
+507. rad10: DNA repair protein rad10
+All proteins in this family for which functions are known are components in a multiprotein endonucle...
+Accession: TIGR00597 ID: 129685
+
+508. alkb: DNA alkylation damage repair protein AlkB
+Proteins in this family have an as of yet undetermined function in the repair of alkylation damage t...
+Accession: TIGR00568 ID: 129659
+
+509. HCV_NS4b: Hepatitis C virus non-structural protein NS4b
+No precise function has been assigned to NS4b. However, it is known that NS4b interacts with NS4a an...
+Accession: pfam01001 ID: 110032
+
+510. KOW: KOW: an acronym for the authors&apos; surnames (Kyrpides, Ouzounis and Woese)
+KOW domain is known as an RNA-binding motif that is shared so far among some families of ribosomal p...
+Accession: cl00354 ID: 381967
+
+511. Sm_like: Sm and related proteins
+The eukaryotic Sm and Sm-like (LSm) proteins associate with RNA to form the core domain of the ribon...
+Accession: cl00259 ID: 381907
+
+512. GINS_A: Alpha-helical domain of GINS complex proteins; Sld5, Psf1, Psf2 and Psf3
+The GINS complex is involved in both initiation and elongation stages of eukaryotic chromosome repli...
+Accession: cl17012 ID: 388376
+
+513. Adenylation_DNA_ligase_like: Adenylation domain of proteins similar to ATP-dependent polynucleotide ligases
+ATP-dependent polynucleotide ligases catalyze the phosphodiester bond formation of nicked nucleic ac...
+Accession: cl12015 ID: 386245
+
+514. AE_Prim_S_like
+AE_Prim_S_like: primase domain similar to that found in the small subunit of archaeal and eukaryotic...
+Accession: cl01287 ID: 382471
+
+515. SP-RING_like: A group of variants of RING finger including SP-RING finger, SPL-RING finger, dRING finger, and RING-like Rtf2 domain
+The family corresponds to a group of proteins with variants of RING fingers that are characterized b...
+Accession: cd16452 ID: 319366
+
+516. Bbox2_TRIM5-like: B-box-type 2 zinc finger  found in tripartite motif-containing proteins, TRIM5, TRIM6, TRIM22, TRIM34, TRIM38 and similar proteins
+The family includes TRIM5, TRIM6, TRIM22, TRIM34, and TRIM38, all of which belong to the C-IV subcla...
+Accession: cd19761 ID: 380819
+
+517. S4
+S4/Hsp/ tRNA synthetase RNA-binding domain; The domain surface is populated by conserved, charged re...
+Accession: cl09940 ID: 385643
+
+518. cupin_like: Conserved domain found in cupin and related proteins
+A diverse protein domains superfamily which includes both metal-dependent and metal-independent enzy...
+Accession: cl21464 ID: 389752
+
+519. RuvC_like: Crossover junction endodeoxyribonuclease RuvC and similar proteins
+The RuvC-like family consists of bacterial RuvC, fungal Cruciform cutting endonuclease 1 (CCE1), and...
+Accession: cl21482 ID: 389762
+
+520. OBF_DNA_ligase_family: The Oligonucleotide/oligosaccharide binding (OB)-fold domain is a DNA-binding module that is part of the catalytic core unit of ATP dependent DNA ligases
+ATP-dependent polynucleotide ligases catalyze phosphodiester bond formation using nicked nucleic aci...
+Accession: cl08424 ID: 385358
+
+521. UDG-like: uracil-DNA glycosylases (UDG) and related enzymes
+Uracil-DNA glycosylases (UDGs) initiate repair of uracils in DNA. Uracil may arise from misincorpora...
+Accession: cl00483 ID: 382038
+
+522. RRM3_hnRNPQ: RNA recognition motif 3 in vertebrate heterogeneous nuclear ribonucleoprotein Q (hnRNP Q)
+This subgroup corresponds to the RRM3 of hnRNP Q, also termed glycine- and tyrosine-rich RNA-binding...
+Accession: cd12495 ID: 240939
+
+523. RRM2_hnRNPQ: RNA recognition motif 2 in vertebrate heterogeneous nuclear ribonucleoprotein Q (hnRNP Q)
+This subgroup corresponds to the RRM3 of hnRNP Q, also termed glycine- and tyrosine-rich RNA-binding...
+Accession: cd12489 ID: 240933
+
+524. RRM1_hnRNPQ: RNA recognition motif 1 in vertebrate heterogeneous nuclear ribonucleoprotein Q (hnRNP Q)
+ This subgroup corresponds to the RRM1 of hnRNP Q, also termed glycine- and tyrosine-rich RNA-bindin...
+Accession: cd12483 ID: 240927
+
+525. ALP_like: alkaline phosphatases and sulfatases
+This family includes alkaline phosphatases and sulfatases. Alkaline phosphatases are non-specific ph...
+Accession: cl23718 ID: 390042
+
+526. ribokinase_pfkB_like
+ribokinase/pfkB superfamily: Kinases that accept a wide variety of substrates, including carbohydrat...
+Accession: cl00192 ID: 381848
+
+527. BTB_POZ_KCTD10-like_BACURD: BTB (Broad-Complex, Tramtrack and Bric a brac)/POZ (poxvirus and zinc finger) domain found in potassium channel tetramerization domain-containing proteins, KCTD10 (BACURD3), KCTD13 (BACURD1), and TNFAIP1 (BACURD2)
+This subfamily of KCTD proteins, also called the BTB/POZ domain-containing adapter for CUL3-mediated...
+Accession: cd18369 ID: 349678
+
+528. Viral_RdRp_C: Viral RNA-directed RNA polymerase
+This is the C-terminal of RNA-directed RNA polymerase (Protein A) found in Alphanodaviruses such as ...
+Accession: pfam17501 ID: 340216
+
+529. RepA1_leader: Tap RepA1 leader peptide
+This family consists of the RepA1 leader peptides. The frequency of replication of IncFII plasmid NR...
+Accession: cl28662 ID: 333482
+
+530. RING-HC_TRIM5_like-C-IV: RING finger, HC subclass, found in tripartite motif-containing proteins TRIM5, TRIM6, TRIM22, TRIM34 and similar proteins
+TRIM5, TRIM6, TRIM22, and TRIM34, four closely related tripartite motif-containing proteins, belong ...
+Accession: cd16591 ID: 319505
+
+531. RRM1_hnRNPA1: RNA recognition motif 1 in heterogeneous nuclear ribonucleoprotein A1 (hnRNP A1) and similar proteins
+This subgroup corresponds to the RRM1 of hnRNP A1, also termed helix-destabilizing protein, or singl...
+Accession: cd12761 ID: 241205
+
+532. KRAB_A-box: KRAB (Kruppel-associated box) domain -A box
+The KRAB domain is a transcription repression module, found in a subgroup of the zinc finger protein...
+Accession: cl02581 ID: 383038
+
+533. RRM2_hnRNPA1: RNA recognition motif 2 in heterogeneous nuclear ribonucleoprotein A1 (hnRNP A1) and similar proteins
+This subgroup corresponds to the RRM2 of hnRNP A1, also termed helix-destabilizing protein, or singl...
+Accession: cd12580 ID: 241024
+
+534. RRM2_MSSP: RNA recognition motif 2 in the c-myc gene single-strand binding proteins (MSSP) family
+This subfamily corresponds to the RRM2 of c-myc gene single-strand binding proteins (MSSP) family, i...
+Accession: cd12244 ID: 240690
+
+535. RRM1_MSSP: RNA recognition motif 1 in the c-myc gene single-strand binding proteins (MSSP) family
+This subfamily corresponds to the RRM1 of c-myc gene single-strand binding proteins (MSSP) family, i...
+Accession: cd12243 ID: 240689
+
+536. PCNA
+Proliferating Cell Nuclear Antigen (PCNA) domain found in eukaryotes and archaea.  These polymerase ...
+Accession: cd00577 ID: 238322
+
+537. OAF: Transcriptional regulator, Out at first
+This family of proteins is found in eukaryotes. Proteins in this family are typically between 198 an...
+Accession: pfam14941 ID: 373408
+
+538. T4_Gp59_C: T4 gene Gp59 loader of gp41 DNA helicase C-term
+Bacteriophage T4 gene-59 helicase assembly protein is required for recombination-dependent DNA repli...
+Accession: pfam08994 ID: 370231
+
+539. T4_Gp59_N: T4 gene Gp59 loader of gp41 DNA helicase
+Bacteriophage T4 gene-59 helicase assembly protein is required for recombination-dependent DNA repli...
+Accession: pfam08993 ID: 370230
+
+540. HLD_clamp: helical lid domain of clamp loader-like AAA+ proteins
+Clamp loader complexes are multisubunit complexes that play an important role in DNA replication. Th...
+Accession: cl38921 ID: 365797
+
+541. STAT_CCD: Coiled-coil domain of Signal Transducer and Activator of Transcription (STAT), also called alpha domain
+This family consists of the coiled-coil (alpha) domain of the STAT proteins (Signal Transducer and A...
+Accession: cl28921 ID: 355797
+
+542. RPA2_OBF_family
+RPA2_OBF_family: A family of oligonucleotide binding (OB) folds with similarity to the OB fold of th...
+Accession: cd03524 ID: 239601
+
+543. FMT_C_like: Carboxy-terminal domain of Formyltransferase and similar domains
+This family represents the C-terminal domain of formyltransferase and similar proteins. This domain ...
+Accession: cl14785 ID: 387388
+
+544. RT_like
+RT_like: Reverse transcriptase (RT, RNA-dependent DNA polymerase)_like family. An RT gene is usually...
+Accession: cl02808 ID: 383137
+
+545. AMMECR1: AMMECR1
+This family consists of several AMMECR1 as well as several uncharacterized proteins. The contiguous ...
+Accession: cl00911 ID: 382278
+
+546. TOPRIM
+Topoisomerase-primase domain. This is a nucleotidyl transferase/hydrolase domain found in type IA, t...
+Accession: cl00718 ID: 382163
+
+547. Nudix_Hydrolase
+Nudix hydrolase is a superfamily of enzymes found in all three kingdoms of life, and it catalyzes th...
+Accession: cl00447 ID: 382015
+
+548. SPRY_PRY_C-I_2: PRY/SPRY domain in tripartite motif-containing (TRIM) proteins, including TRIM14-like, TRIM16-like, TRIM25-like, TRIM47-like, TRIM65 and RNF135, and stonustoxin
+This domain, consisting of the distinct N-terminal PRY subdomain followed by the SPRY subdomain, is ...
+Accession: cd12891 ID: 293949
+
+549. RRM2_U1A: RNA recognition motif 2 found in vertebrate U1 small nuclear ribonucleoprotein A (U1 snRNP A or U1-A or U1A)
+This subgroup corresponds to the RRM2 of U1A (also termed U1 snRNP A or U1-A), an RNA-binding protei...
+Accession: cd12480 ID: 240924
+
+550. RRM1_U1A: RNA recognition motif 1 found in vertebrate U1 small nuclear ribonucleoprotein A (U1A)
+This subgroup corresponds to the RRM1 of U1A (also termed U1 snRNP A or U1-A), an RNA-binding protei...
+Accession: cd12477 ID: 240921
+
+551. SH2_Vav1: Src homology 2 (SH2) domain found in the Vav1 proteins
+Proto-oncogene vav is a member of the Dbl family of guanine nucleotide exchange factors (GEF) for th...
+Accession: cd10405 ID: 198268
+
+552. PBP2_IciA_ArgP: The C-terminal substrate binding domain of LysR-type transcriptional regulator, ArgP (IciA), for arginine exporter (ArgO); contains the type 2 periplasmic binding fold
+The inhibitor of chromosomal replication (iciA) protein encoded by Mycobacterium tuberculosis, which...
+Accession: cd08428 ID: 176119
+
+553. KRAB_A-box: KRAB (Kruppel-associated box) domain -A box
+The KRAB domain is a transcription repression module, found in a subgroup of the zinc finger protein...
+Accession: cd07765 ID: 143639
+
+554. RepA1_leader: Tap RepA1 leader peptide
+This family consists of the RepA1 leader peptides. The frequency of replication of IncFII plasmid NR...
+Accession: pfam08048 ID: 116658
+
+555. Jiv90: Cleavage inducing molecular chaperone
+Jiv90 is a fragment of the DnaJ protein in eukaryotes and in J-domain protein interacting with viral...
+Accession: pfam14901 ID: 373372
+
+556. Herpes_UL52: Herpesviridae UL52/UL70 DNA primase
+Herpes simplex virus type 1 DNA replication in host cells is known to be mediated by seven viral-enc...
+Accession: pfam03121 ID: 367342
+
+557. STAT_DBD: DNA-binding domain of Signal Transducer and Activator of Transcription (STAT)
+This family consists of the DNA binding domain (DBD) of the STAT proteins (Signal Transducer and Act...
+Accession: cl28920 ID: 355796
+
+558. PK_VRK3: Pseudokinase domain of Vaccinia Related Kinase 3
+The pseudokinase domain shows similarity to protein kinases but lacks crucial residues for catalytic...
+Accession: cd14124 ID: 271026
+
+559. STKc_Chk1: Catalytic domain of the Serine/Threonine kinase, Checkpoint kinase 1
+STKs catalyze the transfer of the gamma-phosphoryl group from ATP to serine/threonine residues on pr...
+Accession: cd14069 ID: 270971
+
+560. STKc_TLK2: Catalytic domain of the Serine/Threonine kinase, Tousled-Like Kinase 2
+STKs catalyze the transfer of the gamma-phosphoryl group from ATP to serine/threonine residues on pr...
+Accession: cd14041 ID: 270943
+
+561. STKc_TLK: Catalytic domain of the Serine/Threonine kinase, Tousled-Like Kinase
+STKs catalyze the transfer of the gamma-phosphoryl group from ATP to serine/threonine residues on pr...
+Accession: cd13990 ID: 270892
+
+562. BRCA2DBD_OB3
+BRCA2DBD_OB3: A subfamily of OB folds corresponding to the third OB fold (OB3) of the 800-amino acid...
+Accession: cd04495 ID: 239941
+
+563. BRCA2DBD_OB2
+BRCA2DBD_OB2: A subfamily of OB folds corresponding to the second OB fold (OB2) of the 800-amino aci...
+Accession: cd04494 ID: 239940
+
+564. BRCA2DBD_OB1
+BRCA2DBD_OB1: A subfamily of OB folds corresponding to the first OB fold (OB1) of the 800-amino acid...
+Accession: cd04493 ID: 239939
+
+565. addB_Gpos: helicase-exonuclease AddAB, AddB subunit
+DNA repair is accomplished by several different systems in prokaryotes. Recombinational repair of do...
+Accession: TIGR02773 ID: 213736
+
+566. unc_rv_SF1_Hel-like: uncharacterized domain which connects the Cys/His rich zinc-binding domain (ZBD) and linker to the first helicase domain of ronidovirus SF1 helicase and related proteins
+Helicases catalyze NTP-dependent unwinding of nucleic acid duplexes into single strands and are clas...
+Accession: cd21414 ID: 394820
+
+567. DisA_N: DisA bacterial checkpoint controller nucleotide-binding
+The DisA protein is a bacterial checkpoint protein that dimerizes into an octameric complex. The pro...
+Accession: cl27421 ID: 391738
+
+568. 2OG-FeII_Oxy: 2OG-Fe(II) oxygenase superfamily
+This family contains members of the 2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily....
+Accession: cl21496 ID: 389772
+
+569. HIRAN: HIRAN domain
+The HIRAN domain (HIP116, Rad5p N-terminal) is found in the N-terminal regions of the SWI2/SNF2 prot...
+Accession: cl07418 ID: 385006
+
+570. RNase_H2-C: Ribonuclease H2-C is a subunit of the eukaryotic RNase H complex which cleaves RNA-DNA hybrids
+Ribonuclease H2C is one of the three protein of eukaryotic RNase H2 complex that is required for nuc...
+Accession: cl07291 ID: 384931
+
+571. MMS22L_C: S-phase genomic integrity recombination mediator, C-terminal
+MMS22L (Methyl methanesulfonate-sensitivity protein 22-like) is found in yeast, plants and vertebrat...
+Accession: pfam14911 ID: 373378
+
+572. MMS22L_N: S-phase genomic integrity recombination mediator, N-terminal
+MMS22L (Methyl methanesulfonate-sensitivity protein 22-like) is found in yeast, plants and vertebrat...
+Accession: pfam14910 ID: 373377
+
+573. MMS1_N: Mono-functional DNA-alkylating methyl methanesulfonate N-term
+MMS1 is a protein that protects against replication-dependent DNA damage in Saccharomyces cerevisiae...
+Accession: pfam10433 ID: 371047
+
+574. TPP1: Shelterin complex subunit, TPP1/ACD
+TPP1 is a component of the telomerase holoenzyme, involved in telomere replication. It has been demo...
+Accession: pfam10341 ID: 370991
+
+575. BAF1_ABF1: BAF1 / ABF1 chromatin reorganising factor
+ABF1 is a sequence-specific DNA binding protein involved in transcription activation, gene silencing...
+Accession: pfam04684 ID: 368055
+
+576. Peptidase_S29: Hepatitis C virus NS3 protease
+Hepatitis C virus NS3 protein is a serine protease which has a trypsin-like fold. The non-structural...
+Accession: pfam02907 ID: 367242
+
+577. DNA_pol_A_exo1: 3'-5' exonuclease
+This domain is responsible for the 3'-5' exonuclease proofreading activity of E. coli DNA polymerase...
+Accession: pfam01612 ID: 366728
+
+578. Herpes_UL24: Herpes virus proteins UL24 and UL76
+This family consists of various herpes virus proteins; the gene 20 product, U49 protein, UL24 and UL...
+Accession: cl29875 ID: 356751
+
+579. SF2_C_priA: C-terminal helicase domain of ATP-dependent helicase PriA
+PriA, also known as replication factor Y or primosomal protein N', is a 3'-->5' DNA helicase that ac...
+Accession: cd18804 ID: 350191
+
+580. PIKKc_ATR: Catalytic domain of Ataxia telangiectasia and Rad3-related proteins
+ATR is also referred to as Mei-41 (Drosophila), Esr1/Mec1p (Saccharomyces cerevisiae), Rad3 (Schizos...
+Accession: cd00892 ID: 270625
+
+581. RRM4_NCL: RNA recognition motif 4 in vertebrate nucleolin
+This subfamily corresponds to the RRM4 of ubiquitously expressed protein nucleolin, also termed prot...
+Accession: cd12406 ID: 240852
+
+582. RRM3_NCL: RNA recognition motif 3 in vertebrate nucleolin
+This subfamily corresponds to the RRM3 of ubiquitously expressed protein nucleolin, also termed prot...
+Accession: cd12405 ID: 240851
+
+583. RRM2_NCL: RNA recognition motif 2 in vertebrate nucleolin
+This subfamily corresponds to the RRM2 of ubiquitously expressed protein nucleolin, also termed prot...
+Accession: cd12404 ID: 240850
+
+584. RRM1_NCL: RNA recognition motif 1 in vertebrate nucleolin
+This subfamily corresponds to the RRM1 of ubiquitously expressed protein nucleolin, also termed prot...
+Accession: cd12403 ID: 240849
+
+585. RRM2_SART3: RNA recognition motif 2 in squamous cell carcinoma antigen recognized by T-cells 3 (SART3) and similar proteins
+This subfamily corresponds to the RRM2 of SART3, also termed Tat-interacting protein of 110 kDa (Tip...
+Accession: cd12392 ID: 240838
+
+586. RRM1_SART3: RNA recognition motif 1 in squamous cell carcinoma antigen recognized by T-cells 3 (SART3) and similar proteins
+This subfamily corresponds to the RRM1 of SART3, also termed Tat-interacting protein of 110 kDa (Tip...
+Accession: cd12391 ID: 240837
+
+587. SSB_OBF
+SSB_OBF: A subfamily of OB folds similar to the OB fold of ssDNA-binding protein (SSB). SSBs bind wi...
+Accession: cd04496 ID: 239942
+
+588. hOBFC1_like
+hOBFC1_like: A subfamily of OB folds similar to that found in human OB fold containing protein 1 (hO...
+Accession: cd04483 ID: 239929
+
+589. RPA1_DBD_B
+RPA1_DBD_B: A subfamily of OB folds corresponding to the third OB fold, the ssDNA-binding domain (DB...
+Accession: cd04475 ID: 239921
+
+590. RPA1_DBD_A
+RPA1_DBD_A: A subfamily of OB folds corresponding to the second OB fold, the ssDNA-binding domain (D...
+Accession: cd04474 ID: 239920
+
+591. AE_Prim_S_like
+AE_Prim_S_like: primase domain similar to that found in the small subunit of archaeal and eukaryotic...
+Accession: cd00525 ID: 238291
+
+592. unc_tv_SF1_Hel-like: uncharacterized domain which connects the Cys/His rich zinc-binding (ZBD) and linker to the first helicase domain of tornidovirus SF1 helicase and related proteins
+Helicases catalyze NTP-dependent unwinding of nucleic acid duplexes into single strands and are clas...
+Accession: cd21413 ID: 394819
+
+593. PolY: Y-family of DNA polymerases
+Y-family DNA polymerases are a specialized subset of polymerases that facilitate translesion synthes...
+Accession: cl28996 ID: 391962
+
+594. MgsA_C: MgsA AAA+ ATPase C terminal
+The MgsA protein possesses DNA-dependent ATPase and ssDNA annealing activities. MgsA contributes to ...
+Accession: cl26405 ID: 391516
+
+595. ENDO3c
+endonuclease III; includes endonuclease III (DNA-(apurinic or apyrimidinic site) lyase), alkylbase D...
+Accession: cl23768 ID: 390075
+
+596. LigD_N: DNA polymerase Ligase (LigD)
+This is the N terminal region of ATP dependant DNA ligase.
+Accession: cl11819 ID: 386212
+
+597. Phage_rep_org_N: N-terminal phage replisome organizer (Phage_rep_org_N)
+This entry represents the N-terminal domain of a small family of phage proteins. The protein contain...
+Accession: cl09889 ID: 385622
+
+598. YqaJ: YqaJ-like viral recombinase domain
+This protein family is found in many different bacterial species but is of viral origin. The protein...
+Accession: cl09232 ID: 385435
+
+599. YbaB_DNA_bd: YbaB/EbfC DNA-binding family
+This is a family of DNA-binding proteins. Members of this family form homodimers which bind DNA via ...
+Accession: cl00494 ID: 382043
+
+600. DisA-linker: DisA bacterial checkpoint controller linker region
+The DisA protein is a bacterial checkpoint protein that dimerizes into an octameric complex. The pro...
+Accession: pfam10635 ID: 378462
+
+601. DisA_N: DisA bacterial checkpoint controller nucleotide-binding
+The DisA protein is a bacterial checkpoint protein that dimerizes into an octameric complex. The pro...
+Accession: pfam02457 ID: 376789
+
+602. Stn1_C: Telomere capping C-terminal wHTH
+This domain consists of tandem winged helix-turn-helix motifs. Stn1 and Ten1 are DNA-binding protein...
+Accession: pfam12659 ID: 372245
+
+603. Ten1: Telomere capping, CST complex subunit
+Stn1 and Ten1 are DNA-binding proteins with specificity for telomeric DNA substrates and both protec...
+Accession: pfam12658 ID: 372244
+
+604. Geminin: Geminin
+This family contains the eukaryotic protein geminin (approximately 200 residues long). Geminin inhib...
+Accession: pfam07412 ID: 369354
+
+605. DEXXQc_DNA2: DEXXQ-box helicase domain of DNA2
+DNA2 (DNA Replication Helicase/Nuclease 2) possesses different enzymatic activities, such as single-...
+Accession: cd18041 ID: 350799
+
+606. SF2_C_FANCM_Hef: C-terminal helicase domain of Fanconi anemia group M family helicases
+Fanconi anemia group M (FANCM) protein is a DNA-dependent ATPase component of the Fanconi anemia (FA...
+Accession: cd18801 ID: 350188
+
+607. ArfGap_AGFG: ArfGAP domain of the AGFG subfamily (ArfGAP domain and FG repeat-containing proteins)
+The ArfGAP domain and FG repeat-containing proteins (AFGF) subfamily of Arf GTPase-activating protei...
+Accession: cd08838 ID: 350067
+
+608. ParAB_family: partition proteins ParAB family
+ParA and ParB of Caulobacter crescentus belong to a conserved family of bacterial proteins implicate...
+Accession: cd02042 ID: 349760
+
+609. STAT2_CCD: Coiled-coil domain of Signal Transducer and Activator of Transcription 2 (STAT2)
+This family consists of the coiled-coil (alpha) domain of the STAT2 proteins (Signal Transducer and ...
+Accession: cd16852 ID: 341077
+
+610. Polyoma_agno: Polyomavirus agnoprotein
+This family consist of the DNA binding protein or agnoprotein from various polyomaviruses. This prot...
+Accession: cl28119 ID: 332940
+
+611. RING-Ubox_PRP19: U-box domain, a modified RING finger, found in pre-mRNA-processing factor 19 (Prp19) and similar proteins
+Prp19, also known as nuclear matrix protein 200 (NMP200), senescence evasion factor (SNEV), or DNA r...
+Accession: cd16656 ID: 319570
+
+612. RING-HC_HLTF: RING finger, HC subclass, found in helicase-like transcription factor (HLTF) and similar proteins
+HLTF, also known as DNA-binding protein/plasminogen activator inhibitor 1 regulator, or HIP116, or R...
+Accession: cd16509 ID: 319423
+
+613. Herpes_UL24: Herpes virus proteins UL24 and UL76
+This family consists of various herpes virus proteins; the gene 20 product, U49 protein, UL24 and UL...
+Accession: pfam01646 ID: 307668
+
+614. SPRY_RING: SPRY domain at N-terminus of Really Interesting New Gene (RING) finger domain
+This SPRY domain is found at the N-terminus of RING finger domains which are present in a variety of...
+Accession: cd12883 ID: 293941
+
+615. Polyoma_agno: Polyomavirus agnoprotein
+This family consist of the DNA binding protein or agnoprotein from various polyomaviruses. This prot...
+Accession: pfam01736 ID: 279993
+
+616. PPV_E1_C: Papillomavirus helicase
+This protein is a DNA helicase that is required for initiation of viral DNA replication. This protei...
+Accession: pfam00519 ID: 278920
+
+617. DnaB: replicative DNA helicase
+This model describes the helicase DnaB, a homohexameric protein required for DNA replication. The ho...
+Accession: TIGR00665 ID: 273206
+
+618. STKc_Rad53_Cds1: Catalytic domain of the yeast Serine/Threonine Kinases, Rad53 and Cds1
+STKs catalyze the transfer of the gamma-phosphoryl group from ATP to serine/threonine residues on pr...
+Accession: cd14098 ID: 271000
+
+619. STKc_TLK1: Catalytic domain of the Serine/Threonine kinase, Tousled-Like Kinase 1
+STKs catalyze the transfer of the gamma-phosphoryl group from ATP to serine/threonine residues on pr...
+Accession: cd14040 ID: 270942
+
+620. Prim_Pol
+Prim_Pol: Primase-polymerase (primpol) domain of the type found in bifunctional replicases from arch...
+Accession: cd04859 ID: 240129
+
+621. BAH_Orc1p_animal
+BAH, or Bromo Adjacent Homology domain, as present in animal homologs of Saccharomyces cerevisiae Or...
+Accession: cd04719 ID: 240070
+
+622. RPA2_OBF_like
+RPA2_OBF_like: A subgroup of uncharacterized archaeal OB folds with similarity to the OB fold of the...
+Accession: cd04482 ID: 239928
+
+623. RPA1_DBD_B_like
+RPA1_DBD_B_like: A subgroup of uncharacterized, plant OB folds with similarity to the third OB fold,...
+Accession: cd04481 ID: 239927
+
+624. RPA1_DBD_A_like
+RPA1_DBD_A_like: A subgroup of uncharacterized plant OB folds with similarity to the second OB fold,...
+Accession: cd04480 ID: 239926
+
+625. RPA3
+RPA3: A subfamily of OB folds similar to human RPA3 (also called RPA14). RPA3 is the smallest subuni...
+Accession: cd04479 ID: 239925
+
+626. RPA2_DBD_D
+RPA2_DBD_D: A subfamily of OB folds corresponding to the OB fold of the central ssDNA-binding domain...
+Accession: cd04478 ID: 239924
+
+627. RPA1N
+RPA1N: A subfamily of OB folds corresponding to the N-terminal OB-fold domain of human RPA1 (also ca...
+Accession: cd04477 ID: 239923
+
+628. RPA1_DBD_C
+RPA1_DBD_C: A subfamily of OB folds corresponding to the C-terminal OB fold, the ssDNA-binding domai...
+Accession: cd04476 ID: 239922
+
+629. LigD_PE_dom: DNA ligase D, 3'-phosphoesterase domain
+Most sequences in this family are the 3'-phosphoesterase domain of a multidomain, multifunctional DN...
+Accession: TIGR02777 ID: 131824
+
+630. SARS-CoV-2_Orf10: Severe acute respiratory syndrome coronavirus 2 Orf10
+This model represents the Orf10 protein of Severe acute respiratory syndrome coronavirus 2 (SARS-CoV...
+Accession: cd21597 ID: 394948
+
+631. 1B_cv_Nsp13-like: 1B domain of coronavirus SARS NSP13 helicase and related proteins
+Helicases catalyze NTP-dependent unwinding of nucleic acid duplexes into single strands and are clas...
+Accession: cd21409 ID: 394817
+
+632. UvsW: ATP-dependant DNA helicase UvsW
+This family of proteins represents the DNA helicase UvsW from bacteriophage T4. The protein is a mem...
+Accession: cl23906 ID: 390170
+
+633. AP2Ec
+AP endonuclease family 2; These endonucleases play a role in DNA repair. Cleave phosphodiester bonds...
+Accession: cl23721 ID: 390045
+
+634. HEPN_AbiV: AbiV
+AbiV-like HEPN
+Accession: cl22825 ID: 389943
+
+635. ASF1_hist_chap: ASF1 like histone chaperone
+This family includes the yeast and human ASF1 protein. These proteins have histone chaperone activit...
+Accession: cl22451 ID: 389918
+
+636. Orc6_mid: Middle domain of the origin recognition complex subunit 6
+Orc6 is a subunit of the origin recognition complex in eukaryotes, and it may be involved in binding...
+Accession: cl21687 ID: 389868
+
+637. DinI: DinI-like family
+This family of short proteins includes DNA-damage-inducible protein I (DinI) and related proteins. T...
+Accession: cl11630 ID: 386191
+
+638. GH25_muramidase
+Endo-N-acetylmuramidases (muramidases) are lysozymes (also referred to as peptidoglycan hydrolases) ...
+Accession: cl10448 ID: 385674
+
+639. RecT: RecT family
+The DNA single-strand annealing proteins (SSAPs), such as RecT, Red-beta, ERF and Rad52, function in...
+Accession: cl04285 ID: 383661
+
+640. Rpr2: RNAse P Rpr2/Rpp21/SNM1 subunit domain
+This family contains a ribonuclease P subunit of humans and yeast. Other members of the family inclu...
+Accession: cl00887 ID: 382266
+
+641. MgsA_C: MgsA AAA+ ATPase C terminal
+The MgsA protein possesses DNA-dependent ATPase and ssDNA annealing activities. MgsA contributes to ...
+Accession: pfam12002 ID: 378787
+
+642. HTH_55: RctB helix turn helix domain
+RctB is a highly conserved 75.3 kD protein (658 residues), which is unique to the Vibrionaceae. The ...
+Accession: pfam18622 ID: 376048
+
+643. HTH_53: Zap helix turn helix N-terminal domain
+Zinc-finger antiviral protein (ZAP) is a host factor that specifically inhibits the replication of c...
+Accession: pfam18606 ID: 376032
+
+644. TAD2: Transactivation domain 2
+This is a N-terminal transactivation domain (TAD) domain 2 found in p53 proteins. In p53 two TAD dom...
+Accession: pfam18521 ID: 375947
+
+645. DUF5521: Family of unknown function (DUF5521)
+This is a family of unknown function found in Eukaryota. Family members include the human CXorf57. H...
+Accession: pfam17659 ID: 375235
+
+646. FACT-Spt16_Nlob: FACT complex subunit SPT16 N-terminal lobe domain
+The FACT or facilitator of chromatin transcription complex binds to and alters the properties of nuc...
+Accession: pfam14826 ID: 373321
+
+647. DUF3173: Domain of unknown function (DUF3173)
+This family of proteins with unknown function appears to be restricted to Firmicutes. These proteins...
+Accession: pfam11372 ID: 371495
+
+648. Slx4: Slx4 endonuclease
+The Slx4 protein is a heteromeric structure-specific endonuclease found from fungi to mammals. Slx4 ...
+Accession: pfam09494 ID: 370528
+
+649. Mus7: Mus7/MMS22 family
+This family includes a conserved region from the Mus7 protein. Mus7 is involved in the repair of rep...
+Accession: pfam09462 ID: 370511
+
+650. SARS_X4: SARS coronavirus X4 like
+The structure of the coronavirus X4 protein (also known as 7a and U122) shows similarities to the im...
+Accession: pfam08779 ID: 370117
+
+651. ORC6: Origin recognition complex subunit 6 (ORC6)
+This family consists of several eukaryotic origin recognition complex subunit 6 (ORC6) proteins. Des...
+Accession: pfam05460 ID: 368452
+
+652. ASF1_hist_chap: ASF1 like histone chaperone
+This family includes the yeast and human ASF1 protein. These proteins have histone chaperone activit...
+Accession: pfam04729 ID: 368085
+
+653. Pirin: Pirin
+This family consists of Pirin proteins from both eukaryotes and prokaryotes. The function of Pirin i...
+Accession: pfam02678 ID: 367141
+
+654. Gemini_AL1: Geminivirus Rep catalytic domain
+The AL1 proteins encodes the replication initiator protein (Rep) of geminiviruses, which is a replic...
+Accession: pfam00799 ID: 366313
+
+655. helicase_insert_domain: helicase_insert_domain
+helicase_insert_domain; This helical domain can be found inserted in a subset of SF2-type DEAD-box r...
+Accession: cl17041 ID: 354301
+
+656. C1_4: TFIIH C1-like domain
+The carboxyl-terminal region of TFIIH is essential for transcription activity. This regions binds th...
+Accession: cl06838 ID: 352591
+
+657. DEXHc_viral_Ns3: DEXH-box helicase domain of NS3 protease-helicase
+NS3 is a nonstructural multifunctional protein found in pestiviruses that contains an N-terminal pro...
+Accession: cd17931 ID: 350689
+
+658. DEXHc_priA: DEXH-box helicase domain of PriA
+PriA, also known as replication factor Y or primosomal protein N', is a 3'-->5' superfamily 2 DNA he...
+Accession: cd17929 ID: 350687
+
+659. DEXHc_RIG-I: DEXH-box helicase domain of DEAD-like helicase RIG-I family proteins
+Members of the RIG-I family include FANCM, dicer, Hef, and the RIG-I-like receptors. Fanconi anemia ...
+Accession: cd17927 ID: 350685
+
+660. PIN_NgFitB-like: VapC-like PIN domain of Neisseria gonorrhoeae FitB and related proteins
+This subfamily includes the Virulence associated protein C (VapC)-like PIN (PilT N terminus) domain ...
+Accession: cd18731 ID: 350298
+
+661. SF2_C_dicer: C-terminal helicase domain of the endoribonuclease Dicer
+Dicer ribonucleases cleave double-stranded RNA (dsRNA) precursors to generate microRNAs (miRNAs) and...
+Accession: cd18802 ID: 350189
+
+662. SF2_C_RecQ: C-terminal helicase domain of the RecQ family helicases
+The RecQ helicase family is an evolutionarily conserved class of enzymes, dedicated to preserving ge...
+Accession: cd18794 ID: 350181
+
+663. STAT2_DBD: DNA-binding domain of Signal Transducer and Activator of Transcription 2 (STAT2)
+This family consists of the DNA-binding domain (DBD) of the STAT2 proteins (Signal Transducer and Ac...
+Accession: cd16846 ID: 341084
+
+664. U62_UL91: Functional domain of U62 and UL91 proteins
+Human herpesvirus 6A (HHV-6A) and HHV-6B are classified as roseoloviruses and are highly prevalent i...
+Accession: pfam17442 ID: 340157
+
+665. Herpes_env: Herpesvirus putative major envelope glycoprotein
+This family consists of probable major envelope glycoproteins from members of the herpesviridae incl...
+Accession: cl28122 ID: 332943
+
+666. Herpes_UL7: Herpesvirus UL7 like
+This family consists of various functionally undefined proteins from the herpesviridae and UL7 from ...
+Accession: cl28121 ID: 332942
+
+667. RING_Ubox: The superfamily of RING finger (Really Interesting New Gene) domain and U-box domain
+RING finger is a specialized type of Zn-finger of 40 to 60 residues that binds two atoms of zinc. It...
+Accession: cd00162 ID: 319361
+
+668. PCNA
+Proliferating Cell Nuclear Antigen (PCNA) domain found in eukaryotes and archaea.  These polymerase ...
+Accession: cl24017 ID: 305174
+
+669. RexB: Membrane-anchored ion channel, Abi component
+RexB is a family of anti-lambda phage inner-membrane ion-channels with four transmembrane domains. O...
+Accession: pfam15968 ID: 292590
+
+670. VD10_N: Viral D10 N-terminal
+This domain is found on the N-terminus of the viral protein D10 (VD10) and the related MutT motif pr...
+Accession: pfam08476 ID: 285650
+
+671. Baculo_LEF-3: Nucleopolyhedrovirus late expression factor 3 (LEF-3)
+This family consists of LEF-3 Nucleopolyhedrovirus late expression factor 3 (LEF-3) sequences which ...
+Accession: pfam05847 ID: 283501
+
+672. Peptidase_C53: Pestivirus Npro endopeptidase C53
+Unique to pestiviruses, the N-terminal protein encoded by the bovine viral diarrhoea virus genome is...
+Accession: pfam05550 ID: 283255
+
+673. DnaA_homol_Hda: DnaA regulatory inactivator Hda
+Members of this protein family are Hda (Homologous to DnaA). These proteins are about half the lengt...
+Accession: TIGR03420 ID: 274571
+
+674. NHEJ_ligase_prk: DNA ligase D
+Members of this protein family are DNA ligases involved in the repair of DNA double-stranded breaks ...
+Accession: TIGR02776 ID: 274293
+
+675. rexB_recomb: ATP-dependent nuclease subunit B
+DNA repair is accomplished by several different systems in prokaryotes. Recombinational repair of do...
+Accession: TIGR02774 ID: 274291
+
+676. recomb_XerD: tyrosine recombinase XerD
+The phage integrase family describes a number of recombinases with tyrosine active sites that transi...
+Accession: TIGR02225 ID: 274043
+
+677. recomb_XerC: tyrosine recombinase XerC
+The phage integrase family describes a number of recombinases with tyrosine active sites that transi...
+Accession: TIGR02224 ID: 274042
+
+678. dinG_rel: DnaQ family exonuclease/DinG family helicase, putative
+This model represents a family of proteins in Gram-positive bacteria. The N-terminal region of about...
+Accession: TIGR01407 ID: 273602
+
+679. polC_Gram_pos: DNA polymerase III, alpha chain, Gram-positive type
+This model describes a polypeptide chain of DNA polymerase III. Full-length homologs of this protein...
+Accession: TIGR01405 ID: 273601
+
+680. dnaG: DNA primase, catalytic core
+Members of this family are DNA primase, a ubiquitous bacteria protein. Most members of this family c...
+Accession: TIGR01391 ID: 273595
+
+681. primase_sml: DNA primase, eukaryotic-type, small subunit, putative
+Archaeal members differ substantially from eukaryotic members and should be considered putative pend...
+Accession: TIGR00335 ID: 273020
+
+682. STKc_Cdc7: Catalytic domain of the Serine/Threonine Kinase, Cell Division Cycle 7 kinase
+STKs catalyze the transfer of the gamma-phosphoryl group from ATP to serine/threonine residues on pr...
+Accession: cd14019 ID: 270921
+
+683. SPO1_TF1_like: Bacteriophage SPO1-encoded TF1 binds and bends DNA
+This group contains proteins related to bacillus phage SPO1-encoded transcription factor 1 (TF1),  a...
+Accession: cd14435 ID: 259859
+
+684. HU_IHF: DNA sequence specific (IHF) and non-specific (HU) domains
+This family includes integration host factor (IHF) and HU, also called type II DNA-binding proteins ...
+Accession: cd00591 ID: 259852
+
+685. PHP_PolIIIA_DnaE3: Polymerase and Histidinol Phosphatase domain of alpha-subunit of bacterial polymerase III DnaE3
+PolIIIAs that contain an N-terminal PHP domain have been classified into four basic groups based on ...
+Accession: cd12113 ID: 213997
+
+686. YqeH: Circularly permuted YqeH GTPase
+YqeH is an essential GTP-binding protein. Depletion of YqeH induces an excess initiation of DNA repl...
+Accession: cd01855 ID: 206748
+
+687. Ran: Ras-related nuclear proteins (Ran)/TC4 family of small GTPases
+Ran GTPase is involved in diverse biological functions, such as nuclear transport, spindle formation...
+Accession: cd00877 ID: 206643
+
+688. RNase_H2-C: Ribonuclease H2-C is a subunit of the eukaryotic RNase H complex which cleaves RNA-DNA hybrids
+Ribonuclease H2C is one of the three protein of eukaryotic RNase H2 complex that is required for nuc...
+Accession: cd09271 ID: 187752
+
+689. MPN_eIF3f: Mpr1p, Pad1p N-terminal (MPN) domains without catalytic isopeptidase activity, found in eIF3f
+Eukaryotic translation initiation factor 3 (eIF3) subunit F (eIF3F; EIF3S5; eIF3-p47; eukaryotic tra...
+Accession: cd08064 ID: 163695
+
+690. MPN_euk_non_mb: Mpr1p, Pad1p N-terminal (MPN) domains without catalytic isopeptidase activity (non metal-binding); eukaryotic
+This family contains MPN (also known as Mov34, PAD-1, JAMM, JAB, MPN+) domains variants  lacking key...
+Accession: cd08057 ID: 163688
+
+691. tap_IncFII_lead: RepA leader peptide Tap
+This protein is a translated leader peptide that actis in the regulation of the expression of the pl...
+Accession: TIGR03475 ID: 132515
+
+692. hip: integration host factor, beta subunit
+This protein forms a site-specific DNA-binding heterodimer with the homologous integration host fact...
+Accession: TIGR00988 ID: 130061
+
+693. himA: integration host factor, alpha subunit
+This protein forms a site-specific DNA-binding heterodimer with the integration host factor beta sub...
+Accession: TIGR00987 ID: 130060
+
+694. ruvC: crossover junction endodeoxyribonuclease RuvC
+Endonuclease that resolves Holliday junction intermediates in genetic recombination. The active form...
+Accession: TIGR00228 ID: 129331
+
+695. PncC_domain: amidohydrolase, PncC family
+CinA is a DNA damage- or competence-inducible protein that is polycistronic with recA in a number of...
+Accession: TIGR00199 ID: 129303
+
+696. p23_hB-ind1_like
+p23_like domain found in human (h) butyrate-induced transcript 1 (B-ind1) and similar proteins. hB-i...
+Accession: cd06465 ID: 107222
+
+697. 1B_nv_SF1_Hel-like: 1B domain of nidovirus helicases including coronavirus Nsp13 and arterivirus Nsp10, and related proteins
+Helicases catalyze NTP-dependent unwinding of nucleic acid duplexes into single strands and are clas...
+Accession: cd21406 ID: 394814
+
+698. 1B_UPF1_nv_SF1_Hel-like: 1B domain of eukaryotic UPF1 helicase, nidovirus SF1 helicases including coronavirus Nsp13 and arterivirus Nsp10, and related proteins
+Helicases catalyze NTP-dependent unwinding of nucleic acid duplexes into single strands and are clas...
+Accession: cd21344 ID: 394813
+
+699. ZBD_cv_Nsp13-like: Cys/His rich zinc-binding domain (CH/ZBD) of coronavirus SARS NSP13 helicase and related proteins
+Helicases catalyze NTP-dependent unwinding of nucleic acid duplexes into single strands and are clas...
+Accession: cd21401 ID: 394808
+
+700. ZBD_nv_SF1_Hel-like: Cys/His rich zinc-binding domain (CH/ZBD) of nidovirus helicases including coronavirus Nsp13 and arterivirus Nsp10, and related proteins
+Helicases catalyze NTP-dependent unwinding of nucleic acid duplexes into single strands and are clas...
+Accession: cd21399 ID: 394806
+
+701. ZBD_UPF1_nv_SF1_Hel-like: Cys/His rich zinc-binding domain (CH/ZBD) of eukaryotic UPF1 helicase, nidovirus SF1 helicases including coronavirus Nsp13 and arterivirus Nsp10, and related proteins
+Helicases catalyze NTP-dependent unwinding of nucleic acid duplexes into single strands, and are cla...
+Accession: cd21343 ID: 394805
+
+702. DnaT: DnaT DNA-binding domain
+This domain is found in E.coli primosomal protein 1 (Pp1); the PP1 domain (residues 84-153) can bind...
+Accession: cl32029 ID: 392279
+
+703. ATase
+The DNA repair protein O6-alkylguanine-DNA alkyltransferase (ATase; also known as AGT, AGAT and MGMT...
+Accession: cl29527 ID: 392118
+
+704. ORC2: Origin recognition complex subunit 2
+All DNA replication initiation is driven by a single conserved eukaryotic initiator complex termed h...
+Accession: cl27198 ID: 391702
+
+705. M11L: Apoptosis regulator M11L like
+Apoptosis regulators function to modulate the apoptotic cascades and thereby favour productive viral...
+Accession: cl26481 ID: 391536
+
+706. DHFR
+Dihydrofolate reductase (DHFR). Reduces 7,8-dihydrofolate to 5,6,7,8-tetrahydrofolate with NADPH as ...
+Accession: cl17279 ID: 388420
+
+707. Rev1_C: C-terminal domain of the Y-family polymerase Rev1
+Rev1 is a eukaryotic translesion synthesis (TLS) polymerase; TLS is a process that allows the bypass...
+Accession: cl17091 ID: 388394
+
+708. Bac_DnaA_C
+C-terminal domain of bacterial DnaA proteins. The DNA-binding C-terminal domain of DnaA contains a h...
+Accession: cl07055 ID: 384813
+
+709. SAD_SRA: SAD/SRA domain
+The domain goes by several names including SAD, SRA and YDG. It adopts a beta barrel, modified PUA-l...
+Accession: cl02620 ID: 383055
+
+710. RdgC: Putative exonuclease, RdgC
+Members of the RdgC family may have exonuclease activity. RdgC is required for efficient pilin varia...
+Accession: cl01122 ID: 382391
+
+711. BREX_1_MTaseX: BREX-1 system adenine-specific DNA-methyltransferase PglX
+This protein, PglX, is a site-specific DNA methyltransferase associated BREX (bacteriophage exclusio...
+Accession: NF033452 ID: 380294
+
+712. BREX_2_MTaseX: BREX-2 system adenine-specific DNA-methyltransferase PglX
+This protein, PglX, is a site-specific DNA methyltransferase associated with PGL (phage growth limit...
+Accession: NF033451 ID: 380293
+
+713. DnaT: DnaT DNA-binding domain
+This domain is found in E.coli primosomal protein 1 (Pp1); the PP1 domain (residues 84-153) can bind...
+Accession: pfam17948 ID: 380070
+
+714. PriA_3primeBD: 3' DNA-binding domain (3'BD)
+This domain represents the N-terminal DNA-binding domain found in the PriA protein. The 3'BD, which ...
+Accession: pfam17764 ID: 380010
+
+715. DNA_pol3_a_NII: DNA polymerase III polC-type N-terminus II
+This is the second N-terminal domain, NII domain, of the DNA polymerase III polC subunit A that is f...
+Accession: pfam11490 ID: 378670
+
+716. Rpr2: RNAse P Rpr2/Rpp21/SNM1 subunit domain
+This family contains a ribonuclease P subunit of humans and yeast. Other members of the family inclu...
+Accession: pfam04032 ID: 377206
+
+717. DnaB_C: DnaB-like helicase C terminal domain
+The hexameric helicase DnaB unwinds the DNA duplex at the Escherichia coli chromosome replication fo...
+Accession: pfam03796 ID: 377132
+
+718. AMMECR1: AMMECR1
+This family consists of several AMMECR1 as well as several uncharacterized proteins. The contiguous ...
+Accession: pfam01871 ID: 376635
+
+719. Sld7_C: Sld7 C-terminal domain
+This is an alpha helical domain found at the C-terminal region of Sld7 proteins. Yeast Sld3 and its ...
+Accession: pfam18596 ID: 376022
+
+720. ssDNA_DBD: Non-canonical single-stranded DNA-binding domain
+This domain is found in ThermoDBP, a non-canonical single-stranded DNA-binding protein in Thermoprot...
+Accession: pfam18333 ID: 375760
+
+721. MCM6_C: MCM6 C-terminal winged-helix domain
+The minichromosome maintenance (Mcm) complex is the replicative helicase in eukaryotic species, that...
+Accession: pfam18263 ID: 375690
+
+722. SWC7: SWR1 chromatin-remodelling complex, subunit Swc7
+Th SWR1 complex is involved in chromatin-remodelling by promoting the the ATP-dependent exchange of ...
+Accession: pfam17330 ID: 375133
+
+723. ArgoN: N-terminal domain of argonaute
+ArgoN is the N-terminal domain of argonaute proteins in eukaryotes. ArgoN is composed of an antipara...
+Accession: pfam16486 ID: 374571
+
+724. CAF1A: Chromatin assembly factor 1 subunit A
+The CAF-1 or chromatin assembly factor-1 consists of three subunits, and this is the first, or A. Th...
+Accession: pfam12253 ID: 371993
+
+725. Dpoe2NT: DNA polymerases epsilon N terminal
+This domain is found in eukaryotes, and is approximately 70 amino acids in length. The family is fou...
+Accession: pfam12213 ID: 371965
+
+726. DnaA_N: DnaA N-terminal domain
+This family of proteins represents the N-terminal domain of DnaA, a protein involved in the initiati...
+Accession: pfam11638 ID: 371642
+
+727. UvsW: ATP-dependant DNA helicase UvsW
+This family of proteins represents the DNA helicase UvsW from bacteriophage T4. The protein is a mem...
+Accession: pfam11637 ID: 371641
+
+728. Transcript_VP30: Ebola virus-specific transcription factor VP30
+VP30 is a nucleocapsid-associated Ebola virus-specific transcription factor. It acts by stabilizing ...
+Accession: pfam11507 ID: 371570
+
+729. IRF-3: Interferon-regulatory factor 3
+This is the interferon-regulatory factor 3 chain of the hetero-dimeric structure which also contains...
+Accession: pfam10401 ID: 371029
+
+730. MCM_bind: Mini-chromosome maintenance replisome factor
+This entry is of proteins of approximately 600 residues in length containing alternating regions of ...
+Accession: pfam09739 ID: 370648
+
+731. Phage_rep_org_N: N-terminal phage replisome organizer (Phage_rep_org_N)
+This entry represents the N-terminal domain of a small family of phage proteins. The protein contain...
+Accession: pfam09681 ID: 370614
+
+732. MRC1: MRC1-like domain
+This putative domain is found to be the most conserved region in mediator of replication checkpoint ...
+Accession: pfam09444 ID: 370495
+
+733. MipZ: ATPase MipZ
+MipZ is an ATPase that forms a complex with the chromosome partitioning protein ParB near the chromo...
+Accession: pfam09140 ID: 370317
+
+734. HIRAN: HIRAN domain
+The HIRAN domain (HIP116, Rad5p N-terminal) is found in the N-terminal regions of the SWI2/SNF2 prot...
+Accession: pfam08797 ID: 370129
+
+735. DinI: DinI-like family
+This family of short proteins includes DNA-damage-inducible protein I (DinI) and related proteins. T...
+Accession: pfam06183 ID: 368780
+
+736. RIB43A: RIB43A
+This family consists of several RIB43A-like eukaryotic proteins. Ciliary and flagellar microtubules ...
+Accession: pfam05914 ID: 368667
+
+737. Peptidase_C27: Rubella virus endopeptidase
+Corresponds to Merops family C27. Required for processing of the rubella virus replication protein.
+Accession: pfam05407 ID: 368428
+
+738. ORC2: Origin recognition complex subunit 2
+All DNA replication initiation is driven by a single conserved eukaryotic initiator complex termed h...
+Accession: pfam04084 ID: 367803
+
+739. US22: US22 like
+US22 proteins have been found across many animal DNA viruses and some vertebrates. The name sake of ...
+Accession: pfam02393 ID: 367069
+
+740. SAD_SRA: SAD/SRA domain
+The domain goes by several names including SAD, SRA and YDG. It adopts a beta barrel, modified PUA-l...
+Accession: pfam02182 ID: 366960
+
+741. DnaB: DnaB-like helicase N terminal domain
+The hexameric helicase DnaB unwinds the DNA duplex at the Escherichia coli chromosome replication fo...
+Accession: pfam00772 ID: 366294
+
+742. iSH2_PI3K_IA_R: Inter-Src homology 2 (iSH2) helical domain of Class IA Phosphoinositide 3-kinase Regulatory subunits
+PI3Ks catalyze the transfer of the gamma-phosphoryl group from ATP to the 3-hydroxyl of the inositol...
+Accession: cl25402 ID: 355389
+
+743. Activator-TraM: Transcriptional activator TraM
+TraM is required for quorum dependence. It binds to and in-activates TraR which controls the replica...
+Accession: cl11943 ID: 353324
+
+744. trimeric_dUTPase: Trimeric dUTP diphosphatases
+Trimeric dUTP diphosphatases, or dUTPases, are the most common family of dUTPase, found in bacteria,...
+Accession: cl00493 ID: 351119
+
+745. DEXHc_Hef: DEXH-box helicase domain of Hef
+Hef (helicase-associated endonuclease fork-structure) belongs to the XPF/MUS81/FANCM family of endon...
+Accession: cd18035 ID: 350793
+
+746. DEXDc_FANCM: DEAH-box helicase domain of FANCM
+Fanconi anemia group M (FANCM) protein is a DNA-dependent ATPase component of the Fanconi anemia (FA...
+Accession: cd18033 ID: 350791
+
+747. CDC14_N: N-terminal domain pseudophosphatase domain of CDC14 family proteins
+The cell division control protein 14 (CDC14) family is highly conserved in all eukaryotes, although ...
+Accession: cd17657 ID: 350495
+
+748. CDC14_C: C-terminal dual-specificity phosphatase domain of CDC14 family proteins
+The cell division control protein 14 (CDC14) family is highly conserved in all eukaryotes, although ...
+Accession: cd14499 ID: 350349
+
+749. PIN_asteroid-like: FEN-like PIN domain of Drosophila melanogaster asteroid and related proteins
+This subfamily includes Drosophila melanogaster asteroid protein which may function in EGF receptor ...
+Accession: cd18676 ID: 350243
+
+750. PIN_53EXO: FEN-like PIN domains of PIN domain of the 5'-3' exonuclease of Thermus aquaticus DNA polymerase I (Taq) and homologs
+The 5'-3' exonuclease (53EXO) PIN (PilT N terminus) domain of multi-domain DNA polymerase I and sing...
+Accession: cd09859 ID: 350209
+
+751. PIN_53EXO-like: FEN-like PIN domains of the 5'-3' exonucleases of DNA polymerase I, bacteriophage T4 RNase H and T5-5' nucleases, and homologs
+PIN (PilT N terminus) domains of the 5'-3' exonucleases (53EXO) of multi-domain DNA polymerase I and...
+Accession: cd00008 ID: 350199
+
+752. HipA_So_like: type II toxin-antitoxin sytem toxin HipA from Shewanella oneidensis and similar proteins
+This family contains type II toxin-antitoxin (TA) system HipA family toxins similar to Shewanella on...
+Accession: cd17809 ID: 341494
+
+753. HipA_Ec_like: type II toxin-antitoxin sytem toxin HipA from Escherichia coli and similar proteins
+This family contains type II toxin-antitoxin (TA) system HipA family toxins similar to Escherichia c...
+Accession: cd17808 ID: 341493
+
+754. HipA: type II toxin-antitoxin sytem toxin HipA and similar proteins
+This family contains type II toxin-antitoxin (TA) system HipA family toxins similar to Escherichia c...
+Accession: cd17793 ID: 341492
+
+755. Phage_Gp17: Gene Product 17
+Family members such as protein 17 (gene product 17/gp17) found in Bacillus phage phi29, is involved ...
+Accession: pfam17549 ID: 340264
+
+756. Herpes_glycop: Herpesvirus glycoprotein M
+The herpesvirus glycoprotein M (gM) is an integral membrane protein predicted to contain 8 transmemb...
+Accession: cl28128 ID: 332949
+
+757. STNV
+STNV domain; satellite tobacco necrosis virus (STNV) are small plant viruses which are completely de...
+Accession: cl27634 ID: 332455
+
+758. RING-HC_BRE1_like: RING finger, HC subclass, found in yeast Bre1 and its homologs from eukaryotes
+Bre1 is an E3 ubiquitin-protein ligase that catalyzes monoubiquitination of histone H2B in concert w...
+Accession: cd16499 ID: 319413
+
+759. RING-HC: HC subclass of RING (RING-HC) finger and its variants
+RING finger is a specialized type of Zn-finger of 40 to 60 residues that binds two atoms of zinc. It...
+Accession: cd16449 ID: 319363
+
+760. RING-H2: H2 subclass of RING (RING-H2) finger and its variants
+RING finger is a specialized type of Zn-finger of 40 to 60 residues that binds two atoms of zinc. It...
+Accession: cd16448 ID: 319362
+
+761. photo_TT_lyase: spore photoproduct lyase
+DNA damage to bacterial spores from ultraviolet light accumulates in the form of 5-thyminyl-5,6-dihy...
+Accession: cl23832 ID: 304989
+
+762. SPRY_DDX1: SPRY domain associated with DEAD box gene DDX1
+This SPRY domain is associated with the DEAD box gene, DDX1, an RNA-dependent ATPase involved in HIV...
+Accession: cd12873 ID: 293933
+
+763. nsp7: nsp7 replicase
+nsp7 (non structural protein 7) has been implicated in viral RNA replication and is predominantly al...
+Accession: pfam08716 ID: 285878
+
+764. PIF6: Per os infectivity factor 6
+Family members include Autographa californica nuclear polyhedrosis virus (AcMNPV) Orf68 (also known ...
+Accession: pfam05341 ID: 283092
+
+765. Herpes_glycop: Herpesvirus glycoprotein M
+The herpesvirus glycoprotein M (gM) is an integral membrane protein predicted to contain 8 transmemb...
+Accession: pfam01528 ID: 279822
+
+766. dnaX_nterm: DNA polymerase III, subunit gamma and tau
+This model represents the well-conserved first ~ 365 amino acids of the translation of the dnaX gene...
+Accession: TIGR02397 ID: 274111
+
+767. Hfq: RNA chaperone Hfq
+This model represents the RNA-binding pleiotropic regulator Hfq, a small, Sm-like protein of bacteri...
+Accession: TIGR02383 ID: 274101
+
+768. primase_Cterm: phage/plasmid primase, P4 family, C-terminal domain
+This model represents a clade within a larger family of proteins from viruses of bacteria and animal...
+Accession: TIGR01613 ID: 273716
+
+769. recC: exodeoxyribonuclease V, gamma subunit
+This model describes the gamma subunit of exodeoxyribonuclease V. Species containing this protein sh...
+Accession: TIGR01450 ID: 273633
+
+770. dut: deoxyuridine 5'-triphosphate nucleotidohydrolase (dut)
+The main function of these proteins is in maintaining the levels of dUTP in the cell to prevent dUTP...
+Accession: TIGR00576 ID: 273149
+
+771. KOW_KIN17: KOW_Kin17 is a RNA-binding motif
+KOW domain of the KIN17protein contributes to the RNA-binding properties of the whole protein. KOW d...
+Accession: cd13155 ID: 240519
+
+772. YhaM_OBF_like
+YhaM_OBF_like: A subfamily of OB folds similar to that found in Bacillus subtilis YhaM and Staphyloc...
+Accession: cd04492 ID: 239938
+
+773. MAK32
+MAK32 kinase.  MAK32 is a protein found primarily in fungi that is necessary for the structural stab...
+Accession: cd01943 ID: 238918
+
+774. DnaB_C
+DnaB helicase C terminal domain. The hexameric helicase DnaB unwinds the DNA duplex at the  chromoso...
+Accession: cd00984 ID: 238484
+
+775. PRK06835
+DNA replication protein DnaC; Validated
+Accession: PRK06835 ID: 235871
+
+776. PRK02951
+DNA replication terminus site-binding protein; Provisional
+Accession: PRK02951 ID: 235090
+
+777. PRK02801
+primosomal replication protein N; Provisional
+Accession: PRK02801 ID: 235071
+
+778. PHA00330
+putative replication initiation protein
+Accession: PHA00330 ID: 222782
+
+779. A
+DNA replication initiation protein gpA
+Accession: PHA00002 ID: 222768
+
+780. iSH2_PIK3R2: Inter-Src homology 2 (iSH2) helical domain of Class IA Phosphoinositide 3-kinase Regulatory subunit 2, PIK3R2, also called p85beta
+PI3Ks catalyze the transfer of the gamma-phosphoryl group from ATP to the 3-hydroxyl of the inositol...
+Accession: cd12926 ID: 214019
+
+781. PHP_PolIIIA_POLC: Polymerase and Histidinol Phosphatase domain of alpha-subunit of bacterial polymerase III at PolC gene
+DNA polymerase III alphas (PolIIIAs) that contain a PHP domain have been classified into four basic ...
+Accession: cd07435 ID: 213990
+
+782. PHP_PolIIIA_DnaE2: Polymerase and Histidinol Phosphatase domain of alpha-subunit of bacterial polymerase III at DnaE2 gene
+PolIIIA DnaE2 plays a role in SOS mutagenesis/translesion synthesis and has dominant effects in dete...
+Accession: cd07434 ID: 213989
+
+783. PHP_PolIIIA_DnaE1: Polymerase and Histidinol Phosphatase domain of alpha-subunit of bacterial polymerase III DnaE1
+PolIIIAs that contain an N-terminal PHP domain have been classified into four basic groups based on ...
+Accession: cd07433 ID: 213988
+
+784. PHP_PolIIIA: Polymerase and Histidinol Phosphatase domain of alpha-subunit of bacterial polymerase III
+PolIIIAs that contain an N-terminal PHP domain have been classified into four basic groups based on ...
+Accession: cd07431 ID: 213986
+
+785. MreB_like: MreB and similar proteins
+MreB is a bacterial protein which assembles into filaments resembling those of eukaryotic F-actin. I...
+Accession: cd10225 ID: 212668
+
+786. Rab9: Rab GTPase family 9 (Rab9)
+Rab9 is found in late endosomes, together with mannose 6-phosphate receptors (MPRs) and the tail-int...
+Accession: cd04116 ID: 206697
+
+787. Obg: Obg GTPase
+The Obg nucleotide binding protein subfamily has been implicated in stress response, chromosome part...
+Accession: cd01898 ID: 206685
+
+788. Obg_like: Obg-like family of GTPases consist of five subfamilies: Obg, DRG, YyaF/YchF, Ygr210, and NOG1
+The Obg-like subfamily consists of five well-delimited, ancient subfamilies, namely Obg, DRG, YyaF/Y...
+Accession: cd01881 ID: 206668
+
+789. H3TH_53EXO: H3TH domain of the 5'-3' exonuclease of Taq DNA polymerase I and homologs
+H3TH (helix-3-turn-helix) domains of the 5'-3' exonuclease (53EXO) of mutli-domain DNA polymerase I ...
+Accession: cd09898 ID: 188618
+
+790. Adenylation_DNA_ligase_IV: Adenylation domain of DNA Ligase IV
+ATP-dependent polynucleotide ligases catalyze phosphodiester bond formation using nicked nucleic aci...
+Accession: cd07903 ID: 185713
+
+791. Adenylation_DNA_ligase_like: Adenylation domain of proteins similar to ATP-dependent polynucleotide ligases
+ATP-dependent polynucleotide ligases catalyze the phosphodiester bond formation of nicked nucleic ac...
+Accession: cd06846 ID: 185704
+
+792. PRK13824
+replication initiation protein RepC; Provisional
+Accession: PRK13824 ID: 184349
+
+793. PRK13750
+replication protein; Provisional
+Accession: PRK13750 ID: 184300
+
+794. PRK12377
+putative replication protein; Provisional
+Accession: PRK12377 ID: 183482
+
+795. PRK10093
+primosomal replication protein N''; Provisional
+Accession: PRK10093 ID: 182236
+
+796. PRK07952
+DNA replication protein DnaC; Validated
+Accession: PRK07952 ID: 181180
+
+797. II
+replication initiation protein
+Accession: PHA00360 ID: 177271
+
+798. PHA00202
+DNA replication initiation protein
+Accession: PHA00202 ID: 164786
+
+799. OBF_DNA_ligase_IV: The Oligonucleotide/oligosaccharide binding (OB)-fold domain of ATP-dependent DNA ligase IV is a DNA-binding module that is part of the catalytic core unit
+ATP-dependent polynucleotide ligases catalyze phosphodiester bond formation using nicked nucleic aci...
+Accession: cd07968 ID: 153437
+
+800. PRK00036
+primosomal replication protein N; Reviewed
+Accession: PRK00036 ID: 134050
+
+801. nudix_YtkD: nucleoside triphosphatase YtkD
+The functional assignment to the proteins of this family is contentious, with papers disagreeing in ...
+Accession: TIGR02705 ID: 131752
+
+802. phage_rep_org_N: phage replisome organizer, putative, N-terminal region
+This model represents the N-terminal domain of a small family of phage proteins. The protein contain...
+Accession: TIGR01714 ID: 130775
+
+803. parE_Gneg: DNA topoisomerase IV, B subunit, proteobacterial
+Operationally, topoisomerase IV is a type II topoisomerase required for the decatenation of chromoso...
+Accession: TIGR01055 ID: 130127
+
+804. rect: recombinase, phage RecT family
+All proteins in this family for which functions are known bind ssDNA and are involved in the the pai...
+Accession: TIGR00616 ID: 129703
+
+805. cdk7: CDK-activating kinase assembly factor MAT1
+All proteins in this family for which functions are known are cyclin dependent protein kinases that ...
+Accession: TIGR00570 ID: 129661
+
+806. STNV
+STNV domain; satellite tobacco necrosis virus (STNV) are small plant viruses which are completely de...
+Accession: cd00259 ID: 119404
+
+807. GH25_muramidase
+Endo-N-acetylmuramidases (muramidases) are lysozymes (also referred to as peptidoglycan hydrolases) ...
+Accession: cd00599 ID: 119373
+
+808. TREX1_2: DEDDh 3'-5' exonuclease domain of three prime repair exonuclease (TREX)1, TREX2, and similar proteins
+Three prime repair exonuclease (TREX)1 and TREX2 are closely related DEDDh-type DnaQ-like 3'-5' exon...
+Accession: cd06136 ID: 99839

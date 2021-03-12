@@ -1,0 +1,37 @@
+# must Annotation
+# Structure of this file: 
+# 1)	Chromosome
+# 2)	Annotation Software
+# 3)	Annotation Feature
+# 4)	Start Position
+# 5)	End Position
+# 6)	Score / Probability
+# 7)	Strand
+# 8)	Phase (not used)
+# 9)	TransposonNr
+# 10)	Attributes separated by ;
+seq1	must	transposon	364691	364799	21.0	+	.	1	Complete transposon
+seq1	must	dr	364689	364691	1.0	+	.	1	Left direct repeat of transposon 1
+seq1	must	dr	364799	364801	1.0	+	.	1	Right direct repeat of transposon 1
+seq1	must	tir	364691	364693	1.0	+	.	1	Left TIR of transposon 1
+seq1	must	tir	364797	364799	1.0	+	.	1	Right TIR of transposon 1
+seq1	must	transposon	572182	572292	14.0	-	.	2	Complete transposon
+seq1	must	dr	572180	572182	1.0	-	.	2	Left direct repeat of transposon 2
+seq1	must	dr	572292	572294	1.0	-	.	2	Right direct repeat of transposon 2
+seq1	must	tir	572182	572184	1.0	-	.	2	Left TIR of transposon 2
+seq1	must	tir	572290	572292	1.0	-	.	2	Right TIR of transposon 2
+seq1	must	transposon	663243	663350	21.0	-	.	3	Complete transposon
+seq1	must	dr	663241	663243	1.0	-	.	3	Left direct repeat of transposon 3
+seq1	must	dr	663350	663352	1.0	-	.	3	Right direct repeat of transposon 3
+seq1	must	tir	663243	663245	1.0	-	.	3	Left TIR of transposon 3
+seq1	must	tir	663348	663350	1.0	-	.	3	Right TIR of transposon 3
+seq1	must	transposon	677878	677989	19.999992	-	.	4	Complete transposon
+seq1	must	dr	677876	677878	1.0	-	.	4	Left direct repeat of transposon 4
+seq1	must	dr	677989	677991	1.0	-	.	4	Right direct repeat of transposon 4
+seq1	must	tir	677878	677880	1.0	-	.	4	Left TIR of transposon 4
+seq1	must	tir	677987	677989	1.0	-	.	4	Right TIR of transposon 4
+seq2	must	transposon	288019	288126	20.0	+	.	5	Complete transposon
+seq2	must	dr	288017	288019	1.0	+	.	5	Left direct repeat of transposon 5
+seq2	must	dr	288126	288128	1.0	+	.	5	Right direct repeat of transposon 5
+seq2	must	tir	288019	288021	1.0	+	.	5	Left TIR of transposon 5
+seq2	must	tir	288124	288126	1.0	+	.	5	Right TIR of transposon 5

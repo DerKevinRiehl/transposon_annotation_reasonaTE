@@ -1,0 +1,42 @@
+# ltrPred Annotation
+# Structure of this file: 
+# 1)	Chromosome
+# 2)	Annotation Software
+# 3)	Annotation Feature
+# 4)	Start Position
+# 5)	End Position
+# 6)	Score / Probability
+# 7)	Strand
+# 8)	Phase (not used)
+# 9)	TransposonNr
+# 10)	Attributes separated by ;
+seq1	LTRpred	transposon	142967	153019	.	-	.	1	 orfs=9; repeat_region_length=10061
+seq1	LTRpred	ltr	142967	143293	.	-	.	1	Left LTR of transposon 1
+seq1	LTRpred	ltr	152694	153019	.	-	.	1	Right LTR of transposon 1
+seq1	LTRpred	tsd	142963	142966	.	-	.	1	Left TSD of transposon 1
+seq1	LTRpred	tsd	153020	153023	.	-	.	1	Right TSD of transposon 1
+seq1	LTRpred	pbs	152684	152694	.	-	.	1	Primer binding site of transposon 1
+seq1	LTRpred	transposon	268295	276908	.	-	.	2	 orfs=1; repeat_region_length=8622
+seq1	LTRpred	ltr	268295	268482	.	-	.	2	Left LTR of transposon 2
+seq1	LTRpred	ltr	276720	276908	.	-	.	2	Right LTR of transposon 2
+seq1	LTRpred	tsd	268291	268294	.	-	.	2	Left TSD of transposon 2
+seq1	LTRpred	tsd	276909	276912	.	-	.	2	Right TSD of transposon 2
+seq1	LTRpred	pbs	276709	276719	.	-	.	2	Primer binding site of transposon 2
+seq2	LTRpred	transposon	40194	47926	.	-	.	3	 orfs=0; repeat_region_length=7741
+seq2	LTRpred	ltr	40194	40349	.	-	.	3	Left LTR of transposon 3
+seq2	LTRpred	ltr	47770	47926	.	-	.	3	Right LTR of transposon 3
+seq2	LTRpred	tsd	40190	40193	.	-	.	3	Left TSD of transposon 3
+seq2	LTRpred	tsd	47927	47930	.	-	.	3	Right TSD of transposon 3
+seq2	LTRpred	pbs	47752	47767	.	-	.	3	Primer binding site of transposon 3
+seq2	LTRpred	transposon	245330	256873	.	+	.	4	 orfs=3; repeat_region_length=11552
+seq2	LTRpred	ltr	245330	245904	.	+	.	4	Left LTR of transposon 4
+seq2	LTRpred	ltr	256299	256873	.	+	.	4	Right LTR of transposon 4
+seq2	LTRpred	tsd	245326	245329	.	+	.	4	Left TSD of transposon 4
+seq2	LTRpred	tsd	256874	256877	.	+	.	4	Right TSD of transposon 4
+seq2	LTRpred	pbs	245907	245919	.	+	.	4	Primer binding site of transposon 4
+seq2	LTRpred	transposon	278520	293715	.	+	.	5	 orfs=2; repeat_region_length=15204
+seq2	LTRpred	ltr	278520	278631	.	+	.	5	Left LTR of transposon 5
+seq2	LTRpred	ltr	293601	293715	.	+	.	5	Right LTR of transposon 5
+seq2	LTRpred	tsd	278516	278519	.	+	.	5	Left TSD of transposon 5
+seq2	LTRpred	tsd	293716	293719	.	+	.	5	Right TSD of transposon 5
+seq2	LTRpred	pbs	278635	278646	.	+	.	5	Primer binding site of transposon 5

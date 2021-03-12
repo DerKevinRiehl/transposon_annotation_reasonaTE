@@ -1,0 +1,3028 @@
+
+1. EEP: Exonuclease-Endonuclease-Phosphatase (EEP) domain superfamily
+This large superfamily includes the catalytic domain (exonuclease/endonuclease/phosphatase or EEP do...
+Accession: cl00490 ID: 382041
+
+2. Exo_endo_phos: Endonuclease/Exonuclease/phosphatase family
+This large family of proteins includes magnesium dependent endonucleases and a large number of phosp...
+Accession: pfam03372 ID: 377028
+
+3. PRK05421: endonuclease/exonuclease/phosphatase family protein
+
+Accession: PRK05421 ID: 235454
+
+4. ElsH: Metal-dependent hydrolase, endonuclease/exonuclease/phosphatase family [General function prediction only]
+
+Accession: COG3568 ID: 226098
+
+5. YafD: Uncharacterized conserved protein YafD, endonuclease/exonuclease/phosphatase (EEP) superfamily [General function prediction only]
+
+Accession: COG3021 ID: 225565
+
+6. RMtype1_S_TRD-CR_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR) and similar domains
+The restriction-modification (RM) system S subunit generally consists of two variable target recogni...
+Accession: cl38903 ID: 365779
+
+7. GIY-YIG_SF: GIY-YIG nuclease domain superfamily
+The GIY-YIG nuclease domain superfamily includes a large and diverse group of proteins involved in m...
+Accession: cl15257 ID: 387588
+
+8. Cas3: CRISPR/Cas system-associated endonuclease/helicase Cas3 [Defense mechanisms]
+
+Accession: COG1203 ID: 224124
+
+9. H3TH_StructSpec-5&apos;-nucleases: H3TH domains of structure-specific 5&apos; nucleases (or flap endonuclease-1-like) involved in DNA replication, repair, and recombination
+The 5' nucleases of this superfamily are capable of both 5'-3' exonucleolytic activity and cleaving ...
+Accession: cl22433 ID: 389913
+
+10. FpgNei_N: N-terminal domain of Fpg (formamidopyrimidine-DNA glycosylase, MutM)_Nei (endonuclease VIII) base-excision repair DNA glycosylases
+DNA glycosylases maintain genome integrity by recognizing base lesions created by ionizing radiation...
+Accession: cl03119 ID: 383245
+
+11. PIN_SF: PIN (PilT N terminus) domain: Superfamily
+The PIN (PilT N terminus) domain belongs to a large nuclease superfamily, and were originally named ...
+Accession: cl28905 ID: 391943
+
+12. GIY-YIG_EndoII_Hpy188I_like: Catalytic GIY-YIG domain of coliphage T4 non-specific endonuclease II, type II restriction endonuclease R.Hpy188I, and similar proteins
+This family includes two different GIY-YIG enzymes, coliphage T4 non-specific endonuclease II (EndoI...
+Accession: cd10436 ID: 198383
+
+13. Jacalin_EEP: Jacalin-like lectin domains of putative endonucleases/exonucleases/phosphatases and related proteins
+Members of this taxonomically diverse family co-occur with metal-dependent endonucleases/exonuclease...
+Accession: cd09615 ID: 187711
+
+14. Uma2: Endonuclease, Uma2 family (restriction endonuclease fold)  [General function prediction only]
+
+Accession: COG4636 ID: 226983
+
+15. COG3780: DNA endonuclease related to intein-encoded endonucleases  [Replication, recombination and repair]
+
+Accession: COG3780 ID: 226303
+
+16. MutS2: dsDNA-specific endonuclease/ATPase MutS2 [Replication, recombination and repair]
+
+Accession: COG1193 ID: 224114
+
+17. ExoIII-like_AP-endo: Escherichia coli exonuclease III (ExoIII) and Neisseria meningitides NExo-like subfamily of the ExoIII family purinic/apyrimidinic (AP) endonucleases
+This subfamily includes Escherichia coli ExoIII, Neisseria meningitides NExo,and related proteins. T...
+Accession: cd09086 ID: 197320
+
+18. Ape2-like_AP-endo: Human Ape2-like subfamily of the ExoIII family purinic/apyrimidinic (AP) endonucleases
+This subfamily includes human APE2, Saccharomyces cerevisiae Apn2/Eth1, and related proteins. These ...
+Accession: cd09088 ID: 197322
+
+19. Ape1-like_AP-endo: Human Ape1-like subfamily of the ExoIII family apurinic/apyrimidinic (AP) endonucleases
+This subfamily includes human Ape1 (also known as Apex, Hap1, or Ref-1) and related proteins. These ...
+Accession: cd09087 ID: 197321
+
+20. Nape_like_AP-endo: Neisseria meningitides Nape-like subfamily of the ExoIII family purinic/apyrimidinic (AP) endonucleases
+This subfamily includes Neisseria meningitides Nape and related proteins. These are Escherichia coli...
+Accession: cd10281 ID: 197336
+
+21. ExoIII_AP-endo: Escherichia coli exonuclease III (ExoIII)-like apurinic/apyrimidinic (AP) endonucleases
+The ExoIII family AP endonucleases belong to the large EEP (exonuclease/endonuclease/phosphatase) su...
+Accession: cd09073 ID: 197307
+
+22. Mth212-like_AP-endo: Methanothermobacter thermautotrophicus Mth212-like subfamily of the ExoIII family purinic/apyrimidinic (AP) endonucleases
+This subfamily includes the thermophilic archaeon Methanothermobacter thermautotrophicus Mth212and r...
+Accession: cd09085 ID: 197319
+
+23. PLDc_SF: Catalytic domain of phospholipase D superfamily proteins
+Catalytic domain of phospholipase D (PLD) superfamily proteins. The PLD superfamily is composed of a...
+Accession: cl15239 ID: 387583
+
+24. L1-EN: Endonuclease domain (L1-EN) of the non-LTR retrotransposon LINE-1 (L1), and related domains
+This family contains the endonuclease domain (L1-EN) of the non-LTR retrotransposon LINE-1 (L1), and...
+Accession: cd09076 ID: 197310
+
+25. EndIII_4Fe-2S: Iron-sulfur binding domain of endonuclease III
+Escherichia coli endonuclease III (EC 4.2.99.18) is a DNA repair enzyme that acts both as a DNA N-gl...
+Accession: cl38990 ID: 393360
+
+26. EndIII_4Fe-2S: Iron-sulfur binding domain of endonuclease III
+Escherichia coli endonuclease III (EC 4.2.99.18) is a DNA repair enzyme that acts both as a DNA N-gl...
+Accession: pfam10576 ID: 378447
+
+27. GIY-YIG_SLX1: Catalytic GIY-YIG domain of yeast structure-specific endonuclease subunit SLX1 and its eukaryotic homologs
+Structure-specific endonuclease subunit SLX1 is a highly conserved protein from yeast to human, with...
+Accession: cd10455 ID: 198402
+
+28. GIY-YIG_SLX1_like: Catalytic GIY-YIG domain of yeast structure-specific endonuclease subunit SLX1 and its homologs
+Structure-specific endonuclease subunit SLX1 is a highly conserved protein from yeast to human, with...
+Accession: cd10449 ID: 198396
+
+29. GIY-YIG_HE_I-TevI_like: N-terminal catalytic domain of GIY-YIG intron endonuclease I-TevI, I-BmoI, I-BanI, I-BthII and similar proteins
+I-TevI is a site-specific GIY-YIG homing endonuclease encoded within the group I intron of the thymi...
+Accession: cd10437 ID: 198384
+
+30. GIY-YIG_RE_Eco29kI_like: Catalytic GIY-YIG domain of type II restriction endonucleases R.Eco29kI, R.Cfr42I, and similar proteins
+This family corresponds to the catalytic GIY-YIG domain of a group of GGCGCC-specific type II restri...
+Accession: cd10435 ID: 198382
+
+31. R1-I-EN: Endonuclease domain encoded by various R1- and I-clade non-long terminal repeat retrotransposons
+This family contains the endonuclease (EN) domain of various non-long terminal repeat (non-LTR) retr...
+Accession: cd09077 ID: 197311
+
+32. GIY-YIG_UPF0213: The GIY-YIG domain of uncharacterized protein family UPF0213 related to structure-specific endonuclease SLX1
+This family contains a group of uncharacterized proteins found mainly in bacteria and several in dsD...
+Accession: cd10456 ID: 198403
+
+33. H3TH_XPG-like: H3TH domains of Flap endonuclease-1 (FEN1)-like structure specific 5' nucleases: FEN1 (archaeal), GEN1, YEN1, and XPG
+The 5' nucleases within this family are capable of both 5'-3' exonucleolytic activity and cleaving b...
+Accession: cd09900 ID: 188620
+
+34. HARE-HTH: HB1, ASXL, restriction endonuclease HTH domain
+A winged helix-turn-helix domain present in the plant HB1, vertebrate ASXL, the H. pylori restrictio...
+Accession: cl01319 ID: 382485
+
+35. Endonuclease_V: Endonuclease_V, a DNA repair enzyme that initiates repair of nitrosative deaminated purine bases
+Endonuclease_V (EndoV) is an enzyme that can initiate repair of all possible deaminated DNA bases.  ...
+Accession: cl00653 ID: 382132
+
+36. endonuc_SmrA: DNA endonuclease SmrA
+YdaL is a small endonuclease with homology to the C-terminal domain found in the endonuclease MutS2,...
+Accession: NF033154 ID: 380164
+
+37. RE_BsaWI: BsaWI restriction endonuclease type 2
+Type II restriction endonucleases recognize short 4-8 bp nucleotide sequences and cleave phosphodies...
+Accession: pfam18643 ID: 376069
+
+38. HARE-HTH: HB1, ASXL, restriction endonuclease HTH domain
+A winged helix-turn-helix domain present in the plant HB1, vertebrate ASXL, the H. pylori restrictio...
+Accession: pfam05066 ID: 368272
+
+39. Endonuclease_1: Endonuclease I
+Bacterial periplasmic or secreted endonuclease I (EC:3.1.21.1) E. coli endonuclease I (EndoI) is a s...
+Accession: pfam04231 ID: 367881
+
+40. PIN_FEN-like: FEN-like PIN domains of structure-specific 5' nucleases (or Flap endonuclease-1-like) involved in DNA replication, repair, and recombination
+Structure-specific 5' nucleases are capable of both 5'-3' exonucleolytic activity and cleaving bifur...
+Accession: cd09853 ID: 350204
+
+41. grpIintron_endo: group I intron endonuclease
+This model represents one subfamily of endonucleases containing the endo/excinuclease amino terminal...
+Accession: TIGR01453 ID: 273636
+
+42. GIY-YIG_bI1_like: Catalytic GIY-YIG domain of putative intron-encoded endonuclease bI1 and similar proteins
+The prototype of this family is a putative intron-encoded mitochondrial DNA endonuclease bI1 found i...
+Accession: cd10445 ID: 198392
+
+43. GIY-YIG_PLEs: Catalytic GIY-YIG endonuclease domain of penelope-like elements and similar proteins
+This model corresponds to the EN domain of PLEs that contains catalytic module of the GIY-YIG endonu...
+Accession: cd10442 ID: 198389
+
+44. EEP-2: Exonuclease-Endonuclease-Phosphatase (EEP) domain superfamily; uncharacterized family 2
+This family of uncharacterized proteins belongs to a superfamily that includes the catalytic domain ...
+Accession: cd09084 ID: 197318
+
+45. EEP-1: Exonuclease-Endonuclease-Phosphatase domain; uncharacterized family 1
+This family of uncharacterized proteins belongs to a superfamily that includes the catalytic domain ...
+Accession: cd09083 ID: 197317
+
+46. EEP: Exonuclease-Endonuclease-Phosphatase (EEP) domain superfamily
+This large superfamily includes the catalytic domain (exonuclease/endonuclease/phosphatase or EEP do...
+Accession: cd08372 ID: 197306
+
+47. H3TH_FEN1-XPG-like: H3TH domains of Flap endonuclease-1 (FEN1)-like structure specific 5' nucleases
+The 5' nucleases within this family are capable of both 5'-3' exonucleolytic activity and cleaving b...
+Accession: cd09897 ID: 188617
+
+48. H3TH_StructSpec-5'-nucleases: H3TH domains of structure-specific 5' nucleases (or flap endonuclease-1-like) involved in DNA replication, repair, and recombination
+The 5' nucleases of this superfamily are capable of both 5'-3' exonucleolytic activity and cleaving ...
+Accession: cd00080 ID: 188616
+
+49. MvaI_BcnI: MvaI/BcnI restriction endonuclease family
+This family of proteins includes the restriction endonucleases MvaI and BcnI. These enzymes both fun...
+Accession: cl23875 ID: 390149
+
+50. RE_Alw26IDE: Type II restriction endonuclease (RE_Alw26IDE)
+Members of this entry are type II restriction endonucleases of the Alw26I/Eco31I/Esp3I family. chara...
+Accession: cl19566 ID: 388592
+
+51. Phage_endo_I: Phage endonuclease I
+The bacteriophage endonuclease I is a nuclease that is selective for the structure of the four-way H...
+Accession: cl11622 ID: 386187
+
+52. PDDEXK_5: PD-(D/E)XK endonuclease
+This family of endonucleases includes a group I intron-encoded endonuclease. This family belongs to ...
+Accession: pfam11645 ID: 371647
+
+53. Endonuc-EcoRV: Restriction endonuclease EcoRV
+Members of this family of prokaryotic restriction endonucleases recognize the double-stranded sequen...
+Accession: pfam09233 ID: 370377
+
+54. Endonuc-BglII: Restriction endonuclease BglII
+Members of this family are predominantly found in prokaryotic restriction endonuclease BglII, and ad...
+Accession: pfam09195 ID: 370355
+
+55. Endonuc-BsobI: Restriction endonuclease BsobI
+Members of this family of prokaryotic restriction endonucleases recognize the double-stranded sequen...
+Accession: pfam09194 ID: 370354
+
+56. SAE2: DNA repair protein endonuclease SAE2/CtIP C-terminus
+SAE2 is a protein involved in repairing meiotic and mitotic double-strand breaks in DNA. It has been...
+Accession: pfam08573 ID: 369965
+
+57. DDE_1: DDE superfamily endonuclease
+This family of proteins are related to pfam00665 and are probably endonucleases of the DDE superfami...
+Accession: pfam03184 ID: 367380
+
+58. LAGLIDADG_2: LAGLIDADG DNA endonuclease family
+This is a family of site-specific DNA endonucleases encoded by DNA mobile elements. Similar to pfam0...
+Accession: pfam03161 ID: 367365
+
+59. PIN_FEN1: FEN-like PIN domains of Flap endonuclease-1, a structure-specific, divalent-metal-ion dependent, 5' nuclease and homologs
+Flap endonuclease-1 (FEN1) is involved in multiple DNA metabolic pathways, including DNA replication...
+Accession: cd09867 ID: 350215
+
+60. PIN_FEN1-like: FEN-like PIN domains of Flap endonuclease-1 (FEN1)-like, structure-specific, divalent-metal-ion dependent, 5' nucleases
+PIN (PilT N terminus) domain of Flap endonuclease-1 (FEN1)-like nucleases: FEN1, Gap endonuclease 1 ...
+Accession: cd09856 ID: 350206
+
+61. PIN_FEN1_EXO1-like: FEN-like PIN domains of Flap endonuclease-1 (FEN1)-like and exonuclease-1 (EXO1)-like nucleases, structure-specific, divalent-metal-ion dependent, 5' nucleases
+PIN (PilT N terminus) domain of Flap endonuclease-1 (FEN1) and exonuclease-1 (EXO1)-like nucleases: ...
+Accession: cd00128 ID: 350200
+
+62. Endonuc-HincII: Restriction endonuclease HincII
+Members of this family of prokaryotic restriction endonucleases recognize the double-stranded sequen...
+Accession: pfam09226 ID: 312659
+
+63. RNaseZ_ZiPD-like_MBL-fold: Ribonuclease Z, E. coli 3' tRNA-processing endonuclease ZiPD and related proteins; MBL-fold metallo-hydrolase domain
+The tRNA maturase RNase Z (also known as tRNase Z or 3' tRNase) catalyzes the endonucleolytic remova...
+Accession: cd07717 ID: 293803
+
+64. DUF1780: Putative endonuclease, protein of unknown function (DUF1780)
+This is a family of uncharacterized proteins. The structure of a hypothetical protein from Pseudomon...
+Accession: pfam08682 ID: 285845
+
+65. MPP_YhcR_N: Bacillus subtilis YhcR endonuclease and related proteins, N-terminal metallophosphatase domain
+YhcR is a Bacillus subtilis sugar-nonspecific endonuclease. It cleaves endonucleolytically to yield ...
+Accession: cd07412 ID: 277357
+
+66. fen_arch: flap structure-specific endonuclease
+Endonuclease that cleaves the 5'-overhanging flap structure that is generated by displacement synthe...
+Accession: TIGR03674 ID: 274717
+
+67. BfiI_C: C-terminal domain of type IIs restriction endonuclease BfiI and similar proteins
+C-terminal domain of a novel type IIs restriction endonuclease BfiI and similar proteins. Type II re...
+Accession: cd10018 ID: 197384
+
+68. EcoRII_N: N-terminal domain of type IIE restriction endonuclease EcoRII and similar proteins
+N-terminal domain of type IIE restriction endonuclease EcoRII and similar proteins. Type II restrict...
+Accession: cd10016 ID: 197382
+
+69. PLDc_Bfil: Catalytic domain of type IIs restriction endonuclease BfiI and similar proteins
+Catalytic domain of a novel type IIs restriction endonuclease BfiI and similar proteins. Type II res...
+Accession: cd09175 ID: 197272
+
+70. PLDc_Bfil_DEXD_like: Catalytic domain of type II restriction endonucleases BfiI and NgoFVII, and uncharacterized proteins with a DEAD domain
+Catalytic domain of type II restriction endonucleases BfiI and NgoFVII, uncharacterized type III res...
+Accession: cd09117 ID: 197216
+
+71. H3TH_FEN1-Euk: H3TH domain of Flap Endonuclease-1, a structure-specific, divalent-metal-ion dependent, 5' nuclease: Eukaryotic homologs
+Members of this subgroup include the H3TH (helix-3-turn-helix) domains of eukaryotic Flap endonuclea...
+Accession: cd09907 ID: 188627
+
+72. H3TH_FEN1-Arc: H3TH domain of Flap Endonuclease-1, a structure-specific, divalent-metal-ion dependent, 5' nuclease: Archaeal homologs
+Members of this subgroup include the H3TH (helix-3-turn-helix) domains of archaeal Flap endonuclease...
+Accession: cd09903 ID: 188623
+
+73. H3TH_FEN1-like: H3TH domains of Flap endonuclease-1 (FEN1)-like structure specific 5' nucleases: FEN1 (eukaryotic) and EXO1
+The 5' nucleases within this family are capable of both 5'-3' exonucleolytic activity and cleaving b...
+Accession: cd09901 ID: 188621
+
+74. EcNei-like_N: N-terminal domain of Escherichia coli Nei/endonuclease VIII and related DNA glycosylases
+This family contains the N-terminal domain of proteobacteria Nei and related DNA glycosylases. It in...
+Accession: cd08965 ID: 176799
+
+75. Endonuclease_V: Endonuclease_V, a DNA repair enzyme that initiates repair of nitrosative deaminated purine bases
+Endonuclease_V (EndoV) is an enzyme that can initiate repair of all possible deaminated DNA bases.  ...
+Accession: cd06559 ID: 143472
+
+76. Cas9_REC: REC lobe of CRISPR-associated endonuclease Cas9
+The REC lobe of Cas9 - the CRISPR-associated endonuclease Cas9 - includes the REC1 and REC2 domains....
+Accession: cl27783 ID: 391787
+
+77. Endonuclease_7: Recombination endonuclease VII
+recombination endonuclease VII; Provisional
+Accession: cl27319 ID: 391725
+
+78. DDE_Tnp_4: DDE superfamily endonuclease
+This family of proteins are related to pfam00665 and are probably endonucleases of the DDE superfami...
+Accession: cl21562 ID: 389813
+
+79. DDE_5: DDE superfamily endonuclease
+This family of proteins are related to pfam00665 and are probably endonucleases of the DDE superfami...
+Accession: cl17874 ID: 388455
+
+80. tRNA_int_endo: tRNA intron endonuclease, catalytic C-terminal domain
+Members of this family cleave pre tRNA at the 5' and 3' splice sites to release the intron EC:3.1.27...
+Accession: cl10045 ID: 385664
+
+81. Endonuc_Holl: Endonuclease related to archaeal Holliday junction resolvase
+This domain is found in various predicted bacterial endonucleases which are distantly related to arc...
+Accession: cl01958 ID: 382779
+
+82. TnsA_like_Actin: TnsA-like heteromeric transposase endonuclease subunit
+The transposase of transposon Tn7 contains multiple subunit. Members of this family are largely rest...
+Accession: NF033179 ID: 380186
+
+83. HNH_repeat: Homing endonuclease repeat
+Homing endonucleases are found in bacteria and viruses and catalyze the hydrolysis of genomic DNA wi...
+Accession: pfam18780 ID: 380143
+
+84. BsuBI_PstI_RE_N: BsuBI/PstI restriction endonuclease HTH domain
+This family represents the C-terminus of bacterial enzymes similar to type II restriction endonuclea...
+Accession: pfam17728 ID: 379998
+
+85. Tox-REase-9: Restriction endonuclease fold toxin 9
+A predicted toxin of the restriction endonuclease fold present in bacterial polymorphic toxin system...
+Accession: pfam15650 ID: 379747
+
+86. DDE_5: DDE superfamily endonuclease
+This family of proteins are related to pfam00665 and are probably endonucleases of the DDE superfami...
+Accession: pfam13546 ID: 379252
+
+87. BpuJI_N: Restriction endonuclease BpuJI - N terminal
+BpuJI is a restriction endonuclease which recognizes the asymmetric sequence 5'-CCCGT and cuts at mu...
+Accession: pfam11564 ID: 378675
+
+88. Endonuc_Holl: Endonuclease related to archaeal Holliday junction resolvase
+This domain is found in various predicted bacterial endonucleases which are distantly related to arc...
+Accession: pfam10107 ID: 378395
+
+89. RE_Eco47II: Eco47II restriction endonuclease
+This family includes the Eco47II (which recognizes GGNCC, but the cleavage site unknown) restriction...
+Accession: pfam09553 ID: 378206
+
+90. RE_NgoPII: NgoPII restriction endonuclease
+This family includes the NgoPII (recognizes and cleaves GG^CC) restriction endonuclease.
+Accession: pfam09521 ID: 378195
+
+91. Endonuc-FokI_C: Restriction endonuclease FokI, C terminal
+Members of this family are predominantly found in prokaryotic restriction endonuclease FokI, and ado...
+Accession: pfam09254 ID: 378141
+
+92. AP_endonuc_2_N: AP endonuclease family 2 C-terminus
+This highly-conserved sequence is found at the C-terminus of several apurinic/apyrimidinic (AP) endo...
+Accession: pfam07582 ID: 377871
+
+93. BsuBI_PstI_RE: BsuBI/PstI restriction endonuclease C-terminus
+This family represents the C-terminus of bacterial enzymes similar to type II restriction endonuclea...
+Accession: pfam06616 ID: 377679
+
+94. Endonuclease_5: Endonuclease V
+Endonuclease V is specific for single-stranded DNA or for duplex DNA that contains uracil or that is...
+Accession: pfam04493 ID: 377374
+
+95. RuvC_III: RuvC endonuclease subdomain 3
+Cas9 proteins are abundant across the bacterial kingdom, but vary widely in both sequence and size. ...
+Accession: pfam18541 ID: 375967
+
+96. SH3_17: Restriction endonuclease SH3 domain
+This is an N-terminal beta-barrel domain found in the Hpy99I protomer region. Hpy99I is a type II re...
+Accession: pfam18350 ID: 375777
+
+97. His_Me_b4a2: His-Me finger endonuclease beta4-alpha2 domain
+This domain is found in Hpy991 present in Helicobacter pylori. Hpy991 is a beta-beta-alpha-Me restri...
+Accession: pfam18275 ID: 375702
+
+98. RE_AspBHI_N: Restriction endonuclease AspBHI N-terminal
+This is the N-terminal domain found in modification-dependent restriction endonuclease proteins such...
+Accession: pfam18062 ID: 375528
+
+99. Cas9_PI: PAM-interacting domain of CRISPR-associated endonuclease Cas9
+Cas9_PI is a family found at the C-terminal of bacterial type II CRISPR system Cas9 endonuclease. Th...
+Accession: pfam16595 ID: 374655
+
+100. Cas9_REC: REC lobe of CRISPR-associated endonuclease Cas9
+The REC lobe of Cas9 - the CRISPR-associated endonuclease Cas9 - includes the REC1 and REC2 domains....
+Accession: pfam16592 ID: 374653
+
+101. Tox-REase-7: Restriction endonuclease fold toxin 7
+A predicted toxin of the restriction endonuclease fold present in bacterial polymorphic toxin system...
+Accession: pfam15649 ID: 373990
+
+102. Tox-REase-5: Restriction endonuclease fold toxin 5
+A predicted toxin of the restriction endonuclease fold present in bacterial polymorphic toxin system...
+Accession: pfam15648 ID: 373989
+
+103. Tox-REase-3: Restriction endonuclease fold toxin 3
+A predicted toxin of the restriction endonuclease fold present in bacterial polymorphic toxin system...
+Accession: pfam15647 ID: 373988
+
+104. Tox-REase-2: Restriction endonuclease fold toxin 2
+A predicted toxin of the restriction endonuclease fold present in bacterial polymorphic toxin system...
+Accession: pfam15646 ID: 373987
+
+105. MvaI_BcnI: MvaI/BcnI restriction endonuclease family
+This family of proteins includes the restriction endonucleases MvaI and BcnI. These enzymes both fun...
+Accession: pfam15515 ID: 373913
+
+106. Endonuc_BglI: Restriction endonuclease BglI
+This restriction endonuclease binds DNA as a dimer. BglI recognizes and cleaves the interrupted DNA ...
+Accession: pfam14562 ID: 373131
+
+107. Exo_endo_phos_2: Endonuclease-reverse transcriptase
+This domain represents the endonuclease region of retrotransposons from a range of bacteria, archaea...
+Accession: pfam14529 ID: 373113
+
+108. RE_EcoO109I: Type II restriction endonuclease EcoO109I
+This is a family of Type II restriction endonucleases.
+Accession: pfam14511 ID: 373102
+
+109. Lactamase_B_4: tRNase Z endonuclease
+This is family of tRNase Z enzymes, that are closely related structurally to the Lactamase_B family ...
+Accession: pfam13691 ID: 372674
+
+110. DDE_Tnp_4: DDE superfamily endonuclease
+This family of proteins are related to pfam00665 and are probably endonucleases of the DDE superfami...
+Accession: pfam13359 ID: 372577
+
+111. tRNA_int_end_N2: tRNA-splicing endonuclease subunit sen54 N-term
+This is an N-terminal family of archaeal and metazoan sen54 proteins that forms one of the tRNA-spli...
+Accession: pfam12928 ID: 372391
+
+112. Toxin_YhaV: Toxin with endonuclease activity, of toxin-antitoxin system
+YhaV causes reversible bacteriostasis and is part of a toxin-antitoxin system in Escherichia coli al...
+Accession: pfam11663 ID: 371659
+
+113. RE_Alw26IDE: Type II restriction endonuclease (RE_Alw26IDE)
+Members of this entry are type II restriction endonucleases of the Alw26I/Eco31I/Esp3I family. chara...
+Accession: pfam09665 ID: 370607
+
+114. RE_TaqI: TaqI restriction endonuclease
+This family includes the TaqI (recognizes and cleaves T^CGA) restriction endonuclease.
+Accession: pfam09573 ID: 370568
+
+115. RE_ScaI: ScaI restriction endonuclease
+This family includes the ScaI (recognizes and cleaves AGT^ACT) restriction endonuclease.
+Accession: pfam09569 ID: 370567
+
+116. RE_MjaI: MjaI restriction endonuclease
+This family includes the MjaI (recognizes CTAG but cleavage site unknown) restriction endonuclease.
+Accession: pfam09568 ID: 370566
+
+117. RE_MamI: MamI restriction endonuclease
+This family includes the MamI (recognizes and cleaves GATNN^NNATC) restriction endonuclease.
+Accession: pfam09567 ID: 370565
+
+118. RE_SacI: SacI restriction endonuclease
+This family includes the SacI (recognizes and cleaves GAGCT^C) restriction endonuclease.
+Accession: pfam09566 ID: 370564
+
+119. RE_NgoFVII: NgoFVII restriction endonuclease
+This family includes the NgoFVII (recognizes GCSGC but cleavage site unknown) restriction endonuclea...
+Accession: pfam09565 ID: 370563
+
+120. RE_LlaJI: LlaJI restriction endonuclease
+This family includes the LlaJI (recognizes GACGC) restriction endonucleases.
+Accession: pfam09563 ID: 370562
+
+121. RE_LlaMI: LlaMI restriction endonuclease
+This family includes the LlaMI (recognizes and cleaves CC^NGG) restriction endonuclease.
+Accession: pfam09562 ID: 370561
+
+122. RE_HpaII: HpaII restriction endonuclease
+This family includes the HpaII (recognizes and cleaves C^CGG) restriction endonuclease.
+Accession: pfam09561 ID: 370560
+
+123. RE_HaeIII: HaeIII restriction endonuclease
+This family includes the HaeIII (recognizes and cleaves GG^CC) restriction endonuclease.
+Accession: pfam09556 ID: 370558
+
+124. RE_HaeII: HaeII restriction endonuclease
+This family includes the HaeII (recognizes and cleaves RGCGC^Y) restriction endonuclease.
+Accession: pfam09554 ID: 370557
+
+125. RE_Bpu10I: Bpu10I restriction endonuclease
+This family includes the Bpu10I (recognizes and cleaves CCTNAGC (-5/-2)) restriction endonucleases.
+Accession: pfam09549 ID: 370555
+
+126. RE_TdeIII: Type II restriction endonuclease, TdeIII
+This family includes many TdeIII restriction endonucleases that recognize and cleave at GGNCC sites....
+Accession: pfam09520 ID: 370545
+
+127. RE_HindVP: HindVP restriction endonuclease
+This family includes the HindVP (recognizes GRCGYC bu the cleavage site is unknown) restriction endo...
+Accession: pfam09519 ID: 370544
+
+128. RE_Eco29kI: Eco29kI restriction endonuclease
+This family includes the Eco29kI (recognizes and cleaves CCGC^GG ) restriction endonuclease.
+Accession: pfam09517 ID: 370543
+
+129. RE_Bsp6I: Bsp6I restriction endonuclease
+This family includes the Bsp6I (recognizes and cleaves GC^NGC) restriction endonucleases.
+Accession: pfam09504 ID: 370534
+
+130. Slx4: Slx4 endonuclease
+The Slx4 protein is a heteromeric structure-specific endonuclease found from fungi to mammals. Slx4 ...
+Accession: pfam09494 ID: 370528
+
+131. Neil1-DNA_bind: Endonuclease VIII-like 1, DNA bind
+Members of this family are predominantly found in Endonuclease VIII-like 1 and adopt a glucocorticoi...
+Accession: pfam09292 ID: 370411
+
+132. Endonuc-PvuII: Restriction endonuclease PvuII
+Members of this family are predominantly found in prokaryotic restriction endonuclease PvuII. They r...
+Accession: pfam09225 ID: 370372
+
+133. EcoRII-N: Restriction endonuclease EcoRII, N-terminal
+The N-terminal effector-binding domain of the Restriction Endonuclease EcoRII has a DNA recognition ...
+Accession: pfam09217 ID: 370368
+
+134. Endonuc-MspI: Restriction endonuclease MspI
+Members of this family of prokaryotic restriction endonucleases recognize the palindromic tetranucle...
+Accession: pfam09208 ID: 370364
+
+135. Endonuc_subdom: PI-PfuI Endonuclease subdomain
+The endonuclease subdomain, found in the prokaryotic protein ribonucleotide reductase, assumes an al...
+Accession: pfam09062 ID: 370271
+
+136. Bse634I: Cfr10I/Bse634I restriction endonuclease
+Cfr10I and Bse634I are two Type II restriction endonucleases. They exhibit a conserved tetrameric ar...
+Accession: pfam07832 ID: 369546
+
+137. Uma2: Putative restriction endonuclease
+This family consists of hypothetical proteins that are greatly expanded in cyanobacteria. The protei...
+Accession: pfam05685 ID: 368559
+
+138. zf-His_Me_endon: Zinc-binding loop region of homing endonuclease
+This domain is the short zinc-binding loops region of a number of much longer chain homing endonucle...
+Accession: pfam05551 ID: 368495
+
+139. Phage_endo_I: Phage endonuclease I
+The bacteriophage endonuclease I is a nuclease that is selective for the structure of the four-way H...
+Accession: pfam05367 ID: 368408
+
+140. Hom_end: Homing endonuclease
+Homing endonucleases are encoded by mobile DNA elements that are found inserted within host genes in...
+Accession: pfam05204 ID: 368335
+
+141. HNH: HNH endonuclease
+His-Asn-His (HNH) proteins are a very common family of small nucleic acid-binding proteins that are ...
+Accession: pfam01844 ID: 366837
+
+142. PIN_YEN1: FEN-like PIN domains of Saccharomyces cerevisiae endonuclease 1 (YEN1), Chaetomium thermophilum junction-resolving enzyme GEN1, and fungal homologs
+Fungal Endonuclease 1 (YEN1 and GEN1, GEN1 is known as YEN1 in Saccharomyces cerevisiae) is a four-w...
+Accession: cd09870 ID: 350218
+
+143. PIN_GEN1: FEN-like PIN domains of Gap Endonuclease 1, a structure-specific, divalent-metal-ion dependent, 5' nuclease and homologs
+Gap Endonuclease 1 (GEN1) is a Holliday junction resolvase reported to symmetrically cleave Holliday...
+Accession: cd09869 ID: 350217
+
+144. BTB_POZ_BTBD12_SLX4: BTB (Broad-Complex, Tramtrack and Bric a brac)/POZ (poxvirus and zinc finger) domain found in Structure-specific endonuclease subunit SLX4
+SLX4, also called BTB/POZ domain-containing protein 12 (BTBD12), is a Holliday junction resolvase su...
+Accession: cd18288 ID: 349597
+
+145. Endonuc-dimeris: T4 recombination endonuclease VII, dimerization
+Members of this family, which are predominantly found in Bacteriophage T4 recombination endonuclease...
+Accession: pfam09124 ID: 337301
+
+146. VirD1: T-DNA border endonuclease VirD1
+This family consists of several T-DNA border endonuclease VirD1 proteins which appear to be found ex...
+Accession: cl27005 ID: 331826
+
+147. DDE_3: DDE superfamily endonuclease
+This family of proteins are related to pfam00665 and are probably endonucleases of the DDE superfami...
+Accession: pfam13358 ID: 315923
+
+148. R-HINP1I: R.HinP1I restriction endonuclease
+Hinp1I is a type II restriction endonuclease, recognising and cleaving a palindromic tetranucleotide...
+Accession: pfam11463 ID: 314398
+
+149. RE_XamI: XamI restriction endonuclease
+This family includes the XamI (recognizes GTCGAC but cleavage site unknown) restriction endonuclease...
+Accession: pfam09572 ID: 312917
+
+150. RE_SinI: SinI restriction endonuclease
+This family includes the SinI (recognizes and cleaves G^GWCC) restriction endonuclease.
+Accession: pfam09570 ID: 312916
+
+151. RE_CfrBI: CfrBI restriction endonuclease
+This family includes the CfrBI (recognizes and cleaves C^CWWGG) restriction endonuclease.
+Accession: pfam09516 ID: 312876
+
+152. RE_AlwI: AlwI restriction endonuclease
+This family includes the AlwI (recognizes GGATC), Bsp6I (recognizes GC^NGC), BstNBI (recognizes GAST...
+Accession: pfam09491 ID: 312855
+
+153. Cas9-BH: Bridge helix of CRISPR-associated endonuclease Cas9
+Cas9-BH is the bridge helix between the NUC and the REC lobes of Cas9 - the CRISPR-associated endonu...
+Accession: pfam16593 ID: 293201
+
+154. ThaI: Restriction endonuclease ThaI
+This family of restriction endonucleases belongs to the PD-(D/E)XK superfamily. It cuts the recognit...
+Accession: pfam15514 ID: 292152
+
+155. RE_XcyI: XcyI restriction endonuclease
+This family includes the XcyI (recognizes and cleaves C^CCGGG) restriction endonucleases.
+Accession: pfam09571 ID: 286631
+
+156. RE_NgoBV: NgoBV restriction endonuclease
+This family includes the NgoBV (recognizes GGNNCC but cleavage site is unknown) restriction endonucl...
+Accession: pfam09564 ID: 286628
+
+157. RE_BstXI: BstXI restriction endonuclease
+This family includes the BstXI (recognizes and cleaves CCANNNNN^NTGG) restriction endonuclease.
+Accession: pfam09552 ID: 286618
+
+158. RE_AccI: AccI restriction endonuclease
+This family includes the AccI (recognizes and cleaves GT^MKAC) restriction endonuclease.
+Accession: pfam09545 ID: 286611
+
+159. RE_HindIII: HindIII restriction endonuclease
+This family includes the HindIII (recognizes and cleaves A^AGCTT) restriction endonuclease.
+Accession: pfam09518 ID: 286590
+
+160. RE_ApaLI: ApaLI-like restriction endonuclease
+This family includes R.ApaLI and R.XbaI restriction endonucleases. ApaLI recognizes and cleaves the ...
+Accession: pfam09499 ID: 286574
+
+161. VirD1: T-DNA border endonuclease VirD1
+This family consists of several T-DNA border endonuclease VirD1 proteins which appear to be found ex...
+Accession: pfam07328 ID: 284691
+
+162. NucS: Endonuclease NucS
+Endonuclease NucS cleaves both 3' and 5' ssDNA extremities of branched DNA structures and it binds t...
+Accession: pfam01939 ID: 280172
+
+163. capSnatchArena: RNA endonuclease, cap-snatching, arenavirus family
+This model describes a shared signature region from an RNA endonuclease region associated with cap-s...
+Accession: TIGR04202 ID: 275049
+
+164. cas1_MYXAN: CRISPR-associated endonuclease Cas1, subtype MYXAN
+Members of this protein are the Cas1 endonuclease, or Cas1 domain in Cas4/Cas1 fusion proteins, of t...
+Accession: TIGR03983 ID: 274899
+
+165. cas_csx12: CRISPR system subtype II-B RNA-guided endonuclease Cas9/Csx12
+Members of this family of CRISPR-associated (cas) protein are found, so far, in CRISPR/cas loci in W...
+Accession: TIGR03031 ID: 274401
+
+166. cas3_HD: CRISPR-associated endonuclease Cas3-HD
+CRISPR/Cas systems are widespread, mobile systems for host defense against invasive elements such as...
+Accession: TIGR01596 ID: 273711
+
+167. uvde: UV damage endonuclease UvdE
+All proteins in this family for which functions are known are UV dimer endonucleases that function i...
+Accession: TIGR00629 ID: 273183
+
+168. cas1: CRISPR-associated endonuclease Cas1
+This model identifies CRISPR-associated protein Cas1, the most universal CRISPR system protein. CRIS...
+Accession: TIGR00287 ID: 272998
+
+169. RNase_H_bacteria_like: RNase H is an endonuclease that cleaves the RNA strand of an RNA/DNA hybrid in a sequence non-specific manner
+This family includes bacterial ribonuclease H (RNase H) enzymes. RNases are divided into two major f...
+Accession: cd13935 ID: 260015
+
+170. Endonuclease_NS: DNA/RNA non-specific endonuclease
+A family of bacterial and eukaryotic endonucleases share the following characteristics: they act on ...
+Accession: smart00892 ID: 214889
+
+171. AP2Ec: AP endonuclease family 2
+These endonucleases play a role in DNA repair. Cleave phosphodiester bonds at apurinic or apyrimidin...
+Accession: smart00518 ID: 214707
+
+172. ENDO3c: endonuclease III
+includes endonuclease III (DNA-(apurinic or apyrimidinic site) lyase), alkylbase DNA glycosidases (A...
+Accession: smart00478 ID: 214684
+
+173. NUC: DNA/RNA non-specific endonuclease
+prokaryotic and eukaryotic double- and single-stranded DNA and RNA endonucleases also present in pho...
+Accession: smart00477 ID: 214683
+
+174. cas1_PREFRAN: CRISPR-associated endonuclease Cas1, subtype PREFRAN
+Members of this family are the Cas1 endonuclease of a novel CRISPR subtype, PREFRAN, found in Prevot...
+Accession: TIGR04329 ID: 213942
+
+175. vsr: DNA mismatch endonuclease Vsr
+All proteins in this family for which functions are known are G:T mismatch endonucleases that functi...
+Accession: TIGR00632 ID: 211591
+
+176. GIY-YIG_UvrC_Cho: Catalytic GIY-YIG domain of nucleotide excision repair endonucleases UvrC, Cho, and similar proteins
+UvrC is essential for nucleotide excision repair (NER). The N-terminal catalytic GIY-YIG domain of U...
+Accession: cd10434 ID: 198381
+
+177. PLDc_Nuc_like_unchar2: Putative catalytic domain of uncharacterized hypothetical proteins closely related to Nuc, , an endonuclease from Salmonella typhimurium
+Putative catalytic domain of uncharacterized hypothetical proteins, which show high sequence homolog...
+Accession: cd09174 ID: 197271
+
+178. PLDc_Nuc_like_unchar1_2: Putative catalytic domain, repeat 2, of uncharacterized hypothetical proteins similar to Nuc, an endonuclease from Salmonella typhimurium
+Putative catalytic domain, repeat 2,  of uncharacterized hypothetical proteins, which show high sequ...
+Accession: cd09173 ID: 197270
+
+179. PLDc_Nuc_like_unchar1_1: Putative catalytic domain, repeat 1, of uncharacterized hypothetical proteins similar to Nuc, an endonuclease from Salmonella typhimurium
+Putative catalytic domain, repeat 1, of uncharacterized hypothetical proteins, which show high seque...
+Accession: cd09172 ID: 197269
+
+180. H3TH_YEN1: H3TH domain of Yeast Endonuclease 1, a structure-specific, divalent-metal-ion dependent, 5' nuclease
+Yeast Endonuclease 1 (YEN1): Holliday junction resolvase which promotes reciprocal exchange during m...
+Accession: cd09906 ID: 188626
+
+181. H3TH_GEN1: H3TH domain of Gap Endonuclease 1, a structure-specific, divalent-metal-ion dependent, 5' nuclease
+Gap Endonuclease 1 (GEN1): Holliday junction resolvase reported to symmetrically cleave Holliday jun...
+Accession: cd09905 ID: 188625
+
+182. BaFpgNei_N_4: Uncharacterized bacterial subgroup of the N-terminal domain of Fpg (formamidopyrimidine-DNA glycosylase, MutM)_Nei  (endonuclease VIII) base-excision repair DNA glycosylases
+This family is an uncharacterized bacterial subgroup of the FpgNei_N domain superfamily. DNA glycosy...
+Accession: cd08976 ID: 176810
+
+183. BaFpgNei_N_3: Uncharacterized bacterial subgroup of the N-terminal domain of Fpg (formamidopyrimidine-DNA glycosylase, MutM)_Nei  (endonuclease VIII) base-excision repair DNA glycosylases
+This family is an uncharacterized bacterial subgroup of the FpgNei_N domain superfamily. DNA glycosy...
+Accession: cd08975 ID: 176809
+
+184. BaFpgNei_N_2: Uncharacterized bacterial subgroup of the N-terminal domain of Fpg (formamidopyrimidine-DNA glycosylase, MutM)_Nei  (endonuclease VIII) base-excision repair DNA glycosylases
+This family is an uncharacterized bacterial subgroup of the FpgNei_N domain superfamily. DNA glycosy...
+Accession: cd08974 ID: 176808
+
+185. BaFpgNei_N_1: Uncharacterized bacterial subgroup of the N-terminal domain of Fpg (formamidopyrimidine-DNA glycosylase, MutM)_Nei  (endonuclease VIII) base-excision repair DNA glycosylases
+This family is an uncharacterized bacterial subgroup of the FpgNei_N domain superfamily. DNA glycosy...
+Accession: cd08973 ID: 176807
+
+186. FpgNei_N: N-terminal domain of Fpg (formamidopyrimidine-DNA glycosylase, MutM)_Nei (endonuclease VIII) base-excision repair DNA glycosylases
+DNA glycosylases maintain genome integrity by recognizing base lesions created by ionizing radiation...
+Accession: cd08773 ID: 176798
+
+187. restrict_Alw26I: type II restriction endonuclease, Alw26I/Eco31I/Esp3I family
+Members of this family are type II restriction endonucleases of the Alw26I/Eco31I/Esp3I family. Char...
+Accession: TIGR02986 ID: 132031
+
+188. mutH_TIGR: DNA mismatch repair endonuclease MutH
+This family consists exclusively of MutH, an endonuclease in some Proteobacteria that is activated b...
+Accession: TIGR02248 ID: 131302
+
+189. Tn7_Tnp_TnsA_N: TnsA endonuclease N terminal
+The Tn7 transposase is composed of proteins TnsA and TnsB. DNA breakage at the 5' end of the transpo...
+Accession: cl21695 ID: 389871
+
+190. CPSF73-100_C: Pre-mRNA 3&apos;-end-processing endonuclease polyadenylation factor C-term
+This is the C-terminal conserved region of the pre-mRNA 3'-end-processing of the polyadenylation fac...
+Accession: cl13209 ID: 386838
+
+191. Cas9_Topo: Topo homolgy domain in CRISPR-associated endonuclease Cas9
+This is the Topo-homology domain found in Cas9 proteins from Actinobacteria. This domain bears struc...
+Accession: pfam17894 ID: 380049
+
+192. Cas9_b_hairpin: CRISPR-associated endonuclease Cas9 beta-hairpin domain
+This is beta-hairpin domain found in Cas9 proteins from Actinobacteria. The beta-hairpin domain is n...
+Accession: pfam17893 ID: 380048
+
+193. HNH_4: HNH endonuclease
+This HNH nuclease domain is found in CRISPR-related proteins.
+Accession: pfam13395 ID: 379160
+
+194. HNH_3: HNH endonuclease
+This is a zinc-binding loop of Fold group 7 as found in endo-deoxy-ribonucleases and HNH nucleases.
+Accession: pfam13392 ID: 379158
+
+195. HNH_2: HNH endonuclease
+
+Accession: pfam13391 ID: 379157
+
+196. NaeI: Restriction endonuclease NaeI
+Members of this family adopt a secondary structure consisting of nine alpha-helices, six 3-10 helice...
+Accession: pfam09126 ID: 378126
+
+197. Tn7_Tnp_TnsA_N: TnsA endonuclease N terminal
+The Tn7 transposase is composed of proteins TnsA and TnsB. DNA breakage at the 5' end of the transpo...
+Accession: pfam08722 ID: 378037
+
+198. Tn7_Tnp_TnsA_C: TnsA endonuclease C terminal
+The Tn7 transposase is composed of proteins TnsA and TnsB. DNA breakage at the 5' end of the transpo...
+Accession: pfam08721 ID: 378036
+
+199. DpnII: DpnII restriction endonuclease
+Members of this family are type II restriction enzymes (EC:3.1.21.4). They recognize the double-stra...
+Accession: pfam04556 ID: 377384
+
+200. Mrr_cat: Restriction endonuclease
+Prokaryotic family found in type II restriction enzymes containing the hallmark (D/E)-(D/E)XK active...
+Accession: pfam04471 ID: 377369
+
+201. FokI_C: Restriction endonuclease FokI, catalytic domain
+
+Accession: pfam02980 ID: 376977
+
+202. tRNA_int_endo_N: tRNA intron endonuclease, N-terminal domain
+Members of this family cleave pre tRNA at the 5' and 3' splice sites to release the intron EC:3.1.27...
+Accession: pfam02778 ID: 376927
+
+203. tRNA_int_endo: tRNA intron endonuclease, catalytic C-terminal domain
+Members of this family cleave pre tRNA at the 5' and 3' splice sites to release the intron EC:3.1.27...
+Accession: pfam01974 ID: 376694
+
+204. HNH_5: HNH endonuclease
+This domain is related to other HNH domain families such as pfam01844. Suggesting that these protein...
+Accession: pfam14279 ID: 372995
+
+205. Endonuclea_NS_2: DNA/RNA non-specific endonuclease
+
+Accession: pfam13930 ID: 372824
+
+206. HTH_Tnp_4: Helix-turn-helix of DDE superfamily endonuclease
+This domain is the probable DNA-binding region of transposase enzymes, necessary for efficient DNA t...
+Accession: pfam13613 ID: 372649
+
+207. Mrr_cat_2: Restriction endonuclease
+Prokaryotic family found in type II restriction enzymes containing the hallmark (D/E)-(D/E)XK active...
+Accession: pfam13156 ID: 372501
+
+208. NotI: Restriction endonuclease NotI
+This family of proteins is found in bacteria. Proteins in this family are typically between 270 and ...
+Accession: pfam12183 ID: 371948
+
+209. CPSF73-100_C: Pre-mRNA 3'-end-processing endonuclease polyadenylation factor C-term
+This is the C-terminal conserved region of the pre-mRNA 3'-end-processing of the polyadenylation fac...
+Accession: pfam11718 ID: 371691
+
+210. Endonuclease_7: Recombination endonuclease VII
+
+Accession: pfam02945 ID: 367266
+
+211. Endonuclease_NS: DNA/RNA non-specific endonuclease
+
+Accession: pfam01223 ID: 366523
+
+212. LAGLIDADG_1: LAGLIDADG endonuclease
+
+Accession: pfam00961 ID: 366389
+
+213. COG2810: Predicted type IV restriction endonuclease  [Defense mechanisms]
+
+Accession: cl30740 ID: 357616
+
+214. RE_R_Pab1: R.Pab1 restriction endonuclease
+
+Accession: pfam09522 ID: 337439
+
+215. EcoRI: Restriction endonuclease EcoRI
+
+Accession: pfam02963 ID: 335169
+
+216. XhoI: Restriction endonuclease XhoI
+This family consists of type II restriction enzymes (EC:3.1.21.4) that recognize the double-stranded...
+Accession: pfam04555 ID: 309617
+
+217. Vsr: DNA mismatch endonuclease Vsr
+
+Accession: pfam03852 ID: 281799
+
+218. FokI_N: Restriction endonuclease FokI, recognition domain
+
+Accession: pfam02981 ID: 281042
+
+219. BamHI: Restriction endonuclease BamHI
+
+Accession: pfam02923 ID: 280991
+
+220. cas1_CYANO: CRISPR-associated endonuclease Cas1, subtype CYANO
+The CRISPR-associated protein Cas1 is virtually universal to CRISPR systems. CRISPR, an acronym for ...
+Accession: TIGR04093 ID: 274976
+
+221. cas1_HMARI: CRISPR-associated endonuclease Cas1, subtype I-B/HMARI/TNEAP
+The CRISPR-associated protein Cas1 is virtually universal to CRISPR systems. CRISPR, an acronym for ...
+Accession: TIGR03641 ID: 274695
+
+222. cas1_NMENI: CRISPR-associated endonuclease Cas1, subtype II/NMENI
+The CRISPR-associated protein Cas1 is virtually universal to CRISPR systems. CRISPR, an acronym for ...
+Accession: TIGR03639 ID: 274694
+
+223. cas1_ECOLI: CRISPR-associated endonuclease Cas1, subtype I-E/ECOLI
+The CRISPR-associated protein Cas1 is virtually universal to CRISPR systems. CRISPR, an acronym for ...
+Accession: TIGR03638 ID: 274693
+
+224. cas_Csn1: CRISPR subtype II/NMENI RNA-guided endonuclease Cas9/Csn1
+CRISPR loci appear to be mobile elements with a wide host range. This model represents a protein fou...
+Accession: TIGR01865 ID: 273840
+
+225. cas2: CRISPR-associated endonuclease Cas2
+This model describes most members of the family of Cas2, one of the first four protein families foun...
+Accession: TIGR01573 ID: 273699
+
+226. nth: endonuclease III
+This equivalog model identifes nth members of the pfam00730 superfamily (HhH-GPD: Helix-hairpin-heli...
+Accession: TIGR01083 ID: 273434
+
+227. nfo: apurinic endonuclease (APN1)
+All proteins in this family for which functions are known are 5' AP endonculeases that are used in b...
+Accession: TIGR00587 ID: 273156
+
+228. UvdE: UV-endonuclease UvdE
+
+Accession: pfam03851 ID: 252205
+
+229. PRK15483: type III restriction-modification system endonuclease
+
+Accession: PRK15483 ID: 237972
+
+230. PRK13863: T-DNA border endonuclease VirD2
+
+Accession: PRK13863 ID: 237533
+
+231. PRK13858: T-DNA border endonuclease VirD1
+
+Accession: PRK13858 ID: 237532
+
+232. PRK04946: endonuclease SmrB
+
+Accession: PRK04946 ID: 235321
+
+233. PRK04247: endonuclease NucS
+
+Accession: PRK04247 ID: 235264
+
+234. PRK03298: endonuclease NucS
+
+Accession: PRK03298 ID: 235114
+
+235. mutL: DNA mismatch repair endonuclease MutL
+
+Accession: PRK00095 ID: 234630
+
+236. COG5377: Phage-related protein, predicted endonuclease  [Mobilome: prophages, transposons]
+
+Accession: COG5377 ID: 227668
+
+237. RAD10: Nucleotide excision repair endonuclease NEF1, RAD10 subunit [DNA replication, recombination, and repair]
+
+Accession: COG5241 ID: 227566
+
+238. CCR4: mRNA deadenylase, 3'-5' endonuclease subunit Ccr4 [RNA processing and modification]
+
+Accession: COG5239 ID: 227564
+
+239. RecB: Predicted endonuclease, RecB family  [Replication, recombination and repair]
+
+Accession: COG4998 ID: 227331
+
+240. YhcG: Predicted nuclease of restriction endonuclease-like (RecB) superfamily,  DUF1016 family [General function prediction only]
+
+Accession: COG4804 ID: 227141
+
+241. COG4741: Predicted secreted endonuclease distantly related to archaeal Holliday junction resolvase  [Nucleotide transport and metabolism]
+
+Accession: COG4741 ID: 227084
+
+242. HigB: mRNA-degrading endonuclease (mRNA interferase) HigB, toxic component of the HigAB toxin-antitoxin module [Translation, ribosomal structure and biogenesis]
+
+Accession: COG4680 ID: 227025
+
+243. RusA: Holliday junction resolvase RusA (prophage-encoded endonuclease) [Replication, recombination and repair]
+
+Accession: COG4570 ID: 226936
+
+244. Uve: UV DNA damage repair endonuclease  [Replication, recombination and repair]
+
+Accession: COG4294 ID: 226744
+
+245. McrC: 5-methylcytosine-specific restriction endonuclease McrBC, regulatory subunit McrC [Defense mechanisms]
+
+Accession: COG4268 ID: 226718
+
+246. COG4127: Predicted restriction endonuclease, Mrr-cat superfamily [General function prediction only]
+
+Accession: COG4127 ID: 226612
+
+247. HsdR: Type I site-specific restriction endonuclease, part of a restriction-modification system [Defense mechanisms]
+
+Accession: COG4096 ID: 226581
+
+248. YhcR: DNA/RNA endonuclease YhcR, contains UshA esterase domain [RNA processing and modification]
+
+Accession: COG4085 ID: 226570
+
+249. H3TH: Predicted 5' DNA nuclease, flap endonuclease-1-like, helix-3-turn-helix (H3TH) domain [Replication, recombination and repair]
+
+Accession: COG3743 ID: 226266
+
+250. Vsr: G:T-mismatch repair DNA endonuclease, very short patch repair protein [Replication, recombination and repair]
+
+Accession: COG3727 ID: 226250
+
+251. YbjD: Predicted ATP-dependent endonuclease of the OLD family, contains P-loop ATPase and TOPRIM domains [Replication, recombination and repair]
+
+Accession: COG3593 ID: 226121
+
+252. COG3587: Restriction endonuclease  [Defense mechanisms]
+
+Accession: COG3587 ID: 226115
+
+253. COG3440: Predicted restriction endonuclease  [Defense mechanisms]
+
+Accession: COG3440 ID: 225973
+
+254. COG3372: Predicted nuclease of restriction endonuclease-like (RecB) superfamily, implicated in nucleotide excision repair [General function prediction only]
+
+Accession: COG3372 ID: 225907
+
+255. COG3183: Predicted restriction endonuclease, HNH family [Defense mechanisms]
+
+Accession: COG3183 ID: 225724
+
+256. YafQ: mRNA-degrading endonuclease (mRNA interferase) YafQ, toxin component of the YafQ-DinJ toxin-antitoxin module [Translation, ribosomal structure and biogenesis]
+
+Accession: COG3041 ID: 225583
+
+257. YcjD: Very-short-patch-repair endonuclease [Replication, recombination and repair]
+
+Accession: COG2852 ID: 225408
+
+258. SmrA: DNA-nicking endonuclease, Smr domain  [Replication, recombination and repair]
+
+Accession: COG2840 ID: 225396
+
+259. YhbQ: Predicted endonuclease, GIY-YIG superfamily  [Replication, recombination and repair]
+
+Accession: COG2827 ID: 225383
+
+260. COG2810: Predicted type IV restriction endonuclease  [Defense mechanisms]
+
+Accession: COG2810 ID: 225367
+
+261. EndA: Endonuclease I [Replication, recombination and repair]
+
+Accession: COG2356 ID: 225231
+
+262. MazF: mRNA-degrading endonuclease, toxin component of the MazEF toxin-antitoxin module [Defense mechanisms]
+
+Accession: COG2337 ID: 225216
+
+263. Cas3: CRISPR/Cas system-associated endonuclease Cas3-HD [Defense mechanisms]
+
+Accession: COG2254 ID: 225163
+
+264. COG2231: Uncharacterized protein related to Endonuclease III  [General function prediction only]
+
+Accession: COG2231 ID: 225140
+
+265. RelE: mRNA-degrading endonuclease RelE, toxin component of the RelBE toxin-antitoxin system [Defense mechanisms]
+
+Accession: COG2026 ID: 224937
+
+266. NUC1: DNA/RNA endonuclease G, NUC1  [Nucleotide transport and metabolism]
+
+Accession: COG1864 ID: 224777
+
+267. COG1833: Uri superfamily endonuclease  [General function prediction only]
+
+Accession: COG1833 ID: 224746
+
+268. COG1787: Endonuclease, HJR/Mrr/RecB family [Defense mechanisms]
+
+Accession: COG1787 ID: 224701
+
+269. Mrr: Restriction endonuclease Mrr [Defense mechanisms]
+
+Accession: COG1715 ID: 224629
+
+270. SEN2: tRNA splicing endonuclease  [Translation, ribosomal structure and biogenesis]
+
+Accession: COG1676 ID: 224590
+
+271. RnmV: 5S rRNA maturation endonuclease (Ribonuclease M5), contains TOPRIM domain [Translation, ribosomal structure and biogenesis]
+
+Accession: COG1658 ID: 224572
+
+272. NucS: Endonuclease NucS, RecB family [Replication, recombination and repair]
+
+Accession: COG1637 ID: 224552
+
+273. COG1628: Endonuclease V homolog, UPF0215 family [General function prediction only]
+
+Accession: COG1628 ID: 224543
+
+274. YncB: Endonuclease YncB, thermonuclease family [Replication, recombination and repair]
+
+Accession: COG1525 ID: 224442
+
+275. Cas1: CRISPR/Cas system-associated endonuclease Cas1 [Defense mechanisms]
+
+Accession: COG1518 ID: 224435
+
+276. Nfi: Deoxyinosine 3'endonuclease (endonuclease V) [Replication, recombination and repair]
+
+Accession: COG1515 ID: 224432
+
+277. Nob1: rRNA maturation endonuclease Nob1 [Translation, ribosomal structure and biogenesis]
+
+Accession: COG1439 ID: 224356
+
+278. McrA: 5-methylcytosine-specific restriction endonuclease McrA [Defense mechanisms]
+
+Accession: COG1403 ID: 224321
+
+279. McrB: 5-methylcytosine-specific restriction endonuclease McrBC, GTP-binding regulatory subunit McrB [Defense mechanisms]
+
+Accession: COG1401 ID: 224319
+
+280. Hop: Intein/homing endonuclease [Replication, recombination and repair, Mobilome: prophages, transposons]
+
+Accession: COG1372 ID: 224291
+
+281. RuvC: Holliday junction resolvasome RuvABC endonuclease subunit [Replication, recombination and repair]
+
+Accession: COG0817 ID: 223887
+
+282. YraN: Predicted endonuclease distantly related to archaeal Holliday junction resolvase [Replication, recombination and repair]
+
+Accession: COG0792 ID: 223863
+
+283. HsdS: Restriction endonuclease S subunit [Defense mechanisms]
+
+Accession: COG0732 ID: 223804
+
+284. Nfo: Endonuclease IV [Replication, recombination and repair]
+
+Accession: COG0648 ID: 223721
+
+285. Nth: Endonuclease III [Replication, recombination and repair]
+
+Accession: COG0177 ID: 223255
+
+286. phage_rel_nuc: putative phage-type endonuclease
+Members of this protein family are found often in phage genomes and in prokaryotic genomes in unchar...
+Accession: TIGR03033 ID: 200235
+
+287. cas1_DVULG: CRISPR-associated endonuclease Cas1, subtype I-C/DVULG
+The CRISPR-associated protein Cas1 is virtually universal to CRISPR systems. CRISPR, an acronym for ...
+Accession: TIGR03640 ID: 188360
+
+288. PRK13725: tRNA(fMet)-specific endonuclease VapC
+
+Accession: PRK13725 ID: 184277
+
+289. PRK09694: CRISPR-associated helicase/endonuclease Cas3
+
+Accession: PRK09694 ID: 182031
+
+290. cas1_YPEST: CRISPR-associated endonuclease Cas1, subtype I-F/YPEST
+The CRISPR-associated protein Cas1 is virtually universal to CRISPR systems. CRISPR, an acronym for ...
+Accession: TIGR03637 ID: 132676
+
+291. metallo-hydrolase-like_MBL-fold: mainly hydrolytic enzymes and related proteins which carry out various biological functions; MBL-fold metallohydrolase domain
+Members of the MBL-fold metallohydrolase superfamily are mainly hydrolytic enzymes which carry out a...
+Accession: cl23716 ID: 390040
+
+292. RNase_H_like: Ribonuclease H-like superfamily, including RNase H, HI, HII, HIII, and RNase-like domain IV of spliceosomal protein Prp8
+Ribonuclease H (RNase H) enzymes are divided into two major families, Type 1 and Type 2, based on am...
+Accession: cl14782 ID: 387386
+
+293. Restriction_endonuclease_like
+Superfamily of nucleases including Short Patch Repair (Vsr) Endonucleases, archaeal Holliday junctio...
+Accession: cl00516 ID: 382053
+
+294. HNHc
+HNH nucleases; HNH endonuclease signature which is found in viral, prokaryotic, and eukaryotic prote...
+Accession: cl00083 ID: 381794
+
+295. PIN_Mut7-C-like: PIN domain at the C-terminus of Caenorhabditis elegans exonuclease Mut-7 and related domains
+The Mut7-C-like family of the PIN domain superfamily includes the C-terminal domain of Caenorhabditi...
+Accession: cl38923 ID: 393293
+
+296. RuvC_like: Crossover junction endodeoxyribonuclease RuvC and similar proteins
+The RuvC-like family consists of bacterial RuvC, fungal Cruciform cutting endonuclease 1 (CCE1), and...
+Accession: cl21482 ID: 389762
+
+297. BfiI_C_EcoRII_N_B3: DNA binding domains of BfiI, EcoRII and plant B3 proteins
+This family contains the N-terminal DNA binding domain of type IIE restriction endonuclease EcoRII-l...
+Accession: cl15242 ID: 387584
+
+298. DEAD-like_helicase_N: N-terminal helicase domain of the DEAD-box helicase superfamily
+The DEAD-like helicase superfamily is a diverse family of proteins involved in ATP-dependent RNA or ...
+Accession: cl28899 ID: 391939
+
+299. AP2Ec
+AP endonuclease family 2; These endonucleases play a role in DNA repair. Cleave phosphodiester bonds...
+Accession: cl23721 ID: 390045
+
+300. GIY-YIG_SegABCDEFG: N-terminal catalytic GIY-YIG domain of bacteriophage T4 segABCDEFG gene encoding proteins
+The prototypes of Seg family are proteins SegA, B, C, D, E, F, and G encoded by five seg genes segA,...
+Accession: cd10444 ID: 198391
+
+301. ENDO3c
+endonuclease III; includes endonuclease III (DNA-(apurinic or apyrimidinic site) lyase), alkylbase D...
+Accession: cl23768 ID: 390075
+
+302. rve: Integrase core domain
+Integrase mediates integration of a DNA copy of the viral genome into the host chromosome. Integrase...
+Accession: cl21549 ID: 389805
+
+303. NUC
+DNA/RNA non-specific endonuclease; prokaryotic and eukaryotic double- and single-stranded DNA and RN...
+Accession: cl00089 ID: 381798
+
+304. Vsr
+Very Short Patch Repair (Vsr) Endonuclease. Endonucleases in DNA repair that recognize damaged DNA a...
+Accession: cd00221 ID: 238136
+
+305. GIY-YIG_RE_Eco29kI_NgoMIII: Catalytic GIY-YIG domain of type II restriction enzyme R.Eco29kI, R.NgoMIII, and similar proteins
+This family corresponds to the catalytic GIY-YIG domain of GGCGCC-specific type II restriction endon...
+Accession: cd10452 ID: 198399
+
+306. GIY-YIG_LuxR_like: GIY-YIG domain of LuxR and ArsR family transcriptional regulators, and uncharacterized hypothetical proteins found in bacteria
+The family includes some bacterial LuxR and ArsR family transcriptional regulators.  The a C-termina...
+Accession: cd10451 ID: 198398
+
+307. PLDc_RE_NgoFVII: Putative catalytic domain of type II restriction enzyme NgoFVII and similar proteins
+Putative catalytic domain of type II restriction enzyme NgoFVII (EC 3.1.21.4), which shows high sequ...
+Accession: cd09177 ID: 197274
+
+308. Cas13b: Class 2 type VI-B CRISPR-associated RNA-guided ribonuclease Cas13b
+CRISPR-Cas (clustered regularly interspaced short palindromic repeats and CRISPR-associated proteins...
+Accession: cl40426 ID: 394796
+
+309. ERCC4: ERCC4 domain
+This domain is a family of nucleases. The family includes EME1 which is an essential component of a ...
+Accession: cl29420 ID: 392083
+
+310. UBA_like_SF: UBA domain-like superfamily
+The ubiquitin-associated (UBA) domain-like superfamily contains alpha-helical structural homology ub...
+Accession: cl21463 ID: 389751
+
+311. MPP_superfamily: metallophosphatase superfamily, metallophosphatase domain
+Metallophosphatases (MPPs), also known as metallophosphoesterases, phosphodiesterases (PDEs), binucl...
+Accession: cl13995 ID: 387346
+
+312. Cas1_I-II-III: CRISPR/Cas system-associated protein Cas1
+CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) and associated Cas proteins compr...
+Accession: cl00656 ID: 382134
+
+313. GIY-YIG: GIY-YIG catalytic domain
+This domain called GIY-YIG is found in the amino terminal region of excinuclease abc subunit c (uvrC...
+Accession: pfam01541 ID: 366699
+
+314. DEXHc_Hef: DEXH-box helicase domain of Hef
+Hef (helicase-associated endonuclease fork-structure) belongs to the XPF/MUS81/FANCM family of endon...
+Accession: cd18035 ID: 350793
+
+315. PIN_Swt1-like: VapC-like PIN domain of Saccharomyces cerevisiae Swt1p, human SWT1 and related proteins
+Saccharomyces cerevisiae mRNA-processing endoribonuclease Swt1p plays an important role in quality c...
+Accession: cd18727 ID: 350294
+
+316. PIN_T4-like: FEN-like PIN domains of bacteriophage T3, T4 RNase H, T5-5'nuclease, and homologs
+PIN (PilT N terminus) domain of bacteriophage T5-5'nuclease (5'-3' exonuclease or T5FEN), bacterioph...
+Accession: cd09860 ID: 350210
+
+317. PIN_53EXO-like: FEN-like PIN domains of the 5'-3' exonucleases of DNA polymerase I, bacteriophage T4 RNase H and T5-5' nucleases, and homologs
+PIN (PilT N terminus) domains of the 5'-3' exonucleases (53EXO) of multi-domain DNA polymerase I and...
+Accession: cd00008 ID: 350199
+
+318. Restriction_endonuclease_like
+Superfamily of nucleases including Short Patch Repair (Vsr) Endonucleases, archaeal Holliday junctio...
+Accession: cd01037 ID: 238508
+
+319. GIY-YIG_Cterm
+GIYX(10-11)YIG family of class I homing endonucleases C-terminus (GIY-YIG_Cterm). Homing endonucleas...
+Accession: cd00283 ID: 238175
+
+320. GIY-YIG_RE_Cfr42I: Catalytic GIY-YIG domain of type II restriction enzyme R.Cfr42I and similar proteins
+This family corresponds to the catalytic GIY-YIG domain of GGCGCC-specific type II restriction endon...
+Accession: cd10453 ID: 198400
+
+321. GIY-YIG_HE_Tlr8p_PBC-V_like: GIY-YIG domain of uncharacterized hypothetical protein found in phycodnavirus PBCV-1 DNA virus, T. thermophila Tlr element eoncoding protein Tlr8p, and similar proteins found in bacteria
+The family includes a group of diverse uncharacterized hypothetical proteins with a GIY-YIG domain t...
+Accession: cd10443 ID: 198390
+
+322. GIY-YIG_SF: GIY-YIG nuclease domain superfamily
+The GIY-YIG nuclease domain superfamily includes a large and diverse group of proteins involved in m...
+Accession: cd00719 ID: 198380
+
+323. BfiI_C_EcoRII_N_B3: DNA binding domains of BfiI, EcoRII and plant B3 proteins
+This family contains the N-terminal DNA binding domain of type IIE restriction endonuclease EcoRII-l...
+Accession: cd10015 ID: 197381
+
+324. H3TH_T4-like: H3TH domain of bacteriophage T3, T4 RNase H, T5-5' nucleases, and homologs
+H3TH (helix-3-turn-helix) domains of bacteriophage T5-5'nuclease (5'-3' exonuclease or T5FEN), bacte...
+Accession: cd09899 ID: 188619
+
+325. Beta-Casp: Beta-Casp domain
+The beta-CASP domain is found C terminal to the beta-lactamase domain in pre-mRNA 3'-end-processing ...
+Accession: cl29139 ID: 392003
+
+326. Agro_virD5: Agrobacterium VirD5 protein
+The virD operon in Agrobacterium encodes a site-specific endonuclease, and a number of other poorly ...
+Accession: cl27990 ID: 391805
+
+327. Pyocin_S: S-type Pyocin
+This family represents a conserved region approximately 180 residues long within bacterial S-type py...
+Accession: cl24020 ID: 390238
+
+328. Hint
+Hedgehog/Intein domain, found in Hedgehog proteins as well as proteins which contain inteins and und...
+Accession: cl22434 ID: 389914
+
+329. RING_Ubox: The superfamily of RING finger (Really Interesting New Gene) domain and U-box domain
+RING finger is a specialized type of Zn-finger of 40 to 60 residues that binds two atoms of zinc. It...
+Accession: cl17238 ID: 388418
+
+330. PH-like: Pleckstrin homology-like domain
+The PH-like family includes the PH domain, both the Shc-like and IRS-like PTB domains, the ran-bindi...
+Accession: cl17171 ID: 388408
+
+331. NBD_sugar-kinase_HSP70_actin: Nucleotide-Binding Domain of the sugar kinase/HSP70/actin superfamily
+This superfamily includes the actin family, the HSP70 family of molecular chaperones and nucleotide ...
+Accession: cl17037 ID: 388382
+
+332. CE4_SF: Catalytic NodB homology domain of the carbohydrate esterase 4 superfamily
+The carbohydrate esterase 4 (CE4) superfamily mainly includes chitin deacetylases (EC 3.5.1.41), bac...
+Accession: cl15692 ID: 387662
+
+333. FinO_conjug_rep
+FinO bacterial conjugation repressor domain;  the basic protein FinO is part of the the two componen...
+Accession: cl15270 ID: 387592
+
+334. NurA: NurA domain
+This family includes NurA a nuclease exhibiting both single-stranded endonuclease activity and 5'-3'...
+Accession: cl09134 ID: 385419
+
+335. Cas2_I-E: CRISPR/Cas system-associated protein Cas2
+CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) and associated Cas proteins compr...
+Accession: cl08187 ID: 385298
+
+336. HIRAN: HIRAN domain
+The HIRAN domain (HIP116, Rad5p N-terminal) is found in the N-terminal regions of the SWI2/SNF2 prot...
+Accession: cl07418 ID: 385006
+
+337. RNase_H2-C: Ribonuclease H2-C is a subunit of the eukaryotic RNase H complex which cleaves RNA-DNA hybrids
+Ribonuclease H2C is one of the three protein of eukaryotic RNase H2 complex that is required for nuc...
+Accession: cl07291 ID: 384931
+
+338. Rad10: Binding domain of DNA repair protein Ercc1 (rad10/Swi10)
+Ercc1 and XPF (xeroderma pigmentosum group F-complementing protein) are two structure-specific endon...
+Accession: cl04283 ID: 383660
+
+339. Jacalin_like: Jacalin-like lectin domain
+Jacalin-like lectins are sugar-binding protein domains mostly found in plants. They adopt a beta-pri...
+Accession: cl03205 ID: 383277
+
+340. TopoII_MutL_Trans
+MutL_Trans: transducer domain, having a ribosomal S5 domain 2-like fold, conserved in the C-terminal...
+Accession: cl02783 ID: 383123
+
+341. RNase_A
+RNase A family, or Pancreatic RNases family; includes vertebrate RNase homologs to the bovine pancre...
+Accession: cl00128 ID: 381816
+
+342. MBD
+MeCP2, MBD1, MBD2, MBD3, MBD4, CLLD8-like, and BAZ2A-like proteins constitute a family of proteins t...
+Accession: cl00110 ID: 381808
+
+343. DUF1524: Protein of unknown function (DUF1524)
+This family of uncharacterized proteins contain a conserved HXXP motif. A similar motif is seen in p...
+Accession: pfam07510 ID: 377857
+
+344. DUF123: Domain of unknown function DUF123
+This archaebacterial domain has no known function. It is attached to an endonuclease domain in Metha...
+Accession: pfam01986 ID: 376703
+
+345. HP0268: HP0268
+HP0268 is a small, characterized protein that is conserved in H. pylori strains and consists of 80 a...
+Accession: pfam18618 ID: 376044
+
+346. Sen15: Sen15 protein
+The Sen15 subunit of the tRNA intron-splicing endonuclease is one of the two structural subunits of ...
+Accession: pfam09631 ID: 370590
+
+347. EcoRII-C: EcoRII C terminal
+The C-terminal catalytic domain of the Restriction Endonuclease EcoRII has a restriction endonucleas...
+Accession: pfam09019 ID: 370247
+
+348. PH_TFIIH: TFIIH p62 subunit, N-terminal domain
+The N-terminal domain of the TFIIH basal transcription factor complex p62 subunit (BTF2-p62) forms a...
+Accession: pfam08567 ID: 369959
+
+349. NUMOD3: NUMOD3 motif (2 copies)
+NUMOD3 is a DNA-binding motif found in homing endonucleases and related proteins. It occurs on its o...
+Accession: pfam07460 ID: 369374
+
+350. Hom_end_hint: Hom_end-associated Hint
+Homing endonucleases are encoded by mobile DNA elements that are found inserted within host genes in...
+Accession: pfam05203 ID: 368334
+
+351. RuvC: Crossover junction endodeoxyribonuclease RuvC
+This entry includes endodeoxyribonucleases found in bacteria, such as RuvC. RuvC is a small protein ...
+Accession: pfam02075 ID: 366907
+
+352. DEAD-like_helicase_C: C-terminal helicase domain of the DEAD-like helicases
+This hierarchy of DEAD-like helicases is composed of two superfamilies, SF1 and SF2, that share almo...
+Accession: cl38915 ID: 365791
+
+353. AlkD_like: A new structural DNA glycosylase
+This domain represents a new and uncharacterized structural superfamily of DNA glycosylases that for...
+Accession: cl11434 ID: 353252
+
+354. NDPk
+Nucleoside diphosphate kinases (NDP kinases, NDPks): NDP kinases, responsible for the synthesis of n...
+Accession: cl00335 ID: 351036
+
+355. PIN_Mut7-C-like: Mut7-C-like family of the PIN domain superfamily similar to the PIN domain found at the C-terminus of Caenorhabditis elegans exonuclease Mut-7 and related proteins
+This Mut7-C-like subgroup of the PIN domain superfamily includes the C-terminal domain of Caenorhabd...
+Accession: cd18772 ID: 350854
+
+356. PIN_Mut7-C-like: uncharacterized subgroup of the Mut7-C-like family of the PIN domain superfamily
+The Mut7-C-like family of the PIN domain superfamily includes the C-terminal domain of Caenorhabditi...
+Accession: cd18771 ID: 350853
+
+357. PIN_Mut7-C-like: uncharacterized subgroup of the Mut7-C-like family of the PIN domain superfamily
+The Mut7-C-like family of the PIN domain superfamily includes the C-terminal domain of Caenorhabditi...
+Accession: cd18770 ID: 350852
+
+358. PIN_Mut7-C-like: uncharacterized subgroup of the Mut7-C-like family of the PIN domain superfamily
+The Mut7-C-like family of the PIN domain superfamily includes the C-terminal domain of Caenorhabditi...
+Accession: cd18769 ID: 350851
+
+359. PIN_Mut7-C-like: PIN domain at the C-terminus of Caenorhabditis elegans exonuclease Mut-7 and related domains
+The Mut7-C-like family of the PIN domain superfamily includes the C-terminal domain of Caenorhabditi...
+Accession: cd18670 ID: 350850
+
+360. PIN_Smg6-like: VapC-like PIN domain of human telomerase-binding protein EST1, Smg6, and other similar eukaryotic homologs
+Nonsense-mediated decay (NMD) factors, Smg5 and Smg6 are essential to the post-transcriptional regul...
+Accession: cd09885 ID: 350233
+
+361. PIN_Smg5-like: VapC-like PIN domain of human nonsense-mediated decay factor Smg5, and other similar eukaryotic homologs
+Nonsense-mediated decay (NMD) factors, Smg5 and Smg6 are essential to the post-transcriptional regul...
+Accession: cd09884 ID: 350232
+
+362. PIN_Smg5-6-like: VapC-like PIN domain of nonsense-mediated decay (NMD) factors, Smg5 and Smg6, and related proteins
+PIN (PilT N terminus) domain of nonsense-mediated decay (NMD) factors, Smg5 and Smg6, and homologs a...
+Accession: cd09880 ID: 350228
+
+363. PIN_Rrp44-like: VapC-like PIN domain of yeast exosome subunit Rrp44 endoribonuclease and other eukaryotic homologs
+PIN (PilT N terminus) domain of the Saccharomyces cerevisiae exosome subunit Rrp44 (Ribosomal RNA-pr...
+Accession: cd09862 ID: 350211
+
+364. PIN_SF: PIN (PilT N terminus) domain: Superfamily
+The PIN (PilT N terminus) domain belongs to a large nuclease superfamily, and were originally named ...
+Accession: cd09852 ID: 350203
+
+365. SF2_C_FANCM_Hef: C-terminal helicase domain of Fanconi anemia group M family helicases
+Fanconi anemia group M (FANCM) protein is a DNA-dependent ATPase component of the Fanconi anemia (FA...
+Accession: cd18801 ID: 350188
+
+366. CCE1: fungal mitochondrial Holliday junction resolvases similar to Saccharomyces cerevisiae CCE1
+Saccharomyces cerevisiae Cruciform cutting endonuclease 1 (CCE1) is a Holliday junction resolvase sp...
+Accession: cd16963 ID: 340814
+
+367. RuvC_like: Crossover junction endodeoxyribonuclease RuvC and similar proteins
+The RuvC-like family consists of bacterial RuvC, fungal Cruciform cutting endonuclease 1 (CCE1), and...
+Accession: cd00529 ID: 340812
+
+368. RNaseZ_MBL-fold: Ribonuclease Z; MBL-fold metallo-hydrolase domain
+The tRNA maturase RNase Z (also known as tRNase Z or 3' tRNase) catalyzes the endonucleolytic remova...
+Accession: cd16272 ID: 293830
+
+369. metallo-hydrolase-like_MBL-fold: mainly hydrolytic enzymes and related proteins which carry out various biological functions; MBL-fold metallohydrolase domain
+Members of the MBL-fold metallohydrolase superfamily are mainly hydrolytic enzymes which carry out a...
+Accession: cd06262 ID: 293792
+
+370. RNase_Z: ribonuclease Z
+Processing of the 3-prime end of tRNA precursors may be the result of endonuclease or exonuclease ac...
+Accession: TIGR02651 ID: 274246
+
+371. rad2: DNA excision repair protein (rad2)
+All proteins in this family for which functions are known are flap endonucleases that generate the 3...
+Accession: TIGR00600 ID: 273166
+
+372. MutH_Sau3AI
+MutH is a 28kD endonuclease involved in methyl-directed DNA mismatch repair in gram negative bacteri...
+Accession: cd00583 ID: 238326
+
+373. archeal_HJR
+Holliday junction resolvases (HJRs) are endonucleases that specifically resolve Holliday junction DN...
+Accession: cd00523 ID: 238289
+
+374. NUC
+DNA/RNA non-specific endonuclease; prokaryotic and eukaryotic double- and single-stranded DNA and RN...
+Accession: cd00091 ID: 238043
+
+375. HNHc
+HNH nucleases; HNH endonuclease signature which is found in viral, prokaryotic, and eukaryotic prote...
+Accession: cd00085 ID: 238038
+
+376. ENDO3c
+endonuclease III; includes endonuclease III (DNA-(apurinic or apyrimidinic site) lyase), alkylbase D...
+Accession: cd00056 ID: 238013
+
+377. AP2Ec
+AP endonuclease family 2; These endonucleases play a role in DNA repair. Cleave phosphodiester bonds...
+Accession: cd00019 ID: 237986
+
+378. Fapy_DNA_glyco: Formamidopyrimidine-DNA glycosylase N-terminal domain
+This entry represents the catalytic domain of DNA glycosylase/AP lyase enzymes, which are involved i...
+Accession: smart00898 ID: 214895
+
+379. ERCC4: ERCC4 domain
+This entry represents a structural motif found in several DNA repair nucleases, such as Rad1/Mus81/X...
+Accession: smart00891 ID: 214888
+
+380. CE4_SpPgdA_BsYjeA_like: Catalytic NodB homology domain of Streptococcus pneumoniae peptidoglycan deacetylase PgdA, Bacillus subtilis BsYjeA protein, and their bacterial homologs
+This family is represented by Streptococcus pneumoniae peptidoglycan GlcNAc deacetylase (SpPgdA), a ...
+Accession: cd10947 ID: 200571
+
+381. GIY-YIG_NifU: GIY-YIG domain found in iron-sulfur cluster assembly proteins
+This family includes a group of uncharacterized iron-sulfur cluster assembly proteins that transient...
+Accession: cd10458 ID: 198405
+
+382. GIY-YIG_AtGrxS16: GIY-YIG domain found in CAXIP1-like proteins
+The family includes CAX-interacting protein-1 (CXIP1)-like proteins which contain a GIY-YIG domain t...
+Accession: cd10457 ID: 198404
+
+383. GIY-YIG_AtGrxS16_like: GIY-YIG domain found in CAXIP1-like proteins, iron-sulfur cluster assembly proteins, and similar proteins
+The family includes CAX-interacting protein-1 (CXIP1)-like proteins and iron-sulfur cluster assembly...
+Accession: cd10450 ID: 198397
+
+384. GIY-YIG_unchar_3: GIY-YIG domain of uncharacterized hypothetical protein found in bacteria
+The family includes a group of uncharacterized bacterial proteins with a GIY-YIG domain that shows s...
+Accession: cd10448 ID: 198395
+
+385. GIY-YIG_unchar_2: GIY-YIG domain of uncharacterized hypothetical protein found in bacteria and archaea
+The family includes a group of uncharacterized hypothetical proteins, mainly found in bacteria and a...
+Accession: cd10447 ID: 198394
+
+386. GIY-YIG_unchar_1: GIY-YIG domain of uncharacterized hypothetical protein found in bacteria
+The family includes a group of uncharacterized bacterial hypothetical proteins with a GIY-YIG domain...
+Accession: cd10446 ID: 198393
+
+387. DNase1: Deoxyribonuclease 1
+Deoxyribonuclease 1 (DNase1, EC 3.1.21.1), also known as DNase I, is a Ca2+, Mg2+/Mn2+-dependent sec...
+Accession: cd10282 ID: 197337
+
+388. DNase1-like: Deoxyribonuclease 1 and related proteins
+This family includes Deoxyribonuclease 1 (DNase1, EC 3.1.21.1) and related proteins. DNase1, also kn...
+Accession: cd09075 ID: 197309
+
+389. ndk
+mulitfunctional nucleoside diphosphate kinase/apyrimidinic endonuclease/3'-; Validated
+Accession: PRK00668 ID: 179085
+
+390. PF_Nei_N: N-terminal domain of the plant and fungal Nei and related proteins
+This family contains the N-terminal domain of plant and Fungi Nei and related proteins. It belongs t...
+Accession: cd08972 ID: 176806
+
+391. AcNei2_N: N-terminal domain of the actinomycetal Nei2 and related DNA glycosylases
+This family contains the N-terminal domain of the actinomycetal Nei2 and related DNA glycosylases. I...
+Accession: cd08971 ID: 176805
+
+392. AcNei1_N: N-terminal domain of the actinomycetal Nei1 and related DNA glycosylases
+This family contains the N-terminal domain of the actinomycetal Nei1 and related DNA glycosylases. I...
+Accession: cd08970 ID: 176804
+
+393. MeNeil3_N: N-terminal domain of metazoan Nei-like glycosylase 3 (NEIL3)
+This family contains the N-terminal domain of the Metazoan Neil3. It belongs to the FpgNei_N, [N-ter...
+Accession: cd08969 ID: 176803
+
+394. MeNeil2_N: N-terminal domain of metazoan Nei-like glycosylase 2 (NEIL2)
+This family contains the N-terminal domain of the metazoan protein Neil2. It belongs to the FpgNei_N...
+Accession: cd08968 ID: 176802
+
+395. MeNeil1_N: N-terminal domain of metazoan Nei-like glycosylase 1 (NEIL1)
+This family contains the N-terminal domain of metazoan NEIL1. It belongs to the FpgNei_N, [N-termina...
+Accession: cd08967 ID: 176801
+
+396. EcFpg-like_N: N-terminal domain of Escherichia coli Fpg1/MutM and related bacterial DNA glycosylases
+This family contains the N-terminal domain of Escherichia coli Fpg1/MutM and related bacterial DNA g...
+Accession: cd08966 ID: 176800
+
+397. RestrictionSfiI: Type II restriction enzyme SfiI
+SfiI is a restriction enzyme that can cleave two DNA sites simultaneously to leave 3-base 3' overhan...
+Accession: cl39047 ID: 393417
+
+398. RuvC_1: RuvC nuclease domain
+This is a RuvC nuclease domain found in type V CRISPR-associated protein Cas12a (Cpf1), used for gen...
+Accession: cl39027 ID: 393397
+
+399. P-loop_NTPase: P-loop containing Nucleoside Triphosphate Hydrolases
+Members of the P-loop NTPase domain superfamily are characterized by a conserved nucleotide phosphat...
+Accession: cl38936 ID: 393306
+
+400. KilA-N: KilA-N domain
+The amino-terminal module of the D6R/N1R proteins defines a novel, conserved DNA-binding domain (the...
+Accession: cl29320 ID: 392051
+
+401. Ubiquitin_like_fold: Beta-grasp ubiquitin-like fold
+Ubiquitin is a protein modifier that is involved in various cellular processes including transcripti...
+Accession: cl28922 ID: 391949
+
+402. DUF302_like: Domains similar to DUF302 and the N-terminal domains found in some bacterial RNAses
+DUF302 is an uncharacterized domain with widespread phylogenetic distribution. It appears homologous...
+Accession: cl21600 ID: 389834
+
+403. HDc
+Metal dependent phosphohydrolases with conserved 'HD' motif
+Accession: cl21469 ID: 389754
+
+404. bZIP: Basic leucine zipper (bZIP) domain of bZIP transcription factors: a DNA-binding and dimerization domain
+Basic leucine zipper (bZIP) factors comprise one of the most important classes of enhancer-type tran...
+Accession: cl21462 ID: 389750
+
+405. Phage_term_smal: Phage small terminase subunit
+This family consists of several phage small terminase subunit proteins as well as some related bacte...
+Accession: cl19614 ID: 388601
+
+406. RraB: Regulator of ribonuclease activity B
+This family of proteins regulate mRNA abundance by binding to RNaseE and inhibiting its endonucleoly...
+Accession: cl19506 ID: 388577
+
+407. CDI_toxin_Bp1026b_like: Mg-dependent tRNAse of the contact-dependent growth inhibition (CDI) system of Burkholderia pseudomallei 1026b, and related proteins
+CDI toxins are expressed by gram-negative bacteria as part of a mechanism to inhibit the growth of n...
+Accession: cl19108 ID: 388511
+
+408. RNase_H2-B: Ribonuclease H2-B is a subunit of the eukaryotic RNase H complex which cleaves RNA-DNA hybrids
+Ribonuclease H2B is one of the three proteins of eukaryotic RNase H2 complex that is required for nu...
+Accession: cl18968 ID: 388500
+
+409. Adenylation_DNA_ligase_like: Adenylation domain of proteins similar to ATP-dependent polynucleotide ligases
+ATP-dependent polynucleotide ligases catalyze the phosphodiester bond formation of nicked nucleic ac...
+Accession: cl12015 ID: 386245
+
+410. Cas6-I-III: CRISPR/Cas system-associated RAMP superfamily protein Cas6
+CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) and associated Cas proteins compr...
+Accession: cl11443 ID: 386115
+
+411. RPA_2b-aaRSs_OBF_like: Replication protein A, class 2b aminoacyl-tRNA synthetases, and related proteins with oligonucleotide/oligosaccharide (OB) fold
+This superfamily includes two oligonucleotide/oligosaccharide binding fold (OBF) domain families. On...
+Accession: cl09930 ID: 385638
+
+412. LAGLIDADG_3: LAGLIDADG-like domain
+This domain is part of the LAGLIDADG superfamily.
+Accession: cl08299 ID: 385323
+
+413. XisI-like: XisI is FdxN element excision controlling factor protein
+This family contains XisI proteins, also known as FdxN element excision controlling factors, and sim...
+Accession: cl07462 ID: 385037
+
+414. Col_Im_like: inhibitory immunity (Im) protein of colicin (Col) deoxyribonuclease (DNase) and pyocins
+This family contains inhibitory immunity (Im) proteins that bind to colicin endonucleases (DNases) o...
+Accession: cl03164 ID: 383264
+
+415. Translation_factor_III: Domain III of Elongation factor (EF) Tu (EF-TU) and related proteins
+Elongation factor (EF) EF-Tu participates in the elongation phase during protein biosynthesis on the...
+Accession: cl02786 ID: 383125
+
+416. SAD_SRA: SAD/SRA domain
+The domain goes by several names including SAD, SRA and YDG. It adopts a beta barrel, modified PUA-l...
+Accession: cl02620 ID: 383055
+
+417. Smr: Smr domain
+This family includes the Smr (Small MutS Related) proteins, and the C-terminal region of the MutS2 p...
+Accession: cl02619 ID: 383054
+
+418. DUF820
+Domain of unknown function (DUF820). This family consists of hypothetical proteins that are greatly ...
+Accession: cl01898 ID: 382760
+
+419. RusA: Endodeoxyribonuclease RusA
+This family consists of several bacterial and phage Holliday junction resolvase (RusA) like proteins...
+Accession: cl01885 ID: 382751
+
+420. RecU: Recombination protein U
+The Bacillus protein has been shown to be required for DNA recombination and repair. RJD 11/20/00 [D...
+Accession: cl01314 ID: 382481
+
+421. Cas7_I-C: CRISPR/Cas system-associated RAMP superfamily protein Cas7
+CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) and associated Cas proteins compr...
+Accession: cl00803 ID: 382212
+
+422. Cas4_I-A_I-B_I-C_I-D_II-B: CRISPR/Cas system-associated protein Cas4
+CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) and associated Cas proteins compr...
+Accession: cl00641 ID: 382125
+
+423. RraA-like: Aldolase/RraA
+Members of this family include regulator of ribonuclease E activity A (RraA) and 4-hydroxy-4-methyl-...
+Accession: cl00480 ID: 382035
+
+424. PAZ
+PAZ domain, named PAZ after the proteins Piwi Argonaut and Zwille. PAZ is found in two families of p...
+Accession: cl00301 ID: 381930
+
+425. RIBOc
+RIBOc. Ribonuclease III C terminal domain. This group consists of eukaryotic, bacterial and archeal ...
+Accession: cl00258 ID: 381906
+
+426. microbial_RNases
+microbial_RNases. Ribonucleases (RNAses) cleave phosphodiester bonds in RNA and are essential  for b...
+Accession: cl00212 ID: 381865
+
+427. HATPase: Histidine kinase-like ATPase domain
+This superfamily includes the histidine kinase-like ATPase (HATPase) domains of several ATP-binding ...
+Accession: cl00075 ID: 381791
+
+428. Pot1C: Protection Of Telomeres Protein 1 (POT1) C-terminal region
+POT1 is part of shelterin, a hexameric nucleoprotein complex (comprising TRF1, TRF2, TIN2, RAP1, POT...
+Accession: cd20374 ID: 380669
+
+429. Cas13b_Bz-like: Class 2 type VI-B CRISPR-associated RNA-guided ribonuclease Cas13b from Bergeyella zoohelcum and similar Cas13b proteins
+CRISPR-Cas (clustered regularly interspaced short palindromic repeats and CRISPR-associated proteins...
+Accession: cd20478 ID: 380476
+
+430. Cas13b_Pb-like: Class 2 type VI-B CRISPR-associated RNA-guided ribonuclease Cas13b from Prevotella buccae and similar Cas13b proteins
+CRISPR-Cas (clustered regularly interspaced short palindromic repeats and CRISPR-associated proteins...
+Accession: cd20477 ID: 380475
+
+431. Cas13b: Class 2 type VI-B CRISPR-associated RNA-guided ribonuclease Cas13b
+CRISPR-Cas (clustered regularly interspaced short palindromic repeats and CRISPR-associated proteins...
+Accession: cd20334 ID: 380474
+
+432. pPIWI_RE_REase: REase associating with pPIWI_RE
+Restriction endonuclease (REase) domain family, found in a conserved three-gene island that also con...
+Accession: pfam18154 ID: 380126
+
+433. PNKP_ligase: PNKP adenylyltransferase domain, ligase domain
+PNKP_ligase is a classical ligase nucleotidyltransferase module of bacteria. PNKP (polynucleotide 5'...
+Accession: pfam16542 ID: 379856
+
+434. PNKP-ligase_C: PNKP adenylyltransferase domain, C-terminal region
+This is a short unique anti-parallel two-helical module with an extended tail peptide. It packs tigh...
+Accession: pfam16536 ID: 379853
+
+435. Tox-SHH: HNH/Endo VII superfamily toxin with a SHH signature
+A predicted toxin of the HNH/Endonuclease VII fold present in bacterial polymorphic toxin systems wi...
+Accession: pfam15652 ID: 379748
+
+436. Mrr_N: Mrr N-terminal domain
+This domain is found at the N-terminus of the Mrr restriction endonuclease catalytic domain, pfam044...
+Accession: pfam14338 ID: 379565
+
+437. DUF3883: Domain of unknown function (DUF3883)
+This is a domain is uncharacterized. It is found on restriction endonucleases.
+Accession: pfam13020 ID: 379021
+
+438. EcoR124_C: Type I restriction and modification enzyme - subunit R C terminal
+This enzyme has been characterized and shown to belong to a new family of the type I class of restri...
+Accession: pfam12008 ID: 378791
+
+439. Beta-Casp: Beta-Casp domain
+The beta-CASP domain is found C terminal to the beta-lactamase domain in pre-mRNA 3'-end-processing ...
+Accession: pfam10996 ID: 378534
+
+440. NERD: Nuclease-related domain
+The nuclease-related domain (NERD) is found in a range of bacterial as well as archaeal and plant pr...
+Accession: pfam08378 ID: 377990
+
+441. RMMBL: Zn-dependent metallo-hydrolase RNA specificity domain
+The metallo-beta-lactamase fold contains five sequence motifs. The first four motifs are found in pf...
+Accession: pfam07521 ID: 377862
+
+442. NUMOD4: NUMOD4 motif
+NUMOD4 is a putative DNA-binding motif found in homing endonucleases and related proteins.
+Accession: pfam07463 ID: 377841
+
+443. Pyocin_S: S-type Pyocin
+This family represents a conserved region approximately 180 residues long within bacterial S-type py...
+Accession: pfam06958 ID: 377742
+
+444. RraB: Regulator of ribonuclease activity B
+This family of proteins regulate mRNA abundance by binding to RNaseE and inhibiting its endonucleoly...
+Accession: pfam06877 ID: 377727
+
+445. RusA: Endodeoxyribonuclease RusA
+This family consists of several bacterial and phage Holliday junction resolvase (RusA) like proteins...
+Accession: pfam05866 ID: 377564
+
+446. ProQ: ProQ/FINO family
+This family includes ProQ, which is required for full activation of the osmoprotectant transporter, ...
+Accession: pfam04352 ID: 377323
+
+447. RraA-like: Aldolase/RraA
+Members of this family include regulator of ribonuclease E activity A (RraA) and 4-hydroxy-4-methyl-...
+Accession: pfam03737 ID: 377116
+
+448. ERCC4: ERCC4 domain
+This domain is a family of nucleases. The family includes EME1 which is an essential component of a ...
+Accession: pfam02732 ID: 376909
+
+449. HTH_WhiA: WhiA C-terminal HTH domain
+This domain is found at the C-terminus of the sporulation regulator WhiA. It is predicted to form a ...
+Accession: pfam02650 ID: 376880
+
+450. DevR: CRISPR-associated negative auto-regulator DevR/Csa2
+This group of families is one of several protein families that are always found associated with prok...
+Accession: pfam01905 ID: 376656
+
+451. Cas_Cas6: CRISPR associated protein Cas6
+This group of families is one of several protein families that are always found associated with prok...
+Accession: pfam01881 ID: 376642
+
+452. Smr: Smr domain
+This family includes the Smr (Small MutS Related) proteins, and the C-terminal region of the MutS2 p...
+Accession: pfam01713 ID: 376599
+
+453. CdiA_C_tRNase: CdiA C-terminal tRNase domain
+This entry represents the C-terminal tRNase domain of CdiA a type II toxin/immunity protein complex ...
+Accession: pfam18664 ID: 376088
+
+454. Cucumopine_C: Cucumopine synthase C-terminal helical bundle domain
+McbB from Marinactinospora thermotolerans is an enzyme that catalyzes the Pictet-Spengler (PS) react...
+Accession: pfam18631 ID: 376057
+
+455. MobL: MobL relaxases
+This family includes members of relaxase enzymes. These enzymes initiate bacterial conjugation contr...
+Accession: pfam18555 ID: 375981
+
+456. NUC: Nuclease domain
+This is a nuclease (NUC) domain found in Cpf1, an RNA-guided endonuclease of a type V CRISPR-Cas sys...
+Accession: pfam18510 ID: 375936
+
+457. REC1: Alpha helical recognition lobe domain
+Cpf1 is an RNA-guided endonuclease of a type V CRISPR-Cas system. Cpf1 adopts a bilobed architecture...
+Accession: pfam18501 ID: 375927
+
+458. SRA: SET and RING associated domain
+This is the C-terminal domain found in PvuRts1I, a modification-dependent restriction endonuclease t...
+Accession: pfam18491 ID: 375917
+
+459. CdiA_C: Contact-dependent growth inhibition CdiA C-terminal domain
+Contact-dependent growth inhibition (CDI) systems encode polymorphic toxin/immunity proteins that me...
+Accession: pfam18451 ID: 375877
+
+460. GEN1_C: Holliday junction resolvase Gen1 C-terminal domain
+This is the C-terminal domain found in GEN1 resolvase. It is composed of three-strand antiparallel b...
+Accession: pfam18380 ID: 375806
+
+461. pPIWI_RE_Y: pPIWI_RE three-gene island domain Y
+Poorly-understood domain observed N-terminal to restriction endonuclease (REase) domain, which is pa...
+Accession: pfam18156 ID: 375594
+
+462. DpnI_C: Dam-replacing HTH domain
+Dam-replacing protein (DRP) is an restriction endonuclease that is flanked by pseudo-transposable sm...
+Accession: pfam17726 ID: 375294
+
+463. SmaI: Type II site-specific deoxyribonuclease
+Family members of this domain are Type II site-specific deoxyribonuclease EC=3.1.21.4. The endonucle...
+Accession: pfam17411 ID: 375181
+
+464. Mlh1_C: DNA mismatch repair protein Mlh1 C-terminus
+This is the C-terminal domain of DNA mismatch repair protein Mlh1, these proteins belong to the MutL...
+Accession: pfam16413 ID: 374528
+
+465. Tox-HNH-EHHH: HNH/Endo VII superfamily nuclease toxins
+A predicted toxin of the HNH/Endonuclease VII fold present in bacterial polymorphic toxin systems wi...
+Accession: pfam15657 ID: 373994
+
+466. Tox-HNH-HHH: HNH/Endo VII superfamily nuclease toxin with a HHH motif
+A predicted toxin of the HNH/Endonuclease VII fold present in bacterial polymorphic toxin systems wi...
+Accession: pfam15637 ID: 373983
+
+467. Tox-GHH: GHH signature containing HNH/Endo VII superfamily nuclease toxin
+A predicted toxin of the HNH/Endonuclease VII fold present in bacterial polymorphic toxin systems wi...
+Accession: pfam15636 ID: 373982
+
+468. Tox-GHH2: GHH signature containing HNH/Endo VII superfamily nuclease toxin 2
+A predicted toxin of the HNH/Endonuclease VII fold present in bacterial polymorphic toxin systems wi...
+Accession: pfam15635 ID: 373981
+
+469. Imm21: Immunity protein 21
+A predicted immunity protein with an alpha+beta fold and conserved WxG and YxxxC motif. Proteins con...
+Accession: pfam15589 ID: 373956
+
+470. Imm43: Immunity protein 43
+A predicted immunity protein with an alpha+beta fold with conserved tryptophan, proline, aspartate, ...
+Accession: pfam15570 ID: 373947
+
+471. Imm30: Immunity protein 30
+A predicted immunity protein with a mostly alpha-helical fold and a conserved DxG motif. Proteins co...
+Accession: pfam15565 ID: 373945
+
+472. Ntox21: Novel toxin 21
+Bacterial genomes and plasmids encode a variety of peptide and protein toxins that mediate inter-bac...
+Accession: pfam15526 ID: 373922
+
+473. L_protein_N: L protein N-terminus
+This endonuclease domain is found at the N-terminus of many bunyavirus L proteins.
+Accession: pfam15518 ID: 373916
+
+474. TBPIP_N: TBP-interacting protein N-terminus
+This is the N-terminal restriction endonuclease-like domain found in several archaeal TATA-binding p...
+Accession: pfam15517 ID: 373915
+
+475. BpuSI_N: BpuSI N-terminal domain
+This is the N-terminal (nuclease) domain of the BpuSI restriction endonuclease.
+Accession: pfam15516 ID: 373914
+
+476. Intein_splicing: Intein splicing domain
+Inteins are segments of protein which excise themselves from a precursor protein and mediate the rej...
+Accession: pfam14890 ID: 373365
+
+477. EcoRI_methylase: Adenine-specific methyltransferase EcoRI
+This methylase recognizes the double-stranded sequence GAATTC, causes specific methylation on A-3 on...
+Accession: pfam13651 ID: 372662
+
+478. DUF4145: Domain of unknown function (DUF4145)
+This domain is found in a variety of restriction endonuclease enzymes. The exact function of this do...
+Accession: pfam13643 ID: 372658
+
+479. Colicin-DNase: DNase/tRNase domain of colicin-like bacteriocin
+Colicin-like bacteriocins are complex structures with an N-terminal beta-barrel translocation domain...
+Accession: pfam12639 ID: 372235
+
+480. Mus7: Mus7/MMS22 family
+This family includes a conserved region from the Mus7 protein. Mus7 is involved in the repair of rep...
+Accession: pfam09462 ID: 370511
+
+481. NurA: NurA domain
+This family includes NurA a nuclease exhibiting both single-stranded endonuclease activity and 5'-3'...
+Accession: pfam09376 ID: 370456
+
+482. HIRAN: HIRAN domain
+The HIRAN domain (HIP116, Rad5p N-terminal) is found in the N-terminal regions of the SWI2/SNF2 prot...
+Accession: pfam08797 ID: 370129
+
+483. Dna2: DNA replication factor Dna2
+Dna2 is a DNA replication factor with single-stranded DNA-dependent ATPase, ATP-dependent nuclease, ...
+Accession: pfam08696 ID: 370071
+
+484. RNase_H2_suC: Ribonuclease H2 non-catalytic subunit (Ylr154p-like)
+This entry represents the non-catalytic subunit of RNase H2, which in S. cerevisiae is Ylr154p/Rnh20...
+Accession: pfam08615 ID: 370002
+
+485. PDDEXK_9: PD-(D/E)XK nuclease superfamily
+This family contains many hypothetical bacterial proteins. It has been identified as a member of the...
+Accession: pfam08011 ID: 369649
+
+486. PDDEXK_10: PD-(D/E)XK nuclease superfamily
+This family is found to carry modified motifs characteristic of PD-(D/E)XK endonuclease superfamily....
+Accession: pfam07788 ID: 369519
+
+487. Clp1: Pre-mRNA cleavage complex II protein Clp1
+This family consists of several pre-mRNA cleavage complex II Clp1 (or HeaB) proteins. Six different ...
+Accession: pfam06807 ID: 369088
+
+488. DpnI: Dam-replacing family
+Dam-replacing protein (DRP) is an restriction endonuclease that is flanked by pseudo-transposable sm...
+Accession: pfam06044 ID: 368716
+
+489. Agro_virD5: Agrobacterium VirD5 protein
+The virD operon in Agrobacterium encodes a site-specific endonuclease, and a number of other poorly ...
+Accession: pfam04730 ID: 368086
+
+490. KilA-N: KilA-N domain
+The amino-terminal module of the D6R/N1R proteins defines a novel, conserved DNA-binding domain (the...
+Accession: pfam04383 ID: 367917
+
+491. Rad10: Binding domain of DNA repair protein Ercc1 (rad10/Swi10)
+Ercc1 and XPF (xeroderma pigmentosum group F-complementing protein) are two structure-specific endon...
+Accession: pfam03834 ID: 367685
+
+492. Cloacin: Colicin-like bacteriocin tRNase domain
+The C-terminal region of colicin-like bacteriocins is either a pore-forming or an endonuclease-like ...
+Accession: pfam03515 ID: 367536
+
+493. DUF222: Domain of unknown function (DUF222)
+This family is often found associated to the N-terminus of the HNH endonuclease domain pfam01844. Th...
+Accession: pfam02720 ID: 367155
+
+494. SAD_SRA: SAD/SRA domain
+The domain goes by several names including SAD, SRA and YDG. It adopts a beta barrel, modified PUA-l...
+Accession: pfam02182 ID: 366960
+
+495. Methylase_S: Type I restriction modification DNA specificity domain
+This domain is also known as the target recognition domain (TRD). Restriction-modification (R-M) sys...
+Accession: pfam01420 ID: 366631
+
+496. AP_endonuc_2: Xylose isomerase-like TIM barrel
+This TIM alpha/beta barrel structure is found in xylose isomerase and in endonuclease IV (EC:3.1.21....
+Accession: pfam01261 ID: 366542
+
+497. HhH-GPD: HhH-GPD superfamily base excision DNA repair protein
+This family contains a diverse range of structurally related DNA repair proteins. The superfamily is...
+Accession: pfam00730 ID: 366271
+
+498. rve: Integrase core domain
+Integrase mediates integration of a DNA copy of the viral genome into the host chromosome. Integrase...
+Accession: pfam00665 ID: 366234
+
+499. PLDc: Phospholipase D Active site motif
+Phosphatidylcholine-hydrolysing phospholipase D (PLD) isoforms are activated by ADP-ribosylation fac...
+Accession: pfam00614 ID: 366195
+
+500. BTB_POZ: BTB (Broad-Complex, Tramtrack and Bric a brac)/POZ (poxvirus and zinc finger) domain superfamily
+Proteins in this superfamily are characterized by the presence of a common protein-protein interacti...
+Accession: cl38908 ID: 365784
+
+501. ArenaCapSnatch: Arenavirus cap snatching domain
+This domain represents the N-terminal domain of the Arenavirus polymerase that is involved in cap sn...
+Accession: cl29053 ID: 355929
+
+502. WhiA_N: WhiA N-terminal LAGLIDADG-like domain
+This domain is found at the N terminal of sporulation factor WhiA. This domain is related to the LAG...
+Accession: cl27397 ID: 355645
+
+503. Phage_GPA: Bacteriophage replication gene A protein (GPA)
+This family consists of a group of bacteriophage replication gene A protein (GPA) like sequences fro...
+Accession: cl15276 ID: 353932
+
+504. Terminase_3: Phage terminase large subunit
+Initiation of packaging of double-stranded viral DNA involves the specific interaction of the prohea...
+Accession: cl12054 ID: 353348
+
+505. MmcB-like: DNA repair protein MmcB-like
+This family includes Caulobacter MmcB (CCNA_03580), which is involved in DNA repair. It has been pro...
+Accession: cl02197 ID: 351702
+
+506. DEXXQc_SETX: DEXXQ-box helicase domain of SETX
+The RNA/DNA helicase senataxin (SETX) plays a role in transcription, neurogenesis, and antiviral res...
+Accession: cd18042 ID: 350800
+
+507. DEXXQc_DNA2: DEXXQ-box helicase domain of DNA2
+DNA2 (DNA Replication Helicase/Nuclease 2) possesses different enzymatic activities, such as single-...
+Accession: cd18041 ID: 350799
+
+508. DEXHc_RE_I_III_res: DEXH-box helicase domain of type III restriction enzyme res subunit
+Members of this cd includes both type I and type III restriction enzymes. Both are hetero-oligomeric...
+Accession: cd18032 ID: 350790
+
+509. DEXHc_RIG-I: DEXH-box helicase domain of DEAD-like helicase RIG-I family proteins
+Members of the RIG-I family include FANCM, dicer, Hef, and the RIG-I-like receptors. Fanconi anemia ...
+Accession: cd17927 ID: 350685
+
+510. PIN_MtVapC4-C5-like: VapC-like PIN domain of Mycobacterium tuberculosis VapC4, VapC5, and related proteins
+This subfamily includes the Virulence associated protein C (VapC)-like PIN (PilT N terminus) domain ...
+Accession: cd18768 ID: 350335
+
+511. PIN_HiVapC1-like: VapC-like PIN domain of Haemophilus influenzae VapC1 and related proteins
+Haemophilus influenzae VapC1 has endonucleolytic activity with RNA, it cleaves initiator tRNA betwee...
+Accession: cd18735 ID: 350302
+
+512. PIN_MtVapC4-C5_like: VapC-like PIN domain of Mycobacterium tuberculosis VapC4, VapC5, and related proteins
+This subfamily includes the Virulence associated protein C (VapC)-like PIN (PilT N terminus) domain ...
+Accession: cd18732 ID: 350299
+
+513. PIN_Zc3h12a-N4BP1-like: PRORP-like PIN domain of ribonuclease Zc3h12a, NEDD4-binding partner-1, and related proteins
+Zc3h12a (zinc finger CCCH-type containing 12A, also known as MCPIP1/MCP induced protein 1 and Regnas...
+Accession: cd18719 ID: 350286
+
+514. PIN_PRORP-Zc3h12a-like: PIN domain of protein-only RNase P (PRORP), ribonuclease Zc3h12a, and related proteins
+PRORPs catalyze the maturation of the 5' end of precursor tRNAs in eukaryotes. This family includes ...
+Accession: cd18671 ID: 350238
+
+515. PIN_YacP-like: PIN_domain of Bacillus subtilis YacP/Rae1 and related proteins
+Bacillus subtilis YacP, also known as Rae1, is an endoribonuclease involved in ribosome-dependent mR...
+Accession: cd10912 ID: 350236
+
+516. PIN_VapC_PhoHL-ATPase: VapC-like PIN domain of bacterial Smg6-like proteins with C-terminal PhoH-like ATPase domains
+PIN (PilT N terminus) domain of Smg6-like bacterial proteins with C-terminal PhoH-like ATPase domain...
+Accession: cd09883 ID: 350231
+
+517. PIN_VapC-FitB-like: VapC-like PIN domain of ribonucleases (toxins), VapC and FitB, of prokaryotic toxin/antitoxin operons, Pyrococcus horikoshii protein PH0500, and other similar bacterial and archaeal homologs
+PIN (PilT N terminus) domain-containing proteins of prokaryotic toxin/antitoxin (TA) operons, such a...
+Accession: cd09875 ID: 350223
+
+518. PIN_Fcf1-Utp23-H: VapC-like PIN domain of rRNA-processing protein Fcf1- and Utp23-like homologs found in eukaryotes except fungi; similar to human rRNA-processing protein UTP23
+PIN domain homologs of Fcf1/Utp24 (FAF1-copurifying factor 1/U three-associated protein 24) and Utp2...
+Accession: cd09866 ID: 350214
+
+519. PIN_53EXO: FEN-like PIN domains of PIN domain of the 5'-3' exonuclease of Thermus aquaticus DNA polymerase I (Taq) and homologs
+The 5'-3' exonuclease (53EXO) PIN (PilT N terminus) domain of multi-domain DNA polymerase I and sing...
+Accession: cd09859 ID: 350209
+
+520. PIN_MKT1: FEN-like PIN domains of Mkt1, a global regulator of mRNAs encoding mitochondrial proteins and eukaryotic homologs
+The Mkt1 gene product interacts with the Poly(A)-binding protein associated factor, Pbp1, and is pre...
+Accession: cd09858 ID: 350208
+
+521. PIN_EXO1: FEN-like PIN domains of Exonuclease-1, a structure-specific, divalent-metal-ion dependent, 5' nuclease and homologs
+exonuclease-1 (EXO1) is involved in multiple, eukaryotic DNA metabolic pathways, including DNA repli...
+Accession: cd09857 ID: 350207
+
+522. XisI-like: XisI is FdxN element excision controlling factor protein
+This family contains XisI proteins, also known as FdxN element excision controlling factors, and sim...
+Accession: cd16382 ID: 341357
+
+523. RMtype1_S_Cje2232P-TRD2-CR2_like: Type I restriction-modification system specificity (S) subunit TRD-CR, similar to Campylobacter jejuni RM 2232 S subunit (S.Cje2232P) TRD2-CR2 and Shewanella baltica OS223 S subunit (S.Sba223ORF389P) TRD1-CR1
+The recognition sequences of Campylobacter jejuni RM 2232 S subunit (S.Cje2232P) and Shewanella balt...
+Accession: cd17526 ID: 341207
+
+524. RMtype1_S_Eco15ORF14057P-TRD1-CR1_like: Type I restriction-modification system specificity (S) subunit TRD-CR, similar to Escherichia coli 541-15 S subunit (S.Eco15ORF14057P) TRD1-CR1 and Desulfotignum phosphitoxidans S subunit (S.Dph13687ORF2110P) TRD2-CR2
+The recognition sequences of Escherichia coli 541-15 S subunit (S.Eco15ORF14057P) and Desulfotignum ...
+Accession: cd17525 ID: 341206
+
+525. RMtype1_S_EcoUTORF5051P-TRD2-CR2_like: Type I restriction-modification system specificity (S) subunit TRD-CR, similar to Escherichia coli UTI89 S subunit (S.EcoUTORF5051P) TRD2-CR2 and Archaeoglobus fulgidus VC-16 S subunit (S.AfuORF1715P) TRD2-CR2
+Escherichia coli UTI89 S subunit (S.EcoUTORF5051P) recognizes 5'... CCANNNNNNNCTTC ... 3' and the re...
+Accession: cd17524 ID: 341205
+
+526. RMtype1_S_StySPI-TRD2-CR2_like: Type I restriction-modification system specificity (S) subunit TRD-CR, similar to Salmonella enterica subsp. enterica serovar Potsdam S subunit (S.StySPI) TRD2-CR2
+Salmonella enterica subsp. enterica serovar Potsdam S subunit (S.StySPI) recognizes 5'... AACNNNNNNG...
+Accession: cd17523 ID: 341204
+
+527. RMtype1_S_MjaORF1531P-TRD1-CR1_like: Type I restriction-modification system specificity (S) subunit TRD-CR, similar to Methanocaldococcus jannaschii DSM 2661 S subunit (S.MjaORF1531P/MjaXIIP) TRD1-CR1
+The recognition sequence of Methanocaldococcus jannaschii DSM 2661 S subunit (S.MjaORF1531P, also ca...
+Accession: cd17522 ID: 341203
+
+528. RMtype1_S_Sau13435ORF2165P_TRD2-CR2_like: Type I restriction-modification system specificity (S) subunit TRD-CR, similar to Staphylococcus aureus NCTC 13435 S subunit (S.Sau13435ORF2165P) TRD2-CR2, Escherichia coli E24377A S subunit (S.EcoE24377ORF286P) TRD1-CR1 and Pseudoalteromonas species P1-13-1a S. subunit (S.Psp1bORF2093P) TRD2-CR2
+Staphylococcus aureus NCTC 13435 S subunit (S.Sau13435ORF2165P) recognizes 5'...  TCTANNNNNNRTTC ......
+Accession: cd17521 ID: 341202
+
+529. RMtype1_S_HmoORF3075P-TRD1-CR1_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to Heliobacterium modesticaldum Ice1 S subunit (S1.HmoORF3075P) TRD1-CR1
+The recognition sequence of Heliobacterium modesticaldum Ice1 S subunit (S1.HmoORF3075P) is undeterm...
+Accession: cd17520 ID: 341201
+
+530. RMtype1_S_HpyCR35ORFAP-TRD1-CR1_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to Helicobacter pylori CR35 S subunit (S.HpyCR35ORFAP) TRD1-CR1 and Mycoplasma haemofelis str. Langford 1 S subunit (S2.Mha1ORF7190P) TRD1-CR1
+The recognition sequences of Helicobacter pylori CR35 S subunit (S.HpyCR35ORFAP) and Mycoplasma haem...
+Accession: cd17519 ID: 341200
+
+531. RMtype1_S_Asp27244ORF1181P-TRD1-CR1_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to Acinetobacter sp. S subunit (S.Asp27244ORF1181P) TRD1-CR1
+The recognition sequence of Acinetobacter sp. S subunit (S.Asp27244ORF1181P) is undetermined. The re...
+Accession: cd17518 ID: 341199
+
+532. RMtype1_S_EcoKI_StySPI-TRD2-CR2_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR),similar to Escherichia coli str. K-12 substr. MG1655 S subunit (S.EcoKI) TRD2-CR2, Salmonella enterica subsp. enterica serovar Potsdam S subunit (S.StySPI) TRD2-CR2, and other TRD-CR's
+Escherichia coli str. K-12 substr. MG1655 S subunit (S.EcoKI) recognizes 5'... AACNNNNNNGTGC ... 3' ...
+Accession: cd17517 ID: 341198
+
+533. RMtype1_S_HinAWORF1578P-TRD2-CR2_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to S.HinAWORF1578P TRD2-CR2
+Haemophilus influenzae RdAW S subunit (S.HinAWORF1578P) recognizes 5'... CTANNNNNGTTY ... 3'. The re...
+Accession: cd17516 ID: 341197
+
+534. RMtype1_S_MjaORF132P_Sau1132ORF3780P-TRD1-CR1_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to MjaXIP/S.MjaORF132P TRD1-CR1, S.Sau1132ORF3780P TRD1-CR1, S.Mca353ORF290P TRD1-CR1, and other TRD-CR's
+The Staphylococcus aureus subsp. aureus MSHR1132 S subunit (S.Sau1132ORF3780P) recognizes 5'... CAAG...
+Accession: cd17515 ID: 341196
+
+535. RMtype1_S_Eco2747I_MmaC7ORF19P-TRD-CR_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to Escherichia coli ST2747 S subunit (S.Eco2747I) TRD2-CR2, Methanococcus maripaludis C7 S subunit (S.MmaC7ORF19P) TRD1-CR1, and related domains
+The S. Eco2747I S subunit recognizes 5'... CACNNNNNNNGTTG ... 3'. The recognition sequence of Methan...
+Accession: cd17514 ID: 341195
+
+536. RMtype1_S_AveSPN6ORF1907P_TRD2-CR2_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to Archaeoglobus veneficus SNP6 S subunit (S.AveSPN6ORF1907P) TRD2-CR2 and Bacillus subtilis JRS2 S subunit (S.BsuJRS7ORF3308P) TRD1-CR1
+The recognition sequences of Archaeoglobus veneficus SNP6 S subunit (S.AveSPN6ORF1907P) and Bacillus...
+Accession: cd17513 ID: 341194
+
+537. RMtype1_S_BceB55ORF5615P-TRD2-CR2_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to Bacillus cereus HuB5-5 S subunit (S.BceB55ORF5615P) TRD2-CR2
+The recognition sequence of Bacillus cereus HuB5-5 S subunit (S.BceB55ORF5615P) is undetermined. The...
+Accession: cd17512 ID: 341193
+
+538. RMtype1_S_Vch69ORF1407P_TRD2-CR2_like: Type I restriction-modification system specificity (S) subunit TRD-CR, similar to Vibrio cholerae 1311-69 S subunit (S.Vch69ORF1407P) TRD2-CR2, and Methanococcoides methylutens MM1 S subunit (S.MmeMM1ORF456P) TRD2-CR2
+The recognition sequences of Vibrio cholerae 1311-69 S subunit (S.Vch69ORF1407P) and Methanococcoide...
+Accession: cd17501 ID: 341192
+
+539. RMtype1_S_MmaGORF2198P_TRD1-CR1_like: Type I restriction-modification system specificity (S) subunit TRD-CR, similar to Methanosarcina mazei Goe1 S subunit (S.MmaGORF2198P) TRD1-CR1, and Flavobacterium psychrophilum FPG3  S subunit (S.FpsFPG3ORF6820P) TRD1-CR1
+The recognition sequences of Methanosarcina mazei Goe1 S subunit (S.MmaGORF2198P) and Flavobacterium...
+Accession: cd17500 ID: 341191
+
+540. RMtype1_S_CloLW9ORF3270P-TRD1-CR1_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to Cecembia lonarensis LW9 S subunit (S.CloLW9ORF3270P) TRD1-CR1 and Bacillus licheniformis 9945A S subunit (S.Bli9945ORF10320P) TRD1-CR1
+The recognition sequences for Cecembia lonarensis LW9 S subunit (S.CloLW9ORF3270P) and Bacillus lich...
+Accession: cd17499 ID: 341190
+
+541. RMtype1_S_Aco12261I-TRD1-CR1_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to Aminobacterium colombiense DSM 12261 S subunit (S.Aco12261I) TRD1-CR1
+The S.Aco12261I S subunit recognizes 5'... GCANNNNNNTGT ... 3'. The restriction-modification (RM) sy...
+Accession: cd17498 ID: 341189
+
+542. RMtype1_S_TteMORF1547P-TRD2-CR2_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to Thermoanaerobacter tengcongensis S subunit (S.TteMORF1547P) TRD2-CR2
+The recognition sequence is undetermined for Thermoanaerobacter tengcongensis S subunit (S.TteMORF15...
+Accession: cd17497 ID: 341188
+
+543. RMtype1_S_BliBORF2384P-TRD1-CR1_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to Bacillus licheniformis S subunit (S1.BliBORF2384P) TRD1-CR1 and Chlorobium tepidum TLS S subunit (S.CteTORF675P) TRD1-CR1
+The recognition sequences for Bacillus licheniformis S subunit (S1.BliBORF2384P) and Chlorobium tepi...
+Accession: cd17496 ID: 341187
+
+544. RMtype1_S_Cep9333ORF4827P-TRD2-CR2_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to Crinalium epipsammum S subunit (S.Cep9333ORF4827P) TRD2-CR2 and Corynebacterium genitalium sp. nov. S subunit (S.CgeORF10704P) TRD2-CR2
+The recognition sequences for Crinalium epipsammum S subunit (S.Cep9333ORF4827P) and Corynebacterium...
+Accession: cd17495 ID: 341186
+
+545. RMtype1_S_Sma198ORF994P-TRD2-CR2_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to Streptococcus macedonicus ACA-DC 198 S subunit (S1.Sma198ORF994P) TRD2-CR2 and Lactobacillus amylovorus GRL 1112 S subunit (S1.LamGRLORF5415P) TRD2-CR2
+The recognition sequences of Streptococcus macedonicus ACA-DC 198 S subunit (S1.Sma198ORF994P) and L...
+Accession: cd17494 ID: 341185
+
+546. RMtype1_S_MmaC5ORF1169P_TRD1-CR1_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to Methanococcus maripaludis C5 S subunit (S.MmaC5ORF1169P) TRD1-CR1, and Methanobacterium formicicum S subunit (S.Mfo3637ORF3708P) TRD2-CR2
+The recognition sequences of Methanococcus maripaludis C5 S subunit (S.MmaC5ORF1169P) and Methanobac...
+Accession: cd17296 ID: 341184
+
+547. RMtype1_S_MmaC7ORF19P_TRD1-CR1_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to Methanococcus maripaludis C7 S subunit (S.MmaC7ORF19P) TRD1-CR1 and Mycoplasma gallinaceum S subunit (S3.Mme68BORF1125P) TRD2-CR2
+The recognition sequences of Methanococcus maripaludis C7 S subunit (S.MmaC7ORF19P) and Mycoplasma g...
+Accession: cd17294 ID: 341183
+
+548. RMtype1_S_Ppo21ORF8840P_TRD1-CR1_like: Type I restriction-modification system specificity (S) subunit TRD-CR, similar to Paenibacillus polymyxa SQR-21 SQR21 S subunit (S.Ppo21ORF8840P) TRD1-CR1, Nitrosococcus halophilus Nc4 S subunit (S.NhaNc4ORF3964P) TRD1-CR1
+The recognition sequences of Paenibacillus polymyxa SQR-21 SQR21 S subunit (S.Ppo21ORF8840P) and Nit...
+Accession: cd17293 ID: 341182
+
+549. RMtype1_S_LlaA17I_TRD2-CR2_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to the S subunit TRD2-CR2 regions of Lactococcus lactis subsp. cremoris A17 (S.LlaA17I), Haemophilus influenzae Rd (S.HindORF215P) and Clostridium species ASF502 (S.Csp502ORF478P)
+Lactococcus lactis subsp. cremoris A17 S subunit (S.LlaA17I) recognizes 5'...  CAANNNNNNNNTAYG... 3'...
+Accession: cd17292 ID: 341181
+
+550. RMtype1_S_MgeORF438P-TRD-CR_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to S.MgeORF438P TRD1-CR1 and TRD2-CR2, and to Escherichia coli G5 S subunit (S.Eco16445ORF5013P ) TRD2-CR2 and Acetobacter pasteurianus IFO 3283-01 S subunit (S2.Apa3283ORF14230P) TRD1-CR1
+The recognition sequences of Mycoplasma genitalium G-37 S subunit (S.MgeORF438P), Escherichia coli G...
+Accession: cd17291 ID: 341180
+
+551. RMtype1_S_AleSS8ORF2795P_TRD1-CR1_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to Algibacter lectus S subunit (S.AleSS8ORF2795P) TRD1-CR1 and Vibrio parahaemolyticus O1:K33 CDC_K4557 S subunit (S.Vpa4557ORF22590P) TRD2-CR2
+The recognition sequences of Algibacter lectus S subunit (S.AleSS8ORF2795P) and Vibrio parahaemolyti...
+Accession: cd17290 ID: 341179
+
+552. RMtype1_S_BamJRS5ORF1993P-TRD1-CR1_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to Bacillus amyloliquefaciens JRS5 S subunit (S.BamJRS5ORF1993P) TRD1-CR1 and Bacillus pumilus Jo2 S subunit (S.BpuJo2I) TRD1-CR1
+The recognition sequences of Bacillus amyloliquefaciens JRS5 S subunit (S.BamJRS5ORF1993P) and Bacil...
+Accession: cd17289 ID: 341178
+
+553. RMtype1_S_LlaAI06ORF1089P_TRD1-CR1_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to Lactococcus lactis S subunit (S.LlaAI06ORF1089P) TRD1-CR1 and Bacillus subtilis B4071 S subunit (S2.BsuCC16ORF609P) TRD2-CR2
+The recognition sequences of Lactococcus lactis S subunit  (S.LlaAI06ORF1089P) and Bacillus subtilis...
+Accession: cd17288 ID: 341177
+
+554. RMtype1_S_EcoN10ORF171P_TRD2-CR2_like: Type I restriction-modification system specificity (S) subunit TRD-CR, similar to Escherichia coli N10-0505 S subunit (S.EcoN10ORF171P) TRD2-CR2, and Herpetosiphon aurantiacus S subunit (S.HauORF5277P) TRD2-CR2
+The recognition sequences of Escherichia coli N10-0505 S subunit (S.EcoN10ORF171P) and Herpetosiphon...
+Accession: cd17287 ID: 341176
+
+555. RMtype1_S_Lla161ORF747P_TRD1-CR1_like: Type I restriction-modification system specificity (S) subunit TRD-CR, similar to Lactococcus lactis subsp. lactis Dephy 1 S subunit (S.Lla161ORF747P) TRD1-CR1, and Lactococcus lactis IO-1 S subunit (S2.LlaIO1ORF1141P) TRD2-CR2
+The recognition sequences of Lactococcus lactis subsp. lactis Dephy 1 S subunit (S.Lla161ORF747P) an...
+Accession: cd17286 ID: 341175
+
+556. RMtype1_S_Csp16704I_TRD2-CR2_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to Campylobacter species RM1670 S subunit (S.Csp16704I) TRD2-CR2, Aeromonas media WS S subunit (S.AmeWSORF2351P) TRD1-CR1, and Clostridium carboxidivorans P7 S subunit (S.CcaPORF573P) TRD2-CR2
+Campylobacter species RM16704  S subunit (S.Csp16704I ) recognizes 5'... ACANNNNNNNNTCG ... 3', and ...
+Accession: cd17285 ID: 341174
+
+557. RMtype1_S_Cbo7060ORF11580P_TRD2-CR2_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to Clostridium botulinum CFSAN024410 S subunit (S.Cbo7060ORF11580P) TRD2-CR2 and Shewanella xiamenensis BC01 S subunit (S.SxiBC01ORF77P) TRD1-CR1
+The recognition sequences of Clostridium botulinum CFSAN024410 S subunit (S.Cbo7060ORF11580P) and Sh...
+Accession: cd17284 ID: 341173
+
+558. RMtype1_S_Hpy180ORF7835P_TRD2-CR2_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to Helicobacter pylori SJM180 S subunit (S.Hpy180ORF7835P) TRD2-CR2 and Haemophilus influenzae PittGG S subunit (S.HinGGORF3080P) TRD2-CR2
+The recognition sequences of Helicobacter pylori SJM180 S subunit (S.Hpy180ORF7835P) and Haemophilus...
+Accession: cd17283 ID: 341172
+
+559. RMtype1_S_Eco16444ORF1681_TRD1-CR1_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to Escherichia coli G4/9 S subunit (S.Eco16444ORF1681P) TRD1-CR1 and Zobellia galactanivorans DsiJT S subunit (S.ZgaJTORF2697P)TRD2-CR2
+The recognition sequences of Escherichia coli G4/9 S subunit (S.Eco16444ORF1681P) and Zobellia galac...
+Accession: cd17282 ID: 341171
+
+560. RMtype1_S_HpyAXIII_TRD1-CR1_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to Helicobacter pylori 26695 S subunit (S.HpyAXIII/Prototype S.Hpy26695ORF4050P) TRD1-CR1, Neisseria meningitidis 510612 S subunit (S.Nme510612ORF1157P) TRD1-CR1 and Streptococcus mitis SVGS_061 S subunit (S2.Smi61ORF7905P) TRD1-CR1
+Helicobacter pylori 26695 S subunit (S.HpyAXIII/Prototype S.Hpy26695ORF4050P) recognizes 5'... CTANN...
+Accession: cd17281 ID: 341170
+
+561. RMtype1_S_MspEN3ORF6650P_TRD2-CR2_like: Type I restriction-modification system specificity (S) subunit TRD-CR, similar to Marinobacter species EN3 S subunit (S.MspEN3ORF6650P) TRD1-CR1, Methanothermobacter marburgensis str. Marburg S subunit (S.Mma2133ORF14720P) TRD2-CR2 and Nostoc species NIES-3756 S subunit (S.Nsp3756ORF27100P) TRD1-CR1
+The recognition sequences of Marinobacter species EN3 S subunit (S.MspEN3ORF6650P), Methanothermobac...
+Accession: cd17280 ID: 341169
+
+562. RMtype1_S_BmuCF2ORF3362P_TRD1-CR1_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to Burkholderia multivorans CF2 S subunit (S.BmuCF2ORF3362P) TRD1-CR1 and and Halomonas campaniensis LS21 S subunit (S.HcaLS21ORF9970P) TRD1-CR1
+The recognition sequences of Burkholderia multivorans CF2 S subunit (S.BmuCF2ORF3362P) and Halomonas...
+Accession: cd17279 ID: 341168
+
+563. RMtype1_S_LdeBORF1052P-TRD2-CR2: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to Lactobacillus delbrueckii subsp. bulgaricus S subunit (S2.LdeBORF1052P) TRD2-CR2
+The recognition sequence of Lactobacillus delbrueckii subsp. bulgaricus S subunit (S2.LdeBORF1052P) ...
+Accession: cd17278 ID: 341167
+
+564. RMtype1_M_Cni19672ORF1405P_RMtype11G_Hci611ORFHP_TRD1-CR1_like: Restriction modification N6-adenine DNA methyltransferase TRD-CR, similar to RMtype1 Calditerrivibrio nitroreducens M.Cni19672ORF1405P TRD1-CR1 and RMtype11G Helicobacter cinaedi PAGU611 RM.Hci611ORFHP TRD1-CR1
+The recognition sequence of Calditerrivibrio nitroreducens M.Cni19672ORF1405P is undetermined, and t...
+Accession: cd17277 ID: 341166
+
+565. RMtype1_S_Sau1132ORF3780P-TRD1-CR1_like: Type I restriction-modification system specificity (S) subunit TRD-CR, similar to S.Sau1132ORF3780P TRD1-CR1, and S.Mca353ORF290P TRD1-CR1
+The Staphylococcus aureus subsp. aureus MSHR1132 S subunit (S.Sau1132ORF3780P) recognizes 5'... CAAG...
+Accession: cd17276 ID: 341165
+
+566. RMtype1_S_MjaORF132P-TRD1-CR1_like: Type I restriction-modification system specificity (S) subunit TRD-CR, similar to MjaXIP/S.MjaORF132P TRD1-CR1
+The recognition sequence of Methanococcus jannaschii S subunit (MjaXIP/S.MjaORF132P) is undetermined...
+Accession: cd17275 ID: 341164
+
+567. RMtype1_S_Eco540ANI-TRD1-CR1_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to S.Eco540ANI TRD1-CR1, S.Eco2747AII TRD1-CR1, S.Eco540AI TRD1-CR1, S.Eco2747II TRD1-CR1, and S.Eco540I TRD1-CR1
+Escherichia coli ST540AN S subunit (S.Eco540ANI ), Escherichia coli ST540A S subunit (S.Eco540AI), a...
+Accession: cd17274 ID: 341163
+
+568. RMtype1_S_EcoJA69PI-TRD1-CR1_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to S.EcoJA69PI TRD1-CR1, MjaXIP/S.MjaORF132P TRD2-CR2, and S.HspDL1ORF16625P TRD2-CR2
+Escherichia coli UCD_JA69_pb S subunit (S.EcoJA69PI) recognizes 5'... CCANNNNNNNCTTC ... 3'. The rec...
+Accession: cd17273 ID: 341162
+
+569. RMtype1_S_Eco2747II-TRD2-CR2-like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to S.Eco2747II TRD2-CR2 and S.Eco2747AII TRD2-CR2
+Escherichia coli ST2747 S subunit (S.Eco2747II) and Escherichia coli ST2747A s SUBUNIT (S.Eco2747AII...
+Accession: cd17272 ID: 341161
+
+570. RMtype1_S_NmaSCMORF606P_TRD2-CR2_like: Type I restriction-modification system specificity (S) subunit TRD-CR, similar to Nitrosopumilus maritimus SCM1 S subunit (S2.NmaSCMORF606P) TRD2-CR2, Corynebacterium jeikeium K411 S subunit (S.CjeKORF1254P) TRD2-CR2 and Porphyromonas canoris COT-108 OH2762 S subunit (S2.Pca2762ORF8685P) TRD1-CR1
+The recognition sequences of Nitrosopumilus maritimus SCM1 S subunit (S2.NmaSCMORF606P), Corynebacte...
+Accession: cd17271 ID: 341160
+
+571. RMtype1_S_Sba223ORF3470P-TRD1-CR1_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to S.Sba223ORF3470P TRD1-CR1
+The recognition sequence of Shewanella baltica OS223 S subunit (S.Sba223ORF3470P) is undetermined. T...
+Accession: cd17270 ID: 341159
+
+572. RMtype1_S_PluTORF4319P-TRD2-CR2_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to Photorhabdus luminescens S subunit (S.PluTORF4319P) TRD2-CR2
+The recognition sequence of Photorhabdus luminescens S subunit (S.PluTORF4319P) is undetermined. The...
+Accession: cd17269 ID: 341158
+
+573. RMtype1_S_Ara36733I_TRD1-CR1_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to S.Ara36733I TRD1-CR1 AND S.Ara36733I TRD2-CR2
+Actinomyces radicidentis S subunit (S.Ara36733I) recognizes 5'... CGAGNNNNNCTG ... 3'. The restricti...
+Accession: cd17268 ID: 341157
+
+574. RMtype1_S_EcoAO83I-TRD1-CR1_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to S.EcoAO83I TRD1-CR1 and S.AbaB8342I TRD2-CR2
+Escherichia coli strain A0 34/86 S subunit (S.EcoAO83I) recognizes 5'... GGANNNNNNNNATGC ... 3, and ...
+Accession: cd17267 ID: 341156
+
+575. RMtype1_S_Sau1132ORF3780P-TRD2-CR2_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to Staphylococcus aureus subsp. aureus MSHR1132 S subunit (S.Sau1132ORF3780P) TRD2-CR2
+Staphylococcus aureus subsp. aureus MSHR1132 S subunit (S.Sau1132ORF3780P) recognizes 5'... CAAGNNNN...
+Accession: cd17266 ID: 341155
+
+576. RMtype1_S_Eco4255III-TRD2-CR2_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to Escherichia coli O118:H16 07-4255 S subunit (S.Eco4255III) TRD2-CR2 and Escherichia coli ECONIH1 S subunit (S.EcoNIH1II) TRD2-CR2
+Escherichia coli O118:H16 07-4255 S subunit (S.Eco4255III) recognizes 5'... GAGNNNNNGTTY ... 3', and...
+Accession: cd17265 ID: 341154
+
+577. RMtype1_S_Eco3763I-TRD2-CR2_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to Escherichia coli O69:H11 07-3763 S subunit (S.Eco3763I) TRD2-CR2
+Escherichia coli O69:H11 07-3763 S subunit (S.Eco3763I) recognizes 5'... TACNNNNNNNRTRTC ... 3'. The...
+Accession: cd17264 ID: 341153
+
+578. RMtype1_S_AbaB8300I-TRD1-CR1_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to Acinetobacter baumannii B8300 S subunit (S.AbaB8300I) TRD1-CR1
+Acinetobacter baumannii B8300 S subunit (S.AbaB8300I) recognizes 5'... GAYNNNNNNNTCYC ... 3'. The re...
+Accession: cd17263 ID: 341152
+
+579. RMtype1_S_Aco12261I-TRD2-CR2: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to Aminobacterium colombiense DSM 12261 S subunit (S.Aco12261I) TRD2-CR2 and Moraxella catarrhalis S subunit (S.Mca353ORF290P) TRD2-CR2
+Aminobacterium colombiense DSM 12261 S subunit (S.Aco12261I) recognizes 5'... GCANNNNNNTGT ... 3', a...
+Accession: cd17262 ID: 341151
+
+580. RMtype1_S_EcoKI-TRD2-CR2_like: Type I restriction-modification system specificity (S) subunit TRD-CR, similar to Escherichia coli str. K-12 substr. MG1655 S subunit (S.EcoKI) TRD2-CR2, Escherichia coli A58 S subunit (S.EcoEI) TRD2-CR2, and Aminomonas paucivorans S subunit (S.Apa12260I) TRD2-CR2
+Escherichia coli str. K-12 substr. MG1655 S subunit (S.EcoKI) recognizes 5'...  AACNNNNNNGTGC  ... 3...
+Accession: cd17261 ID: 341150
+
+581. RMtype1_S_EcoEI-TRD1-CR1_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to S.EcoEI TRD1-CR1, S.EcoJA17PI TRD1-CR1, S.EcoJA23PI TRD1-CR1, and S.StyLTIII TRD1-CR1
+Escherichia coli A58 S subunit (S.EcoEI) recognizes 5'... GAGNNNNNNNATGC ... 3', Escherichia coli UC...
+Accession: cd17260 ID: 341149
+
+582. RMtype1_S_StySKI-TRD2-CR2_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to TRD2-CR2's of StySKI, S.EcoAI, S.EcoJA17PI, and S.EcoJA23PI
+Salmonella kaduna CDC-388 S subunit (StySKI) recognizes 5'... CGATNNNNNNNGTTA ... 3' while Escherich...
+Accession: cd17259 ID: 341148
+
+583. RMtype1_S_Sau13435ORF2165P-TRD1-CR1_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to S.Sau13435ORF2165P TRD1-CR1 and S.SauL3067ORFAP TRD1-CR1
+Staphylococcus aureus NCTC 13435 S subunit (S.Sau13435ORF2165P) recognizes 5'... TCTANNNNNNRTTC ... ...
+Accession: cd17258 ID: 341147
+
+584. RMtype1_S_EcoBI-TRD1-CR1_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to S.EcoBI TRD1-CR1, S.EcoSanI TRD1-CR1, and S.EcoVR50I TRD1-CR1
+Escherichia coli B S subunit (S.EcoBI) and Escherichia coli VR50 S subunit (S.EcoVR50I) recognize 5'...
+Accession: cd17257 ID: 341146
+
+585. RMtype1_S_EcoJA65PI-TRD1-CR1_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to S.EcoJA65PI TRD1-CR1, S.Fco49512ORF2615P TRD1-CR1, and S.SonIV TRD2-CR2
+Escherichia coli UCD_JA65_pb S subunit (S.EcoJA65PI) recognizes 5'... AGCANNNNNNTGA ... 3' while She...
+Accession: cd17256 ID: 341145
+
+586. RMtype1_S_Fco49512ORF2615P-TRD2-CR2_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to Flavobacterium columnare S subunit (S.Fco49512ORF2615P) TRD2-CR2
+The recognition sequence of Flavobacterium columnare S subunit (S.Fco49512ORF2615P) is undetermined....
+Accession: cd17255 ID: 341144
+
+587. RMtype1_S_FclI-TRD1-CR1_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to S.FclI TRD1-CR1
+The recognition sequence of Flavobacterium columnare G4 S subunit (S.FclI) is undetermined. The rest...
+Accession: cd17254 ID: 341143
+
+588. RMtype1_S_Eco933I-TRD2-CR2_like: Type I restriction-modification system specificity (S) subunit TRD-CR, similar to Escherichia coli O157:H7 EDL933 S subunit (S.Eco933I), Escherichia coli O104:H4 2009EL-2071 S subunit (S.Eco2071ORF3585P) TRD2-CR2, and Streptomyces species SirexAA-E S subunit (S.SspAAEORF2129P) TRD1-CR1 and TRD2-CR2
+Escherichia coli O157:H7 EDL933 S subunit (S.Eco933I) recognizes 5'... CACNNNNNNNCTGG ... 3' and Esc...
+Accession: cd17253 ID: 341142
+
+589. RMtype1_S_EcoKI-TRD1-CR1_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to S.EcoKI TRD1-CR1, S.StySPI TRD1-CR1, S.Ara36733II TRD1-CR1, and S.Eco3722I TRD1-CR1
+Escherichia coli str. K-12 substr. MG1655 S subunit (S.EcoKI) and Escherichia coli NCM3722 S subunit...
+Accession: cd17252 ID: 341141
+
+590. RMtype1_S_HinAWORF1578P-TRD2-CR2_like: Type I restriction-modification system specificity (S) subunit TRD-CR, similar to S.HinAWORF1578P TRD2-CR2
+Haemophilus influenzae RdAW S subunit (S.HinAWORF1578P) recognizes 5'... CTANNNNNGTTY ... 3'. The re...
+Accession: cd17251 ID: 341140
+
+591. RMtype1_S_Eco4255II_TRD2-CR2_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to Escherichia coli O118:H16 07-4255 S subunit (S.Eco4255II) TRD2-CR2 and Shewanella oneidensis MR-1 S subunit (S.SonIV) TRD1-CR1
+Escherichia coli O118:H16 07-4255 S subunit (S.Eco4255II) recognizes 5'... TACNNNNNNNRTRTC ... 3 whi...
+Accession: cd17250 ID: 341139
+
+592. RMtype1_S_EcoR124I-TRD2-CR2_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to S.EcoR124I TRD2-CR2, S.Eco540I TRD2-CR2, S.Eco540AI TRD2-CR2, and S.Eco540ANI TRD2-CR2
+Escherichia coli (R124) S subunit (S.EcoR124I), E. coli ST540 S subunit (S.Eco540I), E. coli ST540A ...
+Accession: cd17249 ID: 341138
+
+593. RMtype1_S_AmiI-TRD2-CR2_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to Actinosynnema mirum DSM 43827 S subunit (S. AmiI) TRD2-CR2
+The S. AmiI S subunit recognizes 5'... CAGNNNNNNNTCGA ... 3'. The restriction-modification (RM) syst...
+Accession: cd17248 ID: 341137
+
+594. RMtype1_S_Eco2747I-TRD2-CR2_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to Escherichia coli ST2747 S subunit (S.Eco2747I) TRD2-CR2
+The S. Eco2747I S subunit recognizes 5'... CACNNNNNNNGTTG ... 3'. The restriction-modification (RM) ...
+Accession: cd17247 ID: 341136
+
+595. RMtype1_S_SonII-TRD2-CR2_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to Shewanella oneidensis MR-1 S subunit (S.SonII) TRD2-CR2
+This model contains Shewanella oneidensis MR-1 S subunit (S.SonII) TRD2-CR2 and similar TRD-CR's. S....
+Accession: cd17246 ID: 341135
+
+596. RMtype1_S_TteMORF1547P-TRD2-CR2_Aco12261I-TRD1-CR1_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to Thermoanaerobacter tengcongensis S subunit (S.TteMORF1547P) TRD2-CR2 and Aminobacterium colombiense DSM 12261 S subunit (S.Aco12261I) TRD1-CR1
+The S.Aco12261I S subunit recognizes 5'... GCANNNNNNTGT ... 3', while the recognition sequence is un...
+Accession: cd17245 ID: 341134
+
+597. RMtype1_S_Apa101655I-TRD2-CR2_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to Acetobacter pasteurianus S subunit (S.Apa101655I) TRD2-CR2
+The S. Apa101655I S subunit recognizes 5'... TTAGNNNNNNTTC... 3'. The restriction-modification (RM) ...
+Accession: cd17244 ID: 341133
+
+598. RMtype1_S_AchA6I-TRD2-CR2_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR), similar to Arthrobacter chlorophenolicus A6 S subunit (S.AchA6I) TRD2-CR2
+The S.AchA6I S subunit recognizes 5'... TGAANNNNNTCG ... 3'. The restriction-modification (RM) syste...
+Accession: cd17243 ID: 341132
+
+599. RMtype1_S_TRD-CR_like: Type I restriction-modification system specificity (S) subunit Target Recognition Domain-ConseRved domain (TRD-CR) and similar domains
+The restriction-modification (RM) system S subunit generally consists of two variable target recogni...
+Accession: cd16961 ID: 341131
+
+600. YqgF: putative pre-16S rRNA nuclease YqgF and RuvX family
+Escherichia coli YqgF has been shown to act as a pre-16S rRNA nuclease, presumably as a monomer. It ...
+Accession: cd16964 ID: 340815
+
+601. RuvC: Crossover junction endodeoxyribonuclease RuvC
+Crossover junction endodeoxyribonuclease RuvC is also called Holliday junction resolvase RuvC. It is...
+Accession: cd16962 ID: 340813
+
+602. Ubl_Ddi1_like: ubiquitin-like (Ubl) domain found in the eukaryotic Ddi1 family
+The eukaryotic Ddi1 family, including yeast aspartyl protease DNA-damage inducible 1 (Ddi1) and Ddi1...
+Accession: cd01796 ID: 340494
+
+603. HATPase_MutL-MLH-PMS-like: Histidine kinase-like ATPase domain of DNA mismatch repair proteins Escherichia coli MutL, human MutL homologs (MLH/ PMS), and related domains
+This family includes the histidine kinase-like ATPase (HATPase) domains of Escherichia coli MutL, hu...
+Accession: cd16926 ID: 340403
+
+604. MmcB-like: DNA repair protein MmcB-like
+This family includes Caulobacter MmcB (CCNA_03580), which is involved in DNA repair. It has been pro...
+Accession: pfam06319 ID: 336376
+
+605. Phage_GPA: Bacteriophage replication gene A protein (GPA)
+This family consists of a group of bacteriophage replication gene A protein (GPA) like sequences fro...
+Accession: pfam05840 ID: 336220
+
+606. Terminase_3: Phage terminase large subunit
+Initiation of packaging of double-stranded viral DNA involves the specific interaction of the prohea...
+Accession: pfam04466 ID: 335802
+
+607. Pox_G5: Poxvirus G5 protein
+This protein has been predicted to be related to the FEN-1 endonuclease.
+Accession: cl28000 ID: 332821
+
+608. Col_Im_like: inhibitory immunity (Im) protein of colicin (Col) deoxyribonuclease (DNase) and pyocins
+This family contains inhibitory immunity (Im) proteins that bind to colicin endonucleases (DNases) o...
+Accession: cd16363 ID: 319897
+
+609. RING-H2_RNF13: RING finger, H2 subclass, found in RING finger protein 13 (RNF13) and similar proteins
+RING finger, H2 subclass, found in RING finger protein 13 (RNF13) and similar proteins RNF13 is a wi...
+Accession: cd16796 ID: 319710
+
+610. RING-HC_RAG1: RING finger, HC subclass, found in recombination activating gene-1 (RAG-1) and similar proteins
+RAG-1, also known as V(D)J recombination-activating protein 1, RING finger protein 74 (RNF74), or en...
+Accession: cd16530 ID: 319444
+
+611. RraA_family: ribonuclease activity regulator RraA family
+RraA protein family is named after the regulator of ribonuclease activity A (RraA), a protein that  ...
+Accession: cd16841 ID: 319245
+
+612. WhiA_N: WhiA N-terminal LAGLIDADG-like domain
+This domain is found at the N terminal of sporulation factor WhiA. This domain is related to the LAG...
+Accession: pfam10298 ID: 313516
+
+613. Rep_N: Rep protein catalytic domain like
+Adeno-associated virus (AAV) Replication (Rep) protein is essential for viral replication and integr...
+Accession: pfam08724 ID: 312303
+
+614. HBS1_C_III: C-terminal domain of Hsp70 subfamily B suppressor 1 (HBS1)
+This model represents the C-terminal domain of Hsp70 subfamily B suppressor 1 (HBS1), which is homol...
+Accession: cd04093 ID: 294008
+
+615. artemis-SNM1C-like_MBL-fold: artemis-SNM1C and related proteins; MBL-fold metallo-hydrolase domain
+Includes the nuclease artemis (also known as SNM1C, SNM1 homolog C, SNM1-like protein and DNA cross-...
+Accession: cd16297 ID: 293855
+
+616. RNaseZ_ELAC2-N-term-like_MBL-fold: Ribonuclease Z, N-terminus of human ELAC2 and related proteins; MBL-fold metallo-hydrolase domain
+The tRNA maturase RNase Z (also known as tRNase Z or 3' tRNase) catalyzes the endonucleolytic remova...
+Accession: cd16296 ID: 293854
+
+617. CPSF3-like_MBL-fold: cleavage and polyadenylation specificity factor (CPSF) subunit 3 and related proteins; MBL-fold metallo-hydrolase domain
+CPSF3 (also known as cleavage and polyadenylation specificity factor 73 kDa subunit/CPSF-73) functio...
+Accession: cd16292 ID: 293850
+
+618. SNM1A-1C-like_MBL-fold: SNM1A , artemis/SNM1C, yeast Pso2p, and related proteins; MBL-fold metallo-hydrolase domain
+Includes human SNM1A (SNM1 homolog A, also known as DNA cross-link repair 1A protein) and Saccharomy...
+Accession: cd16273 ID: 293831
+
+619. Int9-11_CPSF2-3-like_MBL-fold: Int9, Int11, CPSF2, CPSF3 and related cleavage and polyadenylation specificity factors; MBL-fold metallo-hydrolase domain
+CPSF3 (cleavage and polyadenylation specificity factor subunit 3; also known as cleavage and polyade...
+Accession: cd07734 ID: 293820
+
+620. RNaseZ_ELAC1_ELAC2-C-term-like_MBL-fold: Ribonuclease Z ELAC1, C-terminus of ELAC2, and related proteins; MBL-fold metallo-hydrolase domain
+The tRNA maturase RNase Z (also known as tRNase Z or 3' tRNase) catalyzes the endonucleolytic remova...
+Accession: cd07718 ID: 293804
+
+621. RNaseZ_short-form-like_MBL-fold: uncharacterized bacterial subgroup of Ribonuclease Z, short form; MBL-fold metallo-hydrolase domain
+The tRNA maturase RNase Z (also known as tRNase Z or 3' tRNase) catalyzes the endonucleolytic remova...
+Accession: cd07716 ID: 293802
+
+622. RNaseJ_MBL-fold: RNAaseJ, MBL-fold metallo-hydrolase domain
+RNase J, also called Ribonuclease J, is a prokaryotic ribonuclease which plays a key part in RNA pro...
+Accession: cd07714 ID: 293800
+
+623. Pox_G5: Poxvirus G5 protein
+This protein has been predicted to be related to the FEN-1 endonuclease.
+Accession: pfam04599 ID: 282458
+
+624. N6_Mtase: N-6 DNA Methylase
+Restriction-modification (R-M) systems protect a bacterial cell against invasion of foreign DNA by e...
+Accession: pfam02384 ID: 280533
+
+625. Intron_maturas2: Type II intron maturase
+Group II introns use intron-encoded reverse transcriptase, maturase and DNA endonuclease activities ...
+Accession: pfam01348 ID: 279664
+
+626. Csx12: CRISPR/Cas system-associated protein Cas9
+CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) and associated Cas proteins compr...
+Accession: cl22980 ID: 277695
+
+627. MPP_Mre11_N: Mre11 nuclease, N-terminal metallophosphatase domain
+Mre11 (also known as SbcD in Escherichia coli) is a subunit of the MRX protein complex. This complex...
+Accession: cd00840 ID: 277319
+
+628. PPR: Pentatricopeptide repeat, an RNA-binding module
+The Pentatricopeptide repeat (PPR) is a 35-residue repeat motif that forms two anti-parallel alpha h...
+Accession: sd00004 ID: 276811
+
+629. group_II_RT_mat: group II intron reverse transcriptase/maturase
+Members of this protein family are multifunctional proteins encoded in most examples of bacterial gr...
+Accession: TIGR04416 ID: 275209
+
+630. mob_CxxC_CxxC: mobilome CxxCx(11)CxxC protein
+Members of this family share twin CxxC motifs near the C-terminus, suggesting a DNA- or RNA-binding ...
+Accession: TIGR04402 ID: 275195
+
+631. cas_Cpf1: CRISPR-associated protein Cpf1, subtype PREFRAN
+This family is the long protein of a novel CRISPR subtype, PREFRAN, which is most common in Prevotel...
+Accession: TIGR04330 ID: 275131
+
+632. met_A_Alw26: type II restriction m6 adenine DNA methyltransferase, Alw26I/Eco31I/Esp3I family
+Members of this family are the m6-adenine DNA methyltransferase protein, or domain of a fusion prote...
+Accession: TIGR02987 ID: 274377
+
+633. xth: exodeoxyribonuclease III (xth)
+All proteins in this family for which functions are known are 5' AP endonucleases that funciton in b...
+Accession: TIGR00633 ID: 273186
+
+634. uvrb: excinuclease ABC, B subunit
+All proteins in this family for wich functions are known are DNA helicases that function in the nucl...
+Accession: TIGR00631 ID: 273185
+
+635. rad1: DNA repair protein (rad1)
+All proteins in this family for which functions are known are components in a multiprotein endonucle...
+Accession: TIGR00596 ID: 273163
+
+636. fpg: DNA-formamidopyrimidine glycosylase
+All proteins in the FPG family with known functions are FAPY-DNA glycosylases that function in base ...
+Accession: TIGR00577 ID: 273150
+
+637. hsdR: type I site-specific deoxyribonuclease, HsdR family
+This gene is part of the type I restriction and modification system which is composed of three polyp...
+Accession: TIGR00348 ID: 273028
+
+638. exoDNase_III: exodeoxyribonuclease III
+The model brings in reverse transcriptases at scores below 50, model also contains eukaryotic apurin...
+Accession: TIGR00195 ID: 272954
+
+639. CUE_N4BP2: CUE domain found in NEDD4-binding protein 2 (N4BP2) and similar proteins
+N4BP2 has been identified as an oncogene bcl-3 coding protein BCL-3-binding protein (B3BP) that part...
+Accession: cd14365 ID: 270548
+
+640. UBA_scDdi1_like: UBA domain found in Saccharomyces cerevisiae DNA-damage response protein Ddi1 and similar proteins
+Ddi1, also called v-SNARE-master 1 (Vsm1), is a ubiquitin receptor involved in regulation of the cel...
+Accession: cd14309 ID: 270494
+
+641. UBA_Mud1_like: UBA domain found in Schizosaccharomyces pombe UBA domain-containing protein mud1 and similar proteins
+Schizosaccharomyces pombe mud1 is an ortholog of the Saccharomyces cerevisiae DNA-damage response pr...
+Accession: cd14308 ID: 270493
+
+642. bZIP_HAC1-like: Basic leucine zipper (bZIP) domain of Fungal HAC1-like transcription factors: a DNA-binding and dimerization domain
+HAC1 (also called Hac1p or HacA) is a bZIP transcription factor that plays a critical role in the un...
+Accession: cd14710 ID: 269858
+
+643. RNAse_HIII_N: N-terminal domain of ribonuclease H3
+RNAse H3 (HIII) is a bacterial type 2 ribonuclease, which endonucleolytically hydrolyzes an RNA stra...
+Accession: cd14796 ID: 269819
+
+644. RNase_H_Dikarya_like: Fungal (dikarya) Ribonuclease H, uncharacterized
+This family contains dikarya RNase H, many of which are uncharacterized. Ribonuclease H (RNase H) en...
+Accession: cd13934 ID: 260014
+
+645. RNase_HI_eukaryote_like: Eukaryotic RNase H is essential and is longer and more complex than their prokaryotic counterparts
+Ribonuclease H (RNase H) is classified into two families, type 1 (prokaryotic RNase HI, eukaryotic R...
+Accession: cd09280 ID: 260012
+
+646. RNase_HI_like: RNAse HI family that includes archaeal, some bacterial as well as plant RNase HI
+Ribonuclease H (RNase H) is classified into two evolutionarily unrelated families, type 1 (prokaryot...
+Accession: cd09279 ID: 260011
+
+647. RNase_HI_prokaryote_like: RNase HI family found mainly in prokaryotes
+Ribonuclease H (RNase H) is classified into two evolutionarily unrelated families, type 1 (prokaryot...
+Accession: cd09278 ID: 260010
+
+648. RNase_HI_bacteria_like: Bacterial RNase HI containing a hybrid binding domain (HBD) at the N-terminus
+Ribonuclease H (RNase H) enzymes are divided into two major families, Type 1 and Type 2, based on am...
+Accession: cd09277 ID: 260009
+
+649. Rnase_HI_RT_non_LTR: non-LTR RNase HI domain of reverse transcriptases
+Ribonuclease H (RNase H) is classified into two families, type 1 (prokaryotic RNase HI, eukaryotic R...
+Accession: cd09276 ID: 260008
+
+650. RNase_HI_RT_DIRS1: DIRS1 family of RNase HI in long-term repeat retroelements
+Ribonuclease H (RNase H) enzymes are divided into two major families, Type 1 and Type 2, based on am...
+Accession: cd09275 ID: 260007
+
+651. RNase_HI_RT_Ty3: Ty3/Gypsy family of RNase HI in long-term repeat retroelements
+Ribonuclease H (RNase H) enzymes are divided into two major families, Type 1 and Type 2, based on am...
+Accession: cd09274 ID: 260006
+
+652. RNase_HI_RT_Bel: Bel/Pao family of RNase HI in long-term repeat retroelements
+Ribonuclease H (RNase H) enzymes are divided into two major families, Type 1 and Type 2, based on am...
+Accession: cd09273 ID: 260005
+
+653. RNase_HI_RT_Ty1: Ty1/Copia family of RNase HI in long-term repeat retroelements
+Ribonuclease H (RNase H) enzymes are divided into two major families, Type 1 and Type 2, based on am...
+Accession: cd09272 ID: 260004
+
+654. RNase_HII_bacteria_HII_like: Bacterial Ribonuclease HII-like
+This family includes mostly bacterial type 2 RNases H, with some eukaryotic members. Bacterial RNase...
+Accession: cd07182 ID: 260003
+
+655. RNase_HII_eukaryota_like: Eukaryotic RNase HII
+This family includes eukaryotic type 2 RNase H (RNase HII or H2) which is active during replication ...
+Accession: cd07181 ID: 260002
+
+656. RNase_HII_archaea_like: Archaeal Ribonuclease HII
+This family includes type 2 RNases H from archaea, some of which show broad divalent cation specific...
+Accession: cd07180 ID: 260001
+
+657. RNase_HII_bacteria_HIII_like: Bacterial type 2 ribonuclease, HII and HIII-like
+This family includes type 2 RNases H from several bacteria, such as Bacillus subtilis, which have tw...
+Accession: cd06590 ID: 260000
+
+658. RNase_HII: Ribonuclease H (RNase H) type II family (prokaryotic RNase HII and HIII, and eukaryotic RNase H2/HII)
+This family contains ribonucleases HII (RNases H2) which include bacterial RNase HII and HIII, and e...
+Accession: cd06266 ID: 259999
+
+659. RNase_H_like: Ribonuclease H-like superfamily, including RNase H, HI, HII, HIII, and RNase-like domain IV of spliceosomal protein Prp8
+Ribonuclease H (RNase H) enzymes are divided into two major families, Type 1 and Type 2, based on am...
+Accession: cd06222 ID: 259998
+
+660. PTZ00372
+endonuclease 4-like protein; Provisional
+Accession: PTZ00372 ID: 240388
+
+661. PTZ00259
+endonuclease G; Provisional
+Accession: PTZ00259 ID: 240335
+
+662. PTZ00217
+flap endonuclease-1; Provisional
+Accession: PTZ00217 ID: 240317
+
+663. YhcR_OBF_like
+YhcR_OBF_like: A subfamily of OB-fold domains similar to the OB folds of Bacillus subtilis YhcR. Yhc...
+Accession: cd04486 ID: 239932
+
+664. MutL_Trans_MutL
+MutL_Trans_MutL: transducer domain, having a ribosomal S5 domain 2-like fold, found in proteins simi...
+Accession: cd03482 ID: 239564
+
+665. PAZ_argonaute_like
+PAZ domain, argonaute_like subfamily. Argonaute is part of the RNA-induced silencing complex (RISC),...
+Accession: cd02846 ID: 239212
+
+666. MeCP2_MBD
+MeCP2, MBD1, MBD2, MBD3, and MBD4 are members of a protein family that share the methyl-CpG-binding ...
+Accession: cd01396 ID: 238690
+
+667. Endonuclease_DUF559
+Domain of unknown function, appears to be related to a diverse group of endonucleases.
+Accession: cd01038 ID: 238509
+
+668. MutL_Trans
+MutL_Trans: transducer domain, having a ribosomal S5 domain 2-like fold, conserved in the C-terminal...
+Accession: cd00782 ID: 238405
+
+669. fungal_RNase
+fungal type ribonuclease. Ribonucleases (RNAses)  cleave phosphodiester bonds in RNA and are essenti...
+Accession: cd00606 ID: 238339
+
+670. RIBOc
+RIBOc. Ribonuclease III C terminal domain. This group consists of eukaryotic, bacterial and archeal ...
+Accession: cd00593 ID: 238333
+
+671. FinO_conjug_rep
+FinO bacterial conjugation repressor domain;  the basic protein FinO is part of the the two componen...
+Accession: cd00236 ID: 238145
+
+672. MBD
+MeCP2, MBD1, MBD2, MBD3, MBD4, CLLD8-like, and BAZ2A-like proteins constitute a family of proteins t...
+Accession: cd00122 ID: 238069
+
+673. Hint
+Hedgehog/Intein domain, found in Hedgehog proteins as well as proteins which contain inteins and und...
+Accession: cd00081 ID: 238035
+
+674. PRK11558
+putative ssRNA endonuclease; Provisional
+Accession: PRK11558 ID: 236930
+
+675. PRK09539
+tRNA-splicing endonuclease subunit beta; Reviewed
+Accession: PRK09539 ID: 236556
+
+676. PRK09300
+tRNA splicing endonuclease; Reviewed
+Accession: PRK09300 ID: 236460
+
+677. PRK09297
+tRNA-splicing endonuclease subunit alpha; Reviewed
+Accession: PRK09297 ID: 236459
+
+678. PRK03980
+flap endonuclease-1; Provisional
+Accession: PRK03980 ID: 235185
+
+679. uvsE
+putative UV damage endonuclease; Provisional
+Accession: PRK02308 ID: 235029
+
+680. recU
+Holliday junction-specific endonuclease; Reviewed
+Accession: PRK02234 ID: 235015
+
+681. cas_CT1978: CRISPR-associated endoribonuclease Cas2, subtype I-E/ECOLI
+CRISPR is a term for Clustered, Regularly Interspaced Short Palidromic Repeats. A number of protein ...
+Accession: TIGR01873 ID: 233610
+
+682. denA
+endonuclease II; Provisional
+Accession: PHA02598 ID: 222902
+
+683. 46
+endonuclease subunit; Provisional
+Accession: PHA02562 ID: 222878
+
+684. 47
+endonuclease subunit; Provisional
+Accession: PHA02546 ID: 222867
+
+685. M
+terminase endonuclease subunit; Provisional
+Accession: PHA02537 ID: 222861
+
+686. Beta-Casp: Beta-Casp domain
+The beta-CASP domain is found C terminal to the beta-lactamase domain in pre-mRNA 3'-end-processing ...
+Accession: smart01027 ID: 214983
+
+687. NurA: NurA nuclease
+This family includes NurA a nuclease exhibiting both single-stranded endonuclease activity and 5'-3'...
+Accession: smart00933 ID: 214920
+
+688. HIRAN: The HIRAN protein (HIP116, Rad5p N-terminal) is found in the N-terminal regions of the SWI2/SNF2 proteins typified by HIP116 and Rad5p
+HIRAN is found as a standalone protein in several bacteria and prophages, or fused to other catalyti...
+Accession: smart00910 ID: 214906
+
+689. intein_Cterm: intein C-terminal splicing region
+This model represents the well-conserved C-terminal region of a large number of inteins. It is based...
+Accession: TIGR01443 ID: 213622
+
+690. HSPA9-like_NBD: Nucleotide-binding domain of human HSPA9, Escherichia coli DnaK, and similar proteins
+This subgroup includes human mitochondrial HSPA9 (also known as 70-kDa heat shock protein 9, CSA; MO...
+Accession: cd11733 ID: 212683
+
+691. HSPA9-Ssq1-like_NBD: Nucleotide-binding domain of human HSPA9 and similar proteins
+This subfamily includes human mitochondrial HSPA9 (also known as 70-kDa heat shock protein 9, CSA; M...
+Accession: cd10234 ID: 212676
+
+692. BMS1: Bms1, an essential GTPase, promotes assembly of preribosomal RNA processing complexes
+Bms1 is an essential, evolutionarily conserved, nucleolar protein. Its depletion interferes with pro...
+Accession: cd01882 ID: 206669
+
+693. HintN: Hint (Hedgehog/Intein) domain N-terminal region
+Hedgehog/Intein domain, N-terminal region. Domain has been split to accommodate large insertions of ...
+Accession: smart00306 ID: 197642
+
+694. HintC: Hint (Hedgehog/Intein) domain C-terminal region
+Hedgehog/Intein domain, C-terminal region. Domain has been split to accommodate large insertions of ...
+Accession: smart00305 ID: 197641
+
+695. PLDc: Phospholipase D. Active site motifs
+Phosphatidylcholine-hydrolyzing phospholipase D (PLD) isoforms are activated by ADP-ribosylation fac...
+Accession: smart00155 ID: 197546
+
+696. Deadenylase_CCR4a: C-terminal deadenylase domain of CCR4a, also known as CCR4-NOT transcription complex subunit 6
+This subfamily contains the C-terminal catalytic domain of the deadenylase, CCR4a, also known as CCR...
+Accession: cd10313 ID: 197340
+
+697. Deadenylase_CCR4b: C-terminal deadenylase domain of CCR4b, also known as CCR4-NOT transcription complex subunit 6-like
+This subfamily contains the C-terminal catalytic domain of the deadenylase, CCR4b, also known as CCR...
+Accession: cd10312 ID: 197339
+
+698. MnuA_DNase1-like: Mycoplasma pulmonis MnuA nuclease-like
+This subfamily includes Mycoplasma pulmonis MnuA, a membrane-associated nuclease related to Deoxyrib...
+Accession: cd10283 ID: 197338
+
+699. INPP5c_SHIP2-INPPL1: Catalytic inositol polyphosphate 5-phosphatase (INPP5c) domain of SH2 domain containing inositol 5-phosphatase-2 and related proteins
+This subfamily contains the INPP5c domain of SHIP2 (SH2 domain containing inositol 5-phosphatase-2, ...
+Accession: cd09101 ID: 197335
+
+700. INPP5c_SHIP1-INPP5D: Catalytic inositol polyphosphate 5-phosphatase (INPP5c) domain of SH2 domain containing inositol polyphosphate 5-phosphatase-1 and related proteins
+This subfamily contains the INPP5c domain of SHIP1 (SH2 domain containing inositol polyphosphate 5-p...
+Accession: cd09100 ID: 197334
+
+701. INPP5c_Synj2: Catalytic inositol polyphosphate 5-phosphatase (INPP5c) domain of synaptojanin 2
+This subfamily contains the INPP5c domains of human synaptojanin 2 (Synj2) and related proteins. It ...
+Accession: cd09099 ID: 197333
+
+702. INPP5c_Synj1: Catalytic inositol polyphosphate 5-phosphatase (INPP5c) domain of synaptojanin 1
+This subfamily contains the INPP5c domains of human synaptojanin 1 (Synj1) and related proteins. It ...
+Accession: cd09098 ID: 197332
+
+703. Deadenylase_CCR4: C-terminal deadenylase domain of CCR4 and related domains
+This subfamily contains the C-terminal catalytic domain of the deadenylases, Saccharomyces cerevisia...
+Accession: cd09097 ID: 197331
+
+704. Deadenylase_nocturnin: C-terminal deadenylase domain of nocturnin and related domains
+This subfamily contains the C-terminal catalytic domain of the deadenylase, nocturnin, and related d...
+Accession: cd09096 ID: 197330
+
+705. INPP5c_INPP5E-like: Catalytic inositol polyphosphate 5-phosphatase (INPP5c) domain of Inositol polyphosphate-5-phosphatase E and related proteins
+INPP5c domain of Inositol polyphosphate-5-phosphatase E (also called type IV or 72 kDa 5-phosphatase...
+Accession: cd09095 ID: 197329
+
+706. INPP5c_INPP5J-like: Catalytic inositol polyphosphate 5-phosphatase (INPP5c) domain of inositol polyphosphate 5-phosphatase J and related proteins
+INPP5c domain of Inositol polyphosphate-5-phosphatase J (INPP5J), also known as PIB5PA or PIPP, and ...
+Accession: cd09094 ID: 197328
+
+707. INPP5c_INPP5B: Catalytic inositol polyphosphate 5-phosphatase (INPP5c) domain of Type II inositol polyphosphate 5-phosphatase I, Oculocerebrorenal syndrome of Lowe 1, and related proteins
+This subfamily contains the INPP5c domain of type II inositol polyphosphate 5-phosphatase I (INPP5B)...
+Accession: cd09093 ID: 197327
+
+708. INPP5A: Type I inositol polyphosphate 5-phosphatase I
+Type I inositol polyphosphate 5-phosphatase I (INPP5A) hydrolyzes the 5-phosphate from inositol 1,3,...
+Accession: cd09092 ID: 197326
+
+709. INPP5c_SHIP: Catalytic inositol polyphosphate 5-phosphatase (INPP5c) domain of SH2 domain containing inositol polyphosphate 5-phosphatase-1 and -2, and related proteins
+This subfamily contains the INPP5c domain of SHIP1 (SH2 domain containing inositol polyphosphate 5-p...
+Accession: cd09091 ID: 197325
+
+710. INPP5c_ScInp51p-like: Catalytic inositol polyphosphate 5-phosphatase (INPP5c) domain of Saccharomyces cerevisiae Inp51p, Inp52p, and Inp53p, and related proteins
+This subfamily contains the INPP5c domain of three Saccharomyces cerevisiae synaptojanin-like inosit...
+Accession: cd09090 ID: 197324
+
+711. INPP5c_Synj: Catalytic inositol polyphosphate 5-phosphatase (INPP5c) domain of synaptojanins
+This subfamily contains the INPP5c domains of two human synaptojanins, synaptojanin 1 (Synj1) and sy...
+Accession: cd09089 ID: 197323
+
+712. Deadenylase: C-terminal deadenylase domain of CCR4, nocturnin, and related domains
+This family contains the C-terminal catalytic domains of the deadenylases, CCR4 and nocturnin, and r...
+Accession: cd09082 ID: 197316
+
+713. CdtB: CdtB, the catalytic DNase I-like subunit of cytolethal distending toxin (CDT) protein
+CDT is a secreted protein toxin produced by a number of Gram-negative disease-causing bacteria. CDT ...
+Accession: cd09081 ID: 197315
+
+714. TDP2: Phosphodiesterase domain of human TDP2, a 5'-tyrosyl DNA phosphodiesterase, and related domains
+Human TDP2, also known as TTRAP (TRAF/TNFR-associated factors, and tumor necrosis factor receptor/TN...
+Accession: cd09080 ID: 197314
+
+715. RgfB-like: Streptococcus agalactiae RgfB, part of a putative two component signal transduction system, and related proteins
+This family includes Streptococcus agalactiae RgfB (for regulator of fibrinogen binding) and related...
+Accession: cd09079 ID: 197313
+
+716. nSMase: Neutral sphingomyelinases (nSMase) catalyze the hydrolysis of sphingomyelin in biological membranes to ceramide and phosphorylcholine
+Sphingomyelinases (SMase) are phosphodiesterases that catalyze the hydrolysis of sphingomyelin to ce...
+Accession: cd09078 ID: 197312
+
+717. INPP5c: Catalytic domain of inositol polyphosphate 5-phosphatases
+Inositol polyphosphate 5-phosphatases (5-phosphatases) are signal-modifying enzymes, which hydrolyze...
+Accession: cd09074 ID: 197308
+
+718. PLDc_N_DEXD_c: N-terminal putative catalytic domain of uncharacterized prokaryotic and archeal HKD family nucleases fused to a DEAD/DEAH box helicase domain
+N-terminal putative catalytic domain of uncharacterized prokaryotic and archeal HKD family nucleases...
+Accession: cd10311 ID: 197304
+
+719. PLDc_N_DEXD_b3: N-terminal putative catalytic domain of uncharacterized prokaryotic and archeal HKD family nucleases fused to a DEAD/DEAH box helicase domain
+N-terminal putative catalytic domain of uncharacterized prokaryotic and archeal HKD family nucleases...
+Accession: cd09205 ID: 197299
+
+720. PLDc_N_DEXD_b2: N-terminal putative catalytic domain of uncharacterized prokaryotic and archeal HKD family nucleases fused to a DEAD/DEAH box helicase domain
+N-terminal putative catalytic domain of uncharacterized prokaryotic and archeal HKD family nucleases...
+Accession: cd09204 ID: 197298
+
+721. PLDc_N_DEXD_b1: N-terminal putative catalytic domain of uncharacterized prokaryotic and archeal HKD family nucleases fused to a DEAD/DEAH box helicase domain
+N-terminal putative catalytic domain of uncharacterized prokaryotic and archeal HKD family nucleases...
+Accession: cd09203 ID: 197297
+
+722. PLDc_DNaseII_beta_2: Catalytic domain, repeat 2, of Deoxyribonuclease II beta and similar proteins
+Catalytic domain, repeat 2, of Deoxyribonuclease II beta (DNase II beta, EC 3.1.22.1), also known as...
+Accession: cd09192 ID: 197288
+
+723. PLDc_DNaseII_alpha_2: Catalytic domain, repeat 2, of Deoxyribonuclease II alpha and similar proteins
+Catalytic domain, repeat 2, of Deoxyribonuclease II alpha (DNase II alpha, EC 3.1.22.1) and similar ...
+Accession: cd09191 ID: 197287
+
+724. PLDc_DNaseII_beta_1: Catalytic domain, repeat 1, of Deoxyribonuclease II beta and similar proteins
+Catalytic domain, repeat 1, of Deoxyribonuclease II beta (DNase II beta, EC 3.1.22.1), also known as...
+Accession: cd09190 ID: 197286
+
+725. PLDc_DNaseII_alpha_1: Catalytic domain, repeat 1, of Deoxyribonuclease II alpha and similar proteins
+Catalytic domain, repeat 1, of Deoxyribonuclease II alpha (DNase II alpha, EC 3.1.22.1) and similar ...
+Accession: cd09189 ID: 197285
+
+726. PLDc_N_DEXD_b: N-terminal putative catalytic domain of uncharacterized prokaryotic and archeal HKD family nucleases fused to a DEAD/DEAH box helicase domain
+N-terminal putative catalytic domain of uncharacterized prokaryotic and archeal HKD family nucleases...
+Accession: cd09180 ID: 197277
+
+727. PLDc_N_DEXD_a: N-terminal putative catalytic domain of uncharacterized prokaryotic and archeal HKD family nucleases fused to a DEAD/DEAH box helicase domain
+N-terminal putative catalytic domain of uncharacterized prokaryotic and archeal HKD family nucleases...
+Accession: cd09179 ID: 197276
+
+728. PLDc_Nuc: Catalytic domain of EDTA-resistant nuclease Nuc from Salmonella typhimurium and similar proteins
+Catalytic domain of an EDTA-resistant nuclease Nuc from Salmonella typhimurium and similar proteins....
+Accession: cd09170 ID: 197267
+
+729. PLDc_yjhR_C_like: C-terminal domain of Escherichia coli uncharacterized protein yjhR and similar proteins
+C-terminal domain of Escherichia coli uncharacterized protein yjhR, encoded by the o338 gene, and si...
+Accession: cd09118 ID: 197217
+
+730. PLDc_Nuc_like: Catalytic domain of EDTA-resistant nuclease Nuc, vertebrate phospholipase D6, and similar proteins
+Catalytic domain of EDTA-resistant nuclease Nuc, vertebrate phospholipase D6 (PLD6, EC 3.1.4.4), and...
+Accession: cd09116 ID: 197215
+
+731. PLDc_SF: Catalytic domain of phospholipase D superfamily proteins
+Catalytic domain of phospholipase D (PLD) superfamily proteins. The PLD superfamily is composed of a...
+Accession: cd00138 ID: 197200
+
+732. H3TH_EXO1: H3TH domain of Exonuclease-1, a structure-specific, divalent-metal-ion dependent, 5' nuclease
+Exonuclease-1 (EXO1) is involved in multiple, eukaryotic DNA metabolic pathways, including DNA repli...
+Accession: cd09908 ID: 188628
+
+733. H3TH_MKT1: H3TH domain of Mkt1: A global regulator of mRNAs encoding mitochondrial proteins and eukaryotic homologs
+The Mkt1 gene product interacts with the Poly(A)-binding protein associated factor, Pbp1, and is pre...
+Accession: cd09902 ID: 188622
+
+734. H3TH_53EXO: H3TH domain of the 5'-3' exonuclease of Taq DNA polymerase I and homologs
+H3TH (helix-3-turn-helix) domains of the 5'-3' exonuclease (53EXO) of mutli-domain DNA polymerase I ...
+Accession: cd09898 ID: 188618
+
+735. RNase_Z_T_toga: ribonuclease Z, Thermotoga type
+Members of this protein family are ribonuclease Z as found in the genus Thermotoga, where the enzyme...
+Accession: TIGR02650 ID: 188239
+
+736. RNase_H2-C: Ribonuclease H2-C is a subunit of the eukaryotic RNase H complex which cleaves RNA-DNA hybrids
+Ribonuclease H2C is one of the three protein of eukaryotic RNase H2 complex that is required for nuc...
+Accession: cd09271 ID: 187752
+
+737. RNase_H2-B: Ribonuclease H2-B is a subunit of the eukaryotic RNase H complex which cleaves RNA-DNA hybrids
+Ribonuclease H2B is one of the three proteins of eukaryotic RNase H2 complex that is required for nu...
+Accession: cd09270 ID: 187751
+
+738. PRK15137
+DNA-specific endonuclease I; Provisional
+Accession: PRK15137 ID: 185091
+
+739. PRK10702
+endonuclease III; Provisional
+Accession: PRK10702 ID: 182661
+
+740. PRK10445
+endonuclease VIII; Provisional
+Accession: PRK10445 ID: 182467
+
+741. PRK09482
+flap endonuclease-like protein; Provisional
+Accession: PRK09482 ID: 181896
+
+742. PRK01060
+endonuclease IV; Provisional
+Accession: PRK01060 ID: 179214
+
+743. 49
+recombination endonuclease VII; Provisional
+Accession: PHA02565 ID: 177395
+
+744. PHA00159
+endonuclease I
+Accession: PHA00159 ID: 177267
+
+745. AlkD_like_1: A new structural DNA glycosylase containing HEAT-like repeats
+This domain represents a new and uncharacterized structural superfamily of DNA glycosylases that for...
+Accession: cd07064 ID: 132881
+
+746. AlkD_like: A new structural DNA glycosylase
+This domain represents a new and uncharacterized structural superfamily of DNA glycosylases that for...
+Accession: cd06561 ID: 132880
+
+747. ruvB: Holliday junction DNA helicase, RuvB subunit
+All proteins in this family for which functions are known are 5'-3' DNA helicases that, as part of a...
+Accession: TIGR00635 ID: 129721
+
+748. rad10: DNA repair protein rad10
+All proteins in this family for which functions are known are components in a multiprotein endonucle...
+Accession: TIGR00597 ID: 129685
+
+749. gcp_kae1: metallohydrolase, glycoprotease/Kae1 family
+This subfamily includes the well-studied secreted O-sialoglycoprotein endopeptidase (glycoprotease, ...
+Accession: TIGR00329 ID: 129429
+
+750. endA: tRNA-intron lyase
+The enzyme catalyses the endonucleolytic cleavage of pre tRNA at the 5' and 3' splice sites to relea...
+Accession: TIGR00324 ID: 129424
+
+751. ruvC: crossover junction endodeoxyribonuclease RuvC
+Endonuclease that resolves Holliday junction intermediates in genetic recombination. The active form...
+Accession: TIGR00228 ID: 129331
+
+752. ruvA: Holliday junction DNA helicase, RuvA subunit
+RuvA specifically binds Holliday junctions as a sandwich of two tetramers and maintains the configur...
+Accession: TIGR00084 ID: 129193
+
+753. Agro_virD5: Agrobacterium VirD5 protein
+The virD operon in Agrobacterium encodes a site-specific endonuclease, and a number of other poorly ...
+Accession: smart00795 ID: 129031
+
+754. DNaseIc: deoxyribonuclease I
+Deoxyribonuclease I catalyzes the endonucleolytic cleavage of double-stranded DNA. The enzyme is sec...
+Accession: smart00476 ID: 128752
+
+755. RNase_A_canonical
+Canonical RNase A family includes all vertebrate homologues to the bovine pancreatic ribonuclease A ...
+Accession: cd06265 ID: 119387
+
+756. RNase_A
+RNase A family, or Pancreatic RNases family; includes vertebrate RNase homologs to the bovine pancre...
+Accession: cd00163 ID: 119386
+
+757. PHA00280
+putative NHN endonuclease
+Accession: PHA00280 ID: 106901

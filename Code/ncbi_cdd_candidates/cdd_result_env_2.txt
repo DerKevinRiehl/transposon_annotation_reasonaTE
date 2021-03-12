@@ -1,0 +1,28 @@
+
+1. TLV_coat: ENV polyprotein (coat polyprotein)
+
+Accession: pfam00429 ID: 306850
+
+2. Ebola_HIV-1-like_HR1-HR2: heptad repeat 1-heptad repeat 2 region (ectodomain) of the transmembrane subunit of various endogenous retroviruses (ERVs) and infectious retroviruses, including Ebola virus and human immunodeficiency virus type 1 (HIV-1)
+This domain superfamily spans both heptad repeats of the glycoprotein (gp)/transmembrane subunit of ...
+Accession: cl02885 ID: 383161
+
+3. Borrelia_orfX: Orf-X protein
+This short protein has no known function and is found in Jaagsiekte sheep retrovirus. Jaagsiekte she...
+Accession: pfam04160 ID: 282070
+
+4. Foamy_virus_ENV: Foamy virus envelope protein
+Expression of the envelope (Env) glycoprotein is essential for viral particle egress. This feature i...
+Accession: pfam03408 ID: 281409
+
+5. Gypsy: Gypsy protein
+This family consists of several Gypsy/Env proteins from Drosophila and Ceratitis fruit fly species. ...
+Accession: pfam07253 ID: 254125
+
+6. HTLV-1-like_HR1-HR2: heptad repeat 1-heptad repeat 2 region (ectodomain) of the transmembrane subunit of human T-cell leukemia virus type 1 (HTLV-1), and related domains
+This domain subfamily spans both heptad repeats of the glycoprotein (gp)/transmembrane(TM) subunit o...
+Accession: cd09851 ID: 197368
+
+7. Env-gp36: Lentivirus surface glycoprotein
+This protein is found in feline immunodeficiency retrovirus. It represents the surface glycoprotein ...
+Accession: pfam09590 ID: 150302

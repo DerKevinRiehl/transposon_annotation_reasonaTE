@@ -1,0 +1,20 @@
+# args=-index sequence_ltrharvest/sequence_index.fsa -range 0 0 -seed 30 -minlenltr 100 -maxlenltr 3500 -mindistltr 4000 -maxdistltr 25000 -similar 70 -mintsd 4 -maxtsd 20 -vic 60 -overlaps no -xdrop 5 -mat 2 -mis -2 -ins -3 -del -3 -longoutput -out sequence_ltrharvest/sequence_FullLTRretrotransposonSeqs.fsa -outinner sequence_ltrharvest/sequence_BetweenLTRSeqs.fsa -gff3 sequence_ltrharvest/sequence_Prediction.gff
+# predictions are reported in the following way
+# s(ret) e(ret) l(ret) s(lLTR) e(lLTR) l(lLTR) TSD l(TSD) s(rLTR) e(rLTR) l(rLTR) TSD l(TSD) sim(LTRs) seq-nr
+# where:
+# s = starting position
+# e = ending position
+# l = length
+# ret = LTR-retrotransposon
+# lLTR = left LTR
+# rLTR = right LTR
+# TSD = target site duplication
+# sim = similarity
+# seq-nr = sequence number
+142967  153019  10053  142967  143293  327  tggg  4  152694  153019  326  tggg  4  99.39  0
+186046  199522  13477  186046  186168  123  tcag  4  199383  199522  140  tcag  4  75.00  0
+268295  276908  8614  268295  268482  188  ttga  4  276720  276908  189  ttga  4  91.53  0
+663203  677950  14748  663203  663308  106  caca  4  677834  677950  117  caca  4  82.91  0
+40194  47926  7733  40194  40349  156  ttgc  4  47770  47926  157  ttgc  4  78.34  1
+245330  256873  11544  245330  245904  575  caac  4  256299  256873  575  caac  4  98.78  1
+278520  293715  15196  278520  278631  112  cccg  4  293601  293715  115  cccg  4  86.09  1

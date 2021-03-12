@@ -1,0 +1,820 @@
+
+1. IHHNV_capsid: Infectious hypodermal and haematopoietic necrosis virus, capsid
+IHHNV_capsid is the single capsid protein of infectious hypodermal and haematopoietic necrosis virus...
+Accession: pfam16530 ID: 374607
+
+2. Capsid_NCLDV: Large eukaryotic DNA virus major capsid protein
+This family includes the major capsid protein of iridoviruses, chlorella virus and Spodoptera ascovi...
+Accession: pfam04451 ID: 367949
+
+3. Peptidase_S80: Bacteriophage T4-like capsid assembly protein (Gp20)
+This family consists of several bacteriophage T4-like capsid assembly (or portal) proteins. The exac...
+Accession: cl23948 ID: 390191
+
+4. Peptidase_S80: Bacteriophage T4-like capsid assembly protein (Gp20)
+This family consists of several bacteriophage T4-like capsid assembly (or portal) proteins. The exac...
+Accession: pfam07230 ID: 369274
+
+5. Rubella_Capsid: Rubella capsid protein
+Rubella virus is an enveloped positive-strand RNA virus of the family Togaviridae. Virions are compo...
+Accession: pfam05750 ID: 283420
+
+6. Phage_GPO: Phage capsid scaffolding protein (GPO) serine peptidase
+This family consists of several bacteriophage capsid scaffolding proteins (GPO) and some related bac...
+Accession: cl15838 ID: 387689
+
+7. Herpes_V23: Herpesvirus VP23 like capsid protein
+This family consist of various capsid proteins from members of the herpesviridae. The capsid protein...
+Accession: cl30049 ID: 356925
+
+8. Phage_F: Capsid protein (F protein)
+This is a family of proteins from single-stranded DNA bacteriophages. Protein F is the major capsid ...
+Accession: cl15846 ID: 326659
+
+9. Gp23: Major capsid protein Gp23
+This family contains a number of major capsid Gp23 proteins approximately 500 residues long, from T4...
+Accession: cl22495 ID: 304570
+
+10. Phage_capsid: Phage capsid family
+Family of bacteriophage hypothetical proteins and capsid proteins.
+Accession: cl27082 ID: 391678
+
+11. Phage_cap_P2: Phage major capsid protein, P2 family
+capsid protein; Provisional
+Accession: cl04947 ID: 383932
+
+12. Phage_GPO: Phage capsid scaffolding protein (GPO) serine peptidase
+This family consists of several bacteriophage capsid scaffolding proteins (GPO) and some related bac...
+Accession: pfam05929 ID: 368675
+
+13. MCPVI: Minor capsid protein VI
+This minor capsid protein may act as a link between the external capsid and the internal DNA-protein...
+Accession: pfam02993 ID: 367287
+
+14. Phage_Capsid_P3: P3 major capsid protein
+The P3 major capsid protein adopts a 'double-barrel' structure comprising two eight-stranded viral b...
+Accession: pfam09018 ID: 312535
+
+15. Capsid_VP7: Outer capsid protein VP7
+Outer capsid protein VP7 is a reoviral protein that interacts with VP4 to form the outer icosahedral...
+Accession: pfam17071 ID: 293676
+
+16. Astro_capsid_p2: C-terminal tail of astrovirus capsid projection or spike
+Astro_capsid_p2 is a family of turkey astroviral spike projections. These are globular domains on th...
+Accession: pfam16580 ID: 293188
+
+17. Herpes_MCP: Herpes virus major capsid protein
+This family represents the major capsid protein (MCP) of herpes viruses. The capsid shell consists o...
+Accession: pfam03122 ID: 281162
+
+18. HEV_ORF1: Hepatitis E virus ORF-2 (Putative capsid protein)
+The Hepatitis E virus (HEV) genome is a single-stranded, positive-sense RNA molecule of approximatel...
+Accession: pfam02444 ID: 280583
+
+19. Herpes_V23: Herpesvirus VP23 like capsid protein
+This family consist of various capsid proteins from members of the herpesviridae. The capsid protein...
+Accession: pfam01802 ID: 280050
+
+20. Waikav_capsid_1: Waikavirus capsid protein 1
+The rice tungro spherical waikavirus polyprotein is cleaved into 7 proteins, including three capsid ...
+Accession: pfam12264 ID: 152699
+
+21. Rotavirus_VP7: Rotavirus major outer capsid protein VP7
+This family consists of several Rotavirus major outer capsid protein VP7 sequences. The rotavirus ca...
+Accession: pfam05868 ID: 114586
+
+22. Phage_min_cap2: Phage minor capsid protein 2
+Family of related phage minor capsid proteins.
+Accession: pfam06152 ID: 377615
+
+23. Phage_capsid: Phage capsid family
+Family of bacteriophage hypothetical proteins and capsid proteins.
+Accession: pfam05065 ID: 377449
+
+24. Phage_cap_E: Phage major capsid protein E
+Major capsid protein E is involved with the stabilisation of the condensed form of the DNA molecule ...
+Accession: pfam03864 ID: 377147
+
+25. HV_small_capsid: Small capsid protein of Herpesviridae
+This is a family of herpes-type viral small capsid proteins.
+Accession: pfam17086 ID: 374978
+
+26. Capsid_N: Major capsid protein N-terminus
+This is the N-terminal domain of the major capsid protein in several dsDNA viruses.
+Accession: pfam16903 ID: 374876
+
+27. Soc: Small outer capsid protein
+This protein attaches to and stabilizes the bacteriophage capsid.
+Accession: pfam16855 ID: 374847
+
+28. Minor_capsid_3: Minor capsid protein from bacteriophage
+This family is from one of three adjacent genes, all of which are involved in formation of the minor...
+Accession: pfam12691 ID: 372257
+
+29. Astro_capsid_p: Turkey astrovirus capsid protein
+This family of proteins is found in viruses. Proteins in this family are typically between 241 and 2...
+Accession: pfam12226 ID: 371974
+
+30. Minor_capsid_2: Minor capsid protein
+Most of the members of this family are annotated as being minor capsid proteins. The genomes carryin...
+Accession: pfam11114 ID: 371382
+
+31. CRPV_capsid: CRPV capsid protein like
+This is a family of capsid proteins found in positive stranded ssRNA viruses such as cricket paralys...
+Accession: pfam08762 ID: 370104
+
+32. Nucleo_P87: Nucleopolyhedrovirus capsid protein P87
+This family consists of several Nucleopolyhedrovirus capsid protein P87 sequences. P87 is expressed ...
+Accession: pfam07267 ID: 369296
+
+33. Baculo_VP39: Baculovirus major capsid protein VP39
+This family constitutes the 39 kDa major capsid protein of the Baculoviridae.
+Accession: pfam04501 ID: 367967
+
+34. Rhv: picornavirus capsid protein
+CAUTION: This alignment is very weak. It can not be generated by clustalw. If a representative set i...
+Accession: pfam00073 ID: 333816
+
+35. Herpes_VP19C: Herpesvirus capsid shell protein VP19C
+Capsid triplex subunit 1; Provisional
+Accession: cl28050 ID: 332871
+
+36. NP1-WLL: Non-capsid protein NP1
+This family is the non-capsid protein NP1 of the ssDNA, Parvovirinae virus Bocavirus of cattle and h...
+Accession: pfam11733 ID: 314574
+
+37. Minor_capsid_1: Minor capsid protein
+This is a putative tail-knob or minor capsid protein from bacteriophages.
+Accession: pfam10665 ID: 313803
+
+38. Herpes_capsid: Gammaherpesvirus capsid protein
+This family consists of several Gammaherpesvirus capsid proteins. The exact function of this family ...
+Accession: pfam06112 ID: 310597
+
+39. Circo_capsid: Circovirus capsid protein
+Circoviruses are small circular single stranded viruses. This family is the capsid protein from viru...
+Accession: pfam02443 ID: 308191
+
+40. Phage_F: Capsid protein (F protein)
+This is a family of proteins from single-stranded DNA bacteriophages. Protein F is the major capsid ...
+Accession: pfam02305 ID: 308107
+
+41. Capsid-VNN: nodavirus capsid protein
+The capsid or coat protein of this family is expressed in Nodaviridae, that are ssRNA positive-stran...
+Accession: pfam11729 ID: 288565
+
+42. Tecti-min-caps: Tectiviridae, minor capsid
+Members of this family form the minor capsid protein of various Tectiviridae.
+Accession: pfam09300 ID: 286393
+
+43. Baculo_VP91_N: Viral capsid protein 91 N-terminal
+This domain is found in Baculoviridae including the nucleopolyhedrovirus at the N-terminus of the vi...
+Accession: pfam08475 ID: 285649
+
+44. Phytoreo_P8: Phytoreovirus outer capsid protein P8
+This family consists of several Phytoreovirus outer capsid protein P8 sequences.
+Accession: pfam07124 ID: 284526
+
+45. Gp23: Major capsid protein Gp23
+This family contains a number of major capsid Gp23 proteins approximately 500 residues long, from T4...
+Accession: pfam07068 ID: 284479
+
+46. Fiji_64_capsid: Fijivirus 64 kDa capsid protein
+This family consists of several Fijivirus 64 kDa capsid proteins.
+Accession: pfam05880 ID: 283524
+
+47. Gyro_capsid: Gyrovirus capsid protein (VP1)
+Gyroviruses are small circular single stranded viruses. This family includes the VP1 protein from th...
+Accession: pfam04162 ID: 282072
+
+48. Denso_VP4: Capsid protein VP4
+Four different translation initiation sites of the densovirus capsid protein mRNA give rise to four ...
+Accession: pfam02336 ID: 280494
+
+49. capsid_maj_N4: major capsid protein, N4-gp56 family
+Members of this family are phage major capsid proteins as found in phage N4 (a double-stranded DNA v...
+Accession: TIGR04387 ID: 275180
+
+50. major_cap_HK97: phage major capsid protein, HK97 family
+This model family represents the major capsid protein component of the heads (capsids) of bacterioph...
+Accession: TIGR01554 ID: 273690
+
+51. Phage_T7_Capsid: Phage T7 capsid assembly protein
+capsid assembly protein
+Accession: cl14192 ID: 246618
+
+52. major_capsid_P2: phage major capsid protein, P2 family
+This model family represents the major capsid protein component of the heads (capsids) of bacterioph...
+Accession: TIGR01551 ID: 233464
+
+53. lambda-1: inner capsid protein lambda-1 or VP3
+The reovirus inner capsid protein lambda-1 displays nucleoside triphosphate phosphohydrolase (NTPase...
+Accession: cd11674 ID: 212564
+
+54. Reovirus_cap: Reovirus outer capsid protein, Sigma 3
+Sigma 3 is the major outer capsid protein of reovirus. Sigma 3 is encoded by genome segment 4. Sigma...
+Accession: pfam00979 ID: 144537
+
+55. L_lactis_ph-MCP: Lactococcus lactis bacteriophage major capsid protein
+This family consists of several Lactococcus lactis bacteriophage major capsid proteins.
+Accession: pfam06673 ID: 115336
+
+56. capsid_maj_Podo: phage major capsid protein
+A founding member of this family, AKO59007.1, was identified as the major head protein in Brucella p...
+Accession: NF033394 ID: 380244
+
+57. Reo_sigmaC_M: Reovirus sigma C capsid protein triple beta spiral
+This short region forms a triple beta spiral structural motif.
+Accession: pfam17750 ID: 375314
+
+58. Phage_cap_P2: Phage major capsid protein, P2 family
+
+Accession: pfam05125 ID: 368296
+
+59. Baculo_p24: Baculovirus P24 capsid protein
+Baculovirus P24 is associated with nucleocapsids of budded and polyhedra-derived virions.
+Accession: pfam05073 ID: 368276
+
+60. Reo_sigmaC: Reovirus sigma C capsid protein
+
+Accession: pfam04582 ID: 368009
+
+61. Astro_capsid_N: Astrovirus capsid protein precursor
+This product is encoded by astrovirus ORF2, one of the three astrovirus ORFs (1a, 1b, 2). The 87kD p...
+Accession: pfam03115 ID: 367340
+
+62. RNA_capsid: Calicivirus putative RNA polymerase/capsid protein
+
+Accession: pfam03035 ID: 367308
+
+63. Flavi_capsid: Flavivirus capsid protein C
+Flaviviruses are small enveloped viruses with virions comprised of 3 proteins called C, M and E. Mul...
+Accession: pfam01003 ID: 366413
+
+64. VP4_haemagglut: Outer Capsid protein VP4 (Hemagglutinin) Concanavalin-like domain
+This entry represents the N-terminal concanavalin-like domain from the VP4 protein of rotavirus C.
+Accession: pfam00426 ID: 334070
+
+65. Orbi_VP2: Orbivirus outer capsid protein VP2
+VP2 acts as an anchor for VP1 and VP3. VP2 contains a non-specific DNA and RNA binding domain in the...
+Accession: pfam00898 ID: 307171
+
+66. Tenui_NCP: Tenuivirus major non-capsid protein
+This protein of unknown function accumulates in large amounts in tenuivirus infected cells. It is fo...
+Accession: pfam04876 ID: 282700
+
+67. Herpes_VP19C: Herpesvirus capsid shell protein VP19C
+
+Accession: pfam03327 ID: 281339
+
+68. Rota_Capsid_VP6: Rotavirus major capsid protein VP6
+Rotaviruses consist of three concentric protein shells. The intermediate (middle) protein layer cons...
+Accession: pfam00980 ID: 279341
+
+69. Orbi_VP5: Orbivirus outer capsid protein VP5
+cryoelectron microscopy indicates that VP5 is a trimer implying that there are 360 copies of VP5 per...
+Accession: pfam00901 ID: 279272
+
+70. Orbi_VP7: Orbivirus inner capsid protein VP7
+In BTV, 260 trimers of VP7 are found in the core. The major proteins of the core are VP7 and VP3. VP...
+Accession: pfam00897 ID: 279268
+
+71. COG5518: Bacteriophage capsid portal protein  [Mobilome: prophages, transposons]
+
+Accession: COG5518 ID: 227805
+
+72. COG5511: Bacteriophage capsid protein  [Mobilome: prophages, transposons]
+
+Accession: COG5511 ID: 227798
+
+73. COG4653: Predicted phage phi-C31 gp36 major capsid-like protein  [Mobilome: prophages, transposons]
+
+Accession: COG4653 ID: 227000
+
+74. Phage_T7_Capsid: Phage T7 capsid assembly protein
+
+Accession: pfam05396 ID: 147533
+
+75. HCV_capsid: Hepatitis C virus capsid protein
+
+Accession: pfam01543 ID: 144947
+
+76. SPRY: SPRY domain
+SPRY domains, first identified in the SP1A kinase of Dictyostelium and rabbit Ryanodine receptor (he...
+Accession: cl02614 ID: 383051
+
+77. Phage_portal: Phage portal protein
+Bacteriophage portal proteins form a dodecamer and is located at a five-fold vertex of the viral cap...
+Accession: cl19194 ID: 388527
+
+78. RING_Ubox: The superfamily of RING finger (Really Interesting New Gene) domain and U-box domain
+RING finger is a specialized type of Zn-finger of 40 to 60 residues that binds two atoms of zinc. It...
+Accession: cl17238 ID: 388418
+
+79. Bbox_SF: B-box-type zinc finger superfamily
+The B-box-type zinc finger is a short zinc binding domain of around 40 amino acid residues in length...
+Accession: cl00034 ID: 381767
+
+80. Bbox2_TRIM5-like: B-box-type 2 zinc finger  found in tripartite motif-containing proteins, TRIM5, TRIM6, TRIM22, TRIM34, TRIM38 and similar proteins
+The family includes TRIM5, TRIM6, TRIM22, TRIM34, and TRIM38, all of which belong to the C-IV subcla...
+Accession: cd19761 ID: 380819
+
+81. Sigma_1_2: Reoviral Sigma1/Sigma2 family
+Reoviruses are double-stranded RNA viruses. They lack a membrane envelope and their capsid is organi...
+Accession: pfam03084 ID: 367326
+
+82. RING-HC_TRIM5_like-C-IV: RING finger, HC subclass, found in tripartite motif-containing proteins TRIM5, TRIM6, TRIM22, TRIM34 and similar proteins
+TRIM5, TRIM6, TRIM22, and TRIM34, four closely related tripartite motif-containing proteins, belong ...
+Accession: cd16591 ID: 319505
+
+83. SPRY_PRY_TRIM5: PRY/SPRY domain in tripartite motif-binding protein 5 (TRIM5), also known as RING finger protein 88 (RNF88)
+This domain, consisting of the distinct N-terminal PRY subdomain followed by the SPRY subdomain, is ...
+Accession: cd15822 ID: 293994
+
+84. phiKZ_IP: phiKZ-like phage internal head proteins
+Phage internal head proteins (IP) are proteins that are encoded by a bacteriophage and assembled int...
+Accession: pfam12699 ID: 289469
+
+85. Herpes_UL16: Herpesvirus UL16/UL94 family
+This family groups together HSV-1 UL16, HSV-6 ORF11R, EHV-1 46, HCMV UL94, EBV BGLF2 and VZV 44. UL1...
+Accession: cl28066 ID: 355700
+
+86. SPRY_PRY_TRIM34: PRY/SPRY domain in tripartite motif-containing protein 34 (TRIM34), also known as RING finger protein 21 (RNF21) or interferon-responsive finger protein (IFP1)
+This domain, consisting of the distinct N-terminal PRY subdomain followed by the SPRY subdomain, is ...
+Accession: cd15825 ID: 293997
+
+87. SPRY_PRY_TRIM5_6_22_34: PRY/SPRY domain of tripartite motif-binding protein 5, 6, 22 and 34 (TRIM5, TRIM6, TRIM22 and TRIM34)
+This domain, consisting of the distinct N-terminal PRY subdomain followed by the SPRY subdomain, is ...
+Accession: cd15810 ID: 293982
+
+88. Herpes_UL16: Herpesvirus UL16/UL94 family
+This family groups together HSV-1 UL16, HSV-6 ORF11R, EHV-1 46, HCMV UL94, EBV BGLF2 and VZV 44. UL1...
+Accession: pfam03044 ID: 281094
+
+89. Herpes_UL17: Herpesvirus UL17 protein
+UL17 protein is required for DNA cleavage and packaging in herpes viruses. It has been shown to asso...
+Accession: cl27132 ID: 391691
+
+90. P22_CoatProtein: P22 coat protein - gene protein 5
+This family of proteins represents gene product 5 from bacteriophage P22. This protein is involved i...
+Accession: cl22542 ID: 389928
+
+91. Phage_prot_Gp6: Phage portal protein, SPP1 Gp6-like
+This protein forms a hole, or portal, that enables DNA passage during packaging and ejection. It als...
+Accession: cl19531 ID: 388584
+
+92. Phage_portal: Phage portal protein
+Bacteriophage portal proteins form a dodecamer and is located at a five-fold vertex of the viral cap...
+Accession: pfam04860 ID: 377413
+
+93. P2_N: Viral coat protein P2 N-terminal domain
+P2 (30.2 kDa) is the major outer-coat protein of the marine lipid-containing bacteriophage PM2. Each...
+Accession: pfam18628 ID: 376054
+
+94. Arc_C: Arc C-lobe
+This is the C-terminal domain of Arc protein present in found in Rattus norvegicus. The Arc protein ...
+Accession: pfam18162 ID: 375599
+
+95. Rota_VP2: Rotavirus VP2 protein
+Rotavirus particles consist of three concentric proteinaceous capsid layers. The innermost capsid (c...
+Accession: pfam05087 ID: 368280
+
+96. Herpes_UL17: Herpesvirus UL17 protein
+UL17 protein is required for DNA cleavage and packaging in herpes viruses. It has been shown to asso...
+Accession: pfam04559 ID: 367990
+
+97. PHA03259
+Capsid triplex subunit 2; Provisional
+Accession: cl30050 ID: 356926
+
+98. rhv_like
+Picornavirus capsid protein domain_like. Picornaviruses are non-enveloped plus-strand ssRNA animal v...
+Accession: cl13999 ID: 353801
+
+99. Mx_ML: Matrix and Matrix long proteins N-terminal
+This entry represents the N-terminal fragment of family members such as the Matrix (Mx) and Matrix p...
+Accession: pfam17536 ID: 340251
+
+100. Microvir_H: Microvirus H protein (pilot protein)
+A single molecule of H protein is found on each of the 12 spikes on the microvirus shell. H is invol...
+Accession: cl27995 ID: 332816
+
+101. Dicistro_VP4: Cricket paralysis virus, VP4
+This is a family of minor capsid proteins, known as VP4, from the dicistroviridae. The dicistrovirid...
+Accession: pfam11492 ID: 288362
+
+102. Microvir_H: Microvirus H protein (pilot protein)
+A single molecule of H protein is found on each of the 12 spikes on the microvirus shell. H is invol...
+Accession: pfam04687 ID: 282533
+
+103. Herpes_U30: Herpes virus tegument protein U30
+This family is named after the human herpesvirus protein, but has been characterized in cytomegalovi...
+Accession: pfam04523 ID: 282392
+
+104. PHA02004
+capsid protein
+Accession: cl21666 ID: 272086
+
+105. Retrotrans_gag: Retrotransposon gag protein
+Gag or Capsid-like proteins from LTR retrotransposons. There is a central motif QGXXEXXXXXFXXLXXH th...
+Accession: cl29674 ID: 392152
+
+106. DEAD-like_helicase_N: N-terminal helicase domain of the DEAD-box helicase superfamily
+The DEAD-like helicase superfamily is a diverse family of proteins involved in ATP-dependent RNA or ...
+Accession: cl28899 ID: 391939
+
+107. NTPase_P4: ATPase P4 of dsRNA bacteriophage phi-12
+P4 is a packaging motor which is involved in the packaging of phi-12 genome into preformed capsids u...
+Accession: cl27829 ID: 391789
+
+108. Scaffolding_pro: Phi29 scaffolding protein
+This protein is also referred to as gp7. The protein contains a DNA-binding function and may halve a...
+Accession: cl26468 ID: 391532
+
+109. Late_protein_L1: L1 (late) protein
+major capsid L1 protein; Provisional
+Accession: cl23949 ID: 390192
+
+110. T4_gp9_10: Bacteriophage T4 gp9/10-like protein
+The members of this family are similar to gene products 9 (gp9) and 10 (gp10) of bacteriophage T4. B...
+Accession: cl22960 ID: 389989
+
+111. HTH: Helix-turn-helix domains
+A large family of mostly alpha-helical protein domains with a characteristic fold; most members func...
+Accession: cl21459 ID: 389747
+
+112. T4-gp15_tss: T4-like virus Myoviridae tail sheath stabilizer
+T4-gp15_tss is the tail-sheath-stabilizer or tail-terminator protein of T4-like myoviridae phage. It...
+Accession: cl14348 ID: 387356
+
+113. gp6_gp15_like: Head-Tail Connector Proteins gp6 and gp15, and similar proteins
+Members of this family include the proteins gp6 and gp15 from bacteriophage HK97 and SPP1, respectiv...
+Accession: cl12049 ID: 386255
+
+114. Phage_Mu_F: Phage Mu protein F like protein
+Members of this family are found in double-stranded DNA bacteriophages, and in some bacteria. A memb...
+Accession: cl10072 ID: 385666
+
+115. SCAN: SCAN oligomerization domain
+The SCAN domain (named after SRE-ZBP, CTfin51, AW-1 and Number 18 cDNA) is found in several vertebra...
+Accession: cl02605 ID: 383046
+
+116. Peptidase_S41: C-terminal processing peptidase family S41
+Peptidase family S41 (C-terminal processing peptidase or CTPase family) contains very different subf...
+Accession: cl02526 ID: 383007
+
+117. N-glycanase_C: Peptide-N-glycosidase F, C terminal
+Members of this family adopt an eight-stranded antiparallel beta jelly roll configuration, with the ...
+Accession: pfam09113 ID: 378123
+
+118. N-glycanase_N: Peptide-N-glycosidase F, N terminal
+Members of this family adopt an eight-stranded antiparallel beta jelly roll configuration, with the ...
+Accession: pfam09112 ID: 378122
+
+119. Phage_portal_2: Phage portal protein, lambda family
+This protein forms a hole, or portal, that enables DNA passage during packaging and ejection. It als...
+Accession: pfam05136 ID: 377468
+
+120. Phage_prot_Gp6: Phage portal protein, SPP1 Gp6-like
+This protein forms a hole, or portal, that enables DNA passage during packaging and ejection. It als...
+Accession: pfam05133 ID: 377466
+
+121. T4-gp15_tss: T4-like virus Myoviridae tail sheath stabilizer
+T4-gp15_tss is the tail-sheath-stabilizer or tail-terminator protein of T4-like myoviridae phage. It...
+Accession: pfam16724 ID: 374755
+
+122. SAPIS-gp6: Pathogenicity island protein gp6 in Staphylococcus
+SAPIS-gp6 is a family of proteins produced from the pathogenicity island SAPI1 in pathogenic Staphyl...
+Accession: pfam16722 ID: 374753
+
+123. P22_CoatProtein: P22 coat protein - gene protein 5
+This family of proteins represents gene product 5 from bacteriophage P22. This protein is involved i...
+Accession: pfam11651 ID: 371651
+
+124. NTPase_P4: ATPase P4 of dsRNA bacteriophage phi-12
+P4 is a packaging motor which is involved in the packaging of phi-12 genome into preformed capsids u...
+Accession: pfam11602 ID: 371624
+
+125. Scaffolding_pro: Phi29 scaffolding protein
+This protein is also referred to as gp7. The protein contains a DNA-binding function and may halve a...
+Accession: pfam11418 ID: 371518
+
+126. RdRP_5: Reovirus RNA-dependent RNA polymerase lambda 3
+The sequences in this family are similar to the reoviral minor core protein lambda 3, which function...
+Accession: pfam07925 ID: 369599
+
+127. T4_gp9_10: Bacteriophage T4 gp9/10-like protein
+The members of this family are similar to gene products 9 (gp9) and 10 (gp10) of bacteriophage T4. B...
+Accession: pfam07880 ID: 369569
+
+128. Retrotrans_gag: Retrotransposon gag protein
+Gag or Capsid-like proteins from LTR retrotransposons. There is a central motif QGXXEXXXXXFXXLXXH th...
+Accession: pfam03732 ID: 367628
+
+129. Nepo_coat_C: Nepovirus coat protein, C-terminal domain
+The members of this family are derived from nepoviruses. Together with comoviruses and picornaviruse...
+Accession: pfam03688 ID: 367609
+
+130. Nepo_coat: Nepovirus coat protein, central domain
+The members of this family are derived from nepoviruses. Together with comoviruses and picornaviruse...
+Accession: pfam03391 ID: 367474
+
+131. TT_ORF1: TT viral orf 1
+TT virus (TTV), isolated initially from a Japanese patient with hepatitis of unknown aetiology, has ...
+Accession: pfam02956 ID: 367272
+
+132. Reo_sigma1: Reovirus viral attachment protein sigma 1
+This family consists of the reovirus sigma 1 hemagglutinin, cell attachment protein. This glycoprote...
+Accession: pfam01664 ID: 366748
+
+133. Peptidase_S3: Alphavirus core protein
+Also known as coat protein C and capsid protein C. This makes the literature very confusing. Alphavi...
+Accession: pfam00944 ID: 366379
+
+134. Viral_coat: Viral coat protein (S domain)
+The capsid or coat protein of this family is expressed in Nodaviridae, that are ssRNA positive-stran...
+Accession: cl29941 ID: 356817
+
+135. Gp17: Superinfection exclusion protein, bacteriophage P22
+Bacteriophages infect host cells by injecting their genome through the cell wall. To this end, taile...
+Accession: cl10305 ID: 353069
+
+136. cpn10
+Chaperonin 10 Kd subunit (cpn10 or GroES); Cpn10 cooperates with chaperonin 60 (cpn60 or GroEL), an ...
+Accession: cl09113 ID: 352934
+
+137. DEADc_DDX56: DEAD-box helicase domain of DEAD box protein 56
+DDX56 is a helicase required for assembly of infectious West Nile virus particles. New research sugg...
+Accession: cd17961 ID: 350719
+
+138. CPV_Polyhedrin: Cypovirus polyhedrin protein
+This family is found in polyhedrin proteins of Cypoviruses. These viruses possess a single capsid la...
+Accession: pfam17515 ID: 340230
+
+139. SatRNA_48: Satellite RNA 48 kDa protein
+Satellite RNAs (satRNAs) are short RNA molecules, usually <1,500 nt, that depend on cognate helper v...
+Accession: pfam17485 ID: 340200
+
+140. Gp17: Superinfection exclusion protein, bacteriophage P22
+Bacteriophages infect host cells by injecting their genome through the cell wall. To this end, taile...
+Accession: pfam17420 ID: 340135
+
+141. Cpn10: Chaperonin 10 Kd subunit
+This family contains GroES and Gp31-like chaperonins. Gp31 is a functional co-chaperonin that is req...
+Accession: pfam00166 ID: 333893
+
+142. Late_protein_L2: Late Protein L2
+major capsid L1 protein; Provisional
+Accession: cl28153 ID: 332973
+
+143. Herpes_UL25: Herpesvirus UL25 family
+The herpesvirus UL25 gene product is a virion component involved in virus penetration and capsid ass...
+Accession: cl28129 ID: 332950
+
+144. Herpes_UL55: Herpesvirus UL55 protein
+In infected cells, UL55 is associated with the nuclear matrix, and found adjacent to compartments co...
+Accession: cl28002 ID: 332823
+
+145. Polyoma_coat: Polyomavirus coat protein
+Major capsid protein VP1; Provisional
+Accession: cl27648 ID: 332469
+
+146. Adeno_PIX: Adenovirus hexon-associated protein (IX)
+Hexon (PF01065) is the major coat protein from adenovirus type 2. Hexon forms a homo-trimer. The 240...
+Accession: cl27512 ID: 332333
+
+147. Peptidase_S78: Caudovirus prohead serine protease
+Family of Caudovirus prohead serine proteases also found in a number of bacteria possibly as the res...
+Accession: cl01521 ID: 321544
+
+148. RING-HC_MKRN1_3: RING finger, HC subclass, found in makorin-1 (MKRN1), makorin-3 (MKRN3), and similar proteins
+MKRN1, also known as makorin RING finger protein 1 or RING finger protein 61 (RNF61), is an E3 ubiqu...
+Accession: cd16730 ID: 319644
+
+149. Phage_coat: Phage PP7 coat protein
+Members of this family form the capsid of P. aeruginosa phage PP7. They adopt a secondary structure ...
+Accession: pfam09063 ID: 312558
+
+150. Terminase_5: Putative ATPase subunit of terminase (gpP-like)
+This family of proteins are annotated as ATPase subunits of phage terminase after. Terminases are vi...
+Accession: pfam06056 ID: 310561
+
+151. Nepo_coat_N: Nepovirus coat protein, N-terminal domain
+The members of this family are derived from nepoviruses. Together with comoviruses and picornaviruse...
+Accession: pfam03689 ID: 308982
+
+152. Adeno_52K: Adenoviral protein L1 52/55-kDa
+The adenoviral protein L1 52/55-kDa is expressed in both the early and late stages of infection whic...
+Accession: pfam03052 ID: 308597
+
+153. Hex_IIIa: Hexon-associated protein (IIIa)
+The major capsid protein of the adenovirus strain is also known as a hexon. This is a family of hexo...
+Accession: pfam02455 ID: 308201
+
+154. Chlamy_scaf: Chlamydia-phage Chp2 scaffold (Chlamy_scaf)
+Members of this entry are encoded by genes in chlamydia-phage such as Chp2. These viruses have aroun...
+Accession: cl11513 ID: 299756
+
+155. P22_portal: Phage P22-like portal protein
+The portal protein of P22 and similar Podoviridae tail phages is a dodecameric structure consisting ...
+Accession: pfam16510 ID: 293119
+
+156. Phage_stabilize: Phage stabilisation protein
+Members of this family are phage proteins that are probably involved with stabilizing the condensed ...
+Accession: pfam11134 ID: 288037
+
+157. VP4_2: Viral protein VP4 subunit
+This domain is predominantly found in viral proteins from the family Picornaviridae. It is VP4 of th...
+Accession: pfam08935 ID: 286076
+
+158. Rubella_E2: Rubella membrane glycoprotein E2
+Rubella virus (RV), the sole member of the genus Rubivirus within the family Togaviridae, is a small...
+Accession: pfam05749 ID: 283419
+
+159. Rubella_E1: Rubella membrane glycoprotein E1
+Rubella virus (RV), the sole member of the genus Rubivirus within the family Togaviridae, is a small...
+Accession: pfam05748 ID: 283418
+
+160. Herpes_UL51: Herpesvirus UL51 protein
+UL51 protein is a virion protein. In pseudorabies virus, UL51 was identified as a component of the c...
+Accession: pfam04540 ID: 282408
+
+161. Herpes_UL55: Herpesvirus UL55 protein
+In infected cells, UL55 is associated with the nuclear matrix, and found adjacent to compartments co...
+Accession: pfam04537 ID: 282405
+
+162. Herpes_UL35: Herpesvirus UL35 family
+UL35 represents a true late gene which encodes a 12-kDa capsid protein.
+Accession: pfam04496 ID: 282365
+
+163. Herpes_UL14: Herpesvirus UL14-like protein
+This is a family of Herpesvirus proteins including UL14. UL14 protein is a minor component of the vi...
+Accession: pfam03580 ID: 281566
+
+164. Herpes_UL25: Herpesvirus UL25 family
+The herpesvirus UL25 gene product is a virion component involved in virus penetration and capsid ass...
+Accession: pfam01499 ID: 279796
+
+165. Rota_NSP4: Rotavirus non structural protein
+This protein has been called NSP4, NSP5, NS28, and NCVP5. The final steps in the assembly of rotavir...
+Accession: pfam01452 ID: 279757
+
+166. PRTP: Herpesvirus processing and transport protein
+The members of this family are associate with capsid intermediates during packaging of the virus.
+Accession: pfam01366 ID: 279677
+
+167. Vif: Retroviral Vif (Viral infectivity) protein
+Human immunodeficiency virus type 1 (HIV-1) Vif is required for productive infection of T lymphocyte...
+Accession: pfam00559 ID: 278957
+
+168. proheadase_HK97: phage prohead protease, HK97 family
+This model describes the prohead protease of HK97 and related phage. It is generally encoded next to...
+Accession: TIGR01543 ID: 273682
+
+169. portal_PBSX: phage portal protein, PBSX family
+This model represents one of several distantly related families of phage portal protein. This protei...
+Accession: TIGR01540 ID: 273680
+
+170. portal_lambda: phage portal protein, lambda family
+This model represents one of several distantly related families of phage portal protein. This protei...
+Accession: TIGR01539 ID: 273679
+
+171. portal_SPP1: phage portal protein, SPP1 family
+This model represents one of several distantly related families of phage portal protein. This protei...
+Accession: TIGR01538 ID: 273678
+
+172. portal_HK97: phage portal protein, HK97 family
+This model represents one of several distantly related families of phage portal protein. This protei...
+Accession: TIGR01537 ID: 273677
+
+173. PHA03369
+capsid maturational protease; Provisional
+Accession: PHA03369 ID: 223061
+
+174. PHA03263
+Capsid triplex subunit 1; Provisional
+Accession: PHA03263 ID: 223028
+
+175. PHA03262
+Capsid triplex subunit 1; Provisional
+Accession: PHA03262 ID: 223027
+
+176. PHA03261
+Capsid triplex subunit 1; Provisional
+Accession: PHA03261 ID: 223026
+
+177. PHA02778
+major capsid L1 protein; Provisional
+Accession: PHA02778 ID: 222928
+
+178. PHA02614
+Major capsid protein VP1; Provisional
+Accession: PHA02614 ID: 222910
+
+179. O
+capsid-scaffolding protein; Provisional
+Accession: PHA02529 ID: 222855
+
+180. PHA01075
+major capsid protein
+Accession: PHA01075 ID: 222818
+
+181. PHA00435
+capsid assembly protein
+Accession: PHA00435 ID: 222792
+
+182. PHA00363
+major capsid protein
+Accession: PHA00363 ID: 222784
+
+183. seadorna_VP4: seadornavirus VP4 protein
+This protein family occurs in the seadornavirus virus group, with designation VP4 in Banna virus, Ka...
+Accession: TIGR04235 ID: 211958
+
+184. IX
+capsid protein IX,hexon associated protein IX; Provisional
+Accession: PHA03385 ID: 177621
+
+185. PHA03257
+Capsid triplex subunit 2; Provisional
+Accession: PHA03257 ID: 177569
+
+186. 24
+capsid vertex protein; Provisional
+Accession: PHA02548 ID: 177383
+
+187. 23
+major capsid protein; Provisional
+Accession: PHA02541 ID: 177376
+
+188. PHA02004
+capsid protein
+Accession: PHA02004 ID: 177331
+
+189. PHA00201
+major capsid protein
+Accession: PHA00201 ID: 177268
+
+190. PHA03260
+Capsid triplex subunit 2; Provisional
+Accession: PHA03260 ID: 165518
+
+191. PHA03259
+Capsid triplex subunit 2; Provisional
+Accession: PHA03259 ID: 165517
+
+192. PHA03258
+Capsid triplex subunit 2; Provisional
+Accession: PHA03258 ID: 165516
+
+193. PHA02777
+major capsid L1 protein; Provisional
+Accession: PHA02777 ID: 165142
+
+194. N
+capsid protein; Provisional
+Accession: PHA02538 ID: 164934
+
+195. PHA00327
+minor capsid protein
+Accession: PHA00327 ID: 164789
+
+196. PHA00099
+minor capsid protein
+Accession: PHA00099 ID: 164781
+
+197. F
+capsid protein
+Accession: PHA00009 ID: 164775
+
+198. gp6_gp15_like: Head-Tail Connector Proteins gp6 and gp15, and similar proteins
+Members of this family include the proteins gp6 and gp15 from bacteriophage HK97 and SPP1, respectiv...
+Accession: cd08051 ID: 153444
+
+199. SCAN: SCAN oligomerization domain
+The SCAN domain (named after SRE-ZBP, CTfin51, AW-1 and Number 18 cDNA) is found in several vertebra...
+Accession: cd07936 ID: 153421
+
+200. Flexi_CP_N: Carlavirus coat
+This domain is found together with the viral coat protein domain (pfam00286) in coat/capsid proteins...
+Accession: pfam08358 ID: 149427
+
+201. Phage_Coat_B: Phage Coat protein B
+The major coat protein in the capsid of filamentous bacteriophage forms a helical assembly of about ...
+Accession: pfam05356 ID: 147508
+
+202. Peptidase_S41_TRI: Tricorn protease; serine protease family S41
+The tricorn protease (TRI), a member of the S41 peptidase family and named for its tricorn-like shap...
+Accession: cd07562 ID: 143478
+
+203. rhv_like
+Picornavirus capsid protein domain_like. Picornaviruses are non-enveloped plus-strand ssRNA animal v...
+Accession: cd00205 ID: 119412
+
+204. Sigma_1s: Sigma 1s protein
+The reoviral gene S1 encodes for haemagglutinin (sigma 1 protein), an outer capsid protein and a maj...
+Accession: pfam02454 ID: 111360
+
+205. PHA00665
+major capsid protein
+Accession: PHA00665 ID: 106974

@@ -1,0 +1,229 @@
+##gff-version 3
+##sequence-region   seq1 1 793080
+##sequence-region   seq2 1 504300
+#seq1
+#seq2
+seq1	TIRvish	repeat_region	968	1649	.	?	.	ID=repeat_region1
+seq1	TIRvish	target_site_duplication	968	972	.	?	.	Parent=repeat_region1
+seq1	TIRvish	terminal_inverted_repeat_element	973	1644	.	?	.	ID=terminal_inverted_repeat_element1;Parent=repeat_region1;tir_similarity=93.66
+seq1	TIRvish	terminal_inverted_repeat	973	1257	.	?	.	Parent=terminal_inverted_repeat_element1
+seq1	TIRvish	terminal_inverted_repeat	1365	1644	.	?	.	Parent=terminal_inverted_repeat_element1
+seq1	TIRvish	target_site_duplication	1645	1649	.	?	.	Parent=repeat_region1
+###
+seq1	TIRvish	repeat_region	12288	13392	.	?	.	ID=repeat_region2
+seq1	TIRvish	target_site_duplication	12288	12289	.	?	.	Parent=repeat_region2
+seq1	TIRvish	terminal_inverted_repeat_element	12290	13390	.	?	.	ID=terminal_inverted_repeat_element2;Parent=repeat_region2;tir_similarity=92.42
+seq1	TIRvish	terminal_inverted_repeat	12290	12487	.	?	.	Parent=terminal_inverted_repeat_element2
+seq1	TIRvish	terminal_inverted_repeat	13196	13390	.	?	.	Parent=terminal_inverted_repeat_element2
+seq1	TIRvish	target_site_duplication	13391	13392	.	?	.	Parent=repeat_region2
+###
+seq1	TIRvish	repeat_region	15129	19842	.	?	.	ID=repeat_region3
+seq1	TIRvish	target_site_duplication	15129	15130	.	?	.	Parent=repeat_region3
+seq1	TIRvish	terminal_inverted_repeat_element	15131	19840	.	?	.	ID=terminal_inverted_repeat_element3;Parent=repeat_region3;tir_similarity=91.04
+seq1	TIRvish	terminal_inverted_repeat	15131	15264	.	?	.	Parent=terminal_inverted_repeat_element3
+seq1	TIRvish	terminal_inverted_repeat	19706	19840	.	?	.	Parent=terminal_inverted_repeat_element3
+seq1	TIRvish	target_site_duplication	19841	19842	.	?	.	Parent=repeat_region3
+###
+seq1	TIRvish	repeat_region	27069	29800	.	?	.	ID=repeat_region4
+seq1	TIRvish	target_site_duplication	27069	27070	.	?	.	Parent=repeat_region4
+seq1	TIRvish	terminal_inverted_repeat_element	27071	29798	.	?	.	ID=terminal_inverted_repeat_element4;Parent=repeat_region4;tir_similarity=87.16
+seq1	TIRvish	terminal_inverted_repeat	27071	27178	.	?	.	Parent=terminal_inverted_repeat_element4
+seq1	TIRvish	terminal_inverted_repeat	29694	29798	.	?	.	Parent=terminal_inverted_repeat_element4
+seq1	TIRvish	target_site_duplication	29799	29800	.	?	.	Parent=repeat_region4
+###
+seq1	TIRvish	repeat_region	51340	52294	.	?	.	ID=repeat_region5
+seq1	TIRvish	target_site_duplication	51340	51341	.	?	.	Parent=repeat_region5
+seq1	TIRvish	terminal_inverted_repeat_element	51342	52292	.	?	.	ID=terminal_inverted_repeat_element5;Parent=repeat_region5;tir_similarity=88.89
+seq1	TIRvish	terminal_inverted_repeat	51342	51477	.	?	.	Parent=terminal_inverted_repeat_element5
+seq1	TIRvish	terminal_inverted_repeat	52162	52292	.	?	.	Parent=terminal_inverted_repeat_element5
+seq1	TIRvish	target_site_duplication	52293	52294	.	?	.	Parent=repeat_region5
+###
+seq1	TIRvish	repeat_region	62776	68779	.	?	.	ID=repeat_region6
+seq1	TIRvish	target_site_duplication	62776	62777	.	?	.	Parent=repeat_region6
+seq1	TIRvish	terminal_inverted_repeat_element	62778	68777	.	?	.	ID=terminal_inverted_repeat_element6;Parent=repeat_region6;tir_similarity=90.00
+seq1	TIRvish	terminal_inverted_repeat	62778	62938	.	?	.	Parent=terminal_inverted_repeat_element6
+seq1	TIRvish	terminal_inverted_repeat	68621	68777	.	?	.	Parent=terminal_inverted_repeat_element6
+seq1	TIRvish	target_site_duplication	68778	68779	.	?	.	Parent=repeat_region6
+###
+seq1	TIRvish	repeat_region	118106	129149	.	?	.	ID=repeat_region7
+seq1	TIRvish	target_site_duplication	118106	118107	.	?	.	Parent=repeat_region7
+seq1	TIRvish	terminal_inverted_repeat_element	118108	129147	.	?	.	ID=terminal_inverted_repeat_element7;Parent=repeat_region7;tir_similarity=99.70
+seq1	TIRvish	terminal_inverted_repeat	118108	119107	.	?	.	Parent=terminal_inverted_repeat_element7
+seq1	TIRvish	terminal_inverted_repeat	128148	129147	.	?	.	Parent=terminal_inverted_repeat_element7
+seq1	TIRvish	target_site_duplication	129148	129149	.	?	.	Parent=repeat_region7
+###
+seq1	TIRvish	repeat_region	233437	239281	.	?	.	ID=repeat_region8
+seq1	TIRvish	target_site_duplication	233437	233438	.	?	.	Parent=repeat_region8
+seq1	TIRvish	terminal_inverted_repeat_element	233439	239279	.	?	.	ID=terminal_inverted_repeat_element8;Parent=repeat_region8;tir_similarity=85.71
+seq1	TIRvish	terminal_inverted_repeat	233439	233577	.	?	.	Parent=terminal_inverted_repeat_element8
+seq1	TIRvish	terminal_inverted_repeat	239144	239279	.	?	.	Parent=terminal_inverted_repeat_element8
+seq1	TIRvish	target_site_duplication	239280	239281	.	?	.	Parent=repeat_region8
+###
+seq1	TIRvish	repeat_region	242581	243433	.	?	.	ID=repeat_region9
+seq1	TIRvish	target_site_duplication	242581	242582	.	?	.	Parent=repeat_region9
+seq1	TIRvish	terminal_inverted_repeat_element	242583	243431	.	?	.	ID=terminal_inverted_repeat_element9;Parent=repeat_region9;tir_similarity=90.55
+seq1	TIRvish	terminal_inverted_repeat	242583	242962	.	?	.	Parent=terminal_inverted_repeat_element9
+seq1	TIRvish	terminal_inverted_repeat	243050	243431	.	?	.	Parent=terminal_inverted_repeat_element9
+seq1	TIRvish	target_site_duplication	243432	243433	.	?	.	Parent=repeat_region9
+###
+seq1	TIRvish	repeat_region	268873	276894	.	?	.	ID=repeat_region10
+seq1	TIRvish	target_site_duplication	268873	268874	.	?	.	Parent=repeat_region10
+seq1	TIRvish	terminal_inverted_repeat_element	268875	276892	.	?	.	ID=terminal_inverted_repeat_element10;Parent=repeat_region10;tir_similarity=93.64
+seq1	TIRvish	terminal_inverted_repeat	268875	269047	.	?	.	Parent=terminal_inverted_repeat_element10
+seq1	TIRvish	terminal_inverted_repeat	276720	276892	.	?	.	Parent=terminal_inverted_repeat_element10
+seq1	TIRvish	target_site_duplication	276893	276894	.	?	.	Parent=repeat_region10
+###
+seq1	TIRvish	repeat_region	293654	296928	.	?	.	ID=repeat_region11
+seq1	TIRvish	target_site_duplication	293654	293655	.	?	.	Parent=repeat_region11
+seq1	TIRvish	terminal_inverted_repeat_element	293656	296926	.	?	.	ID=terminal_inverted_repeat_element11;Parent=repeat_region11;tir_similarity=90.05
+seq1	TIRvish	terminal_inverted_repeat	293656	293847	.	?	.	Parent=terminal_inverted_repeat_element11
+seq1	TIRvish	terminal_inverted_repeat	296736	296926	.	?	.	Parent=terminal_inverted_repeat_element11
+seq1	TIRvish	target_site_duplication	296927	296928	.	?	.	Parent=repeat_region11
+###
+seq1	TIRvish	repeat_region	321669	329111	.	?	.	ID=repeat_region12
+seq1	TIRvish	target_site_duplication	321669	321670	.	?	.	Parent=repeat_region12
+seq1	TIRvish	terminal_inverted_repeat_element	321671	329109	.	?	.	ID=terminal_inverted_repeat_element12;Parent=repeat_region12;tir_similarity=99.60
+seq1	TIRvish	terminal_inverted_repeat	321671	322673	.	?	.	Parent=terminal_inverted_repeat_element12
+seq1	TIRvish	terminal_inverted_repeat	328111	329109	.	?	.	Parent=terminal_inverted_repeat_element12
+seq1	TIRvish	target_site_duplication	329110	329111	.	?	.	Parent=repeat_region12
+###
+seq1	TIRvish	repeat_region	364640	367701	.	?	.	ID=repeat_region13
+seq1	TIRvish	target_site_duplication	364640	364643	.	?	.	Parent=repeat_region13
+seq1	TIRvish	terminal_inverted_repeat_element	364644	367697	.	?	.	ID=terminal_inverted_repeat_element13;Parent=repeat_region13;tir_similarity=88.31
+seq1	TIRvish	terminal_inverted_repeat	364644	364795	.	?	.	Parent=terminal_inverted_repeat_element13
+seq1	TIRvish	terminal_inverted_repeat	367543	367697	.	?	.	Parent=terminal_inverted_repeat_element13
+seq1	TIRvish	target_site_duplication	367698	367701	.	?	.	Parent=repeat_region13
+###
+seq1	TIRvish	repeat_region	380071	380852	.	?	.	ID=repeat_region14
+seq1	TIRvish	target_site_duplication	380071	380072	.	?	.	Parent=repeat_region14
+seq1	TIRvish	terminal_inverted_repeat_element	380073	380850	.	?	.	ID=terminal_inverted_repeat_element14;Parent=repeat_region14;tir_similarity=88.89
+seq1	TIRvish	terminal_inverted_repeat	380073	380280	.	?	.	Parent=terminal_inverted_repeat_element14
+seq1	TIRvish	terminal_inverted_repeat	380646	380850	.	?	.	Parent=terminal_inverted_repeat_element14
+seq1	TIRvish	target_site_duplication	380851	380852	.	?	.	Parent=repeat_region14
+###
+seq1	TIRvish	repeat_region	396609	397181	.	?	.	ID=repeat_region15
+seq1	TIRvish	target_site_duplication	396609	396612	.	?	.	Parent=repeat_region15
+seq1	TIRvish	terminal_inverted_repeat_element	396613	397177	.	?	.	ID=terminal_inverted_repeat_element15;Parent=repeat_region15;tir_similarity=96.34
+seq1	TIRvish	terminal_inverted_repeat	396613	396798	.	?	.	Parent=terminal_inverted_repeat_element15
+seq1	TIRvish	terminal_inverted_repeat	396984	397177	.	?	.	Parent=terminal_inverted_repeat_element15
+seq1	TIRvish	target_site_duplication	397178	397181	.	?	.	Parent=repeat_region15
+###
+seq1	TIRvish	repeat_region	465134	465936	.	?	.	ID=repeat_region16
+seq1	TIRvish	target_site_duplication	465134	465138	.	?	.	Parent=repeat_region16
+seq1	TIRvish	terminal_inverted_repeat_element	465139	465931	.	?	.	ID=terminal_inverted_repeat_element16;Parent=repeat_region16;tir_similarity=94.03
+seq1	TIRvish	terminal_inverted_repeat	465139	465487	.	?	.	Parent=terminal_inverted_repeat_element16
+seq1	TIRvish	terminal_inverted_repeat	465581	465931	.	?	.	Parent=terminal_inverted_repeat_element16
+seq1	TIRvish	target_site_duplication	465932	465936	.	?	.	Parent=repeat_region16
+###
+seq1	TIRvish	repeat_region	476019	476752	.	?	.	ID=repeat_region17
+seq1	TIRvish	target_site_duplication	476019	476022	.	?	.	Parent=repeat_region17
+seq1	TIRvish	terminal_inverted_repeat_element	476023	476748	.	?	.	ID=terminal_inverted_repeat_element17;Parent=repeat_region17;tir_similarity=86.24
+seq1	TIRvish	terminal_inverted_repeat	476023	476347	.	?	.	Parent=terminal_inverted_repeat_element17
+seq1	TIRvish	terminal_inverted_repeat	476425	476748	.	?	.	Parent=terminal_inverted_repeat_element17
+seq1	TIRvish	target_site_duplication	476749	476752	.	?	.	Parent=repeat_region17
+###
+seq1	TIRvish	repeat_region	589980	599462	.	?	.	ID=repeat_region18
+seq1	TIRvish	target_site_duplication	589980	589981	.	?	.	Parent=repeat_region18
+seq1	TIRvish	terminal_inverted_repeat_element	589982	599460	.	?	.	ID=terminal_inverted_repeat_element18;Parent=repeat_region18;tir_similarity=87.17
+seq1	TIRvish	terminal_inverted_repeat	589982	590169	.	?	.	Parent=terminal_inverted_repeat_element18
+seq1	TIRvish	terminal_inverted_repeat	599282	599460	.	?	.	Parent=terminal_inverted_repeat_element18
+seq1	TIRvish	target_site_duplication	599461	599462	.	?	.	Parent=repeat_region18
+###
+seq1	TIRvish	repeat_region	601860	607507	.	?	.	ID=repeat_region19
+seq1	TIRvish	target_site_duplication	601860	601861	.	?	.	Parent=repeat_region19
+seq1	TIRvish	terminal_inverted_repeat_element	601862	607505	.	?	.	ID=terminal_inverted_repeat_element19;Parent=repeat_region19;tir_similarity=87.31
+seq1	TIRvish	terminal_inverted_repeat	601862	601994	.	?	.	Parent=terminal_inverted_repeat_element19
+seq1	TIRvish	terminal_inverted_repeat	607374	607505	.	?	.	Parent=terminal_inverted_repeat_element19
+seq1	TIRvish	target_site_duplication	607506	607507	.	?	.	Parent=repeat_region19
+###
+seq1	TIRvish	repeat_region	629719	630916	.	?	.	ID=repeat_region20
+seq1	TIRvish	target_site_duplication	629719	629721	.	?	.	Parent=repeat_region20
+seq1	TIRvish	terminal_inverted_repeat_element	629722	630913	.	?	.	ID=terminal_inverted_repeat_element20;Parent=repeat_region20;tir_similarity=99.14
+seq1	TIRvish	terminal_inverted_repeat	629722	630306	.	?	.	Parent=terminal_inverted_repeat_element20
+seq1	TIRvish	terminal_inverted_repeat	630335	630913	.	?	.	Parent=terminal_inverted_repeat_element20
+seq1	TIRvish	target_site_duplication	630914	630916	.	?	.	Parent=repeat_region20
+###
+seq1	TIRvish	repeat_region	658315	666233	.	?	.	ID=repeat_region21
+seq1	TIRvish	target_site_duplication	658315	658318	.	?	.	Parent=repeat_region21
+seq1	TIRvish	terminal_inverted_repeat_element	658319	666229	.	?	.	ID=terminal_inverted_repeat_element21;Parent=repeat_region21;tir_similarity=88.89
+seq1	TIRvish	terminal_inverted_repeat	658319	658445	.	?	.	Parent=terminal_inverted_repeat_element21
+seq1	TIRvish	terminal_inverted_repeat	666102	666229	.	?	.	Parent=terminal_inverted_repeat_element21
+seq1	TIRvish	target_site_duplication	666230	666233	.	?	.	Parent=repeat_region21
+###
+seq1	TIRvish	repeat_region	677832	685770	.	?	.	ID=repeat_region22
+seq1	TIRvish	target_site_duplication	677832	677833	.	?	.	Parent=repeat_region22
+seq1	TIRvish	terminal_inverted_repeat_element	677834	685768	.	?	.	ID=terminal_inverted_repeat_element22;Parent=repeat_region22;tir_similarity=96.36
+seq1	TIRvish	terminal_inverted_repeat	677834	677943	.	?	.	Parent=terminal_inverted_repeat_element22
+seq1	TIRvish	terminal_inverted_repeat	685658	685768	.	?	.	Parent=terminal_inverted_repeat_element22
+seq1	TIRvish	target_site_duplication	685769	685770	.	?	.	Parent=repeat_region22
+###
+seq1	TIRvish	repeat_region	733184	737953	.	?	.	ID=repeat_region23
+seq1	TIRvish	target_site_duplication	733184	733185	.	?	.	Parent=repeat_region23
+seq1	TIRvish	terminal_inverted_repeat_element	733186	737951	.	?	.	ID=terminal_inverted_repeat_element23;Parent=repeat_region23;tir_similarity=92.64
+seq1	TIRvish	terminal_inverted_repeat	733186	733673	.	?	.	Parent=terminal_inverted_repeat_element23
+seq1	TIRvish	terminal_inverted_repeat	737464	737951	.	?	.	Parent=terminal_inverted_repeat_element23
+seq1	TIRvish	target_site_duplication	737952	737953	.	?	.	Parent=repeat_region23
+###
+seq1	TIRvish	repeat_region	746945	753885	.	?	.	ID=repeat_region24
+seq1	TIRvish	target_site_duplication	746945	746946	.	?	.	Parent=repeat_region24
+seq1	TIRvish	terminal_inverted_repeat_element	746947	753883	.	?	.	ID=terminal_inverted_repeat_element24;Parent=repeat_region24;tir_similarity=85.45
+seq1	TIRvish	terminal_inverted_repeat	746947	747057	.	?	.	Parent=terminal_inverted_repeat_element24
+seq1	TIRvish	terminal_inverted_repeat	753776	753883	.	?	.	Parent=terminal_inverted_repeat_element24
+seq1	TIRvish	target_site_duplication	753884	753885	.	?	.	Parent=repeat_region24
+###
+seq2	TIRvish	repeat_region	52776	53765	.	?	.	ID=repeat_region25
+seq2	TIRvish	target_site_duplication	52776	52777	.	?	.	Parent=repeat_region25
+seq2	TIRvish	terminal_inverted_repeat_element	52778	53763	.	?	.	ID=terminal_inverted_repeat_element25;Parent=repeat_region25;tir_similarity=97.96
+seq2	TIRvish	terminal_inverted_repeat	52778	52923	.	?	.	Parent=terminal_inverted_repeat_element25
+seq2	TIRvish	terminal_inverted_repeat	53618	53763	.	?	.	Parent=terminal_inverted_repeat_element25
+seq2	TIRvish	target_site_duplication	53764	53765	.	?	.	Parent=repeat_region25
+###
+seq2	TIRvish	repeat_region	61656	66041	.	?	.	ID=repeat_region26
+seq2	TIRvish	target_site_duplication	61656	61658	.	?	.	Parent=repeat_region26
+seq2	TIRvish	terminal_inverted_repeat_element	61659	66038	.	?	.	ID=terminal_inverted_repeat_element26;Parent=repeat_region26;tir_similarity=93.10
+seq2	TIRvish	terminal_inverted_repeat	61659	61774	.	?	.	Parent=terminal_inverted_repeat_element26
+seq2	TIRvish	terminal_inverted_repeat	65922	66038	.	?	.	Parent=terminal_inverted_repeat_element26
+seq2	TIRvish	target_site_duplication	66039	66041	.	?	.	Parent=repeat_region26
+###
+seq2	TIRvish	repeat_region	176925	179525	.	?	.	ID=repeat_region27
+seq2	TIRvish	target_site_duplication	176925	176926	.	?	.	Parent=repeat_region27
+seq2	TIRvish	terminal_inverted_repeat_element	176927	179523	.	?	.	ID=terminal_inverted_repeat_element27;Parent=repeat_region27;tir_similarity=85.58
+seq2	TIRvish	terminal_inverted_repeat	176927	177028	.	?	.	Parent=terminal_inverted_repeat_element27
+seq2	TIRvish	terminal_inverted_repeat	179418	179523	.	?	.	Parent=terminal_inverted_repeat_element27
+seq2	TIRvish	target_site_duplication	179524	179525	.	?	.	Parent=repeat_region27
+###
+seq2	TIRvish	repeat_region	188823	189847	.	?	.	ID=repeat_region28
+seq2	TIRvish	target_site_duplication	188823	188824	.	?	.	Parent=repeat_region28
+seq2	TIRvish	terminal_inverted_repeat_element	188825	189845	.	?	.	ID=terminal_inverted_repeat_element28;Parent=repeat_region28;tir_similarity=88.07
+seq2	TIRvish	terminal_inverted_repeat	188825	188932	.	?	.	Parent=terminal_inverted_repeat_element28
+seq2	TIRvish	terminal_inverted_repeat	189740	189845	.	?	.	Parent=terminal_inverted_repeat_element28
+seq2	TIRvish	target_site_duplication	189846	189847	.	?	.	Parent=repeat_region28
+###
+seq2	TIRvish	repeat_region	224545	227237	.	?	.	ID=repeat_region29
+seq2	TIRvish	target_site_duplication	224545	224546	.	?	.	Parent=repeat_region29
+seq2	TIRvish	terminal_inverted_repeat_element	224547	227235	.	?	.	ID=terminal_inverted_repeat_element29;Parent=repeat_region29;tir_similarity=98.30
+seq2	TIRvish	terminal_inverted_repeat	224547	225544	.	?	.	Parent=terminal_inverted_repeat_element29
+seq2	TIRvish	terminal_inverted_repeat	226238	227235	.	?	.	Parent=terminal_inverted_repeat_element29
+seq2	TIRvish	target_site_duplication	227236	227237	.	?	.	Parent=repeat_region29
+###
+seq2	TIRvish	repeat_region	271044	274307	.	?	.	ID=repeat_region30
+seq2	TIRvish	target_site_duplication	271044	271045	.	?	.	Parent=repeat_region30
+seq2	TIRvish	terminal_inverted_repeat_element	271046	274305	.	?	.	ID=terminal_inverted_repeat_element30;Parent=repeat_region30;tir_similarity=91.18
+seq2	TIRvish	terminal_inverted_repeat	271046	271214	.	?	.	Parent=terminal_inverted_repeat_element30
+seq2	TIRvish	terminal_inverted_repeat	274140	274305	.	?	.	Parent=terminal_inverted_repeat_element30
+seq2	TIRvish	target_site_duplication	274306	274307	.	?	.	Parent=repeat_region30
+###
+seq2	TIRvish	repeat_region	278497	282866	.	?	.	ID=repeat_region31
+seq2	TIRvish	target_site_duplication	278497	278501	.	?	.	Parent=repeat_region31
+seq2	TIRvish	terminal_inverted_repeat_element	278502	282861	.	?	.	ID=terminal_inverted_repeat_element31;Parent=repeat_region31;tir_similarity=85.48
+seq2	TIRvish	terminal_inverted_repeat	278502	278625	.	?	.	Parent=terminal_inverted_repeat_element31
+seq2	TIRvish	terminal_inverted_repeat	282737	282861	.	?	.	Parent=terminal_inverted_repeat_element31
+seq2	TIRvish	target_site_duplication	282862	282866	.	?	.	Parent=repeat_region31
+###
+seq2	TIRvish	repeat_region	289750	293488	.	?	.	ID=repeat_region32
+seq2	TIRvish	target_site_duplication	289750	289751	.	?	.	Parent=repeat_region32
+seq2	TIRvish	terminal_inverted_repeat_element	289752	293486	.	?	.	ID=terminal_inverted_repeat_element32;Parent=repeat_region32;tir_similarity=85.98
+seq2	TIRvish	terminal_inverted_repeat	289752	289859	.	?	.	Parent=terminal_inverted_repeat_element32
+seq2	TIRvish	terminal_inverted_repeat	293383	293486	.	?	.	Parent=terminal_inverted_repeat_element32
+seq2	TIRvish	target_site_duplication	293487	293488	.	?	.	Parent=repeat_region32
+###

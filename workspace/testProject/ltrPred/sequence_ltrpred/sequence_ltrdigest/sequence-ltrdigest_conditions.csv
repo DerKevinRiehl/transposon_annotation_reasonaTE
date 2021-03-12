@@ -1,0 +1,14 @@
+GFF3 input used	/app/sequence_ltrharvest/sequence_Prediction_sorted.gff
+PPT length	8-30nt	8-30nt
+U-box length	3-30nt	3-30nt
+PPT search radius	30	30
+tRNA library for PBS detection	/usr/local/lib/R/site-library/LTRpred/tRNAs/tRNA_library.fa
+allowed PBS/tRNA alignment length range	11-30nt	11-30nt
+PBS/tRNA maximum unit edit distance	1	1
+allowed PBS offset from 5' LTR range	0-5nt	0-5nt
+allowed PBS offset from 3' tRNA end range	0-5nt	0-5nt
+PBS search radius	30	30
+Protein domain models	13 (/usr/local/lib/R/site-library/LTRpred/HMMs/hmm_Gypsy.hmm, /usr/local/lib/R/site-library/LTRpred/HMMs/hmm_IN_DBD_C.hmm, /usr/local/lib/R/site-library/LTRpred/HMMs/hmm_Integrase_Zn.hmm, /usr/local/lib/R/site-library/LTRpred/HMMs/hmm_RNase_H.hmm, /usr/local/lib/R/site-library/LTRpred/HMMs/hmm_RVT_1.hmm, /usr/local/lib/R/site-library/LTRpred/HMMs/hmm_RVT_2.hmm, /usr/local/lib/R/site-library/LTRpred/HMMs/hmm_RdRP_1.hmm, /usr/local/lib/R/site-library/LTRpred/HMMs/hmm_RdRP_2.hmm, /usr/local/lib/R/site-library/LTRpred/HMMs/hmm_RdRP_3.hmm, /usr/local/lib/R/site-library/LTRpred/HMMs/hmm_RdRP_4.hmm, /usr/local/lib/R/site-library/LTRpred/HMMs/hmm_TLV_coat.hmm, /usr/local/lib/R/site-library/LTRpred/HMMs/hmm_retrotrans_gag.hmm, /usr/local/lib/R/site-library/LTRpred/HMMs/hmm_rve.hmm)
+pHMM e-value cutoff 	1e-05	1e-06
+maximal allowed gap length between fragments to chain 	50	50
+

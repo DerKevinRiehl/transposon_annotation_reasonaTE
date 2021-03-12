@@ -1,0 +1,11 @@
+# RPSTBLASTN 2.10.0+
+# Query: seq1
+# Database: /mnt/home3/riehl/miniconda3/envs/transposon_annotation_tools_env/share/proteinNCBICDD1000/selection/Selection1000Library024
+# 0 hits found
+# RPSTBLASTN 2.10.0+
+# Query: seq2
+# Database: /mnt/home3/riehl/miniconda3/envs/transposon_annotation_tools_env/share/proteinNCBICDD1000/selection/Selection1000Library024
+# Fields: subject title, evalue, q. start, q. end
+# 1 hits found
+cd14069, STKc_Chk1, Catalytic domain of the Serine/Threonine kinase, Checkpoint kinase 1.  STKs catalyze the transfer of the gamma-phosphoryl group from ATP to serine/threonine residues on protein substrates. Chk1 is implicated in many major checkpoints of the cell cycle, providing a link between upstream sensors and the cell cycle engine. It plays an important role in DNA damage response and maintaining genomic stability. Chk1 acts as an effector of the sensor kinase, ATR (ATM and Rad3-related), a member of the PI3K family, which is activated upon DNA replication stress. Chk1 delays mitotic entry in response to replication blocks by inhibiting cyclin dependent kinase (Cdk) activity. In addition, Chk1 contributes to the function of centrosome and spindle-based checkpoints, inhibits firing of origins of DNA replication (Ori), and represses transcription of cell cycle proteins including cyclin B and Cdk1. The Chk1 subfamily is part of a larger superfamily that includes the catalytic domains of other protein STKs, protein tyrosine kinases, RIO kinases, aminoglycoside phosphotransferase, choline kinase, and phosphoinositide 3-kinase.	1.47e-10	117548	116901
+# BLAST processed 2 queries

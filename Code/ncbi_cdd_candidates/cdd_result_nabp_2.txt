@@ -1,0 +1,92 @@
+
+1. Periplasmic_Binding_Protein_Type_2: Type 2 periplasmic binding fold superfamily
+This evolutionary model and hierarchy represent the ligand-binding domains found in solute binding p...
+Accession: cl21456 ID: 389745
+
+2. P-loop_NTPase: P-loop containing Nucleoside Triphosphate Hydrolases
+Members of the P-loop NTPase domain superfamily are characterized by a conserved nucleotide phosphat...
+Accession: cl38936 ID: 393306
+
+3. RRM_SF: RNA recognition motif (RRM) superfamily
+RRM, also known as RBD (RNA binding domain) or RNP (ribonucleoprotein domain), is a highly abundant ...
+Accession: cl17169 ID: 388407
+
+4. NABP: Nucleic acid binding protein NABP
+Many members of this family are putative nucleic acid binding proteins. One member of this family ha...
+Accession: pfam07990 ID: 369638
+
+5. Carla_C4: Carlavirus putative nucleic acid binding protein
+This family of carlavirus nucleic acid binding proteins includes a motif for a potential C-4 type zi...
+Accession: pfam01623 ID: 250753
+
+6. Pox_VP8_L4R: Poxvirus nucleic acid binding protein VP8/L4R
+The 25 kDa product of Vaccinia virus gene L4R is also known as VP8. VP8 is found in the cores of Vac...
+Accession: cl28005 ID: 332826
+
+7. Pox_VP8_L4R: Poxvirus nucleic acid binding protein VP8/L4R
+The 25 kDa product of Vaccinia virus gene L4R is also known as VP8. VP8 is found in the cores of Vac...
+Accession: pfam04498 ID: 282367
+
+8. COG3582: Predicted nucleic acid binding protein containing the AN1-type Zn-finger  [General function prediction only]
+
+Accession: COG3582 ID: 226110
+
+9. PIN_SF: PIN (PilT N terminus) domain: Superfamily
+The PIN (PilT N terminus) domain belongs to a large nuclease superfamily, and were originally named ...
+Accession: cl28905 ID: 391943
+
+10. RING_Ubox: The superfamily of RING finger (Really Interesting New Gene) domain and U-box domain
+RING finger is a specialized type of Zn-finger of 40 to 60 residues that binds two atoms of zinc. It...
+Accession: cl17238 ID: 388418
+
+11. ACT: ACT domains are commonly involved in specifically binding an amino acid or other small ligand leading to regulation of the enzyme
+Members of this CD belong to the superfamily of ACT regulatory domains. Pairs of ACT domains are com...
+Accession: cl09141 ID: 385421
+
+12. CD_CSD: CHROMO (CHRromatin Organization Modifier) domains and chromo shadow domains
+Members of this group are chromodomains or chromo shadow domains; these are SH3-fold-beta-barrel dom...
+Accession: cl28914 ID: 391946
+
+13. RPA_2b-aaRSs_OBF_like: Replication protein A, class 2b aminoacyl-tRNA synthetases, and related proteins with oligonucleotide/oligosaccharide (OB) fold
+This superfamily includes two oligonucleotide/oligosaccharide binding fold (OBF) domain families. On...
+Accession: cl09930 ID: 385638
+
+14. DSRM_SF: double-stranded RNA binding motif (DSRM) superfamily
+DSRM (also known as dsRBM) is a 65-70 amino acid domain that adopts an alpha-beta-beta-beta-alpha fo...
+Accession: cl00054 ID: 381777
+
+15. UBA_like_SF: UBA domain-like superfamily
+The ubiquitin-associated (UBA) domain-like superfamily contains alpha-helical structural homology ub...
+Accession: cl21463 ID: 389751
+
+16. Ubiquitin_like_fold: Beta-grasp ubiquitin-like fold
+Ubiquitin is a protein modifier that is involved in various cellular processes including transcripti...
+Accession: cl28922 ID: 391949
+
+17. DEAD-like_helicase_N: N-terminal helicase domain of the DEAD-box helicase superfamily
+The DEAD-like helicase superfamily is a diverse family of proteins involved in ATP-dependent RNA or ...
+Accession: cl28899 ID: 391939
+
+18. GST_C_family: C-terminal, alpha helical domain of the Glutathione S-transferase family
+Glutathione S-transferase (GST) family, C-terminal alpha helical domain; a large, diverse group of c...
+Accession: cl02776 ID: 383119
+
+19. Maf_Ham1
+Maf_Ham1. Maf, a nucleotide binding protein, has been implicated in inhibition of septum formation i...
+Accession: cl00276 ID: 381917
+
+20. OCRE: OCRE domain
+The OCRE (OCtamer REpeat) domain contains 5 repeats of an 8-residue motif, which were shown to form ...
+Accession: cl23757 ID: 304914
+
+21. Maf
+Nucleotide binding protein Maf. Maf has been implicated in inhibition of septum formation in eukaryo...
+Accession: cd00555 ID: 238310
+
+22. PLN03121
+nucleic acid binding protein; Provisional
+Accession: PLN03121 ID: 215589
+
+23. PLN03120
+nucleic acid binding protein; Provisional
+Accession: PLN03120 ID: 215588

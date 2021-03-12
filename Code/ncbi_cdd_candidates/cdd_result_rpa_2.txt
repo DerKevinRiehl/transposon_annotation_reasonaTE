@@ -1,0 +1,136 @@
+
+1. RPA_2b-aaRSs_OBF_like: Replication protein A, class 2b aminoacyl-tRNA synthetases, and related proteins with oligonucleotide/oligosaccharide (OB) fold
+This superfamily includes two oligonucleotide/oligosaccharide binding fold (OBF) domain families. On...
+Accession: cl09930 ID: 385638
+
+2. RPA: Replication initiator protein A
+Members of this family of bacterial proteins are single-stranded DNA binding proteins that are invol...
+Accession: pfam10134 ID: 370826
+
+3. Rep_3: Initiator Replication protein
+This protein is an initiator of plasmid replication. RepB possesses nicking-closing (topoisomerase I...
+Accession: cl19398 ID: 388556
+
+4. RFA2: Single-stranded DNA-binding replication protein A (RPA), medium (30 kD) subunit [DNA replication, recombination, and repair]
+
+Accession: COG5235 ID: 227560
+
+5. COG3390: Replication protein A (RPA) family protein [Replication, recombination and repair]
+
+Accession: COG3390 ID: 225925
+
+6. RPA1_DBD_B
+RPA1_DBD_B: A subfamily of OB folds corresponding to the third OB fold, the ssDNA-binding domain (DB...
+Accession: cd04475 ID: 239921
+
+7. RPA1_DBD_A
+RPA1_DBD_A: A subfamily of OB folds corresponding to the second OB fold, the ssDNA-binding domain (D...
+Accession: cd04474 ID: 239920
+
+8. PH-like: Pleckstrin homology-like domain
+The PH-like family includes the PH domain, both the Shc-like and IRS-like PTB domains, the ran-bindi...
+Accession: cl17171 ID: 388408
+
+9. RPA2_OBF_like
+RPA2_OBF_like: A subgroup of uncharacterized archaeal OB folds with similarity to the OB fold of the...
+Accession: cd04482 ID: 239928
+
+10. RPA2_DBD_D
+RPA2_DBD_D: A subfamily of OB folds corresponding to the OB fold of the central ssDNA-binding domain...
+Accession: cd04478 ID: 239924
+
+11. RPA1_DBD_B_like
+RPA1_DBD_B_like: A subgroup of uncharacterized, plant OB folds with similarity to the third OB fold,...
+Accession: cd04481 ID: 239927
+
+12. RPA1_DBD_A_like
+RPA1_DBD_A_like: A subgroup of uncharacterized plant OB folds with similarity to the second OB fold,...
+Accession: cd04480 ID: 239926
+
+13. RPA3
+RPA3: A subfamily of OB folds similar to human RPA3 (also called RPA14). RPA3 is the smallest subuni...
+Accession: cd04479 ID: 239925
+
+14. RPA1_DBD_C
+RPA1_DBD_C: A subfamily of OB folds corresponding to the C-terminal OB fold, the ssDNA-binding domai...
+Accession: cd04476 ID: 239922
+
+15. RPA2_OBF_family
+RPA2_OBF_family: A family of oligonucleotide binding (OB) folds with similarity to the OB fold of th...
+Accession: cd03524 ID: 239601
+
+16. RPA_interact_M: Replication protein A interacting middle
+This family of proteins represents the middle domain of replication protein A (RPA) interacting prot...
+Accession: pfam14767 ID: 373279
+
+17. RPA1N
+RPA1N: A subfamily of OB folds corresponding to the N-terminal OB-fold domain of human RPA1 (also ca...
+Accession: cd04477 ID: 239923
+
+18. DEAD-like_helicase_N: N-terminal helicase domain of the DEAD-box helicase superfamily
+The DEAD-like helicase superfamily is a diverse family of proteins involved in ATP-dependent RNA or ...
+Accession: cl28899 ID: 391939
+
+19. RPA_interact_C: Replication protein A interacting C-terminal
+This family of proteins represents the C-terminal domain of replication protein A (RPA) interacting ...
+Accession: pfam14768 ID: 373280
+
+20. RPA_interact_N: Replication protein A interacting N-terminal
+This family of proteins represents the N-terminal domain of replication protein A (RPA) interacting ...
+Accession: pfam14766 ID: 373278
+
+21. DEXXQc_DNA2: DEXXQ-box helicase domain of DNA2
+DNA2 (DNA Replication Helicase/Nuclease 2) possesses different enzymatic activities, such as single-...
+Accession: cd18041 ID: 350799
+
+22. PH2_SSRP1-like: Structure Specific Recognition protein 1 (SSRP1) Pleckstrin homology (PH) domain, repeat 2
+SSRP1 is a component of FACT (facilitator of chromatin transcription), an essential chromatin reorga...
+Accession: cd13231 ID: 270051
+
+23. PH1_SSRP1-like: Structure Specific Recognition protein 1 (SSRP1) Pleckstrin homology (PH) domain, repeat 1
+SSRP1 is a component of FACT (facilitator of chromatin transcription), an essential chromatin reorga...
+Accession: cd13230 ID: 270050
+
+24. hOBFC1_like
+hOBFC1_like: A subfamily of OB folds similar to that found in human OB fold containing protein 1 (hO...
+Accession: cd04483 ID: 239929
+
+25. RPA_C: Replication protein A C terminal
+This domain corresponds to the C terminal of the single stranded DNA binding protein RPA (replicatio...
+Accession: pfam08784 ID: 370121
+
+26. BRCA2DBD_OB3
+BRCA2DBD_OB3: A subfamily of OB folds corresponding to the third OB fold (OB3) of the 800-amino acid...
+Accession: cd04495 ID: 239941
+
+27. BRCA2DBD_OB2
+BRCA2DBD_OB2: A subfamily of OB folds corresponding to the second OB fold (OB2) of the 800-amino aci...
+Accession: cd04494 ID: 239940
+
+28. BRCA2DBD_OB1
+BRCA2DBD_OB1: A subfamily of OB folds corresponding to the first OB fold (OB1) of the 800-amino acid...
+Accession: cd04493 ID: 239939
+
+29. RING_Ubox: The superfamily of RING finger (Really Interesting New Gene) domain and U-box domain
+RING finger is a specialized type of Zn-finger of 40 to 60 residues that binds two atoms of zinc. It...
+Accession: cl17238 ID: 388418
+
+30. TAD2: Transactivation domain 2
+This is a N-terminal transactivation domain (TAD) domain 2 found in p53 proteins. In p53 two TAD dom...
+Accession: pfam18521 ID: 375947
+
+31. Stn1_C: Telomere capping C-terminal wHTH
+This domain consists of tandem winged helix-turn-helix motifs. Stn1 and Ten1 are DNA-binding protein...
+Accession: pfam12659 ID: 372245
+
+32. Ten1: Telomere capping, CST complex subunit
+Stn1 and Ten1 are DNA-binding proteins with specificity for telomeric DNA substrates and both protec...
+Accession: pfam12658 ID: 372244
+
+33. Rep_fac-A_C: Replication factor-A C terminal domain
+This domain is found at the C terminal of replication factor A. Replication factor A (RPA) binds sin...
+Accession: pfam08646 ID: 370031
+
+34. mRING-C3HGC3_RFWD3: Modified RING finger, C3HGC3-type, found in RING finger and WD repeat domain-containing protein 3 (RFWD3) and similar proteins
+RFWD3, also known as RING finger protein 201 (RNF201) or FLJ10520, is an E3 ubiquitin-protein ligase...
+Accession: cd16450 ID: 319364

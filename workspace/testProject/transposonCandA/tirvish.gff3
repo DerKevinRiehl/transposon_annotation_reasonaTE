@@ -1,0 +1,192 @@
+# tirvish Annotation
+# Structure of this file: 
+# 1)	Chromosome
+# 2)	Annotation Software
+# 3)	Annotation Feature
+# 4)	Start Position
+# 5)	End Position
+# 6)	Score / Probability
+# 7)	Strand
+# 8)	Phase (not used)
+# 9)	TransposonNr
+# 10)	Attributes separated by ;
+seq1	TIRvish	transposon	968	1649	.	+	.	1
+seq1	TIRvish	tsd	968	972	.	+	.	1	Left TSD of transposon 1
+seq1	TIRvish	tir	973	1257	.	+	.	1	Left TIR of transposon 1
+seq1	TIRvish	tir	1365	1644	.	+	.	1	Right TIR of transposon 1
+seq1	TIRvish	tsd	1645	1649	.	+	.	1	Right TSD of transposon 1
+seq1	TIRvish	transposon	12288	13392	.	+	.	2
+seq1	TIRvish	tsd	12288	12289	.	+	.	2	Left TSD of transposon 2
+seq1	TIRvish	tir	12290	12487	.	+	.	2	Left TIR of transposon 2
+seq1	TIRvish	tir	13196	13390	.	+	.	2	Right TIR of transposon 2
+seq1	TIRvish	tsd	13391	13392	.	+	.	2	Right TSD of transposon 2
+seq1	TIRvish	transposon	15129	19842	.	+	.	3
+seq1	TIRvish	tsd	15129	15130	.	+	.	3	Left TSD of transposon 3
+seq1	TIRvish	tir	15131	15264	.	+	.	3	Left TIR of transposon 3
+seq1	TIRvish	tir	19706	19840	.	+	.	3	Right TIR of transposon 3
+seq1	TIRvish	tsd	19841	19842	.	+	.	3	Right TSD of transposon 3
+seq1	TIRvish	transposon	27069	29800	.	+	.	4
+seq1	TIRvish	tsd	27069	27070	.	+	.	4	Left TSD of transposon 4
+seq1	TIRvish	tir	27071	27178	.	+	.	4	Left TIR of transposon 4
+seq1	TIRvish	tir	29694	29798	.	+	.	4	Right TIR of transposon 4
+seq1	TIRvish	tsd	29799	29800	.	+	.	4	Right TSD of transposon 4
+seq1	TIRvish	transposon	51340	52294	.	+	.	5
+seq1	TIRvish	tsd	51340	51341	.	+	.	5	Left TSD of transposon 5
+seq1	TIRvish	tir	51342	51477	.	+	.	5	Left TIR of transposon 5
+seq1	TIRvish	tir	52162	52292	.	+	.	5	Right TIR of transposon 5
+seq1	TIRvish	tsd	52293	52294	.	+	.	5	Right TSD of transposon 5
+seq1	TIRvish	transposon	62776	68779	.	+	.	6
+seq1	TIRvish	tsd	62776	62777	.	+	.	6	Left TSD of transposon 6
+seq1	TIRvish	tir	62778	62938	.	+	.	6	Left TIR of transposon 6
+seq1	TIRvish	tir	68621	68777	.	+	.	6	Right TIR of transposon 6
+seq1	TIRvish	tsd	68778	68779	.	+	.	6	Right TSD of transposon 6
+seq1	TIRvish	transposon	118106	129149	.	+	.	7
+seq1	TIRvish	tsd	118106	118107	.	+	.	7	Left TSD of transposon 7
+seq1	TIRvish	tir	118108	119107	.	+	.	7	Left TIR of transposon 7
+seq1	TIRvish	tir	128148	129147	.	+	.	7	Right TIR of transposon 7
+seq1	TIRvish	tsd	129148	129149	.	+	.	7	Right TSD of transposon 7
+seq1	TIRvish	transposon	233437	239281	.	+	.	8
+seq1	TIRvish	tsd	233437	233438	.	+	.	8	Left TSD of transposon 8
+seq1	TIRvish	tir	233439	233577	.	+	.	8	Left TIR of transposon 8
+seq1	TIRvish	tir	239144	239279	.	+	.	8	Right TIR of transposon 8
+seq1	TIRvish	tsd	239280	239281	.	+	.	8	Right TSD of transposon 8
+seq1	TIRvish	transposon	242581	243433	.	+	.	9
+seq1	TIRvish	tsd	242581	242582	.	+	.	9	Left TSD of transposon 9
+seq1	TIRvish	tir	242583	242962	.	+	.	9	Left TIR of transposon 9
+seq1	TIRvish	tir	243050	243431	.	+	.	9	Right TIR of transposon 9
+seq1	TIRvish	tsd	243432	243433	.	+	.	9	Right TSD of transposon 9
+seq1	TIRvish	transposon	268873	276894	.	+	.	10
+seq1	TIRvish	tsd	268873	268874	.	+	.	10	Left TSD of transposon 10
+seq1	TIRvish	tir	268875	269047	.	+	.	10	Left TIR of transposon 10
+seq1	TIRvish	tir	276720	276892	.	+	.	10	Right TIR of transposon 10
+seq1	TIRvish	tsd	276893	276894	.	+	.	10	Right TSD of transposon 10
+seq1	TIRvish	transposon	293654	296928	.	+	.	11
+seq1	TIRvish	tsd	293654	293655	.	+	.	11	Left TSD of transposon 11
+seq1	TIRvish	tir	293656	293847	.	+	.	11	Left TIR of transposon 11
+seq1	TIRvish	tir	296736	296926	.	+	.	11	Right TIR of transposon 11
+seq1	TIRvish	tsd	296927	296928	.	+	.	11	Right TSD of transposon 11
+seq1	TIRvish	transposon	321669	329111	.	+	.	12
+seq1	TIRvish	tsd	321669	321670	.	+	.	12	Left TSD of transposon 12
+seq1	TIRvish	tir	321671	322673	.	+	.	12	Left TIR of transposon 12
+seq1	TIRvish	tir	328111	329109	.	+	.	12	Right TIR of transposon 12
+seq1	TIRvish	tsd	329110	329111	.	+	.	12	Right TSD of transposon 12
+seq1	TIRvish	transposon	364640	367701	.	+	.	13
+seq1	TIRvish	tsd	364640	364643	.	+	.	13	Left TSD of transposon 13
+seq1	TIRvish	tir	364644	364795	.	+	.	13	Left TIR of transposon 13
+seq1	TIRvish	tir	367543	367697	.	+	.	13	Right TIR of transposon 13
+seq1	TIRvish	tsd	367698	367701	.	+	.	13	Right TSD of transposon 13
+seq1	TIRvish	transposon	380071	380852	.	+	.	14
+seq1	TIRvish	tsd	380071	380072	.	+	.	14	Left TSD of transposon 14
+seq1	TIRvish	tir	380073	380280	.	+	.	14	Left TIR of transposon 14
+seq1	TIRvish	tir	380646	380850	.	+	.	14	Right TIR of transposon 14
+seq1	TIRvish	tsd	380851	380852	.	+	.	14	Right TSD of transposon 14
+seq1	TIRvish	transposon	396609	397181	.	+	.	15
+seq1	TIRvish	tsd	396609	396612	.	+	.	15	Left TSD of transposon 15
+seq1	TIRvish	tir	396613	396798	.	+	.	15	Left TIR of transposon 15
+seq1	TIRvish	tir	396984	397177	.	+	.	15	Right TIR of transposon 15
+seq1	TIRvish	tsd	397178	397181	.	+	.	15	Right TSD of transposon 15
+seq1	TIRvish	transposon	465134	465936	.	+	.	16
+seq1	TIRvish	tsd	465134	465138	.	+	.	16	Left TSD of transposon 16
+seq1	TIRvish	tir	465139	465487	.	+	.	16	Left TIR of transposon 16
+seq1	TIRvish	tir	465581	465931	.	+	.	16	Right TIR of transposon 16
+seq1	TIRvish	tsd	465932	465936	.	+	.	16	Right TSD of transposon 16
+seq1	TIRvish	transposon	476019	476752	.	+	.	17
+seq1	TIRvish	tsd	476019	476022	.	+	.	17	Left TSD of transposon 17
+seq1	TIRvish	tir	476023	476347	.	+	.	17	Left TIR of transposon 17
+seq1	TIRvish	tir	476425	476748	.	+	.	17	Right TIR of transposon 17
+seq1	TIRvish	tsd	476749	476752	.	+	.	17	Right TSD of transposon 17
+seq1	TIRvish	transposon	589980	599462	.	+	.	18
+seq1	TIRvish	tsd	589980	589981	.	+	.	18	Left TSD of transposon 18
+seq1	TIRvish	tir	589982	590169	.	+	.	18	Left TIR of transposon 18
+seq1	TIRvish	tir	599282	599460	.	+	.	18	Right TIR of transposon 18
+seq1	TIRvish	tsd	599461	599462	.	+	.	18	Right TSD of transposon 18
+seq1	TIRvish	transposon	601860	607507	.	+	.	19
+seq1	TIRvish	tsd	601860	601861	.	+	.	19	Left TSD of transposon 19
+seq1	TIRvish	tir	601862	601994	.	+	.	19	Left TIR of transposon 19
+seq1	TIRvish	tir	607374	607505	.	+	.	19	Right TIR of transposon 19
+seq1	TIRvish	tsd	607506	607507	.	+	.	19	Right TSD of transposon 19
+seq1	TIRvish	transposon	629719	630916	.	+	.	20
+seq1	TIRvish	tsd	629719	629721	.	+	.	20	Left TSD of transposon 20
+seq1	TIRvish	tir	629722	630306	.	+	.	20	Left TIR of transposon 20
+seq1	TIRvish	tir	630335	630913	.	+	.	20	Right TIR of transposon 20
+seq1	TIRvish	tsd	630914	630916	.	+	.	20	Right TSD of transposon 20
+seq1	TIRvish	transposon	658315	666233	.	+	.	21
+seq1	TIRvish	tsd	658315	658318	.	+	.	21	Left TSD of transposon 21
+seq1	TIRvish	tir	658319	658445	.	+	.	21	Left TIR of transposon 21
+seq1	TIRvish	tir	666102	666229	.	+	.	21	Right TIR of transposon 21
+seq1	TIRvish	tsd	666230	666233	.	+	.	21	Right TSD of transposon 21
+seq1	TIRvish	transposon	677832	685770	.	+	.	22
+seq1	TIRvish	tsd	677832	677833	.	+	.	22	Left TSD of transposon 22
+seq1	TIRvish	tir	677834	677943	.	+	.	22	Left TIR of transposon 22
+seq1	TIRvish	tir	685658	685768	.	+	.	22	Right TIR of transposon 22
+seq1	TIRvish	tsd	685769	685770	.	+	.	22	Right TSD of transposon 22
+seq1	TIRvish	transposon	733184	737953	.	+	.	23
+seq1	TIRvish	tsd	733184	733185	.	+	.	23	Left TSD of transposon 23
+seq1	TIRvish	tir	733186	733673	.	+	.	23	Left TIR of transposon 23
+seq1	TIRvish	tir	737464	737951	.	+	.	23	Right TIR of transposon 23
+seq1	TIRvish	tsd	737952	737953	.	+	.	23	Right TSD of transposon 23
+seq1	TIRvish	transposon	746945	753885	.	+	.	24
+seq1	TIRvish	tsd	746945	746946	.	+	.	24	Left TSD of transposon 24
+seq1	TIRvish	tir	746947	747057	.	+	.	24	Left TIR of transposon 24
+seq1	TIRvish	tir	753776	753883	.	+	.	24	Right TIR of transposon 24
+seq1	TIRvish	tsd	753884	753885	.	+	.	24	Right TSD of transposon 24
+seq1	TIRvish	transposon	599280	599947	.	-	.	37
+seq1	TIRvish	tsd	599946	599947	.	-	.	37	Left TSD of transposon 37
+seq1	TIRvish	tir	599761	599945	.	-	.	37	Left TIR of transposon 37
+seq1	TIRvish	tir	599282	599462	.	-	.	37	Right TIR of transposon 37
+seq1	TIRvish	tsd	599280	599281	.	-	.	37	Right TSD of transposon 37
+seq1	TIRvish	transposon	436217	436989	.	-	.	40
+seq1	TIRvish	tsd	436985	436989	.	-	.	40	Left TSD of transposon 40
+seq1	TIRvish	tir	436793	436984	.	-	.	40	Left TIR of transposon 40
+seq1	TIRvish	tir	436222	436407	.	-	.	40	Right TIR of transposon 40
+seq1	TIRvish	tsd	436217	436221	.	-	.	40	Right TSD of transposon 40
+seq1	TIRvish	transposon	209204	214772	.	-	.	47
+seq1	TIRvish	tsd	214770	214772	.	-	.	47	Left TSD of transposon 47
+seq1	TIRvish	tir	214647	214769	.	-	.	47	Left TIR of transposon 47
+seq1	TIRvish	tir	209207	209329	.	-	.	47	Right TIR of transposon 47
+seq1	TIRvish	tsd	209204	209206	.	-	.	47	Right TSD of transposon 47
+seq1	TIRvish	transposon	51340	52894	.	-	.	50
+seq1	TIRvish	tsd	52892	52894	.	-	.	50	Left TSD of transposon 50
+seq1	TIRvish	tir	52741	52891	.	-	.	50	Left TIR of transposon 50
+seq1	TIRvish	tir	51343	51496	.	-	.	50	Right TIR of transposon 50
+seq1	TIRvish	tsd	51340	51342	.	-	.	50	Right TSD of transposon 50
+seq2	TIRvish	transposon	52776	53765	.	+	.	25
+seq2	TIRvish	tsd	52776	52777	.	+	.	25	Left TSD of transposon 25
+seq2	TIRvish	tir	52778	52923	.	+	.	25	Left TIR of transposon 25
+seq2	TIRvish	tir	53618	53763	.	+	.	25	Right TIR of transposon 25
+seq2	TIRvish	tsd	53764	53765	.	+	.	25	Right TSD of transposon 25
+seq2	TIRvish	transposon	61656	66041	.	+	.	26
+seq2	TIRvish	tsd	61656	61658	.	+	.	26	Left TSD of transposon 26
+seq2	TIRvish	tir	61659	61774	.	+	.	26	Left TIR of transposon 26
+seq2	TIRvish	tir	65922	66038	.	+	.	26	Right TIR of transposon 26
+seq2	TIRvish	tsd	66039	66041	.	+	.	26	Right TSD of transposon 26
+seq2	TIRvish	transposon	176925	179525	.	+	.	27
+seq2	TIRvish	tsd	176925	176926	.	+	.	27	Left TSD of transposon 27
+seq2	TIRvish	tir	176927	177028	.	+	.	27	Left TIR of transposon 27
+seq2	TIRvish	tir	179418	179523	.	+	.	27	Right TIR of transposon 27
+seq2	TIRvish	tsd	179524	179525	.	+	.	27	Right TSD of transposon 27
+seq2	TIRvish	transposon	188823	189847	.	+	.	28
+seq2	TIRvish	tsd	188823	188824	.	+	.	28	Left TSD of transposon 28
+seq2	TIRvish	tir	188825	188932	.	+	.	28	Left TIR of transposon 28
+seq2	TIRvish	tir	189740	189845	.	+	.	28	Right TIR of transposon 28
+seq2	TIRvish	tsd	189846	189847	.	+	.	28	Right TSD of transposon 28
+seq2	TIRvish	transposon	224545	227237	.	+	.	29
+seq2	TIRvish	tsd	224545	224546	.	+	.	29	Left TSD of transposon 29
+seq2	TIRvish	tir	224547	225544	.	+	.	29	Left TIR of transposon 29
+seq2	TIRvish	tir	226238	227235	.	+	.	29	Right TIR of transposon 29
+seq2	TIRvish	tsd	227236	227237	.	+	.	29	Right TSD of transposon 29
+seq2	TIRvish	transposon	271044	274307	.	+	.	30
+seq2	TIRvish	tsd	271044	271045	.	+	.	30	Left TSD of transposon 30
+seq2	TIRvish	tir	271046	271214	.	+	.	30	Left TIR of transposon 30
+seq2	TIRvish	tir	274140	274305	.	+	.	30	Right TIR of transposon 30
+seq2	TIRvish	tsd	274306	274307	.	+	.	30	Right TSD of transposon 30
+seq2	TIRvish	transposon	278497	282866	.	+	.	31
+seq2	TIRvish	tsd	278497	278501	.	+	.	31	Left TSD of transposon 31
+seq2	TIRvish	tir	278502	278625	.	+	.	31	Left TIR of transposon 31
+seq2	TIRvish	tir	282737	282861	.	+	.	31	Right TIR of transposon 31
+seq2	TIRvish	tsd	282862	282866	.	+	.	31	Right TSD of transposon 31
+seq2	TIRvish	transposon	289750	293488	.	+	.	32
+seq2	TIRvish	tsd	289750	289751	.	+	.	32	Left TSD of transposon 32
+seq2	TIRvish	tir	289752	289859	.	+	.	32	Left TIR of transposon 32
+seq2	TIRvish	tir	293383	293486	.	+	.	32	Right TIR of transposon 32
+seq2	TIRvish	tsd	293487	293488	.	+	.	32	Right TSD of transposon 32

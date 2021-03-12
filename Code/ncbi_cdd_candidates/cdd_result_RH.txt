@@ -1,0 +1,1372 @@
+
+1. RNase_H_like: Ribonuclease H-like superfamily, including RNase H, HI, HII, HIII, and RNase-like domain IV of spliceosomal protein Prp8
+Ribonuclease H (RNase H) enzymes are divided into two major families, Type 1 and Type 2, based on am...
+Accession: cl14782 ID: 387386
+
+2. RNase_HII: Ribonuclease H (RNase H) type II family (prokaryotic RNase HII and HIII, and eukaryotic RNase H2/HII)
+This family contains ribonucleases HII (RNases H2) which include bacterial RNase HII and HIII, and e...
+Accession: cd06266 ID: 259999
+
+3. RNase_Ire1_like: RNase domain (also known as the kinase extension nuclease domain) of Ire1 and RNase L
+This RNase domain is found in the multi-functional protein Ire1; Ire1 also contains a type I transme...
+Accession: cl15368 ID: 387600
+
+4. RNase_PH: RNase PH-like 3&apos;-5&apos; exoribonucleases
+RNase PH-like 3'-5' exoribonucleases are enzymes that catalyze the 3' to 5' processing and decay of ...
+Accession: cl03114 ID: 383242
+
+5. RNase_HI_like: RNAse HI family that includes archaeal, some bacterial as well as plant RNase HI
+Ribonuclease H (RNase H) is classified into two evolutionarily unrelated families, type 1 (prokaryot...
+Accession: cd09279 ID: 260011
+
+6. RNase_RNase-L: RNase domain (also known as the kinase extension nuclease domain) of RNase L
+Ribonuclease L (RNase L), sometimes referred to as the 2-5A-dependent RNase, is a highly regulated, ...
+Accession: cd10423 ID: 199218
+
+7. RNase_H_like: Ribonuclease H-like superfamily, including RNase H, HI, HII, HIII, and RNase-like domain IV of spliceosomal protein Prp8
+Ribonuclease H (RNase H) enzymes are divided into two major families, Type 1 and Type 2, based on am...
+Accession: cd06222 ID: 259998
+
+8. RNase_Ire1_like: RNase domain (also known as the kinase extension nuclease domain) of Ire1 and RNase L
+This RNase domain is found in the multi-functional protein Ire1; Ire1 also contains a type I transme...
+Accession: cd10321 ID: 199216
+
+9. RNase_A
+RNase A family, or Pancreatic RNases family; includes vertebrate RNase homologs to the bovine pancre...
+Accession: cl00128 ID: 381816
+
+10. RNase_H2-C: Ribonuclease H2-C is a subunit of the eukaryotic RNase H complex which cleaves RNA-DNA hybrids
+Ribonuclease H2C is one of the three protein of eukaryotic RNase H2 complex that is required for nuc...
+Accession: cl07291 ID: 384931
+
+11. Rnase_HI_RT_non_LTR: non-LTR RNase HI domain of reverse transcriptases
+Ribonuclease H (RNase H) is classified into two families, type 1 (prokaryotic RNase HI, eukaryotic R...
+Accession: cd09276 ID: 260008
+
+12. RPP1: RNase P/RNase MRP subunit p30  [Translation, ribosomal structure and biogenesis]
+
+Accession: COG1603 ID: 224519
+
+13. POP4: RNase P/RNase MRP subunit p29  [Translation, ribosomal structure and biogenesis]
+
+Accession: COG1588 ID: 224504
+
+14. POP5: RNase P/RNase MRP subunit POP5 [Translation, ribosomal structure and biogenesis]
+
+Accession: COG1369 ID: 224288
+
+15. POP4: A domain found in a protein subunit of human RNase MRP and RNase P ribonucleoprotein complexes and archaeal proteins
+
+Accession: smart00538 ID: 197780
+
+16. RNase_H2-B: Ribonuclease H2-B is a subunit of the eukaryotic RNase H complex which cleaves RNA-DNA hybrids
+Ribonuclease H2B is one of the three proteins of eukaryotic RNase H2 complex that is required for nu...
+Accession: cl18968 ID: 388500
+
+17. RNase_HI_eukaryote_like: Eukaryotic RNase H is essential and is longer and more complex than their prokaryotic counterparts
+Ribonuclease H (RNase H) is classified into two families, type 1 (prokaryotic RNase HI, eukaryotic R...
+Accession: cd09280 ID: 260012
+
+18. RNase_H2-C: Ribonuclease H2-C is a subunit of the eukaryotic RNase H complex which cleaves RNA-DNA hybrids
+Ribonuclease H2C is one of the three protein of eukaryotic RNase H2 complex that is required for nuc...
+Accession: cd09271 ID: 187752
+
+19. RNase_H2-B: Ribonuclease H2-B is a subunit of the eukaryotic RNase H complex which cleaves RNA-DNA hybrids
+Ribonuclease H2B is one of the three proteins of eukaryotic RNase H2 complex that is required for nu...
+Accession: cd09270 ID: 187751
+
+20. RNase_HI_prokaryote_like: RNase HI family found mainly in prokaryotes
+Ribonuclease H (RNase H) is classified into two evolutionarily unrelated families, type 1 (prokaryot...
+Accession: cd09278 ID: 260010
+
+21. RNase_HII_eukaryota_like: Eukaryotic RNase HII
+This family includes eukaryotic type 2 RNase H (RNase HII or H2) which is active during replication ...
+Accession: cd07181 ID: 260002
+
+22. RNase_HI_bacteria_like: Bacterial RNase HI containing a hybrid binding domain (HBD) at the N-terminus
+Ribonuclease H (RNase H) enzymes are divided into two major families, Type 1 and Type 2, based on am...
+Accession: cd09277 ID: 260009
+
+23. S1_like
+S1_like: Ribosomal protein S1-like RNA-binding domain. Found in a wide variety of RNA-associated pro...
+Accession: cl09927 ID: 385635
+
+24. RNase_HI_RT_DIRS1: DIRS1 family of RNase HI in long-term repeat retroelements
+Ribonuclease H (RNase H) enzymes are divided into two major families, Type 1 and Type 2, based on am...
+Accession: cd09275 ID: 260007
+
+25. RNase_HI_RT_Ty3: Ty3/Gypsy family of RNase HI in long-term repeat retroelements
+Ribonuclease H (RNase H) enzymes are divided into two major families, Type 1 and Type 2, based on am...
+Accession: cd09274 ID: 260006
+
+26. RNase_HI_RT_Bel: Bel/Pao family of RNase HI in long-term repeat retroelements
+Ribonuclease H (RNase H) enzymes are divided into two major families, Type 1 and Type 2, based on am...
+Accession: cd09273 ID: 260005
+
+27. RNase_HI_RT_Ty1: Ty1/Copia family of RNase HI in long-term repeat retroelements
+Ribonuclease H (RNase H) enzymes are divided into two major families, Type 1 and Type 2, based on am...
+Accession: cd09272 ID: 260004
+
+28. RNase_H_bacteria_like: RNase H is an endonuclease that cleaves the RNA strand of an RNA/DNA hybrid in a sequence non-specific manner
+This family includes bacterial ribonuclease H (RNase H) enzymes. RNases are divided into two major f...
+Accession: cd13935 ID: 260015
+
+29. Rpp20: Rpp20 subunit of nuclear RNase MRP and P
+The nuclear RNase P of Saccharomyces cerevisiae is made up of at least nine protein subunits; Pop1, ...
+Accession: pfam12328 ID: 372048
+
+30. RNase_PH: RNase PH-like 3'-5' exoribonucleases
+RNase PH-like 3'-5' exoribonucleases are enzymes that catalyze the 3' to 5' processing and decay of ...
+Accession: cd11358 ID: 206766
+
+31. RNase_Ire1: RNase domain (also known as the kinase extension nuclease domain) of Ire1
+The model represents the C-terminal endoribonuclease domain of the multi-functional protein Ire1; Ir...
+Accession: cd10422 ID: 199217
+
+32. DSRM_RNAse_III_meta_like: double-stranded RNA binding motif of metazoan ribonuclease III (RNase III) and similar proteins
+RNase III (EC 3.1.26.3; also known as Drosha, or ribonuclease 3) is a double-stranded RNA (dsRNA)-sp...
+Accession: cd19877 ID: 380706
+
+33. RLI: Possible Fer4-like domain in RNase L inhibitor, RLI
+Possible metal-binding domain in endoribonuclease RNase L inhibitor. Found at the N-terminal end of ...
+Accession: pfam04068 ID: 377213
+
+34. RNaseD_like: DEDDy 3'-5' exonuclease domain of RNase D, WRN, and similar proteins
+The RNase D-like group is composed of RNase D, WRN, and similar proteins. They contain a DEDDy-type,...
+Accession: cd06129 ID: 176650
+
+35. RNaseT: DEDDh 3'-5' exonuclease domain of RNase T
+RNase T is a DEDDh-type DnaQ-like 3'-5' exoribonuclease E implicated in the 3' maturation of small s...
+Accession: cd06134 ID: 99837
+
+36. DSRM_RNAse_III_family: double-stranded RNA binding motif of ribonuclease III (RNase III) and similar proteins
+RNase III (EC 3.1.26.3; also known as ribonuclease 3) digests double-stranded RNA formed within sing...
+Accession: cd10845 ID: 380682
+
+37. PRORP: Protein-only RNase P
+PRORPs (protein-only RNase P) are a class of RNA processing enzymes that catalyze maturation of the ...
+Accession: pfam16953 ID: 374900
+
+38. DnaQ_like_exo: DnaQ-like (or DEDD) 3&apos;-5&apos; exonuclease domain superfamily
+The DnaQ-like exonuclease superfamily is a structurally conserved group of 3'-5' exonucleases, which...
+Accession: cl10012 ID: 385652
+
+39. RNase_II_C_S1: RNase II-type exonuclease C-terminal S1 domain
+This entry describes the C-terminal S1 domain found in type 2 RNase exonucleases. DrR63 proteins fro...
+Accession: pfam18614 ID: 376040
+
+40. RNAse_A_bac: Bacterial CdiA-CT RNAse A domain
+Contact-dependent growth inhibition (CDI) is an important mechanism of inter-bacterial competition f...
+Accession: pfam18431 ID: 375857
+
+41. RT_RNaseH: RNase H-like domain found in reverse transcriptase
+DNA polymerase and ribonuclease H (RNase H) activities allow reverse transcriptases to convert the s...
+Accession: pfam17917 ID: 375428
+
+42. RNase_P_pop3: RNase P subunit Pop3
+This family of fungal proteins form a subunit of RNase P, the ribonucleoprotein enzyme that cleaves ...
+Accession: pfam08228 ID: 369768
+
+43. PIN_PRORP: PIN domain of protein-only RNase P (PRORP) and related proteins
+PRORPs catalyze the maturation of the 5' end of precursor tRNAs in eukaryotes. This family includes ...
+Accession: cd18718 ID: 350285
+
+44. PIN_PRORP-Zc3h12a-like: PIN domain of protein-only RNase P (PRORP), ribonuclease Zc3h12a, and related proteins
+PRORPs catalyze the maturation of the 5' end of precursor tRNAs in eukaryotes. This family includes ...
+Accession: cd18671 ID: 350238
+
+45. PIN_T4-like: FEN-like PIN domains of bacteriophage T3, T4 RNase H, T5-5'nuclease, and homologs
+PIN (PilT N terminus) domain of bacteriophage T5-5'nuclease (5'-3' exonuclease or T5FEN), bacterioph...
+Accession: cd09860 ID: 350210
+
+46. PIN_53EXO-like: FEN-like PIN domains of the 5'-3' exonucleases of DNA polymerase I, bacteriophage T4 RNase H and T5-5' nucleases, and homologs
+PIN (PilT N terminus) domains of the 5'-3' exonucleases (53EXO) of multi-domain DNA polymerase I and...
+Accession: cd00008 ID: 350199
+
+47. MG423: beta-CASP ribonuclease, RNase J family
+This family of metalloenzymes includes RNase J1 and RNase J2, involved in mRNA degradation in a wide...
+Accession: TIGR00649 ID: 273195
+
+48. H3TH_T4-like: H3TH domain of bacteriophage T3, T4 RNase H, T5-5' nucleases, and homologs
+H3TH (helix-3-turn-helix) domains of bacteriophage T5-5'nuclease (5'-3' exonuclease or T5FEN), bacte...
+Accession: cd09899 ID: 188619
+
+49. RNase_A
+RNase A family, or Pancreatic RNases family; includes vertebrate RNase homologs to the bovine pancre...
+Accession: cd00163 ID: 119386
+
+50. Mut7-C: Mut7-C RNAse domain
+RNAse domain of the PIN fold with an inserted Zinc Ribbon at the C-terminus.
+Accession: cl19501 ID: 388574
+
+51. Rpr2: RNAse P Rpr2/Rpp21/SNM1 subunit domain
+This family contains a ribonuclease P subunit of humans and yeast. Other members of the family inclu...
+Accession: cl00887 ID: 382266
+
+52. Rpr2: RNAse P Rpr2/Rpp21/SNM1 subunit domain
+This family contains a ribonuclease P subunit of humans and yeast. Other members of the family inclu...
+Accession: pfam04032 ID: 377206
+
+53. Mut7-C: Mut7-C RNAse domain
+RNAse domain of the PIN fold with an inserted Zinc Ribbon at the C-terminus.
+Accession: pfam01927 ID: 376668
+
+54. RNase_P_p30: RNase P subunit p30
+This protein is part of the RNase P complex that is involved in tRNA maturation.
+Accession: pfam01876 ID: 376638
+
+55. DUF5051: 3' exoribonuclease, RNase T-like
+This is a highly divergent 3' exoribonuclease family. The proteins constitute a typical RNase fold, ...
+Accession: pfam16473 ID: 374562
+
+56. RnlA_toxin: RNase LS, bacterial toxin
+RnlA_toxin is an RNase LS and a putative toxin of a bacterial toxin-antitoxin pair. Toxin-antitoxin ...
+Accession: pfam15935 ID: 374236
+
+57. RnlB_antitoxin: Antitoxin to bacterial toxin RNase LS or RnlA
+RnlB_antitoxin, formerly known as yfjO, has been found to be the antidote protein to RNase LS or Rnl...
+Accession: pfam15933 ID: 374235
+
+58. RNase_H2-Ydr279: Ydr279p protein family (RNase H2 complex component)
+RNases H are enzymes that specifically hydrolyze RNA when annealed to a complementary DNA and are pr...
+Accession: pfam09468 ID: 370515
+
+59. RNase_H: RNase H
+RNase H digests the RNA strand of an RNA/DNA hybrid. Important enzyme in retroviral replication cycl...
+Accession: pfam00075 ID: 365854
+
+60. 3_prime_RNase: VacB and RNase II family 3'-5' exoribonucleases
+This model is defined to identify a pair of paralogous 3-prime exoribonucleases in E. coli, plus the...
+Accession: TIGR00358 ID: 273033
+
+61. Ntox1: Putative RNase-like toxin, toxin_1
+A predicted RNase toxin found in bacterial polymorphic toxin systems. The toxin possesses an alpha+b...
+Accession: pfam15500 ID: 259631
+
+62. ABC_RNaseL_inhibitor_domain2: The ATP-binding cassette domain 2 of RNase L inhibitor
+The ABC ATPase, RNase L inhibitor (RLI), is a key enzyme in ribosomal biogenesis, formation of trans...
+Accession: cd03237 ID: 213204
+
+63. ABC_RNaseL_inhibitor_domain1: The ATP-binding cassette domain 1 of RNase L inhibitor
+The ABC ATPase, RNase L inhibitor (RLI), is a key enzyme in ribosomal biogenesis, formation of trans...
+Accession: cd03236 ID: 213203
+
+64. ABC_RNaseL_inhibitor: ATP-binding cassette domain of RNase L inhibitor
+The ABC ATPase RNase L inhibitor (RLI) is a key enzyme in ribosomal biogenesis, formation of transla...
+Accession: cd03222 ID: 213189
+
+65. DEDDy_polA_RNaseD_like_exo: DEDDy 3'-5' exonuclease domain of family-A DNA polymerases, RNase D, WRN, and similar proteins
+DEDDy exonucleases, part of the DnaQ-like (or DEDD) exonuclease superfamily, catalyze the excision o...
+Accession: cd09018 ID: 176656
+
+66. RNase_H_2: RNase_H superfamily
+
+Accession: pfam13482 ID: 379215
+
+67. RT_RNaseH_2: RNase H-like domain found in reverse transcriptase
+
+Accession: pfam17919 ID: 375430
+
+68. RNaseH_C: T4 RNase H, C terminal
+Members of this family are found in T4 RNaseH ribonuclease, and adopt a SAM domain-like fold, consis...
+Accession: pfam09293 ID: 370412
+
+69. TIGR00043: rRNA maturation RNase YbeY
+This metalloprotein family is represented by a single member sequence only in nearly every bacterium...
+Accession: TIGR00043 ID: 272871
+
+70. S1_RNase_E
+S1_RNase_E: RNase E and RNase G, S1-like RNA-binding domain. RNase E is an essential endoribonucleas...
+Accession: cd04453 ID: 239900
+
+71. PRK13963: rRNA maturation RNase YbeY
+
+Accession: PRK13963 ID: 237573
+
+72. PRK05416: RNase adapter RapZ
+
+Accession: PRK05416 ID: 235450
+
+73. COG4923: Predicted nuclease (RNAse H fold)  [General function prediction only]
+
+Accession: COG4923 ID: 227260
+
+74. COG4328: Predicted nuclease (RNAse H fold)  [General function prediction only]
+
+Accession: COG4328 ID: 226778
+
+75. HicB: Predicted nuclease of the RNAse H fold, HicB family  [General function prediction only]
+
+Accession: COG4226 ID: 226679
+
+76. Rnh1: RNase HI-related protein, contains viroplasmin and RNaseH domains [General function prediction only]
+
+Accession: COG3341 ID: 225878
+
+77. RraB: Regulator of RNase E activity RraB [Translation, ribosomal structure and biogenesis]
+
+Accession: COG3076 ID: 225618
+
+78. BarS: Barstar, RNAse (barnase) inhibitor [Transcription]
+
+Accession: COG2732 ID: 225346
+
+79. COG2433: Possible nuclease of RNase H fold, RuvC/YqgF family [General function prediction only]
+
+Accession: COG2433 ID: 225288
+
+80. COG2410: Predicted nuclease (RNAse H fold)  [General function prediction only]
+
+Accession: COG2410 ID: 225273
+
+81. COG2306: Predicted RNA-binding protein, associated with RNAse of E/G family [General function prediction only]
+
+Accession: COG2306 ID: 225188
+
+82. Rrp42: Exosome complex RNA-binding protein Rrp42, RNase PH superfamily [Translation, ribosomal structure and biogenesis]
+
+Accession: COG2123 ID: 225034
+
+83. YmdB: O-acetyl-ADP-ribose deacetylase (regulator of RNase III), contains Macro domain  [Translation, ribosomal structure and biogenesis]
+
+Accession: COG2110 ID: 225021
+
+84. RPR2: RNase P subunit RPR2  [Translation, ribosomal structure and biogenesis]
+
+Accession: COG2023 ID: 224934
+
+85. YkuK: Predicted RNase H-related nuclease YkuK, DUF458 family  [General function prediction only]
+
+Accession: COG1978 ID: 224889
+
+86. MrnC: 23S rRNA maturation mini-RNase III [Translation, ribosomal structure and biogenesis]
+
+Accession: COG1939 ID: 224850
+
+87. YlaK: Predicted ribonuclease YlaK, contains NYN-type RNase and PhoH-family ATPase domains  [General function prediction only]
+
+Accession: COG1875 ID: 224787
+
+88. COG1782: Predicted metal-dependent RNase, contains metallo-beta-lactamase and KH domains [General function prediction only]
+
+Accession: COG1782 ID: 224696
+
+89. RapZ: RNase adaptor protein for sRNA GlmZ degradation, contains a P-loop ATPase domain [Signal transduction mechanisms]
+
+Accession: COG1660 ID: 224574
+
+90. HicB: Predicted nuclease of the RNAse H fold, HicB family [Defense mechanisms]
+
+Accession: COG1598 ID: 224514
+
+91. RnaY: HD superfamily phosphodieaserase, includes HD domain of RNase Y [Translation, ribosomal structure and biogenesis, General function prediction only]
+
+Accession: COG1418 ID: 224336
+
+92. BrkB: Uncharacterized membrane protein, BrkB/YihY/UPF0761 family (not an RNase) [Function unknown]
+
+Accession: COG1295 ID: 224214
+
+93. COG1259: Bifunctional DNase/RNase [General function prediction only]
+
+Accession: COG1259 ID: 224179
+
+94. YqgF: RNase H-fold protein, predicted Holliday junction resolvase in Firmicutes and mycoplasms, involved in anti-termination at Rho-dependent terminators [Transcription]
+
+Accession: COG0816 ID: 223886
+
+95. RraA: Regulator of RNase E activity RraA [Translation, ribosomal structure and biogenesis]
+
+Accession: COG0684 ID: 223756
+
+96. RnpA: RNase P protein component [Translation, ribosomal structure and biogenesis]
+
+Accession: COG0594 ID: 223667
+
+97. YbeY: ssRNA-specific RNase YbeY, 16S rRNA maturation enzyme [Translation, ribosomal structure and biogenesis]
+
+Accession: COG0319 ID: 223396
+
+98. YqgFc: Likely ribonuclease with RNase H fold
+YqgF proteins are likely to function as an alternative to RuvC in most bacteria, and could be the pr...
+Accession: smart00732 ID: 128971
+
+99. HRDC: Helicase and RNase D C-terminal
+Hypothetical role in nucleic acid binding. Mutations in the HRDC domain cause human disease.
+Accession: smart00341 ID: 128635
+
+100. RNase_A_canonical
+Canonical RNase A family includes all vertebrate homologues to the bovine pancreatic ribonuclease A ...
+Accession: cd06265 ID: 119387
+
+101. metallo-hydrolase-like_MBL-fold: mainly hydrolytic enzymes and related proteins which carry out various biological functions; MBL-fold metallohydrolase domain
+Members of the MBL-fold metallohydrolase superfamily are mainly hydrolytic enzymes which carry out a...
+Accession: cl23716 ID: 390040
+
+102. PIN_SF: PIN (PilT N terminus) domain: Superfamily
+The PIN (PilT N terminus) domain belongs to a large nuclease superfamily, and were originally named ...
+Accession: cl28905 ID: 391943
+
+103. DSRM_SF: double-stranded RNA binding motif (DSRM) superfamily
+DSRM (also known as dsRBM) is a 65-70 amino acid domain that adopts an alpha-beta-beta-beta-alpha fo...
+Accession: cl00054 ID: 381777
+
+104. RNase_T2
+Ribonuclease T2 (RNase T2) is a widespread family of secreted RNases found in every organism examine...
+Accession: cl00208 ID: 381862
+
+105. RNase_HII_archaea_like: Archaeal Ribonuclease HII
+This family includes type 2 RNases H from archaea, some of which show broad divalent cation specific...
+Accession: cd07180 ID: 260001
+
+106. RNase_HII_bacteria_HIII_like: Bacterial type 2 ribonuclease, HII and HIII-like
+This family includes type 2 RNases H from several bacteria, such as Bacillus subtilis, which have tw...
+Accession: cd06590 ID: 260000
+
+107. RNase_HII_bacteria_HII_like: Bacterial Ribonuclease HII-like
+This family includes mostly bacterial type 2 RNases H, with some eukaryotic members. Bacterial RNase...
+Accession: cd07182 ID: 260003
+
+108. Barstar_like
+Barstar is an intracellular inhibitor of barnase, an extracellular ribonuclease of Bacillus amyloliq...
+Accession: cl01048 ID: 382351
+
+109. Piwi-like
+Piwi-like: PIWI domain. Domain found in proteins involved in RNA silencing. RNA silencing refers to ...
+Accession: cl00628 ID: 382119
+
+110. CD_CSD: CHROMO (CHRromatin Organization Modifier) domains and chromo shadow domains
+Members of this group are chromodomains or chromo shadow domains; these are SH3-fold-beta-barrel dom...
+Accession: cl28914 ID: 391946
+
+111. pepsin_retropepsin_like: Cellular and retroviral pepsin-like aspartate proteases
+This family includes both cellular and retroviral pepsin-like aspartate proteases. The cellular peps...
+Accession: cl11403 ID: 386101
+
+112. Alba: Alba
+Alba is a novel chromosomal protein that coats archaeal DNA without compacting it.
+Accession: cl00682 ID: 382148
+
+113. RNase_H_Dikarya_like: Fungal (dikarya) Ribonuclease H, uncharacterized
+This family contains dikarya RNase H, many of which are uncharacterized. Ribonuclease H (RNase H) en...
+Accession: cd13934 ID: 260014
+
+114. RIBOc
+RIBOc. Ribonuclease III C terminal domain. This group consists of eukaryotic, bacterial and archeal ...
+Accession: cl00258 ID: 381906
+
+115. S1_RNase_R
+S1_RNase_R: RNase R C-terminal S1 domain. RNase R is a processive 3' to 5' exoribonuclease, which is...
+Accession: cd04471 ID: 239917
+
+116. RIBOc
+RIBOc. Ribonuclease III C terminal domain. This group consists of eukaryotic, bacterial and archeal ...
+Accession: cd00593 ID: 238333
+
+117. PIN_Mut7-C-like: PIN domain at the C-terminus of Caenorhabditis elegans exonuclease Mut-7 and related domains
+The Mut7-C-like family of the PIN domain superfamily includes the C-terminal domain of Caenorhabditi...
+Accession: cl38923 ID: 393293
+
+118. DUF302_like: Domains similar to DUF302 and the N-terminal domains found in some bacterial RNAses
+DUF302 is an uncharacterized domain with widespread phylogenetic distribution. It appears homologous...
+Accession: cl21600 ID: 389834
+
+119. RuvC_like: Crossover junction endodeoxyribonuclease RuvC and similar proteins
+The RuvC-like family consists of bacterial RuvC, fungal Cruciform cutting endonuclease 1 (CCE1), and...
+Accession: cl21482 ID: 389762
+
+120. RNase_H2_suC: Ribonuclease H2 non-catalytic subunit (Ylr154p-like)
+This entry represents the non-catalytic subunit of RNase H2, which in S. cerevisiae is Ylr154p/Rnh20...
+Accession: pfam08615 ID: 370002
+
+121. RNase_T2_prok
+Ribonuclease T2 (RNase T2) is a widespread family of secreted RNases found in every organism examine...
+Accession: cd01062 ID: 238513
+
+122. RNase_T2_euk
+Ribonuclease T2 (RNase T2) is a widespread family of secreted RNases found in every organism examine...
+Accession: cd01061 ID: 238512
+
+123. RNase_PH_RRP46: RRP46 subunit of eukaryotic exosome
+The RRP46 subunit of eukaryotic exosome is a member of the RNase_PH family, named after the bacteria...
+Accession: cd11372 ID: 206777
+
+124. RNase_PH_MTR3: MTR3 subunit of eukaryotic exosome
+The MTR3 subunit of eukaryotic exosome is a member of the RNase_PH family, named after the bacterial...
+Accession: cd11371 ID: 206776
+
+125. RNase_PH_RRP41: RRP41 subunit of eukaryotic exosome
+The RRP41 subunit of eukaryotic exosome is a member of the RNase_PH family, named after the bacteria...
+Accession: cd11370 ID: 206775
+
+126. RNase_PH_RRP43: RRP43 subunit of eukaryotic exosome
+The RRP43 subunit of eukaryotic exosome is a member of the RNase_PH family, named after the bacteria...
+Accession: cd11369 ID: 206774
+
+127. RNase_PH_RRP45: RRP45 subunit of eukaryotic exosome
+The RRP45 subunit of eukaryotic exosome is a member of the RNase_PH family, named after the bacteria...
+Accession: cd11368 ID: 206773
+
+128. RNase_PH_RRP42: RRP42 subunit of eukaryotic exosome
+The RRP42 subunit of eukaryotic exosome is a member of the RNase_PH family, named after the bacteria...
+Accession: cd11367 ID: 206772
+
+129. TOPRIM
+Topoisomerase-primase domain. This is a nucleotidyl transferase/hydrolase domain found in type IA, t...
+Accession: cl00718 ID: 382163
+
+130. RraA-like: Aldolase/RraA
+Members of this family include regulator of ribonuclease E activity A (RraA) and 4-hydroxy-4-methyl-...
+Accession: cl00480 ID: 382035
+
+131. Piwi: Piwi domain
+This domain is found in the protein Piwi and its relatives. The function of this domain is the dsRNA...
+Accession: pfam02171 ID: 366952
+
+132. RNase_T2
+Ribonuclease T2 (RNase T2) is a widespread family of secreted RNases found in every organism examine...
+Accession: cd00374 ID: 238220
+
+133. Piwi: This domain is found in the protein Piwi and its relatives
+The function of this domain is the dsRNA guided hydrolysis of ssRNA. Determination of the crystal st...
+Accession: smart00950 ID: 214930
+
+134. RNase_PH_PNPase_2: Polyribonucleotide nucleotidyltransferase, repeat 2
+Polyribonucleotide nucleotidyltransferase (PNPase) is a member of the RNase_PH family, named after t...
+Accession: cd11364 ID: 206769
+
+135. RNase_PH_PNPase_1: Polyribonucleotide nucleotidyltransferase, repeat 1
+Polyribonucleotide nucleotidyltransferase (PNPase) is a member of the RNase_PH family, named after t...
+Accession: cd11363 ID: 206768
+
+136. rnhC: ribonuclease HIII
+This enzyme cleaves RNA from DNA-RNA hybrids. Two types of ribonuclease H in Bacillus subtilis, RNas...
+Accession: TIGR00716 ID: 129799
+
+137. Cas13b: Class 2 type VI-B CRISPR-associated RNA-guided ribonuclease Cas13b
+CRISPR-Cas (clustered regularly interspaced short palindromic repeats and CRISPR-associated proteins...
+Accession: cl40426 ID: 394796
+
+138. P-loop_NTPase: P-loop containing Nucleoside Triphosphate Hydrolases
+Members of the P-loop NTPase domain superfamily are characterized by a conserved nucleotide phosphat...
+Accession: cl38936 ID: 393306
+
+139. RNase_E_G: Ribonuclease E/G family
+Ribonuclease E and Ribonuclease G are related enzymes that cleave a wide variety of RNAs.
+Accession: cl29166 ID: 392011
+
+140. H3TH_StructSpec-5&apos;-nucleases: H3TH domains of structure-specific 5&apos; nucleases (or flap endonuclease-1-like) involved in DNA replication, repair, and recombination
+The 5' nucleases of this superfamily are capable of both 5'-3' exonucleolytic activity and cleaving ...
+Accession: cl22433 ID: 389913
+
+141. RNase_Zc3h12a: Zc3h12a-like Ribonuclease NYN domain
+This domain is found in the Zc3h12a protein which has shown to be a ribonuclease that controls the s...
+Accession: cl20439 ID: 388918
+
+142. microbial_RNases
+microbial_RNases. Ribonucleases (RNAses) cleave phosphodiester bonds in RNA and are essential  for b...
+Accession: cl00212 ID: 381865
+
+143. PPR_long: Pentacotripeptide-repeat region of PRORP
+Pentatricopeptide repeat (PPR) proteins are a large family of modular RNA-binding proteins which med...
+Accession: pfam17177 ID: 375031
+
+144. RraA_family: ribonuclease activity regulator RraA family
+RraA protein family is named after the regulator of ribonuclease activity A (RraA), a protein that  ...
+Accession: cd16841 ID: 319245
+
+145. RNaseZ_MBL-fold: Ribonuclease Z; MBL-fold metallo-hydrolase domain
+The tRNA maturase RNase Z (also known as tRNase Z or 3' tRNase) catalyzes the endonucleolytic remova...
+Accession: cd16272 ID: 293830
+
+146. RNaseZ_ZiPD-like_MBL-fold: Ribonuclease Z, E. coli 3' tRNA-processing endonuclease ZiPD and related proteins; MBL-fold metallo-hydrolase domain
+The tRNA maturase RNase Z (also known as tRNase Z or 3' tRNase) catalyzes the endonucleolytic remova...
+Accession: cd07717 ID: 293803
+
+147. RNaseEG: ribonuclease, Rne/Rng family
+This model describes ribonuclease G (formerly CafA, cytoplasmic axial filament protein A), the N-ter...
+Accession: TIGR00757 ID: 273254
+
+148. RNase_H_like_Prp8_IV: Ribonuclease-like Prp8 domain IV core
+This family contains Prp8 domain IV, which adopts a RNase H like fold within its core structure but ...
+Accession: cd13838 ID: 260013
+
+149. RNaseD_exo: DEDDy 3'-5' exonuclease domain of Ribonuclease D and similar proteins
+Ribonuclease (RNase) D is a bacterial enzyme involved in the maturation of small stable RNAs and the...
+Accession: cd06142 ID: 176654
+
+150. DnaQ_like_exo: DnaQ-like (or DEDD) 3'-5' exonuclease domain superfamily
+The DnaQ-like exonuclease superfamily is a structurally conserved group of 3'-5' exonucleases, which...
+Accession: cd06125 ID: 176647
+
+151. TOPRIM_RNase_M5_like
+TOPRIM_ RNase M5_like: The topoisomerase-primase (TOPRIM) nucleotidyl transferase/hydrolase domain f...
+Accession: cd01027 ID: 173777
+
+152. true_RNase_BN: ribonuclease BN
+Members of this protein family are ribonuclease BN of Escherichia coli K-12 and closely related prot...
+Accession: TIGR02649 ID: 131697
+
+153. TIGR00729: ribonuclease H, mammalian HI/archaeal HII subfamily
+This enzyme cleaves RNA from DNA-RNA hybrids. Archaeal members of this subfamily of RNase H are desi...
+Accession: TIGR00729 ID: 129812
+
+154. Ubiquitin_like_fold: Beta-grasp ubiquitin-like fold
+Ubiquitin is a protein modifier that is involved in various cellular processes including transcripti...
+Accession: cl28922 ID: 391949
+
+155. Cas2_I_II_III: CRISPR/Cas system-associated protein Cas2
+CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) and associated Cas proteins compr...
+Accession: cl11442 ID: 386114
+
+156. Cas2_I-E: CRISPR/Cas system-associated protein Cas2
+CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) and associated Cas proteins compr...
+Accession: cl08187 ID: 385298
+
+157. Virul_fac_BrkB: Virulence factor BrkB
+This family acts as a virulence factor. In Bordetella pertussis, BrkB is essential for resistance to...
+Accession: cl07918 ID: 385273
+
+158. GUCT: RNA-binding GUCT domain found in the RNA helicase II/Gu protein family
+This family includes vertebrate RNA helicase II/Gualpha (RH-II/Gualpha) and RNA helicase II/Gubeta (...
+Accession: cl06960 ID: 384768
+
+159. RT_like
+RT_like: Reverse transcriptase (RT, RNA-dependent DNA polymerase)_like family. An RT gene is usually...
+Accession: cl02808 ID: 383137
+
+160. RNaseH_like: Ribonuclease H-like
+RNaseH_like is a family of uncharacterized eubacterial proteins that are distant homologs of Ribonuc...
+Accession: cl00861 ID: 382248
+
+161. Ribonuclease_P: Ribonuclease P
+ribonuclease P; Reviewed
+Accession: cl00457 ID: 382021
+
+162. Thioredoxin_like: Protein Disulfide Oxidoreductases and Other Proteins with a Thioredoxin fold
+The thioredoxin (TRX)-like superfamily is a large, diverse group of proteins containing a TRX fold. ...
+Accession: cl00388 ID: 381987
+
+163. DSRM_SF: double-stranded RNA binding motif (DSRM) superfamily
+DSRM (also known as dsRBM) is a 65-70 amino acid domain that adopts an alpha-beta-beta-beta-alpha fo...
+Accession: cd00048 ID: 380679
+
+164. RNaseH_like: Ribonuclease H-like
+RNaseH_like is a family of uncharacterized eubacterial proteins that are distant homologs of Ribonuc...
+Accession: pfam04308 ID: 377295
+
+165. RraA-like: Aldolase/RraA
+Members of this family include regulator of ribonuclease E activity A (RraA) and 4-hydroxy-4-methyl-...
+Accession: pfam03737 ID: 377116
+
+166. RPM2: Mitochondrial ribonuclease P subunit (RPM2)
+Ribonuclease P (RNase P) generates mature tRNA molecules by cleaving their 5' ends. RPM2 is a protei...
+Accession: pfam08579 ID: 369970
+
+167. POP1: Ribonucleases P/MRP protein subunit POP1
+This family represents a conserved region approximately 150 residues long located towards the N-term...
+Accession: pfam06978 ID: 369155
+
+168. DNA_pol_A_exo1: 3'-5' exonuclease
+This domain is responsible for the 3'-5' exonuclease proofreading activity of E. coli DNA polymerase...
+Accession: pfam01612 ID: 366728
+
+169. PIN_Zc3h12-like: PRORP-like PIN domain of ribonuclease Zc3h12a and related proteins
+Zc3h12a (zinc finger CCCH-type containing 12A, also known as MCPIP1/MCP induced protein 1 and Regnas...
+Accession: cd18729 ID: 350296
+
+170. PIN_N4BP1-like: PRORP-like PIN domain of NEDD4 binding protein 1 and related proteins
+NEDD4-binding partner-1 (N4BP1) interacts with and is a substrate of NEDD4 ubiquitin ligase (neural ...
+Accession: cd18728 ID: 350295
+
+171. PIN_Zc3h12a-N4BP1-like: PRORP-like PIN domain of ribonuclease Zc3h12a, NEDD4-binding partner-1, and related proteins
+Zc3h12a (zinc finger CCCH-type containing 12A, also known as MCPIP1/MCP induced protein 1 and Regnas...
+Accession: cd18719 ID: 350286
+
+172. RAG1: Recombination-activation protein 1 (RAG1), recombinase
+This family is one of the two different components of the RAG1-RAG2 V(D)J recombinase complex. The R...
+Accession: pfam12940 ID: 315595
+
+173. RNaseZ_ELAC2-N-term-like_MBL-fold: Ribonuclease Z, N-terminus of human ELAC2 and related proteins; MBL-fold metallo-hydrolase domain
+The tRNA maturase RNase Z (also known as tRNase Z or 3' tRNase) catalyzes the endonucleolytic remova...
+Accession: cd16296 ID: 293854
+
+174. RNaseZ_ELAC1_ELAC2-C-term-like_MBL-fold: Ribonuclease Z ELAC1, C-terminus of ELAC2, and related proteins; MBL-fold metallo-hydrolase domain
+The tRNA maturase RNase Z (also known as tRNase Z or 3' tRNase) catalyzes the endonucleolytic remova...
+Accession: cd07718 ID: 293804
+
+175. RNaseZ_short-form-like_MBL-fold: uncharacterized bacterial subgroup of Ribonuclease Z, short form; MBL-fold metallo-hydrolase domain
+The tRNA maturase RNase Z (also known as tRNase Z or 3' tRNase) catalyzes the endonucleolytic remova...
+Accession: cd07716 ID: 293802
+
+176. RNaseJ_MBL-fold: RNAaseJ, MBL-fold metallo-hydrolase domain
+RNase J, also called Ribonuclease J, is a prokaryotic ribonuclease which plays a key part in RNA pro...
+Accession: cd07714 ID: 293800
+
+177. yihY_not_rbn: YihY family inner membrane protein
+Initial identification of members of this protein family was based on characterization of the yihY g...
+Accession: TIGR00765 ID: 273260
+
+178. Barstar
+Barstar is an intracellular inhibitor of barnase, an extracellular ribonuclease of Bacillus amyloliq...
+Accession: cd05142 ID: 240165
+
+179. Barstar_evA4336-like
+Barstar_evA4336-like contains uncharacterized sequences similar to the uncharacterized, predicted RN...
+Accession: cd05141 ID: 240164
+
+180. Barstar_AU1054-like
+Barstar_AU1054-like contains uncharacterized sequences similar to the uncharacterized, predicted RNA...
+Accession: cd05140 ID: 240163
+
+181. RNase_Sa
+RNase_Sa. Ribonucleases first isolated from Streptomyces aureofaciens. In general, ribonucleases cle...
+Accession: cd00607 ID: 238340
+
+182. Barstar_like
+Barstar is an intracellular inhibitor of barnase, an extracellular ribonuclease of Bacillus amyloliq...
+Accession: cd00489 ID: 238273
+
+183. rnpA: ribonuclease P protein component, eubacterial
+This peptide is the protein component of a ribonucleoprotein that cleaves the leader sequence from e...
+Accession: TIGR00188 ID: 211560
+
+184. RNase_PH_bact: Ribonuclease PH
+Ribonuclease PH (RNase PH)-like 3'-5' exoribonucleases are enzymes that catalyze the 3' to 5' proces...
+Accession: cd11362 ID: 206767
+
+185. P-loop_NTPase: P-loop containing Nucleoside Triphosphate Hydrolases
+Members of the P-loop NTPase domain superfamily are characterized by a conserved nucleotide phosphat...
+Accession: cl38985 ID: 393355
+
+186. PHP: Polymerase and Histidinol Phosphatase domain
+The PHP (also called histidinol phosphatase-2/HIS2) domain is associated with several types of DNA p...
+Accession: cl23724 ID: 390047
+
+187. Globin-like: Globin-like protein superfamily
+This globin-like domain superfamily contains a wide variety of all-helical proteins that bind porphy...
+Accession: cl21461 ID: 389749
+
+188. CDI_toxin_Bp1026b_like: Mg-dependent tRNAse of the contact-dependent growth inhibition (CDI) system of Burkholderia pseudomallei 1026b, and related proteins
+CDI toxins are expressed by gram-negative bacteria as part of a mechanism to inhibit the growth of n...
+Accession: cl19108 ID: 388511
+
+189. RRM_SF: RNA recognition motif (RRM) superfamily
+RRM, also known as RBD (RNA binding domain) or RNP (ribonucleoprotein domain), is a highly abundant ...
+Accession: cl17169 ID: 388407
+
+190. FinO_conjug_rep
+FinO bacterial conjugation repressor domain;  the basic protein FinO is part of the the two componen...
+Accession: cl15270 ID: 387592
+
+191. LabA_like_C: C-terminal domain of LabA_like proteins
+This C-terminal domain is found in a well conserved group of mainly bacterial proteins with no defin...
+Accession: cl14879 ID: 387402
+
+192. SRPBCC: START/RHO_alpha_C/PITP/Bet_v1/CoxG/CalC (SRPBCC) ligand-binding domain superfamily
+SRPBCC domains have a deep hydrophobic ligand-binding pocket; they bind diverse ligands. Included in...
+Accession: cl14643 ID: 387369
+
+193. GH18_chitinase-like
+The GH18 (glycosyl hydrolase, family 18) type II chitinases hydrolyze chitin, an abundant polymer of...
+Accession: cl10447 ID: 385673
+
+194. HRDC: HRDC domain
+The HRDC (Helicase and RNase D C-terminal) domain has a putative role in nucleic acid binding. Mutat...
+Accession: cl02578 ID: 383037
+
+195. RNase_P_Rpp14: Rpp14/Pop5 family
+tRNA processing enzyme ribonuclease P (RNase P) consists of an RNA molecule associated with at least...
+Accession: cl00605 ID: 382103
+
+196. DNase-RNase: Bifunctional nuclease
+This family is a bifunctional nuclease, with both DNase and RNase activity. It forms a wedge-shaped ...
+Accession: cl00553 ID: 382076
+
+197. EEP: Exonuclease-Endonuclease-Phosphatase (EEP) domain superfamily
+This large superfamily includes the catalytic domain (exonuclease/endonuclease/phosphatase or EEP do...
+Accession: cl00490 ID: 382041
+
+198. PAZ
+PAZ domain, named PAZ after the proteins Piwi Argonaut and Zwille. PAZ is found in two families of p...
+Accession: cl00301 ID: 381930
+
+199. R3H
+R3H domain. The name of the R3H domain comes from the characteristic spacing of the most conserved a...
+Accession: cl00297 ID: 381928
+
+200. AANH_like
+Adenine nucleotide alpha hydrolases superfamily  including N type ATP PPases, ATP sulphurylases Univ...
+Accession: cl00292 ID: 381925
+
+201. Maf_Ham1
+Maf_Ham1. Maf, a nucleotide binding protein, has been implicated in inhibition of septum formation i...
+Accession: cl00276 ID: 381917
+
+202. Sm_like: Sm and related proteins
+The eukaryotic Sm and Sm-like (LSm) proteins associate with RNA to form the core domain of the ribon...
+Accession: cl00259 ID: 381907
+
+203. HNHc
+HNH nucleases; HNH endonuclease signature which is found in viral, prokaryotic, and eukaryotic prote...
+Accession: cl00083 ID: 381794
+
+204. GS_EcDosC-like_GGDEF: Globin sensor domain of Escherichia coli Direct Oxygen Sensing Cyclase and related proteins; coupled to a C-terminal GGDEF domain
+Globin-coupled-sensors belonging to this subfamily have a C-terminal diguanylate cyclase (DGC/GGDEF)...
+Accession: cd14757 ID: 381271
+
+205. DSRM_mL44_subfamily: double-stranded RNA binding motif of mL44 subfamily proteins
+The mitochondrion-specific ribosomal protein mL44 subfamily is composed of mitochondrial 54S ribosom...
+Accession: cd20315 ID: 380747
+
+206. DSRM_RNT1p-like: double-stranded RNA binding motif of Saccharomyces cerevisiae ribonuclease 3 (RNT1p) and similar proteins
+RNT1p (EC 3.1.26.3; also known as ribonuclease III (RNase III)) is a dsRNA-specific nuclease that cl...
+Accession: cd19876 ID: 380705
+
+207. DSRM_MRPL44: double-stranded RNA binding motif of mitochondrial 39S ribosomal protein L44 (MRPL44) and similar proteins
+MRPL44 (also known as L44mt, MRP-L44, or mitochondrial large ribosomal subunit protein mL44) is a co...
+Accession: cd19874 ID: 380703
+
+208. DSRM_MRPL3_like: double-stranded RNA binding motif of Saccharomyces cerevisiae mitochondrial 54S ribosomal protein L3 (MRPL3) and similar proteins
+MRPL3 (also called mitochondrial large ribosomal subunit protein mL44) is a component of the mitocho...
+Accession: cd19873 ID: 380702
+
+209. DSRM_DCL_plant: double-stranded RNA binding motif of plant Dicer-like proteins
+The family includes plant Dicer-like (DCL) proteins and other ribonuclease (RNase) III-like (RTL) pr...
+Accession: cd19869 ID: 380698
+
+210. DSRM_DICER: double-stranded RNA binding motif of endoribonuclease Dicer and similar proteins
+Dicer (also known as helicase with RNase motif (HERNA), or helicase MOI) is a double-stranded RNA (d...
+Accession: cd10843 ID: 380680
+
+211. Cas13b_Bz-like: Class 2 type VI-B CRISPR-associated RNA-guided ribonuclease Cas13b from Bergeyella zoohelcum and similar Cas13b proteins
+CRISPR-Cas (clustered regularly interspaced short palindromic repeats and CRISPR-associated proteins...
+Accession: cd20478 ID: 380476
+
+212. Cas13b_Pb-like: Class 2 type VI-B CRISPR-associated RNA-guided ribonuclease Cas13b from Prevotella buccae and similar Cas13b proteins
+CRISPR-Cas (clustered regularly interspaced short palindromic repeats and CRISPR-associated proteins...
+Accession: cd20477 ID: 380475
+
+213. Cas13b: Class 2 type VI-B CRISPR-associated RNA-guided ribonuclease Cas13b
+CRISPR-Cas (clustered regularly interspaced short palindromic repeats and CRISPR-associated proteins...
+Accession: cd20334 ID: 380474
+
+214. CSD2: Cold shock domain
+Crystallographic structure analysis of E. coli wild-type RNase II revealed that the amino-terminal r...
+Accession: pfam17876 ID: 380043
+
+215. Ntox50: Bacterial toxin 50
+A predicted RNase toxin found in bacterial polymorphic toxin systems that is proposed to adopt the B...
+Accession: pfam15542 ID: 379729
+
+216. Ntox24: Bacterial toxin 24
+A predicted RNase toxin found in bacterial polymorphic toxin systems. The toxin possesses an all-bet...
+Accession: pfam15529 ID: 379728
+
+217. OST-HTH: OST-HTH/LOTUS domain
+A predicted RNA-binding domain found in insect Oskar and vertebrate TDRD5/TDRD7 proteins that nuclea...
+Accession: pfam12872 ID: 378983
+
+218. SUV3_C: Mitochondrial degradasome RNA helicase subunit C terminal
+This domain family is found in bacteria and eukaryotes, and is approximately 50 amino acids in lengt...
+Accession: pfam12513 ID: 378870
+
+219. DNase-RNase: Bifunctional nuclease
+This family is a bifunctional nuclease, with both DNase and RNase activity. It forms a wedge-shaped ...
+Accession: pfam02577 ID: 376830
+
+220. RNase_P_Rpp14: Rpp14/Pop5 family
+tRNA processing enzyme ribonuclease P (RNase P) consists of an RNA molecule associated with at least...
+Accession: pfam01900 ID: 376654
+
+221. HEPN_RES_NTD1: HEPN/RES N-terminal domain 1
+Mostly alpha helical. Fused to HEPN (MAE_28990 superfamily), RES domain, a potential RNase found in ...
+Accession: pfam18870 ID: 376289
+
+222. HP0268: HP0268
+HP0268 is a small, characterized protein that is conserved in H. pylori strains and consists of 80 a...
+Accession: pfam18618 ID: 376044
+
+223. Regnase_1_C: Endoribonuclease Regnase 1/ ZC3H12 C-terminal domain
+This is the C-terminal domain found in regnase-1, an RNase that directly cleaves mRNAs of inflammato...
+Accession: pfam18561 ID: 375987
+
+224. RNase_3_N: Ribonuclease III N-terminal domain
+This is the N-terminal domain of eukaryotic ribonuclease 3 (RNase III, EC:3.1.26.3). Structure analy...
+Accession: pfam18497 ID: 375923
+
+225. ScsC_N: Copper resistance protein ScsC N-terminal domain
+This is the N-terminal domain found in Copper resistance protein ScsS present in Proteus mirabilis. ...
+Accession: pfam18312 ID: 375739
+
+226. Rrp40_N: Exosome complex exonuclease Rrp40 N-terminal domain
+This is the N-terminal domain of Rrp40 of the exosome complex present in Saccharomyces cerevisiae. T...
+Accession: pfam18311 ID: 375738
+
+227. Dis3l2_C_term: DIS3-like exonuclease 2 C terminal
+This is the C-terminal S1 domain found in Dis3L2 proteins. Dis3L2 belongs to the RNase II/R 3-5 exon...
+Accession: pfam17877 ID: 375398
+
+228. Ydr279_N: Ydr279p protein triple barrel domain
+RNases H are enzymes that specifically hydrolyse RNA when annealed to a complementary DNA and are pr...
+Accession: pfam17745 ID: 375310
+
+229. Dip: gp37/Dip protein
+This protein is found in the giant phage phi KZ. This protein has been shown to bind to RNAse E of t...
+Accession: pfam17679 ID: 375249
+
+230. Ntox44: Bacterial toxin 44
+A predicted RNase toxin found in bacterial polymorphic toxin systems. The toxin possesses an all-alp...
+Accession: pfam15607 ID: 373964
+
+231. Ntox28: Bacterial toxin 28
+A predicted RNase toxin found in bacterial polymorphic toxin systems. The toxin possesses an all alp...
+Accession: pfam15605 ID: 373963
+
+232. Ntox15: Novel toxin 15
+A predicted RNase toxin found in bacterial polymorphic toxin systems. The toxin possesses a most all...
+Accession: pfam15604 ID: 373962
+
+233. Ntox6: Bacterial toxin 6
+A predicted RNase toxin found in bacterial polymorphic toxin systems. The toxin possesses an alpha+b...
+Accession: pfam15544 ID: 373932
+
+234. Ntox47: Bacterial toxin 47
+A predicted RNase toxin found in bacterial polymorphic toxin systems that is proposed to adopt the B...
+Accession: pfam15540 ID: 373931
+
+235. Ntox37: Bacterial toxin 37
+A predicted RNase toxin found in bacterial polymorphic toxin systems. The toxin possesses an all-bet...
+Accession: pfam15535 ID: 373929
+
+236. Ntox35: Bacterial toxin 35
+A predicted RNase toxin found in bacterial polymorphic toxin systems that is proposed to adopt the B...
+Accession: pfam15534 ID: 373928
+
+237. Ntox30: Bacterial toxin 30
+A predicted RNase toxin found in bacterial polymorphic toxin systems. The toxin possesses an all-bet...
+Accession: pfam15532 ID: 373927
+
+238. Ntox27: Bacterial toxin 27
+A predicted RNase toxin found in bacterial polymorphic toxin systems. The toxin possesses an alpha+b...
+Accession: pfam15531 ID: 373926
+
+239. Ntox25: Bacterial toxin 25
+A predicted RNase toxin found in bacterial polymorphic toxin systems. The toxin possesses a mostly a...
+Accession: pfam15530 ID: 373925
+
+240. Ntox23: Bacterial toxin 23
+A predicted RNase toxin found in bacterial polymorphic toxin systems. The toxin possesses an all-bet...
+Accession: pfam15528 ID: 373924
+
+241. Ntox22: Bacterial toxin 22
+A predicted RNase toxin found in bacterial polymorphic toxin systems. The toxin possesses a mostly b...
+Accession: pfam15527 ID: 373923
+
+242. Ntox21: Novel toxin 21
+Bacterial genomes and plasmids encode a variety of peptide and protein toxins that mediate inter-bac...
+Accession: pfam15526 ID: 373922
+
+243. Ntox17: Novel toxin 17
+A predicted RNase toxin found in bacterial polymorphic toxin systems. The toxin possesses a mostly a...
+Accession: pfam15524 ID: 373920
+
+244. Ntox16: Novel toxin 16
+A predicted RNase toxin found in bacterial polymorphic toxin systems. The toxin possesses an all-alp...
+Accession: pfam15523 ID: 373919
+
+245. Ntox11: Novel toxin 11
+A predicted RNase toxin found in bacterial polymorphic toxin systems. The toxin contains two structu...
+Accession: pfam15521 ID: 373918
+
+246. RNase_Zc3h12a_2: Zc3h12a-like Ribonuclease NYN domain
+This family is found to be a divergent form of the NYN-domain- containing RNAse family.
+Accession: pfam14626 ID: 373171
+
+247. DUF4413: Domain of unknown function (DUF4413)
+This domain is part of an RNase-H fold section of longer proteins some of which are transposable ele...
+Accession: pfam14372 ID: 373033
+
+248. Maelstrom: piRNA pathway germ-plasm component
+Maelstrom is a germ-plasm component protein, that is shown to be functionally involved in the piRNA ...
+Accession: pfam13017 ID: 372431
+
+249. Colicin-DNase: DNase/tRNase domain of colicin-like bacteriocin
+Colicin-like bacteriocins are complex structures with an N-terminal beta-barrel translocation domain...
+Accession: pfam12639 ID: 372235
+
+250. PORR: Plant organelle RNA recognition domain
+This family, which was previously known as DUF860, has been shown to be a component of group II intr...
+Accession: pfam11955 ID: 371818
+
+251. Slu7: Pre-mRNA splicing Prp18-interacting factor
+The spliceosome, an assembly of snRNAs (U1, U2, U4/U6, and U5) and proteins, catalyzes the excision ...
+Accession: pfam11708 ID: 371683
+
+252. Ribonuc_P_40: Ribonuclease P 40kDa (Rpp40) subunit
+The tRNA processing enzyme ribonuclease P (RNase P) consists of an RNA molecule and at least eight p...
+Accession: pfam08584 ID: 369974
+
+253. MutS_II: MutS domain II
+This domain is found in proteins of the MutS family (DNA mismatch repair proteins) and is found asso...
+Accession: pfam05188 ID: 368328
+
+254. HRDC: HRDC domain
+The HRDC (Helicase and RNase D C-terminal) domain has a putative role in nucleic acid binding. Mutat...
+Accession: pfam00570 ID: 366173
+
+255. PIN_Mut7-C-like: Mut7-C-like family of the PIN domain superfamily similar to the PIN domain found at the C-terminus of Caenorhabditis elegans exonuclease Mut-7 and related proteins
+This Mut7-C-like subgroup of the PIN domain superfamily includes the C-terminal domain of Caenorhabd...
+Accession: cd18772 ID: 350854
+
+256. PIN_Mut7-C-like: uncharacterized subgroup of the Mut7-C-like family of the PIN domain superfamily
+The Mut7-C-like family of the PIN domain superfamily includes the C-terminal domain of Caenorhabditi...
+Accession: cd18771 ID: 350853
+
+257. PIN_Mut7-C-like: uncharacterized subgroup of the Mut7-C-like family of the PIN domain superfamily
+The Mut7-C-like family of the PIN domain superfamily includes the C-terminal domain of Caenorhabditi...
+Accession: cd18770 ID: 350852
+
+258. PIN_Mut7-C-like: uncharacterized subgroup of the Mut7-C-like family of the PIN domain superfamily
+The Mut7-C-like family of the PIN domain superfamily includes the C-terminal domain of Caenorhabditi...
+Accession: cd18769 ID: 350851
+
+259. PIN_Mut7-C-like: PIN domain at the C-terminus of Caenorhabditis elegans exonuclease Mut-7 and related domains
+The Mut7-C-like family of the PIN domain superfamily includes the C-terminal domain of Caenorhabditi...
+Accession: cd18670 ID: 350850
+
+260. PIN_Rrp44-like: VapC-like PIN domain of yeast exosome subunit Rrp44 endoribonuclease and other eukaryotic homologs
+PIN (PilT N terminus) domain of the Saccharomyces cerevisiae exosome subunit Rrp44 (Ribosomal RNA-pr...
+Accession: cd09862 ID: 350211
+
+261. PIN_SF: PIN (PilT N terminus) domain: Superfamily
+The PIN (PilT N terminus) domain belongs to a large nuclease superfamily, and were originally named ...
+Accession: cd09852 ID: 350203
+
+262. CD_POL_like: chromodomain of a Zea maize putative metaviridae (gypsy-type) retrotransposon polyproteins (Z195D10.9), and similar proteins
+This subgroup includes the CHROMO (CHRromatin Organization Modifier) domain found in Zea maize Z195D...
+Accession: cd18979 ID: 349335
+
+263. CD_MarY1_POL_like: chromodomain of Tricholoma matsutake polyprotein, and similar proteins
+This subgroup includes the CHROMO (CHRromatin Organization Modifier) domain found in the polyprotein...
+Accession: cd18975 ID: 349331
+
+264. CD_POL_like: chromodomain of Penicillium solitum protein PENSOL_c198G03123
+This subgroup includes the CHROMO (CHRromatin Organization Modifier) domain found in Penicillium sol...
+Accession: cd18974 ID: 349330
+
+265. CD_Tf2-1_POL_like: chromodomain of Rhizoctonia solani AG-1 IB retrotransposable element Tf2 155 kDa protein type 1, and similar proteins
+This subgroup includes the CHROMO (CHRromatin Organization Modifier) domain found in Rhizoctonia sol...
+Accession: cd18973 ID: 349329
+
+266. CD_POL_like: chromodomain of a Moniliophthora perniciosa FA553 putative retrotransposon polyprotein, and similar proteins
+This subgroup includes the CHROMO (CHRromatin Organization Modifier) domain found in a Moniliophthor...
+Accession: cd18972 ID: 349328
+
+267. CD_POL_like: chromodomain of a Magnaporthe grisea putative retrotransposon polyprotein, and similar proteins
+This subgroup includes the CHROMO (CHRromatin Organization Modifier) domain found in a Magnaporthe g...
+Accession: cd18971 ID: 349327
+
+268. CD_POL_like: chromodomain of Hypsizygus marmoreus TY3B-I_0 protein, and similar proteins
+This subgroup includes the CHROMO (CHRromatin Organization Modifier) domain found in Hypsizygus marm...
+Accession: cd18970 ID: 349326
+
+269. toxin_TenpN: type III toxin-antitoxin system toxin TenpN and similar proteins
+TenpN-like toxin component of a type III toxin-antitoxin (TA) system, which consists of a ribonuclea...
+Accession: cd17493 ID: 341213
+
+270. toxin_CptN: type III toxin-antitoxin system toxin CptN and similar proteins
+CptN-like toxin component of a type III toxin-antitoxin (TA) system, which consists of a ribonucleas...
+Accession: cd17492 ID: 341212
+
+271. YqgF: putative pre-16S rRNA nuclease YqgF and RuvX family
+Escherichia coli YqgF has been shown to act as a pre-16S rRNA nuclease, presumably as a monomer. It ...
+Accession: cd16964 ID: 340815
+
+272. CCE1: fungal mitochondrial Holliday junction resolvases similar to Saccharomyces cerevisiae CCE1
+Saccharomyces cerevisiae Cruciform cutting endonuclease 1 (CCE1) is a Holliday junction resolvase sp...
+Accession: cd16963 ID: 340814
+
+273. RuvC: Crossover junction endodeoxyribonuclease RuvC
+Crossover junction endodeoxyribonuclease RuvC is also called Holliday junction resolvase RuvC. It is...
+Accession: cd16962 ID: 340813
+
+274. RuvC_like: Crossover junction endodeoxyribonuclease RuvC and similar proteins
+The RuvC-like family consists of bacterial RuvC, fungal Cruciform cutting endonuclease 1 (CCE1), and...
+Accession: cd00529 ID: 340812
+
+275. Ubl2_OASL: ubiquitin-like (Ubl) domain 2 found in 2'-5'-oligoadenylate synthase-like protein (OASL) and similar proteins
+OASL, also termed 2'-5'-OAS-related protein (2'-5'-OAS-RP), or 59 kDa 2'-5'-oligoadenylate synthase-...
+Accession: cd16103 ID: 340520
+
+276. Ubl1_OASL: ubiquitin-like (Ubl) domain 1 found in 2'-5'-oligoadenylate synthase-like protein (OASL) and similar proteins
+OASL, also termed 2'-5'-OAS-related protein (2'-5'-OAS-RP), or 59 kDa 2'-5'-oligoadenylate synthase-...
+Accession: cd01811 ID: 340509
+
+277. PPR_3: Pentatricopeptide repeat domain
+This family matches additional variants of the PPR repeat that were not captured by the model for pf...
+Accession: pfam13812 ID: 316342
+
+278. DUF2469: Protein of unknown function (DUF2469)
+Member proteins often found in Actinomycetes clustered with signal peptidase and/or RNAse-HII.
+Accession: pfam10611 ID: 313765
+
+279. Ntox34: Bacterial toxin 34
+A predicted RNase toxin found in bacterial polymorphic toxin systems. The toxin possesses an all-alp...
+Accession: pfam15606 ID: 292240
+
+280. Ntox8: Bacterial toxin 8
+A predicted RNase toxin found in bacterial polymorphic toxin systems. The toxin possesses an alpha+b...
+Accession: pfam15545 ID: 292182
+
+281. Ntox5: Bacterial toxin 5
+A predicted RNase toxin found in bacterial polymorphic toxin systems. The toxin possesses an alpha+b...
+Accession: pfam15543 ID: 292180
+
+282. Ntox4: Bacterial toxin 4
+A predicted RNase toxin found in bacterial polymorphic toxin systems. The toxin possesses an alpha+b...
+Accession: pfam15541 ID: 292178
+
+283. Ntox43: Bacterial toxin 43
+A predicted RNase toxin found in bacterial polymorphic toxin systems. The toxin possesses an alpha+b...
+Accession: pfam15537 ID: 292174
+
+284. Ntox3: Bacterial toxin 3
+A predicted RNase toxin found in bacterial polymorphic toxin systems. The toxin possesses an all-bet...
+Accession: pfam15536 ID: 292173
+
+285. Ntox33: Bacterial toxin 33
+A predicted RNase toxin found in bacterial polymorphic toxin systems. The toxin possesses an alpha+b...
+Accession: pfam15533 ID: 292170
+
+286. Ntox10: Novel toxin 10
+A predicted RNase toxin found in bacterial polymorphic toxin systems. The toxin possesses an alpha+b...
+Accession: pfam15520 ID: 292158
+
+287. Hfq: RNA chaperone Hfq
+This model represents the RNA-binding pleiotropic regulator Hfq, a small, Sm-like protein of bacteri...
+Accession: TIGR02383 ID: 274101
+
+288. RNAse_HIII_N: N-terminal domain of ribonuclease H3
+RNAse H3 (HIII) is a bacterial type 2 ribonuclease, which endonucleolytically hydrolyzes an RNA stra...
+Accession: cd14796 ID: 269819
+
+289. RNLA_N_2: N-terminal repeat domain of toxin RnlA; second out of two repeats
+The Escherichia coli toxin RnlA functions as an mRNA endoribonuclease and is part of a two-component...
+Accession: cd14795 ID: 269818
+
+290. RNLA_N_1: N-terminal repeat domain of toxin RnlA; first out of two repeats
+The Escherichia coli toxin RnlA functions as an mRNA endoribonuclease and is part of a two-component...
+Accession: cd14794 ID: 269817
+
+291. DUF302_like: Domains similar to DUF302 and the N-terminal domains found in some bacterial RNAses
+DUF302 is an uncharacterized domain with widespread phylogenetic distribution. It appears homologous...
+Accession: cd14793 ID: 269816
+
+292. CDI_toxin_Bp1026b_like: Mg-dependent tRNAse of the contact-dependent growth inhibition (CDI) system of Burkholderia pseudomallei 1026b, and related proteins
+CDI toxins are expressed by gram-negative bacteria as part of a mechanism to inhibit the growth of n...
+Accession: cd13442 ID: 259835
+
+293. Ntox14: Novel toxin 14
+A predicted RNase toxin found in bacterial polymorphic toxin systems. The toxin possesses an alpha+b...
+Accession: pfam15522 ID: 259653
+
+294. RRM_G3BP: RNA recognition motif (RRM) in ras GTPase-activating protein-binding protein G3BP1, G3BP2 and similar proteins
+This subfamily corresponds to the RRM domain in the G3BP family of RNA-binding and SH3 domain-bindin...
+Accession: cd12229 ID: 240675
+
+295. GUCT_Hera: RNA-binding GUCT-like domain found in Thermus thermophilus heat resistant RNA-dependent ATPase (Hera) and similar proteins
+This subfamily corresponds to the  Gu C-terminal (GUCT)-like domain of Hera and similar proteins. Th...
+Accession: cd12938 ID: 240595
+
+296. GUCT: RNA-binding GUCT domain found in the RNA helicase II/Gu protein family
+This family includes vertebrate RNA helicase II/Gualpha (RH-II/Gualpha) and RNA helicase II/Gubeta (...
+Accession: cd12929 ID: 240592
+
+297. S1_CSL4
+S1_CSL4: CSL4, S1-like RNA-binding domain. S1-like RNA-binding domains are found in a wide variety o...
+Accession: cd05791 ID: 240217
+
+298. S1_Rrp40
+S1_Rrp40: Rrp40 S1-like RNA-binding domain. S1-like RNA-binding domains are found in a wide variety ...
+Accession: cd05790 ID: 240216
+
+299. S1_Rrp4
+S1_Rrp4: Rrp4 S1-like RNA-binding domain. S1-like RNA-binding domains are found in a wide variety of...
+Accession: cd05789 ID: 240215
+
+300. Barstar_SaI14_like
+Barstar_SaI14_like contains sequences that are similar to SaI14, an RNAase inhibitor, which are memb...
+Accession: cd05143 ID: 240166
+
+301. S1_Rrp4_like
+S1_Rrp4_like: Rrp4-like, S1-like RNA-binding domain. S1-like RNA-binding domains are found in a wide...
+Accession: cd04454 ID: 239901
+
+302. PDI_a_MPD1_like
+PDI family, MPD1-like subfamily; composed of eukaryotic proteins similar to Saccharomyces cerevisiae...
+Accession: cd03002 ID: 239300
+
+303. PDI_a_TMX
+PDIa family, TMX subfamily; composed of proteins similar to the TRX-related human transmembrane prot...
+Accession: cd02994 ID: 239292
+
+304. PAZ_dicer_like
+PAZ domain, dicer_like subfamily. Dicer is an RNAse involved in cleaving dsRNA in the RNA interferen...
+Accession: cd02843 ID: 239209
+
+305. RT_nLTR_like
+RT_nLTR: Non-LTR (long terminal repeat) retrotransposon and non-LTR retrovirus reverse transcriptase...
+Accession: cd01650 ID: 238827
+
+306. RT_Rtv
+RT_Rtv: Reverse transcriptases (RTs) from retroviruses (Rtvs). RTs catalyze the conversion of single...
+Accession: cd01645 ID: 238823
+
+307. Maf
+Nucleotide binding protein Maf. Maf has been implicated in inhibition of septum formation in eukaryo...
+Accession: cd00555 ID: 238310
+
+308. microbial_RNases
+microbial_RNases. Ribonucleases (RNAses) cleave phosphodiester bonds in RNA and are essential  for b...
+Accession: cd00389 ID: 238228
+
+309. FinO_conjug_rep
+FinO bacterial conjugation repressor domain;  the basic protein FinO is part of the the two componen...
+Accession: cd00236 ID: 238145
+
+310. PRK14719
+bifunctional RNAse/5-amino-6-(5-phosphoribosylamino)uracil reductase; Provisional
+Accession: PRK14719 ID: 237801
+
+311. 35EXOc: 3'-5' exonuclease
+3\' -5' exonuclease proofreading domain present in DNA polymerase I, Werner syndrome helicase, RNase...
+Accession: smart00474 ID: 214681
+
+312. RNase_PH_archRRP41: RRP41 subunit of archaeal exosome
+The RRP41 subunit of the archaeal exosome is a member of the RNase_PH family, named after the bacter...
+Accession: cd11366 ID: 206771
+
+313. RNase_PH_archRRP42: RRP42 subunit of archaeal exosome
+The RRP42 subunit of the archaeal exosome is a member of the RNase_PH family, named after the bacter...
+Accession: cd11365 ID: 206770
+
+314. ExoIII-like_AP-endo: Escherichia coli exonuclease III (ExoIII) and Neisseria meningitides NExo-like subfamily of the ExoIII family purinic/apyrimidinic (AP) endonucleases
+This subfamily includes Escherichia coli ExoIII, Neisseria meningitides NExo,and related proteins. T...
+Accession: cd09086 ID: 197320
+
+315. H3TH_StructSpec-5'-nucleases: H3TH domains of structure-specific 5' nucleases (or flap endonuclease-1-like) involved in DNA replication, repair, and recombination
+The 5' nucleases of this superfamily are capable of both 5'-3' exonucleolytic activity and cleaving ...
+Accession: cd00080 ID: 188616
+
+316. arCOG00187: arCOG00187 universal archaeal metal-binding-domain/4Fe-4S-binding-domain containing ABC transporter, ATP-binding protein
+This protein consists of an N-terminal possible metal-binding domain (pfam04068) followed by a 4Fe-4...
+Accession: TIGR03679 ID: 188368
+
+317. RNase_Y: ribonuclease Y
+Members of this family are RNase Y, an endoribonuclease. The member from Bacillus subtilis, YmdA, ha...
+Accession: TIGR03319 ID: 188306
+
+318. RNase_Z_T_toga: ribonuclease Z, Thermotoga type
+Members of this protein family are ribonuclease Z as found in the genus Thermotoga, where the enzyme...
+Accession: TIGR02650 ID: 188239
+
+319. Cas2_I-E: CRISPR/Cas system-associated protein Cas2
+CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) and associated Cas proteins compr...
+Accession: cd09755 ID: 187885
+
+320. Cas2_I_II_III: CRISPR/Cas system-associated protein Cas2
+CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) and associated Cas proteins compr...
+Accession: cd09725 ID: 187856
+
+321. Cas3_Cas2_I-F: CRISPR/Cas system-associated protein Cas3/Cas2
+CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) and associated Cas proteins compr...
+Accession: cd09673 ID: 187804
+
+322. Cas2_I-E: CRISPR/Cas system-associated protein Cas2
+CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) and associated Cas proteins compr...
+Accession: cd09648 ID: 187779
+
+323. Cas2_I_II_III: CRISPR/Cas system-associated protein Cas2
+CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) and associated Cas proteins compr...
+Accession: cd09638 ID: 187769
+
+324. PRK07238
+bifunctional RNase H/acid phosphatase; Provisional
+Accession: PRK07238 ID: 180903
+
+325. Bet_v1-like: Ligand-binding bet_v_1 domain of major pollen allergen of white birch (Betula verrucosa), Bet v 1, and related proteins
+This family includes the ligand binding domain of Bet v 1 (the major pollen allergen of white birch,...
+Accession: cd07816 ID: 176858
+
+326. DEDDh: DEDDh 3'-5' exonuclease domain family
+DEDDh exonucleases, part of the DnaQ-like (or DEDD) exonuclease superfamily, catalyze the excision o...
+Accession: cd06127 ID: 176648
+
+327. TOPRIM_OLD
+TOPRIM_OLD: topoisomerase-primase (TOPRIM) nucleotidyl transferase/hydrolase domain of the type foun...
+Accession: cd01026 ID: 173776
+
+328. RP_RTVL_H_like: Retropepsin of the RTVL_H family of human endogenous retrovirus-like elements
+This family includes aspartate proteases from retroelements with LTR (long terminal repeats) includi...
+Accession: cd06095 ID: 133159
+
+329. RP_Saci_like: RP_Saci_like, retropepsin family
+Retropepsin on retrotransposons with long terminal repeats (LTR) including Saci-1, -2 and -3 of Schi...
+Accession: cd06094 ID: 133158
+
+330. retropepsin_like_LTR_2: Retropepsins_like_LTR, pepsin-like aspartate proteases
+Retropepsin of retrotransposons with long terminal repeats are pepsin-like aspartate proteases. Whil...
+Accession: cd05484 ID: 133151
+
+331. HIV_retropepsin_like: Retropepsins, pepsin-like aspartate proteases
+This is a subfamily of retropepsins. The family includes pepsin-like aspartate proteases from retrov...
+Accession: cd05482 ID: 133149
+
+332. retropepsin_like_LTR_1: Retropepsins_like_LTR; pepsin-like aspartate protease from retrotransposons with long terminal repeats
+Retropepsin of retrotransposons with long terminal repeats are pepsin-like aspartate proteases. Whil...
+Accession: cd05481 ID: 133148
+
+333. pepsin_retropepsin_like: Cellular and retroviral pepsin-like aspartate proteases
+This family includes both cellular and retroviral pepsin-like aspartate proteases. The cellular peps...
+Accession: cd05470 ID: 133137
+
+334. retropepsin_like: Retropepsins; pepsin-like aspartate proteases
+The family includes pepsin-like aspartate proteases from retroviruses, retrotransposons and retroele...
+Accession: cd00303 ID: 133136
+
+335. RraA_entero: regulator of ribonuclease activity A
+This family includes a number of closely related sequences from certain enterobacteria. The E. coli ...
+Accession: TIGR02998 ID: 132043
+
+336. RNasePH: ribonuclease PH
+This bacterial enzyme, ribonuclease PH, performs the final 3'-trimming and modification of tRNA prec...
+Accession: TIGR01966 ID: 131021
+
+337. NOT-MenG: RraA famliy
+The E. coli member of this family has been characterized as a regulator of RNase E and its crystal s...
+Accession: TIGR01935 ID: 130990
+
+338. CycNucDiestase: 2',3'-cyclic-nucleotide 2'-phosphodiesterase
+2',3'-cyclic-nucleotide 2'-phosphodiesterase is a bifunctional enzyme localized to the periplasm of ...
+Accession: TIGR01390 ID: 130457
+
+339. RNAse_H_YqgF: putative transcription antitermination factor YqgF
+This protein family, which exhibits an RNAse H fold in crystal structure, has been proposed as a put...
+Accession: TIGR00250 ID: 129352
+
+340. GH18_EndoS-like
+Endo-beta-N-acetylglucosaminidases are bacterial chitinases that hydrolyze the chitin core of variou...
+Accession: cd06542 ID: 119359
+
+341. R3H_PARN
+R3H domain of Poly(A)-specific ribonuclease (PARN). PARN is a poly(A)-specific 3' exonuclease from t...
+Accession: cd02637 ID: 100066
+
+342. REX1_like: DEDDh 3'-5' exonuclease domain of RNA exonuclease 1, -3 and similar eukaryotic proteins
+This subfamily is composed of RNA exonuclease 1 (REX1 or Rex1p), REX3 (or Rex3p), and similar eukary...
+Accession: cd06145 ID: 99848
+
+343. REX4_like: DEDDh 3'-5' exonuclease domain of RNA exonuclease 4, XPMC2, Interferon Stimulated Gene product of 20 kDa, and similar proteins
+This subfamily is composed of RNA exonuclease 4 (REX4 or Rex4p), XPMC2, Interferon (IFN) Stimulated ...
+Accession: cd06144 ID: 99847

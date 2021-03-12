@@ -1,0 +1,102 @@
+# ltrHarvest Annotation
+# Structure of this file: 
+# 1)	Chromosome
+# 2)	Annotation Software
+# 3)	Annotation Feature
+# 4)	Start Position
+# 5)	End Position
+# 6)	Score / Probability
+# 7)	Strand
+# 8)	Phase (not used)
+# 9)	TransposonNr
+# 10)	Attributes separated by ;
+seq1	ltrHarvest	transposon	35536	39898	89.06	+	.	1	
+seq1	ltrHarvest	ltr	35536	35725	.	+	.	1	Left LTR of transposon 1
+seq1	ltrHarvest	ltr	39707	39898	.	+	.	1	Right LTR of transposon 1
+seq1	ltrHarvest	transposon	88035	89365	95.14	+	.	2	
+seq1	ltrHarvest	ltr	88035	88219	.	+	.	2	Left LTR of transposon 2
+seq1	ltrHarvest	ltr	89182	89365	.	+	.	2	Right LTR of transposon 2
+seq1	ltrHarvest	transposon	110238	123546	96.5	+	.	3	
+seq1	ltrHarvest	ltr	110238	110551	.	+	.	3	Left LTR of transposon 3
+seq1	ltrHarvest	ltr	123235	123546	.	+	.	3	Right LTR of transposon 3
+seq1	ltrHarvest	transposon	130465	134374	92.7	+	.	4	
+seq1	ltrHarvest	ltr	130465	130947	.	+	.	4	Left LTR of transposon 4
+seq1	ltrHarvest	ltr	133882	134374	.	+	.	4	Right LTR of transposon 4
+seq1	ltrHarvest	transposon	139405	141554	92.84	+	.	5	
+seq1	ltrHarvest	ltr	139405	139837	.	+	.	5	Left LTR of transposon 5
+seq1	ltrHarvest	ltr	141131	141554	.	+	.	5	Right LTR of transposon 5
+seq1	ltrHarvest	transposon	142967	153019	99.39	+	.	6	
+seq1	ltrHarvest	ltr	142967	143293	.	+	.	6	Left LTR of transposon 6
+seq1	ltrHarvest	ltr	152694	153019	.	+	.	6	Right LTR of transposon 6
+seq1	ltrHarvest	transposon	177903	181898	97.4	+	.	7	
+seq1	ltrHarvest	ltr	177903	178898	.	+	.	7	Left LTR of transposon 7
+seq1	ltrHarvest	ltr	180899	181898	.	+	.	7	Right LTR of transposon 7
+seq1	ltrHarvest	transposon	268295	276908	91.53	+	.	8	
+seq1	ltrHarvest	ltr	268295	268482	.	+	.	8	Left LTR of transposon 8
+seq1	ltrHarvest	ltr	276720	276908	.	+	.	8	Right LTR of transposon 8
+seq1	ltrHarvest	transposon	403061	406260	86.94	+	.	9	
+seq1	ltrHarvest	ltr	403061	403351	.	+	.	9	Left LTR of transposon 9
+seq1	ltrHarvest	ltr	405970	406260	.	+	.	9	Right LTR of transposon 9
+seq1	ltrHarvest	transposon	451464	453045	94.08	+	.	10	
+seq1	ltrHarvest	ltr	451464	451625	.	+	.	10	Left LTR of transposon 10
+seq1	ltrHarvest	ltr	452877	453045	.	+	.	10	Right LTR of transposon 10
+seq1	ltrHarvest	transposon	689022	690514	87.03	+	.	11	
+seq1	ltrHarvest	ltr	689022	689206	.	+	.	11	Left LTR of transposon 11
+seq1	ltrHarvest	ltr	690337	690514	.	+	.	11	Right LTR of transposon 11
+seq1	ltrHarvest	transposon	745353	751257	87.97	+	.	12	
+seq1	ltrHarvest	ltr	745353	745939	.	+	.	12	Left LTR of transposon 12
+seq1	ltrHarvest	ltr	750668	751257	.	+	.	12	Right LTR of transposon 12
+seq2	ltrHarvest	transposon	52464	54096	92.22	+	.	13	
+seq2	ltrHarvest	ltr	52464	52777	.	+	.	13	Left LTR of transposon 13
+seq2	ltrHarvest	ltr	53763	54096	.	+	.	13	Right LTR of transposon 13
+seq2	ltrHarvest	transposon	59697	61291	88.31	+	.	14	
+seq2	ltrHarvest	ltr	59697	59944	.	+	.	14	Left LTR of transposon 14
+seq2	ltrHarvest	ltr	61060	61291	.	+	.	14	Right LTR of transposon 14
+seq2	ltrHarvest	transposon	64595	65898	91.0	+	.	15	
+seq2	ltrHarvest	ltr	64595	64894	.	+	.	15	Left LTR of transposon 15
+seq2	ltrHarvest	ltr	65604	65898	.	+	.	15	Right LTR of transposon 15
+seq2	ltrHarvest	transposon	129436	132460	96.44	+	.	16	
+seq2	ltrHarvest	ltr	129436	129968	.	+	.	16	Left LTR of transposon 16
+seq2	ltrHarvest	ltr	131933	132460	.	+	.	16	Right LTR of transposon 16
+seq2	ltrHarvest	transposon	149675	152548	90.96	+	.	17	
+seq2	ltrHarvest	ltr	149675	150614	.	+	.	17	Left LTR of transposon 17
+seq2	ltrHarvest	ltr	151611	152548	.	+	.	17	Right LTR of transposon 17
+seq2	ltrHarvest	transposon	178462	188974	88.46	+	.	18	
+seq2	ltrHarvest	ltr	178462	178617	.	+	.	18	Left LTR of transposon 18
+seq2	ltrHarvest	ltr	188820	188974	.	+	.	18	Right LTR of transposon 18
+seq2	ltrHarvest	transposon	212478	216283	91.28	+	.	19	
+seq2	ltrHarvest	ltr	212478	212649	.	+	.	19	Left LTR of transposon 19
+seq2	ltrHarvest	ltr	216121	216283	.	+	.	19	Right LTR of transposon 19
+seq2	ltrHarvest	transposon	227288	230428	94.93	+	.	20	
+seq2	ltrHarvest	ltr	227288	227563	.	+	.	20	Left LTR of transposon 20
+seq2	ltrHarvest	ltr	230158	230428	.	+	.	20	Right LTR of transposon 20
+seq2	ltrHarvest	transposon	241657	245259	89.66	+	.	21	
+seq2	ltrHarvest	ltr	241657	241830	.	+	.	21	Left LTR of transposon 21
+seq2	ltrHarvest	ltr	245088	245259	.	+	.	21	Right LTR of transposon 21
+seq2	ltrHarvest	transposon	245330	256873	98.78	+	.	22	
+seq2	ltrHarvest	ltr	245330	245904	.	+	.	22	Left LTR of transposon 22
+seq2	ltrHarvest	ltr	256299	256873	.	+	.	22	Right LTR of transposon 22
+seq2	ltrHarvest	transposon	271325	274307	85.61	+	.	23	
+seq2	ltrHarvest	ltr	271325	271588	.	+	.	23	Left LTR of transposon 23
+seq2	ltrHarvest	ltr	274046	274307	.	+	.	23	Right LTR of transposon 23
+seq2	ltrHarvest	transposon	300833	310021	96.37	+	.	24	
+seq2	ltrHarvest	ltr	300833	301135	.	+	.	24	Left LTR of transposon 24
+seq2	ltrHarvest	ltr	309725	310021	.	+	.	24	Right LTR of transposon 24
+seq2	ltrHarvest	transposon	317609	320944	86.45	+	.	25	
+seq2	ltrHarvest	ltr	317609	317859	.	+	.	25	Left LTR of transposon 25
+seq2	ltrHarvest	ltr	320695	320944	.	+	.	25	Right LTR of transposon 25
+seq2	ltrHarvest	transposon	344055	345392	90.76	+	.	26	
+seq2	ltrHarvest	ltr	344055	344292	.	+	.	26	Left LTR of transposon 26
+seq2	ltrHarvest	ltr	345160	345392	.	+	.	26	Right LTR of transposon 26
+seq2	ltrHarvest	transposon	358535	360507	96.09	+	.	27	
+seq2	ltrHarvest	ltr	358535	358662	.	+	.	27	Left LTR of transposon 27
+seq2	ltrHarvest	ltr	360382	360507	.	+	.	27	Right LTR of transposon 27
+seq2	ltrHarvest	transposon	410198	413107	92.61	+	.	28	
+seq2	ltrHarvest	ltr	410198	410425	.	+	.	28	Left LTR of transposon 28
+seq2	ltrHarvest	ltr	412878	413107	.	+	.	28	Right LTR of transposon 28
+seq2	ltrHarvest	transposon	444166	446237	85.52	+	.	29	
+seq2	ltrHarvest	ltr	444166	444462	.	+	.	29	Left LTR of transposon 29
+seq2	ltrHarvest	ltr	445943	446237	.	+	.	29	Right LTR of transposon 29
+seq2	ltrHarvest	transposon	489455	499169	89.71	+	.	30	
+seq2	ltrHarvest	ltr	489455	489590	.	+	.	30	Left LTR of transposon 30
+seq2	ltrHarvest	ltr	499042	499169	.	+	.	30	Right LTR of transposon 30

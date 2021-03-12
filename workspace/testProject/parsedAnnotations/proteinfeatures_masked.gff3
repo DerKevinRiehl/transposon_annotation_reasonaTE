@@ -1,0 +1,27 @@
+seq1	transposonPSI	protein/domain	147777	151295	.	-	.	.	protein(ltr_Roo)
+seq1	transposonPSI	protein/domain	116300	117574	.	+	.	.	protein(LINE)
+seq1	transposonPSI	protein/domain	151303	152256	.	-	.	.	protein(ltr_Roo)
+seq1	transposonPSI	protein/domain	147016	147780	.	-	.	.	protein(ltr_Roo)
+seq1	transposonPSI	protein/domain	127679	128107	.	-	.	.	protein(LINE)
+seq1	transposonPSI	protein/domain	133459	133659	.	-	.	.	protein(LINE)
+seq1	transposonPSI	protein/domain	147777	148208	.	-	.	.	protein(gypsy)
+seq1	transposonPSI	protein/domain	452410	452700	.	+	.	.	protein(mariner_ant1)
+seq1	transposonPSI	protein/domain	452467	452793	.	+	.	.	protein(mariner)
+seq2	transposonPSI	protein/domain	254511	255215	.	+	.	.	protein(ltr_Roo)
+seq2	transposonPSI	protein/domain	255636	255980	.	+	.	.	protein(ltr_Roo)
+seq2	transposonPSI	protein/domain	253142	254113	.	+	.	.	protein(ltr_Roo)
+seq1	NCBI_CDD_Selection	protein	147556	147684	.	-	.	.	protein(pfam13683), INT, rve_3
+seq1	NCBI_CDD_Selection	protein	115414	115638	.	+	.	.	protein(pfam14529), endonuclease, Exo_endo_phos_2
+seq1	NCBI_CDD_Selection	protein	116408	117151	.	+	.	.	protein(cd01650), RH,RT, RT_nLTR_like
+seq1	NCBI_CDD_Selection	protein	127934	128122	.	-	.	.	protein(cd01650), RH,RT, RT_nLTR_like
+seq1	NCBI_CDD_Selection	protein	116423	117064	.	+	.	.	protein(pfam00078), RT, RVT_1
+seq1	NCBI_CDD_Selection	protein	149478	149993	.	-	.	.	protein(pfam00078), RT, RVT_1
+seq1	NCBI_CDD_Selection	protein	148065	148232	.	-	.	.	protein(pfam17921), INT, Integrase_H2C2
+seq1	NCBI_CDD_Selection	protein	147601	147720	.	-	.	.	protein(pfam00665), endonuclease,INT, rve
+seq1	NCBI_CDD_Selection	protein	147777	147923	.	-	.	.	protein(pfam00665), endonuclease,INT, rve
+seq1	NCBI_CDD_Selection	protein	150759	150947	.	-	.	.	protein(cd00303), RH,RT,PR,INT,POL, retropepsin_like
+seq2	NCBI_CDD_Selection	protein	213636	213890	.	-	.	.	protein(pfam13975), PR, gag-asp_proteas
+seq2	NCBI_CDD_Selection	protein	213639	213905	.	-	.	.	protein(cd05484), RH,RT,PR,INT,POL, retropepsin_like_LTR_2
+seq2	NCBI_CDD_Selection	protein	213732	213908	.	-	.	.	protein(cd05483), PR, retropepsin_like_bacteria
+seq2	NCBI_CDD_Selection	protein	213639	213902	.	-	.	.	protein(cd00303), RH,RT,PR,INT,POL, retropepsin_like
+seq2	NCBI_CDD_Selection	protein	254520	254741	.	+	.	.	protein(cd00303), RH,RT,PR,INT,POL, retropepsin_like

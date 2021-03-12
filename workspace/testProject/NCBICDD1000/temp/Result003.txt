@@ -1,0 +1,14 @@
+# RPSTBLASTN 2.10.0+
+# Query: seq1
+# Database: /mnt/home3/riehl/miniconda3/envs/transposon_annotation_tools_env/share/proteinNCBICDD1000/selection/Selection1000Library003
+# Fields: subject title, evalue, q. start, q. end
+# 1 hits found
+pfam14529, Exo_endo_phos_2, Endonuclease-reverse transcriptase.  This domain represents the endonuclease region of retrotransposons from a range of bacteria, archaea and eukaryotes. These are enzymes largely from class EC:2.7.7.49.	1.22e-07	115414	115638
+# RPSTBLASTN 2.10.0+
+# Query: seq2
+# Database: /mnt/home3/riehl/miniconda3/envs/transposon_annotation_tools_env/share/proteinNCBICDD1000/selection/Selection1000Library003
+# Fields: subject title, evalue, q. start, q. end
+# 2 hits found
+cd05484, retropepsin_like_LTR_2, Retropepsins_like_LTR, pepsin-like aspartate proteases.  Retropepsin of retrotransposons with long terminal repeats are pepsin-like aspartate proteases. While fungal and mammalian pepsins are bilobal proteins with structurally related N- and C-termini, retropepsins are half as long as their fungal and mammalian counterparts. The monomers are structurally related to one lobe of the pepsin molecule and retropepsins function as homodimers. The active site aspartate occurs within a motif (Asp-Thr/Ser-Gly), as it does in pepsin. Retroviral aspartyl protease is synthesized as part of the POL polyprotein that contains an aspartyl protease, a reverse transcriptase, RNase H, and an integrase. The POL polyprotein undergoes specific enzymatic cleavage to yield the mature proteins. In aspartate peptidases, Asp residues are ligands of an activated water molecule in all examples where catalytic residues have been identified. This group of aspartate peptidases is classified by MEROPS as the peptidase family A2 (retropepsin family, clan AA), subfamily A2A.	7.67e-33	213905	213639
+cd05483, retropepsin_like_bacteria, Bacterial aspartate proteases, retropepsin-like protease family.  This family of bacteria aspartate proteases is a subfamily of retropepsin-like protease family, which includes enzymes from retrovirus and retrotransposons. While fungal and mammalian pepsin-like aspartate proteases are bilobal proteins with structurally related N- and C-termini, this family of bacteria aspartate proteases is half as long as their fungal and mammalian counterparts. The monomers are structurally related to one lobe of the pepsin molecule and function as homodimers. The active site aspartate occurs within a motif (Asp-Thr/Ser-Gly), as it does in pepsin. In aspartate peptidases, Asp residues are ligands of an activated water molecule in all examples where catalytic residues have been identified. This group of aspartate proteases is classified by MEROPS as the peptidase family A2 (retropepsin family, clan AA), subfamily A2A.	0.003	213908	213732
+# BLAST processed 2 queries

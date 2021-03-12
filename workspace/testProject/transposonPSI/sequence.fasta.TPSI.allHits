@@ -1,0 +1,15 @@
+ltr_Roo		2312	PSITBLASTN	transposonPSI.8907.cb-gpu1.tmp/seq1/seq1.seq	seq1	465	1533	151295	147777	25.3	43.1	2339	905			0	Minus	793080	0.0
+LINE		1189	PSITBLASTN	transposonPSI.8907.cb-gpu1.tmp/seq1/seq1.seq	seq1	431	866	116300	117574	19.6	39.2	752	294			0	Plus	793080	7e-83
+ltr_Roo		2312	PSITBLASTN	transposonPSI.8907.cb-gpu1.tmp/seq1/seq1.seq	seq1	151	455	152256	151303	26.2	42.5	548	215			0	Minus	793080	5e-57
+ltr_Roo		2312	PSITBLASTN	transposonPSI.8907.cb-gpu1.tmp/seq1/seq1.seq	seq1	1534	1767	147780	147016	26.8	44.7	524	206			0	Minus	793080	3e-54
+mariner		345	PSITBLASTN	transposonPSI.8907.cb-gpu1.tmp/seq1/seq1.seq	seq1	9	342	154729	155709	19.5	35.1	253	101			0	Plus	793080	4e-25
+LINE		1189	PSITBLASTN	transposonPSI.8907.cb-gpu1.tmp/seq1/seq1.seq	seq1	665	810	128107	127679	18.8	36.2	239	96.5			0	Minus	793080	2e-21
+mariner_ant1		325	PSITBLASTN	transposonPSI.8907.cb-gpu1.tmp/seq1/seq1.seq	seq1	33	307	154822	155652	20.6	35.5	223	90.2			0	Plus	793080	2e-21
+LINE		1189	PSITBLASTN	transposonPSI.8907.cb-gpu1.tmp/seq1/seq1.seq	seq1	700	769	133659	133459	22.9	38.6	163	67.2			0	Minus	793080	1e-12
+gypsy		1463	PSITBLASTN	transposonPSI.8907.cb-gpu1.tmp/seq1/seq1.seq	seq1	1169	1299	148208	147777	16.4	34.2	147	61.0			0	Minus	793080	1e-10
+mariner_ant1		325	PSITBLASTN	transposonPSI.8907.cb-gpu1.tmp/seq1/seq1.seq	seq1	203	296	452410	452700	23.5	41.8	101	43.2			0	Plus	793080	4e-06
+mariner		345	PSITBLASTN	transposonPSI.8907.cb-gpu1.tmp/seq1/seq1.seq	seq1	235	343	452467	452793	17.3	35.5	101	43.2			0	Plus	793080	5e-06
+LINE		1189	PSITBLASTN	transposonPSI.8907.cb-gpu1.tmp/seq2/seq2.seq	seq2	687	866	1620	2150	17.3	36.2	256	103			0	Plus	504300	8e-24
+ltr_Roo		2312	PSITBLASTN	transposonPSI.8907.cb-gpu1.tmp/seq2/seq2.seq	seq2	521	779	254511	255215	16.5	33.0	240	96.8			0	Plus	504300	2e-21
+ltr_Roo		2312	PSITBLASTN	transposonPSI.8907.cb-gpu1.tmp/seq2/seq2.seq	seq2	1710	1817	255636	255980	18.8	35.9	153	63.3			0	Plus	504300	3e-11
+ltr_Roo		2312	PSITBLASTN	transposonPSI.8907.cb-gpu1.tmp/seq2/seq2.seq	seq2	236	551	253142	254113	15.0	30.3	152	62.9			0	Plus	504300	4e-11

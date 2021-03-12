@@ -1,0 +1,21 @@
+# HelitronScanner Annotation
+# Structure of this file: 
+# 1)	Chromosome
+# 2)	Annotation Software
+# 3)	Annotation Feature
+# 4)	Start Position
+# 5)	End Position
+# 6)	Score / Probability
+# 7)	Strand
+# 8)	Phase (not used)
+# 9)	TransposonNr
+# 10)	Attributes separated by ;
+seq1	helitronScanner	transposon	103436	112025	9:13	+	.	1
+seq1	helitronScanner	transposon	403095	403341	10:7	+	.	2
+seq1	helitronScanner	transposon	406008	406254	10:8	+	.	3
+seq2	helitronScanner	transposon	59617	62452	10:7	+	.	4
+seq2	helitronScanner	transposon	63873	66153	12:6	-	.	5
+seq2	helitronScanner	transposon	221872	233573	9:7	+	.	6
+seq2	helitronScanner	transposon	343966	345722	10:7	+	.	7
+seq2	helitronScanner	transposon	354142	360959	6:10	+	.	8
+seq2	helitronScanner	transposon	454931	470824	12:8	+	.	9

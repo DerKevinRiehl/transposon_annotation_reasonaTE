@@ -1,0 +1,719 @@
+# Merged Transposon and Feature Annotations
+# Structure of this file: 
+# 1)	Chromosome
+# 2)	Annotation Software
+# 3)	Annotation Feature
+# 4)	Start Position
+# 5)	End Position
+# 6)	Score / Probability
+# 7)	Strand
+# 8)	Phase (not used)
+# 9)	TransposonNr
+# 10)	Attributes separated by ;
+seq1	helitronScanner	transposon	103436	112025	9:13	+	.	1
+seq1	helitronScanner	transposon	403095	403341	10:7	+	.	2
+seq1	helitronScanner	transposon	406008	406254	10:8	+	.	3
+seq2	helitronScanner	transposon	59617	62452	10:7	+	.	4
+seq2	helitronScanner	transposon	63873	66153	12:6	-	.	5
+seq2	helitronScanner	transposon	221872	233573	9:7	+	.	6
+seq2	helitronScanner	transposon	343966	345722	10:7	+	.	7
+seq2	helitronScanner	transposon	354142	360959	6:10	+	.	8
+seq2	helitronScanner	transposon	454931	470824	12:8	+	.	9
+seq1	ltrHarvest	transposon	35536	39898	89.06	+	.	10	
+seq1	ltrHarvest	ltr	35536	35725	.	+	.	10	Left LTR of transposon 10
+seq1	ltrHarvest	ltr	39707	39898	.	+	.	10	Right LTR of transposon 10
+seq1	ltrHarvest	transposon	88035	89365	95.14	+	.	11	
+seq1	ltrHarvest	ltr	88035	88219	.	+	.	11	Left LTR of transposon 11
+seq1	ltrHarvest	ltr	89182	89365	.	+	.	11	Right LTR of transposon 11
+seq1	ltrHarvest	transposon	110238	123546	96.5	+	.	12	
+seq1	ltrHarvest	ltr	110238	110551	.	+	.	12	Left LTR of transposon 12
+seq1	ltrHarvest	ltr	123235	123546	.	+	.	12	Right LTR of transposon 12
+seq1	ltrHarvest	transposon	130465	134374	92.7	+	.	13	
+seq1	ltrHarvest	ltr	130465	130947	.	+	.	13	Left LTR of transposon 13
+seq1	ltrHarvest	ltr	133882	134374	.	+	.	13	Right LTR of transposon 13
+seq1	ltrHarvest	transposon	139405	141554	92.84	+	.	14	
+seq1	ltrHarvest	ltr	139405	139837	.	+	.	14	Left LTR of transposon 14
+seq1	ltrHarvest	ltr	141131	141554	.	+	.	14	Right LTR of transposon 14
+seq1	ltrHarvest	transposon	142967	153019	99.39	+	.	15	
+seq1	ltrHarvest	ltr	142967	143293	.	+	.	15	Left LTR of transposon 15
+seq1	ltrHarvest	ltr	152694	153019	.	+	.	15	Right LTR of transposon 15
+seq1	ltrHarvest	transposon	177903	181898	97.4	+	.	16	
+seq1	ltrHarvest	ltr	177903	178898	.	+	.	16	Left LTR of transposon 16
+seq1	ltrHarvest	ltr	180899	181898	.	+	.	16	Right LTR of transposon 16
+seq1	ltrHarvest	transposon	268295	276908	91.53	+	.	17	
+seq1	ltrHarvest	ltr	268295	268482	.	+	.	17	Left LTR of transposon 17
+seq1	ltrHarvest	ltr	276720	276908	.	+	.	17	Right LTR of transposon 17
+seq1	ltrHarvest	transposon	403061	406260	86.94	+	.	18	
+seq1	ltrHarvest	ltr	403061	403351	.	+	.	18	Left LTR of transposon 18
+seq1	ltrHarvest	ltr	405970	406260	.	+	.	18	Right LTR of transposon 18
+seq1	ltrHarvest	transposon	451464	453045	94.08	+	.	19	
+seq1	ltrHarvest	ltr	451464	451625	.	+	.	19	Left LTR of transposon 19
+seq1	ltrHarvest	ltr	452877	453045	.	+	.	19	Right LTR of transposon 19
+seq1	ltrHarvest	transposon	689022	690514	87.03	+	.	20	
+seq1	ltrHarvest	ltr	689022	689206	.	+	.	20	Left LTR of transposon 20
+seq1	ltrHarvest	ltr	690337	690514	.	+	.	20	Right LTR of transposon 20
+seq1	ltrHarvest	transposon	745353	751257	87.97	+	.	21	
+seq1	ltrHarvest	ltr	745353	745939	.	+	.	21	Left LTR of transposon 21
+seq1	ltrHarvest	ltr	750668	751257	.	+	.	21	Right LTR of transposon 21
+seq2	ltrHarvest	transposon	52464	54096	92.22	+	.	22	
+seq2	ltrHarvest	ltr	52464	52777	.	+	.	22	Left LTR of transposon 22
+seq2	ltrHarvest	ltr	53763	54096	.	+	.	22	Right LTR of transposon 22
+seq2	ltrHarvest	transposon	59697	61291	88.31	+	.	23	
+seq2	ltrHarvest	ltr	59697	59944	.	+	.	23	Left LTR of transposon 23
+seq2	ltrHarvest	ltr	61060	61291	.	+	.	23	Right LTR of transposon 23
+seq2	ltrHarvest	transposon	64595	65898	91.0	+	.	24	
+seq2	ltrHarvest	ltr	64595	64894	.	+	.	24	Left LTR of transposon 24
+seq2	ltrHarvest	ltr	65604	65898	.	+	.	24	Right LTR of transposon 24
+seq2	ltrHarvest	transposon	129436	132460	96.44	+	.	25	
+seq2	ltrHarvest	ltr	129436	129968	.	+	.	25	Left LTR of transposon 25
+seq2	ltrHarvest	ltr	131933	132460	.	+	.	25	Right LTR of transposon 25
+seq2	ltrHarvest	transposon	149675	152548	90.96	+	.	26	
+seq2	ltrHarvest	ltr	149675	150614	.	+	.	26	Left LTR of transposon 26
+seq2	ltrHarvest	ltr	151611	152548	.	+	.	26	Right LTR of transposon 26
+seq2	ltrHarvest	transposon	178462	188974	88.46	+	.	27	
+seq2	ltrHarvest	ltr	178462	178617	.	+	.	27	Left LTR of transposon 27
+seq2	ltrHarvest	ltr	188820	188974	.	+	.	27	Right LTR of transposon 27
+seq2	ltrHarvest	transposon	212478	216283	91.28	+	.	28	
+seq2	ltrHarvest	ltr	212478	212649	.	+	.	28	Left LTR of transposon 28
+seq2	ltrHarvest	ltr	216121	216283	.	+	.	28	Right LTR of transposon 28
+seq2	ltrHarvest	transposon	227288	230428	94.93	+	.	29	
+seq2	ltrHarvest	ltr	227288	227563	.	+	.	29	Left LTR of transposon 29
+seq2	ltrHarvest	ltr	230158	230428	.	+	.	29	Right LTR of transposon 29
+seq2	ltrHarvest	transposon	241657	245259	89.66	+	.	30	
+seq2	ltrHarvest	ltr	241657	241830	.	+	.	30	Left LTR of transposon 30
+seq2	ltrHarvest	ltr	245088	245259	.	+	.	30	Right LTR of transposon 30
+seq2	ltrHarvest	transposon	245330	256873	98.78	+	.	31	
+seq2	ltrHarvest	ltr	245330	245904	.	+	.	31	Left LTR of transposon 31
+seq2	ltrHarvest	ltr	256299	256873	.	+	.	31	Right LTR of transposon 31
+seq2	ltrHarvest	transposon	271325	274307	85.61	+	.	32	
+seq2	ltrHarvest	ltr	271325	271588	.	+	.	32	Left LTR of transposon 32
+seq2	ltrHarvest	ltr	274046	274307	.	+	.	32	Right LTR of transposon 32
+seq2	ltrHarvest	transposon	300833	310021	96.37	+	.	33	
+seq2	ltrHarvest	ltr	300833	301135	.	+	.	33	Left LTR of transposon 33
+seq2	ltrHarvest	ltr	309725	310021	.	+	.	33	Right LTR of transposon 33
+seq2	ltrHarvest	transposon	317609	320944	86.45	+	.	34	
+seq2	ltrHarvest	ltr	317609	317859	.	+	.	34	Left LTR of transposon 34
+seq2	ltrHarvest	ltr	320695	320944	.	+	.	34	Right LTR of transposon 34
+seq2	ltrHarvest	transposon	344055	345392	90.76	+	.	35	
+seq2	ltrHarvest	ltr	344055	344292	.	+	.	35	Left LTR of transposon 35
+seq2	ltrHarvest	ltr	345160	345392	.	+	.	35	Right LTR of transposon 35
+seq2	ltrHarvest	transposon	358535	360507	96.09	+	.	36	
+seq2	ltrHarvest	ltr	358535	358662	.	+	.	36	Left LTR of transposon 36
+seq2	ltrHarvest	ltr	360382	360507	.	+	.	36	Right LTR of transposon 36
+seq2	ltrHarvest	transposon	410198	413107	92.61	+	.	37	
+seq2	ltrHarvest	ltr	410198	410425	.	+	.	37	Left LTR of transposon 37
+seq2	ltrHarvest	ltr	412878	413107	.	+	.	37	Right LTR of transposon 37
+seq2	ltrHarvest	transposon	444166	446237	85.52	+	.	38	
+seq2	ltrHarvest	ltr	444166	444462	.	+	.	38	Left LTR of transposon 38
+seq2	ltrHarvest	ltr	445943	446237	.	+	.	38	Right LTR of transposon 38
+seq2	ltrHarvest	transposon	489455	499169	89.71	+	.	39	
+seq2	ltrHarvest	ltr	489455	489590	.	+	.	39	Left LTR of transposon 39
+seq2	ltrHarvest	ltr	499042	499169	.	+	.	39	Right LTR of transposon 39
+seq1	miteFinderII	transposon	18218	18293	0.559083	+	.	40	
+seq1	miteFinderII	tir	18218	18227	0.559083	+	.	40	Left TIR of transposon 40
+seq1	miteFinderII	tir	18284	18293	0.559083	+	.	40	Right TIR of transposon 40
+seq1	miteFinderII	transposon	31392	31480	0.543902	+	.	41	
+seq1	miteFinderII	tir	31392	31404	0.543902	+	.	41	Left TIR of transposon 41
+seq1	miteFinderII	tir	31468	31480	0.543902	+	.	41	Right TIR of transposon 41
+seq1	miteFinderII	transposon	40393	40837	0.555814	+	.	42	
+seq1	miteFinderII	tir	40393	40402	0.555814	+	.	42	Left TIR of transposon 42
+seq1	miteFinderII	tir	40828	40837	0.555814	+	.	42	Right TIR of transposon 42
+seq1	miteFinderII	transposon	40599	40675	0.66652	+	.	43	
+seq1	miteFinderII	tir	40599	40608	0.66652	+	.	43	Left TIR of transposon 43
+seq1	miteFinderII	tir	40666	40675	0.66652	+	.	43	Right TIR of transposon 43
+seq1	miteFinderII	transposon	44663	44763	0.508566	+	.	44	
+seq1	miteFinderII	tir	44663	44673	0.508566	+	.	44	Left TIR of transposon 44
+seq1	miteFinderII	tir	44753	44763	0.508566	+	.	44	Right TIR of transposon 44
+seq1	miteFinderII	transposon	44738	45224	0.60285	+	.	45	
+seq1	miteFinderII	tir	44738	44749	0.60285	+	.	45	Left TIR of transposon 45
+seq1	miteFinderII	tir	45213	45224	0.60285	+	.	45	Right TIR of transposon 45
+seq1	miteFinderII	transposon	45672	45867	0.565007	+	.	46	
+seq1	miteFinderII	tir	45672	45683	0.565007	+	.	46	Left TIR of transposon 46
+seq1	miteFinderII	tir	45856	45867	0.565007	+	.	46	Right TIR of transposon 46
+seq1	miteFinderII	transposon	46044	46365	0.716443	+	.	47	
+seq1	miteFinderII	tir	46044	46054	0.716443	+	.	47	Left TIR of transposon 47
+seq1	miteFinderII	tir	46355	46365	0.716443	+	.	47	Right TIR of transposon 47
+seq1	miteFinderII	transposon	46182	46577	0.577695	+	.	48	
+seq1	miteFinderII	tir	46182	46192	0.577695	+	.	48	Left TIR of transposon 48
+seq1	miteFinderII	tir	46567	46577	0.577695	+	.	48	Right TIR of transposon 48
+seq1	miteFinderII	transposon	47594	48209	0.558776	+	.	49	
+seq1	miteFinderII	tir	47594	47604	0.558776	+	.	49	Left TIR of transposon 49
+seq1	miteFinderII	tir	48199	48209	0.558776	+	.	49	Right TIR of transposon 49
+seq1	miteFinderII	transposon	157351	157413	0.734426	+	.	50	
+seq1	miteFinderII	tir	157351	157360	0.734426	+	.	50	Left TIR of transposon 50
+seq1	miteFinderII	tir	157404	157413	0.734426	+	.	50	Right TIR of transposon 50
+seq1	miteFinderII	transposon	164481	164669	0.653942	+	.	51	
+seq1	miteFinderII	tir	164481	164491	0.653942	+	.	51	Left TIR of transposon 51
+seq1	miteFinderII	tir	164659	164669	0.653942	+	.	51	Right TIR of transposon 51
+seq1	miteFinderII	transposon	215766	215941	0.518095	+	.	52	
+seq1	miteFinderII	tir	215766	215775	0.518095	+	.	52	Left TIR of transposon 52
+seq1	miteFinderII	tir	215932	215941	0.518095	+	.	52	Right TIR of transposon 52
+seq1	miteFinderII	transposon	267270	267323	0.581469	+	.	53	
+seq1	miteFinderII	tir	267270	267283	0.581469	+	.	53	Left TIR of transposon 53
+seq1	miteFinderII	tir	267310	267323	0.581469	+	.	53	Right TIR of transposon 53
+seq1	miteFinderII	transposon	290732	290787	0.759602	+	.	54	
+seq1	miteFinderII	tir	290732	290741	0.759602	+	.	54	Left TIR of transposon 54
+seq1	miteFinderII	tir	290778	290787	0.759602	+	.	54	Right TIR of transposon 54
+seq1	miteFinderII	transposon	307107	307343	0.531005	+	.	55	
+seq1	miteFinderII	tir	307107	307120	0.531005	+	.	55	Left TIR of transposon 55
+seq1	miteFinderII	tir	307330	307343	0.531005	+	.	55	Right TIR of transposon 55
+seq1	miteFinderII	transposon	368037	368261	0.59199	+	.	56	
+seq1	miteFinderII	tir	368037	368046	0.59199	+	.	56	Left TIR of transposon 56
+seq1	miteFinderII	tir	368252	368261	0.59199	+	.	56	Right TIR of transposon 56
+seq1	miteFinderII	transposon	386338	386518	0.514759	+	.	57	
+seq1	miteFinderII	tir	386338	386349	0.514759	+	.	57	Left TIR of transposon 57
+seq1	miteFinderII	tir	386507	386518	0.514759	+	.	57	Right TIR of transposon 57
+seq1	miteFinderII	transposon	387297	387508	0.512267	+	.	58	
+seq1	miteFinderII	tir	387297	387306	0.512267	+	.	58	Left TIR of transposon 58
+seq1	miteFinderII	tir	387499	387508	0.512267	+	.	58	Right TIR of transposon 58
+seq1	miteFinderII	transposon	390261	390700	0.598905	+	.	59	
+seq1	miteFinderII	tir	390261	390270	0.598905	+	.	59	Left TIR of transposon 59
+seq1	miteFinderII	tir	390691	390700	0.598905	+	.	59	Right TIR of transposon 59
+seq1	miteFinderII	transposon	393357	393869	0.510715	+	.	60	
+seq1	miteFinderII	tir	393357	393366	0.510715	+	.	60	Left TIR of transposon 60
+seq1	miteFinderII	tir	393860	393869	0.510715	+	.	60	Right TIR of transposon 60
+seq1	miteFinderII	transposon	393562	393768	0.60086	+	.	61	
+seq1	miteFinderII	tir	393562	393573	0.60086	+	.	61	Left TIR of transposon 61
+seq1	miteFinderII	tir	393757	393768	0.60086	+	.	61	Right TIR of transposon 61
+seq1	miteFinderII	transposon	393566	393751	0.619098	+	.	62	
+seq1	miteFinderII	tir	393566	393575	0.619098	+	.	62	Left TIR of transposon 62
+seq1	miteFinderII	tir	393742	393751	0.619098	+	.	62	Right TIR of transposon 62
+seq1	miteFinderII	transposon	393632	393713	0.834566	+	.	63	
+seq1	miteFinderII	tir	393632	393642	0.834566	+	.	63	Left TIR of transposon 63
+seq1	miteFinderII	tir	393703	393713	0.834566	+	.	63	Right TIR of transposon 63
+seq1	miteFinderII	transposon	396370	396653	0.512016	+	.	64	
+seq1	miteFinderII	tir	396370	396379	0.512016	+	.	64	Left TIR of transposon 64
+seq1	miteFinderII	tir	396644	396653	0.512016	+	.	64	Right TIR of transposon 64
+seq1	miteFinderII	transposon	396596	396679	0.543924	+	.	65	
+seq1	miteFinderII	tir	396596	396605	0.543924	+	.	65	Left TIR of transposon 65
+seq1	miteFinderII	tir	396670	396679	0.543924	+	.	65	Right TIR of transposon 65
+seq1	miteFinderII	transposon	413312	413842	0.506008	+	.	66	
+seq1	miteFinderII	tir	413312	413325	0.506008	+	.	66	Left TIR of transposon 66
+seq1	miteFinderII	tir	413829	413842	0.506008	+	.	66	Right TIR of transposon 66
+seq1	miteFinderII	transposon	413488	413760	0.513633	+	.	67	
+seq1	miteFinderII	tir	413488	413497	0.513633	+	.	67	Left TIR of transposon 67
+seq1	miteFinderII	tir	413751	413760	0.513633	+	.	67	Right TIR of transposon 67
+seq1	miteFinderII	transposon	413653	414187	0.51225	+	.	68	
+seq1	miteFinderII	tir	413653	413663	0.51225	+	.	68	Left TIR of transposon 68
+seq1	miteFinderII	tir	414177	414187	0.51225	+	.	68	Right TIR of transposon 68
+seq1	miteFinderII	transposon	413747	414051	0.552385	+	.	69	
+seq1	miteFinderII	tir	413747	413757	0.552385	+	.	69	Left TIR of transposon 69
+seq1	miteFinderII	tir	414041	414051	0.552385	+	.	69	Right TIR of transposon 69
+seq1	miteFinderII	transposon	413758	413845	0.548498	+	.	70	
+seq1	miteFinderII	tir	413758	413767	0.548498	+	.	70	Left TIR of transposon 70
+seq1	miteFinderII	tir	413836	413845	0.548498	+	.	70	Right TIR of transposon 70
+seq1	miteFinderII	transposon	414044	414451	0.502066	+	.	71	
+seq1	miteFinderII	tir	414044	414053	0.502066	+	.	71	Left TIR of transposon 71
+seq1	miteFinderII	tir	414442	414451	0.502066	+	.	71	Right TIR of transposon 71
+seq1	miteFinderII	transposon	416217	416553	0.61278	+	.	72	
+seq1	miteFinderII	tir	416217	416226	0.61278	+	.	72	Left TIR of transposon 72
+seq1	miteFinderII	tir	416544	416553	0.61278	+	.	72	Right TIR of transposon 72
+seq1	miteFinderII	transposon	433798	434058	0.513037	+	.	73	
+seq1	miteFinderII	tir	433798	433810	0.513037	+	.	73	Left TIR of transposon 73
+seq1	miteFinderII	tir	434046	434058	0.513037	+	.	73	Right TIR of transposon 73
+seq1	miteFinderII	transposon	454605	454882	0.622514	+	.	74	
+seq1	miteFinderII	tir	454605	454614	0.622514	+	.	74	Left TIR of transposon 74
+seq1	miteFinderII	tir	454873	454882	0.622514	+	.	74	Right TIR of transposon 74
+seq1	miteFinderII	transposon	455980	456068	0.642435	+	.	75	
+seq1	miteFinderII	tir	455980	455990	0.642435	+	.	75	Left TIR of transposon 75
+seq1	miteFinderII	tir	456058	456068	0.642435	+	.	75	Right TIR of transposon 75
+seq1	miteFinderII	transposon	459988	460273	0.640685	+	.	76	
+seq1	miteFinderII	tir	459988	459997	0.640685	+	.	76	Left TIR of transposon 76
+seq1	miteFinderII	tir	460264	460273	0.640685	+	.	76	Right TIR of transposon 76
+seq1	miteFinderII	transposon	462862	463002	0.542167	+	.	77	
+seq1	miteFinderII	tir	462862	462872	0.542167	+	.	77	Left TIR of transposon 77
+seq1	miteFinderII	tir	462992	463002	0.542167	+	.	77	Right TIR of transposon 77
+seq1	miteFinderII	transposon	462911	463002	0.521317	+	.	78	
+seq1	miteFinderII	tir	462911	462920	0.521317	+	.	78	Left TIR of transposon 78
+seq1	miteFinderII	tir	462993	463002	0.521317	+	.	78	Right TIR of transposon 78
+seq1	miteFinderII	transposon	474935	475613	0.5374	+	.	79	
+seq1	miteFinderII	tir	474935	474950	0.5374	+	.	79	Left TIR of transposon 79
+seq1	miteFinderII	tir	475598	475613	0.5374	+	.	79	Right TIR of transposon 79
+seq1	miteFinderII	transposon	476159	476223	0.597163	+	.	80	
+seq1	miteFinderII	tir	476159	476171	0.597163	+	.	80	Left TIR of transposon 80
+seq1	miteFinderII	tir	476211	476223	0.597163	+	.	80	Right TIR of transposon 80
+seq1	miteFinderII	transposon	476354	476580	0.628977	+	.	81	
+seq1	miteFinderII	tir	476354	476363	0.628977	+	.	81	Left TIR of transposon 81
+seq1	miteFinderII	tir	476571	476580	0.628977	+	.	81	Right TIR of transposon 81
+seq1	miteFinderII	transposon	477626	477979	0.524779	+	.	82	
+seq1	miteFinderII	tir	477626	477635	0.524779	+	.	82	Left TIR of transposon 82
+seq1	miteFinderII	tir	477970	477979	0.524779	+	.	82	Right TIR of transposon 82
+seq1	miteFinderII	transposon	538810	539069	0.52228	+	.	83	
+seq1	miteFinderII	tir	538810	538820	0.52228	+	.	83	Left TIR of transposon 83
+seq1	miteFinderII	tir	539059	539069	0.52228	+	.	83	Right TIR of transposon 83
+seq1	miteFinderII	transposon	558418	558839	0.567108	+	.	84	
+seq1	miteFinderII	tir	558418	558428	0.567108	+	.	84	Left TIR of transposon 84
+seq1	miteFinderII	tir	558829	558839	0.567108	+	.	84	Right TIR of transposon 84
+seq1	miteFinderII	transposon	653019	653139	0.524758	+	.	85	
+seq1	miteFinderII	tir	653019	653028	0.524758	+	.	85	Left TIR of transposon 85
+seq1	miteFinderII	tir	653130	653139	0.524758	+	.	85	Right TIR of transposon 85
+seq1	miteFinderII	transposon	663839	664398	0.594237	+	.	86	
+seq1	miteFinderII	tir	663839	663848	0.594237	+	.	86	Left TIR of transposon 86
+seq1	miteFinderII	tir	664389	664398	0.594237	+	.	86	Right TIR of transposon 86
+seq1	miteFinderII	transposon	664303	664383	0.677275	+	.	87	
+seq1	miteFinderII	tir	664303	664312	0.677275	+	.	87	Left TIR of transposon 87
+seq1	miteFinderII	tir	664374	664383	0.677275	+	.	87	Right TIR of transposon 87
+seq1	miteFinderII	transposon	664845	665624	0.521645	+	.	88	
+seq1	miteFinderII	tir	664845	664854	0.521645	+	.	88	Left TIR of transposon 88
+seq1	miteFinderII	tir	665615	665624	0.521645	+	.	88	Right TIR of transposon 88
+seq1	miteFinderII	transposon	667905	668048	0.5169	+	.	89	
+seq1	miteFinderII	tir	667905	667914	0.5169	+	.	89	Left TIR of transposon 89
+seq1	miteFinderII	tir	668039	668048	0.5169	+	.	89	Right TIR of transposon 89
+seq1	miteFinderII	transposon	670803	671110	0.508932	+	.	90	
+seq1	miteFinderII	tir	670803	670820	0.508932	+	.	90	Left TIR of transposon 90
+seq1	miteFinderII	tir	671093	671110	0.508932	+	.	90	Right TIR of transposon 90
+seq1	miteFinderII	transposon	709607	709852	0.517936	-	.	91	
+seq1	miteFinderII	tir	709843	709852	0.517936	-	.	91	Left TIR of transposon 91
+seq1	miteFinderII	tir	709607	709616	0.517936	-	.	91	Right TIR of transposon 91
+seq1	miteFinderII	transposon	666737	666792	0.568663	-	.	92	
+seq1	miteFinderII	tir	666783	666792	0.568663	-	.	92	Left TIR of transposon 92
+seq1	miteFinderII	tir	666737	666746	0.568663	-	.	92	Right TIR of transposon 92
+seq1	miteFinderII	transposon	476177	476599	0.631604	-	.	93	
+seq1	miteFinderII	tir	476590	476599	0.631604	-	.	93	Left TIR of transposon 93
+seq1	miteFinderII	tir	476177	476186	0.631604	-	.	93	Right TIR of transposon 93
+seq1	miteFinderII	transposon	473135	473226	0.554071	-	.	94	
+seq1	miteFinderII	tir	473217	473226	0.554071	-	.	94	Left TIR of transposon 94
+seq1	miteFinderII	tir	473135	473144	0.554071	-	.	94	Right TIR of transposon 94
+seq1	miteFinderII	transposon	462566	462869	0.506699	-	.	95	
+seq1	miteFinderII	tir	462858	462869	0.506699	-	.	95	Left TIR of transposon 95
+seq1	miteFinderII	tir	462566	462577	0.506699	-	.	95	Right TIR of transposon 95
+seq1	miteFinderII	transposon	459997	460600	0.535345	-	.	96	
+seq1	miteFinderII	tir	460589	460600	0.535345	-	.	96	Left TIR of transposon 96
+seq1	miteFinderII	tir	459997	460008	0.535345	-	.	96	Right TIR of transposon 96
+seq1	miteFinderII	transposon	459987	460432	0.556788	-	.	97	
+seq1	miteFinderII	tir	460422	460432	0.556788	-	.	97	Left TIR of transposon 97
+seq1	miteFinderII	tir	459987	459997	0.556788	-	.	97	Right TIR of transposon 97
+seq1	miteFinderII	transposon	415816	415865	0.509579	-	.	98	
+seq1	miteFinderII	tir	415856	415865	0.509579	-	.	98	Left TIR of transposon 98
+seq1	miteFinderII	tir	415816	415825	0.509579	-	.	98	Right TIR of transposon 98
+seq1	miteFinderII	transposon	414180	414442	0.529717	-	.	99	
+seq1	miteFinderII	tir	414432	414442	0.529717	-	.	99	Left TIR of transposon 99
+seq1	miteFinderII	tir	414180	414190	0.529717	-	.	99	Right TIR of transposon 99
+seq1	miteFinderII	transposon	414114	414364	0.50087	-	.	100	
+seq1	miteFinderII	tir	414353	414364	0.50087	-	.	100	Left TIR of transposon 100
+seq1	miteFinderII	tir	414114	414125	0.50087	-	.	100	Right TIR of transposon 100
+seq1	miteFinderII	transposon	413926	414293	0.509436	-	.	101	
+seq1	miteFinderII	tir	414282	414293	0.509436	-	.	101	Left TIR of transposon 101
+seq1	miteFinderII	tir	413926	413937	0.509436	-	.	101	Right TIR of transposon 101
+seq1	miteFinderII	transposon	413329	414052	0.532753	-	.	102	
+seq1	miteFinderII	tir	414043	414052	0.532753	-	.	102	Left TIR of transposon 102
+seq1	miteFinderII	tir	413329	413338	0.532753	-	.	102	Right TIR of transposon 102
+seq1	miteFinderII	transposon	413702	413980	0.533126	-	.	103	
+seq1	miteFinderII	tir	413971	413980	0.533126	-	.	103	Left TIR of transposon 103
+seq1	miteFinderII	tir	413702	413711	0.533126	-	.	103	Right TIR of transposon 103
+seq1	miteFinderII	transposon	413250	413838	0.528423	-	.	104	
+seq1	miteFinderII	tir	413829	413838	0.528423	-	.	104	Left TIR of transposon 104
+seq1	miteFinderII	tir	413250	413259	0.528423	-	.	104	Right TIR of transposon 104
+seq1	miteFinderII	transposon	413250	413493	0.531898	-	.	105	
+seq1	miteFinderII	tir	413484	413493	0.531898	-	.	105	Left TIR of transposon 105
+seq1	miteFinderII	tir	413250	413259	0.531898	-	.	105	Right TIR of transposon 105
+seq1	miteFinderII	transposon	393932	394000	0.526304	-	.	106	
+seq1	miteFinderII	tir	393991	394000	0.526304	-	.	106	Left TIR of transposon 106
+seq1	miteFinderII	tir	393932	393941	0.526304	-	.	106	Right TIR of transposon 106
+seq1	miteFinderII	transposon	393508	393752	0.571419	-	.	107	
+seq1	miteFinderII	tir	393743	393752	0.571419	-	.	107	Left TIR of transposon 107
+seq1	miteFinderII	tir	393508	393517	0.571419	-	.	107	Right TIR of transposon 107
+seq1	miteFinderII	transposon	386976	387446	0.60777	-	.	108	
+seq1	miteFinderII	tir	387436	387446	0.60777	-	.	108	Left TIR of transposon 108
+seq1	miteFinderII	tir	386976	386986	0.60777	-	.	108	Right TIR of transposon 108
+seq1	miteFinderII	transposon	386888	387446	0.605643	-	.	109	
+seq1	miteFinderII	tir	387436	387446	0.605643	-	.	109	Left TIR of transposon 109
+seq1	miteFinderII	tir	386888	386898	0.605643	-	.	109	Right TIR of transposon 109
+seq1	miteFinderII	transposon	262599	262704	0.597028	-	.	110	
+seq1	miteFinderII	tir	262694	262704	0.597028	-	.	110	Left TIR of transposon 110
+seq1	miteFinderII	tir	262599	262609	0.597028	-	.	110	Right TIR of transposon 110
+seq1	miteFinderII	transposon	137399	137532	0.50819	-	.	111	
+seq1	miteFinderII	tir	137523	137532	0.50819	-	.	111	Left TIR of transposon 111
+seq1	miteFinderII	tir	137399	137408	0.50819	-	.	111	Right TIR of transposon 111
+seq1	miteFinderII	transposon	65112	65296	0.537651	-	.	112	
+seq1	miteFinderII	tir	65286	65296	0.537651	-	.	112	Left TIR of transposon 112
+seq1	miteFinderII	tir	65112	65122	0.537651	-	.	112	Right TIR of transposon 112
+seq1	miteFinderII	transposon	48966	49304	0.816319	-	.	113	
+seq1	miteFinderII	tir	49293	49304	0.816319	-	.	113	Left TIR of transposon 113
+seq1	miteFinderII	tir	48966	48977	0.816319	-	.	113	Right TIR of transposon 113
+seq1	miteFinderII	transposon	45631	45721	0.566327	-	.	114	
+seq1	miteFinderII	tir	45709	45721	0.566327	-	.	114	Left TIR of transposon 114
+seq1	miteFinderII	tir	45631	45643	0.566327	-	.	114	Right TIR of transposon 114
+seq1	miteFinderII	transposon	44427	44842	0.503102	-	.	115	
+seq1	miteFinderII	tir	44829	44842	0.503102	-	.	115	Left TIR of transposon 115
+seq1	miteFinderII	tir	44427	44440	0.503102	-	.	115	Right TIR of transposon 115
+seq1	miteFinderII	transposon	44224	44669	0.534212	-	.	116	
+seq1	miteFinderII	tir	44659	44669	0.534212	-	.	116	Left TIR of transposon 116
+seq1	miteFinderII	tir	44224	44234	0.534212	-	.	116	Right TIR of transposon 116
+seq1	miteFinderII	transposon	40561	40825	0.559463	-	.	117	
+seq1	miteFinderII	tir	40816	40825	0.559463	-	.	117	Left TIR of transposon 117
+seq1	miteFinderII	tir	40561	40570	0.559463	-	.	117	Right TIR of transposon 117
+seq1	miteFinderII	transposon	32633	33049	0.500576	-	.	118	
+seq1	miteFinderII	tir	33038	33049	0.500576	-	.	118	Left TIR of transposon 118
+seq1	miteFinderII	tir	32633	32644	0.500576	-	.	118	Right TIR of transposon 118
+seq2	miteFinderII	transposon	186542	187290	0.57444	+	.	119	
+seq2	miteFinderII	tir	186542	186551	0.57444	+	.	119	Left TIR of transposon 119
+seq2	miteFinderII	tir	187281	187290	0.57444	+	.	119	Right TIR of transposon 119
+seq2	miteFinderII	transposon	186795	187393	0.565008	+	.	120	
+seq2	miteFinderII	tir	186795	186809	0.565008	+	.	120	Left TIR of transposon 120
+seq2	miteFinderII	tir	187379	187393	0.565008	+	.	120	Right TIR of transposon 120
+seq2	miteFinderII	transposon	275068	275707	0.540465	+	.	121	
+seq2	miteFinderII	tir	275068	275078	0.540465	+	.	121	Left TIR of transposon 121
+seq2	miteFinderII	tir	275697	275707	0.540465	+	.	121	Right TIR of transposon 121
+seq2	miteFinderII	transposon	275172	275547	0.535822	+	.	122	
+seq2	miteFinderII	tir	275172	275181	0.535822	+	.	122	Left TIR of transposon 122
+seq2	miteFinderII	tir	275538	275547	0.535822	+	.	122	Right TIR of transposon 122
+seq2	miteFinderII	transposon	292794	293007	0.64363	+	.	123	
+seq2	miteFinderII	tir	292794	292803	0.64363	+	.	123	Left TIR of transposon 123
+seq2	miteFinderII	tir	292998	293007	0.64363	+	.	123	Right TIR of transposon 123
+seq2	miteFinderII	transposon	368676	368760	0.710247	+	.	124	
+seq2	miteFinderII	tir	368676	368687	0.710247	+	.	124	Left TIR of transposon 124
+seq2	miteFinderII	tir	368749	368760	0.710247	+	.	124	Right TIR of transposon 124
+seq2	miteFinderII	transposon	479559	479717	0.516006	-	.	125	
+seq2	miteFinderII	tir	479708	479717	0.516006	-	.	125	Left TIR of transposon 125
+seq2	miteFinderII	tir	479559	479568	0.516006	-	.	125	Right TIR of transposon 125
+seq2	miteFinderII	transposon	318875	318953	0.708609	-	.	126	
+seq2	miteFinderII	tir	318942	318953	0.708609	-	.	126	Left TIR of transposon 126
+seq2	miteFinderII	tir	318875	318886	0.708609	-	.	126	Right TIR of transposon 126
+seq2	miteFinderII	transposon	44590	44789	0.51293	-	.	127	
+seq2	miteFinderII	tir	44780	44789	0.51293	-	.	127	Left TIR of transposon 127
+seq2	miteFinderII	tir	44590	44599	0.51293	-	.	127	Right TIR of transposon 127
+seq1	miteTracker	transposon	382281	382489	.	+	.	128	
+seq1	miteTracker	transposon	28090	28283	.	+	.	129	
+seq1	miteTracker	transposon	685580	685767	.	+	.	130	
+seq1	miteTracker	transposon	228276	228461	.	+	.	131	
+seq1	miteTracker	transposon	173088	173268	.	+	.	132	
+seq1	miteTracker	transposon	304536	304714	.	+	.	133	
+seq1	miteTracker	transposon	27016	27193	.	+	.	134	
+seq1	miteTracker	transposon	301110	301293	.	+	.	135	
+seq1	miteTracker	transposon	599763	599939	.	+	.	136	
+seq1	miteTracker	transposon	599287	599459	.	+	.	137	
+seq1	miteTracker	transposon	371058	371238	.	+	.	138	
+seq1	miteTracker	transposon	293215	293391	.	+	.	139	
+seq1	miteTracker	transposon	369228	369397	.	+	.	140	
+seq1	miteTracker	transposon	436219	436396	.	+	.	141	
+seq1	miteTracker	transposon	209149	209324	.	+	.	142	
+seq1	miteTracker	transposon	436804	436981	.	-	.	143	
+seq2	miteTracker	transposon	287982	288170	.	+	.	144	
+seq2	miteTracker	transposon	283107	283290	.	+	.	145	
+seq2	miteTracker	transposon	100325	100491	.	+	.	146	
+seq2	miteTracker	transposon	22087	22264	.	+	.	147	
+seq1	must	transposon	364691	364799	21.0	+	.	148	Complete transposon
+seq1	must	dr	364689	364691	1.0	+	.	148	Left direct repeat of transposon 148
+seq1	must	dr	364799	364801	1.0	+	.	148	Right direct repeat of transposon 148
+seq1	must	tir	364691	364693	1.0	+	.	148	Left TIR of transposon 148
+seq1	must	tir	364797	364799	1.0	+	.	148	Right TIR of transposon 148
+seq1	must	transposon	572182	572292	14.0	-	.	149	Complete transposon
+seq1	must	dr	572180	572182	1.0	-	.	149	Left direct repeat of transposon 149
+seq1	must	dr	572292	572294	1.0	-	.	149	Right direct repeat of transposon 149
+seq1	must	tir	572182	572184	1.0	-	.	149	Left TIR of transposon 149
+seq1	must	tir	572290	572292	1.0	-	.	149	Right TIR of transposon 149
+seq1	must	transposon	663243	663350	21.0	-	.	150	Complete transposon
+seq1	must	dr	663241	663243	1.0	-	.	150	Left direct repeat of transposon 150
+seq1	must	dr	663350	663352	1.0	-	.	150	Right direct repeat of transposon 150
+seq1	must	tir	663243	663245	1.0	-	.	150	Left TIR of transposon 150
+seq1	must	tir	663348	663350	1.0	-	.	150	Right TIR of transposon 150
+seq1	must	transposon	677878	677989	19.999992	-	.	151	Complete transposon
+seq1	must	dr	677876	677878	1.0	-	.	151	Left direct repeat of transposon 151
+seq1	must	dr	677989	677991	1.0	-	.	151	Right direct repeat of transposon 151
+seq1	must	tir	677878	677880	1.0	-	.	151	Left TIR of transposon 151
+seq1	must	tir	677987	677989	1.0	-	.	151	Right TIR of transposon 151
+seq2	must	transposon	288019	288126	20.0	+	.	152	Complete transposon
+seq2	must	dr	288017	288019	1.0	+	.	152	Left direct repeat of transposon 152
+seq2	must	dr	288126	288128	1.0	+	.	152	Right direct repeat of transposon 152
+seq2	must	tir	288019	288021	1.0	+	.	152	Left TIR of transposon 152
+seq2	must	tir	288124	288126	1.0	+	.	152	Right TIR of transposon 152
+seq1	sineFinder	transposon	100083	100228	.	-	.	178	
+seq1	sineFinder	tsd	100217	100228	10	-	.	178	Left TSD of transposon 178
+seq1	sineFinder	tsd	100083	100094	10	-	.	178	Right TSD of transposon 178
+seq2	sineFinder	transposon	147939	148457	.	-	.	179	
+seq2	sineFinder	tsd	148446	148457	10	-	.	179	Left TSD of transposon 179
+seq2	sineFinder	tsd	147939	147950	10	-	.	179	Right TSD of transposon 179
+seq2	sineFinder	transposon	98454	98579	.	-	.	180	
+seq2	sineFinder	tsd	98564	98579	12	-	.	180	Left TSD of transposon 180
+seq2	sineFinder	tsd	98454	98469	12	-	.	180	Right TSD of transposon 180
+seq2	sineFinder	transposon	16712	16836	.	-	.	181	
+seq2	sineFinder	tsd	16823	16836	11	-	.	181	Left TSD of transposon 181
+seq2	sineFinder	tsd	16712	16725	11	-	.	181	Right TSD of transposon 181
+seq1	sineScan	transposon	10386	10560	.	-	.	182	
+seq1	sineScan	tsd	10369	10386	.	-	.	182	Left TSD of transposon 182
+seq1	sineScan	tsd	10560	10577	.	-	.	182	Right TSD of transposon 182
+seq1	sineScan	transposon	27422	27909	.	-	.	183	
+seq1	sineScan	tsd	27407	27422	.	-	.	183	Left TSD of transposon 183
+seq1	sineScan	tsd	27909	27924	.	-	.	183	Right TSD of transposon 183
+seq1	sineScan	tsd	100072	100083	.	+	.	178	Left TSD of transposon 178
+seq1	sineScan	tsd	100228	100239	.	+	.	178	Right TSD of transposon 178
+seq1	sineScan	transposon	200654	200843	.	-	.	185	
+seq1	sineScan	tsd	200644	200654	.	-	.	185	Left TSD of transposon 185
+seq1	sineScan	tsd	200843	200853	.	-	.	185	Right TSD of transposon 185
+seq1	sineScan	transposon	238968	239291	.	-	.	186	
+seq1	sineScan	tsd	238955	238968	.	-	.	186	Left TSD of transposon 186
+seq1	sineScan	tsd	239291	239304	.	-	.	186	Right TSD of transposon 186
+seq1	sineScan	transposon	213622	213805	.	+	.	187	
+seq1	sineScan	tsd	213610	213622	.	+	.	187	Left TSD of transposon 187
+seq1	sineScan	tsd	213805	213817	.	+	.	187	Right TSD of transposon 187
+seq1	sineScan	transposon	317242	317467	.	-	.	188	
+seq1	sineScan	tsd	317231	317242	.	-	.	188	Left TSD of transposon 188
+seq1	sineScan	tsd	317467	317478	.	-	.	188	Right TSD of transposon 188
+seq1	sineScan	transposon	436879	437089	.	-	.	189	
+seq1	sineScan	tsd	436868	436879	.	-	.	189	Left TSD of transposon 189
+seq1	sineScan	tsd	437089	437100	.	-	.	189	Right TSD of transposon 189
+seq1	sineScan	transposon	472652	472914	.	-	.	190	
+seq1	sineScan	tsd	472641	472652	.	-	.	190	Left TSD of transposon 190
+seq1	sineScan	tsd	472914	472925	.	-	.	190	Right TSD of transposon 190
+seq1	sineScan	transposon	544532	544679	.	-	.	191	
+seq1	sineScan	tsd	544520	544532	.	-	.	191	Left TSD of transposon 191
+seq1	sineScan	tsd	544679	544691	.	-	.	191	Right TSD of transposon 191
+seq1	sineScan	transposon	559774	559923	.	-	.	192	
+seq1	sineScan	tsd	559763	559774	.	-	.	192	Left TSD of transposon 192
+seq1	sineScan	tsd	559923	559934	.	-	.	192	Right TSD of transposon 192
+seq1	sineScan	transposon	481224	481424	.	+	.	193	
+seq1	sineScan	tsd	481213	481224	.	+	.	193	Left TSD of transposon 193
+seq1	sineScan	tsd	481424	481435	.	+	.	193	Right TSD of transposon 193
+seq1	sineScan	transposon	478292	478504	.	+	.	194	
+seq1	sineScan	tsd	478280	478292	.	+	.	194	Left TSD of transposon 194
+seq1	sineScan	tsd	478504	478516	.	+	.	194	Right TSD of transposon 194
+seq1	sineScan	transposon	595032	595262	.	-	.	195	
+seq1	sineScan	tsd	595019	595032	.	-	.	195	Left TSD of transposon 195
+seq1	sineScan	tsd	595262	595275	.	-	.	195	Right TSD of transposon 195
+seq1	sineScan	transposon	630410	630587	.	-	.	196	
+seq1	sineScan	tsd	630397	630410	.	-	.	196	Left TSD of transposon 196
+seq1	sineScan	tsd	630587	630600	.	-	.	196	Right TSD of transposon 196
+seq1	sineScan	transposon	630053	630230	.	+	.	197	
+seq1	sineScan	tsd	630040	630053	.	+	.	197	Left TSD of transposon 197
+seq1	sineScan	tsd	630230	630243	.	+	.	197	Right TSD of transposon 197
+seq1	sineScan	transposon	572346	572804	.	+	.	198	
+seq1	sineScan	tsd	572335	572346	.	+	.	198	Left TSD of transposon 198
+seq1	sineScan	tsd	572804	572815	.	+	.	198	Right TSD of transposon 198
+seq1	sineScan	transposon	692750	693054	.	+	.	199	
+seq1	sineScan	tsd	692738	692750	.	+	.	199	Left TSD of transposon 199
+seq1	sineScan	tsd	693054	693066	.	+	.	199	Right TSD of transposon 199
+seq1	sineScan	transposon	750974	751298	.	+	.	200	
+seq1	sineScan	tsd	750959	750974	.	+	.	200	Left TSD of transposon 200
+seq1	sineScan	tsd	751298	751313	.	+	.	200	Right TSD of transposon 200
+seq2	sineScan	transposon	35246	35404	.	-	.	201	
+seq2	sineScan	tsd	35234	35246	.	-	.	201	Left TSD of transposon 201
+seq2	sineScan	tsd	35404	35416	.	-	.	201	Right TSD of transposon 201
+seq2	sineScan	transposon	55272	55496	.	-	.	202	
+seq2	sineScan	tsd	55255	55272	.	-	.	202	Left TSD of transposon 202
+seq2	sineScan	tsd	55496	55513	.	-	.	202	Right TSD of transposon 202
+seq2	sineScan	transposon	57590	57899	.	-	.	203	
+seq2	sineScan	tsd	57578	57590	.	-	.	203	Left TSD of transposon 203
+seq2	sineScan	tsd	57899	57911	.	-	.	203	Right TSD of transposon 203
+seq2	sineScan	tsd	98439	98454	.	+	.	180	Left TSD of transposon 180
+seq2	sineScan	tsd	98579	98594	.	+	.	180	Right TSD of transposon 180
+seq2	sineScan	tsd	16700	16712	.	+	.	181	Left TSD of transposon 181
+seq2	sineScan	tsd	16835	16847	.	+	.	181	Right TSD of transposon 181
+seq2	sineScan	tsd	147928	147939	.	+	.	179	Left TSD of transposon 179
+seq2	sineScan	tsd	148457	148468	.	+	.	179	Right TSD of transposon 179
+seq2	sineScan	transposon	288295	288535	.	+	.	207	
+seq2	sineScan	tsd	288282	288295	.	+	.	207	Left TSD of transposon 207
+seq2	sineScan	tsd	288535	288548	.	+	.	207	Right TSD of transposon 207
+seq2	sineScan	transposon	471474	471727	.	+	.	208	
+seq2	sineScan	tsd	471462	471474	.	+	.	208	Left TSD of transposon 208
+seq2	sineScan	tsd	471727	471739	.	+	.	208	Right TSD of transposon 208
+seq2	sineScan	transposon	432804	433319	.	-	.	209	
+seq2	sineScan	tsd	432793	432804	.	-	.	209	Left TSD of transposon 209
+seq2	sineScan	tsd	433319	433330	.	-	.	209	Right TSD of transposon 209
+seq1	TIRvish	transposon	968	1649	.	+	.	210
+seq1	TIRvish	tsd	968	972	.	+	.	210	Left TSD of transposon 210
+seq1	TIRvish	tir	973	1257	.	+	.	210	Left TIR of transposon 210
+seq1	TIRvish	tir	1365	1644	.	+	.	210	Right TIR of transposon 210
+seq1	TIRvish	tsd	1645	1649	.	+	.	210	Right TSD of transposon 210
+seq1	TIRvish	transposon	12288	13392	.	+	.	211
+seq1	TIRvish	tsd	12288	12289	.	+	.	211	Left TSD of transposon 211
+seq1	TIRvish	tir	12290	12487	.	+	.	211	Left TIR of transposon 211
+seq1	TIRvish	tir	13196	13390	.	+	.	211	Right TIR of transposon 211
+seq1	TIRvish	tsd	13391	13392	.	+	.	211	Right TSD of transposon 211
+seq1	TIRvish	transposon	15129	19842	.	+	.	212
+seq1	TIRvish	tsd	15129	15130	.	+	.	212	Left TSD of transposon 212
+seq1	TIRvish	tir	15131	15264	.	+	.	212	Left TIR of transposon 212
+seq1	TIRvish	tir	19706	19840	.	+	.	212	Right TIR of transposon 212
+seq1	TIRvish	tsd	19841	19842	.	+	.	212	Right TSD of transposon 212
+seq1	TIRvish	transposon	27069	29800	.	+	.	213
+seq1	TIRvish	tsd	27069	27070	.	+	.	213	Left TSD of transposon 213
+seq1	TIRvish	tir	27071	27178	.	+	.	213	Left TIR of transposon 213
+seq1	TIRvish	tir	29694	29798	.	+	.	213	Right TIR of transposon 213
+seq1	TIRvish	tsd	29799	29800	.	+	.	213	Right TSD of transposon 213
+seq1	TIRvish	transposon	51340	52294	.	+	.	214
+seq1	TIRvish	tsd	51340	51341	.	+	.	214	Left TSD of transposon 214
+seq1	TIRvish	tir	51342	51477	.	+	.	214	Left TIR of transposon 214
+seq1	TIRvish	tir	52162	52292	.	+	.	214	Right TIR of transposon 214
+seq1	TIRvish	tsd	52293	52294	.	+	.	214	Right TSD of transposon 214
+seq1	TIRvish	transposon	62776	68779	.	+	.	215
+seq1	TIRvish	tsd	62776	62777	.	+	.	215	Left TSD of transposon 215
+seq1	TIRvish	tir	62778	62938	.	+	.	215	Left TIR of transposon 215
+seq1	TIRvish	tir	68621	68777	.	+	.	215	Right TIR of transposon 215
+seq1	TIRvish	tsd	68778	68779	.	+	.	215	Right TSD of transposon 215
+seq1	TIRvish	transposon	118106	129149	.	+	.	216
+seq1	TIRvish	tsd	118106	118107	.	+	.	216	Left TSD of transposon 216
+seq1	TIRvish	tir	118108	119107	.	+	.	216	Left TIR of transposon 216
+seq1	TIRvish	tir	128148	129147	.	+	.	216	Right TIR of transposon 216
+seq1	TIRvish	tsd	129148	129149	.	+	.	216	Right TSD of transposon 216
+seq1	TIRvish	transposon	233437	239281	.	+	.	217
+seq1	TIRvish	tsd	233437	233438	.	+	.	217	Left TSD of transposon 217
+seq1	TIRvish	tir	233439	233577	.	+	.	217	Left TIR of transposon 217
+seq1	TIRvish	tir	239144	239279	.	+	.	217	Right TIR of transposon 217
+seq1	TIRvish	tsd	239280	239281	.	+	.	217	Right TSD of transposon 217
+seq1	TIRvish	transposon	242581	243433	.	+	.	218
+seq1	TIRvish	tsd	242581	242582	.	+	.	218	Left TSD of transposon 218
+seq1	TIRvish	tir	242583	242962	.	+	.	218	Left TIR of transposon 218
+seq1	TIRvish	tir	243050	243431	.	+	.	218	Right TIR of transposon 218
+seq1	TIRvish	tsd	243432	243433	.	+	.	218	Right TSD of transposon 218
+seq1	TIRvish	transposon	268873	276894	.	+	.	219
+seq1	TIRvish	tsd	268873	268874	.	+	.	219	Left TSD of transposon 219
+seq1	TIRvish	tir	268875	269047	.	+	.	219	Left TIR of transposon 219
+seq1	TIRvish	tir	276720	276892	.	+	.	219	Right TIR of transposon 219
+seq1	TIRvish	tsd	276893	276894	.	+	.	219	Right TSD of transposon 219
+seq1	TIRvish	transposon	293654	296928	.	+	.	220
+seq1	TIRvish	tsd	293654	293655	.	+	.	220	Left TSD of transposon 220
+seq1	TIRvish	tir	293656	293847	.	+	.	220	Left TIR of transposon 220
+seq1	TIRvish	tir	296736	296926	.	+	.	220	Right TIR of transposon 220
+seq1	TIRvish	tsd	296927	296928	.	+	.	220	Right TSD of transposon 220
+seq1	TIRvish	transposon	321669	329111	.	+	.	221
+seq1	TIRvish	tsd	321669	321670	.	+	.	221	Left TSD of transposon 221
+seq1	TIRvish	tir	321671	322673	.	+	.	221	Left TIR of transposon 221
+seq1	TIRvish	tir	328111	329109	.	+	.	221	Right TIR of transposon 221
+seq1	TIRvish	tsd	329110	329111	.	+	.	221	Right TSD of transposon 221
+seq1	TIRvish	transposon	364640	367701	.	+	.	222
+seq1	TIRvish	tsd	364640	364643	.	+	.	222	Left TSD of transposon 222
+seq1	TIRvish	tir	364644	364795	.	+	.	222	Left TIR of transposon 222
+seq1	TIRvish	tir	367543	367697	.	+	.	222	Right TIR of transposon 222
+seq1	TIRvish	tsd	367698	367701	.	+	.	222	Right TSD of transposon 222
+seq1	TIRvish	transposon	380071	380852	.	+	.	223
+seq1	TIRvish	tsd	380071	380072	.	+	.	223	Left TSD of transposon 223
+seq1	TIRvish	tir	380073	380280	.	+	.	223	Left TIR of transposon 223
+seq1	TIRvish	tir	380646	380850	.	+	.	223	Right TIR of transposon 223
+seq1	TIRvish	tsd	380851	380852	.	+	.	223	Right TSD of transposon 223
+seq1	TIRvish	transposon	396609	397181	.	+	.	224
+seq1	TIRvish	tsd	396609	396612	.	+	.	224	Left TSD of transposon 224
+seq1	TIRvish	tir	396613	396798	.	+	.	224	Left TIR of transposon 224
+seq1	TIRvish	tir	396984	397177	.	+	.	224	Right TIR of transposon 224
+seq1	TIRvish	tsd	397178	397181	.	+	.	224	Right TSD of transposon 224
+seq1	TIRvish	transposon	465134	465936	.	+	.	225
+seq1	TIRvish	tsd	465134	465138	.	+	.	225	Left TSD of transposon 225
+seq1	TIRvish	tir	465139	465487	.	+	.	225	Left TIR of transposon 225
+seq1	TIRvish	tir	465581	465931	.	+	.	225	Right TIR of transposon 225
+seq1	TIRvish	tsd	465932	465936	.	+	.	225	Right TSD of transposon 225
+seq1	TIRvish	transposon	476019	476752	.	+	.	226
+seq1	TIRvish	tsd	476019	476022	.	+	.	226	Left TSD of transposon 226
+seq1	TIRvish	tir	476023	476347	.	+	.	226	Left TIR of transposon 226
+seq1	TIRvish	tir	476425	476748	.	+	.	226	Right TIR of transposon 226
+seq1	TIRvish	tsd	476749	476752	.	+	.	226	Right TSD of transposon 226
+seq1	TIRvish	transposon	589980	599462	.	+	.	227
+seq1	TIRvish	tsd	589980	589981	.	+	.	227	Left TSD of transposon 227
+seq1	TIRvish	tir	589982	590169	.	+	.	227	Left TIR of transposon 227
+seq1	TIRvish	tir	599282	599460	.	+	.	227	Right TIR of transposon 227
+seq1	TIRvish	tsd	599461	599462	.	+	.	227	Right TSD of transposon 227
+seq1	TIRvish	transposon	601860	607507	.	+	.	228
+seq1	TIRvish	tsd	601860	601861	.	+	.	228	Left TSD of transposon 228
+seq1	TIRvish	tir	601862	601994	.	+	.	228	Left TIR of transposon 228
+seq1	TIRvish	tir	607374	607505	.	+	.	228	Right TIR of transposon 228
+seq1	TIRvish	tsd	607506	607507	.	+	.	228	Right TSD of transposon 228
+seq1	TIRvish	transposon	629719	630916	.	+	.	229
+seq1	TIRvish	tsd	629719	629721	.	+	.	229	Left TSD of transposon 229
+seq1	TIRvish	tir	629722	630306	.	+	.	229	Left TIR of transposon 229
+seq1	TIRvish	tir	630335	630913	.	+	.	229	Right TIR of transposon 229
+seq1	TIRvish	tsd	630914	630916	.	+	.	229	Right TSD of transposon 229
+seq1	TIRvish	transposon	658315	666233	.	+	.	230
+seq1	TIRvish	tsd	658315	658318	.	+	.	230	Left TSD of transposon 230
+seq1	TIRvish	tir	658319	658445	.	+	.	230	Left TIR of transposon 230
+seq1	TIRvish	tir	666102	666229	.	+	.	230	Right TIR of transposon 230
+seq1	TIRvish	tsd	666230	666233	.	+	.	230	Right TSD of transposon 230
+seq1	TIRvish	transposon	677832	685770	.	+	.	231
+seq1	TIRvish	tsd	677832	677833	.	+	.	231	Left TSD of transposon 231
+seq1	TIRvish	tir	677834	677943	.	+	.	231	Left TIR of transposon 231
+seq1	TIRvish	tir	685658	685768	.	+	.	231	Right TIR of transposon 231
+seq1	TIRvish	tsd	685769	685770	.	+	.	231	Right TSD of transposon 231
+seq1	TIRvish	transposon	733184	737953	.	+	.	232
+seq1	TIRvish	tsd	733184	733185	.	+	.	232	Left TSD of transposon 232
+seq1	TIRvish	tir	733186	733673	.	+	.	232	Left TIR of transposon 232
+seq1	TIRvish	tir	737464	737951	.	+	.	232	Right TIR of transposon 232
+seq1	TIRvish	tsd	737952	737953	.	+	.	232	Right TSD of transposon 232
+seq1	TIRvish	transposon	746945	753885	.	+	.	233
+seq1	TIRvish	tsd	746945	746946	.	+	.	233	Left TSD of transposon 233
+seq1	TIRvish	tir	746947	747057	.	+	.	233	Left TIR of transposon 233
+seq1	TIRvish	tir	753776	753883	.	+	.	233	Right TIR of transposon 233
+seq1	TIRvish	tsd	753884	753885	.	+	.	233	Right TSD of transposon 233
+seq1	TIRvish	transposon	599280	599947	.	-	.	234
+seq1	TIRvish	tsd	599946	599947	.	-	.	234	Left TSD of transposon 234
+seq1	TIRvish	tir	599761	599945	.	-	.	234	Left TIR of transposon 234
+seq1	TIRvish	tir	599282	599462	.	-	.	234	Right TIR of transposon 234
+seq1	TIRvish	tsd	599280	599281	.	-	.	234	Right TSD of transposon 234
+seq1	TIRvish	transposon	436217	436989	.	-	.	235
+seq1	TIRvish	tsd	436985	436989	.	-	.	235	Left TSD of transposon 235
+seq1	TIRvish	tir	436793	436984	.	-	.	235	Left TIR of transposon 235
+seq1	TIRvish	tir	436222	436407	.	-	.	235	Right TIR of transposon 235
+seq1	TIRvish	tsd	436217	436221	.	-	.	235	Right TSD of transposon 235
+seq1	TIRvish	transposon	209204	214772	.	-	.	236
+seq1	TIRvish	tsd	214770	214772	.	-	.	236	Left TSD of transposon 236
+seq1	TIRvish	tir	214647	214769	.	-	.	236	Left TIR of transposon 236
+seq1	TIRvish	tir	209207	209329	.	-	.	236	Right TIR of transposon 236
+seq1	TIRvish	tsd	209204	209206	.	-	.	236	Right TSD of transposon 236
+seq1	TIRvish	transposon	51340	52894	.	-	.	237
+seq1	TIRvish	tsd	52892	52894	.	-	.	237	Left TSD of transposon 237
+seq1	TIRvish	tir	52741	52891	.	-	.	237	Left TIR of transposon 237
+seq1	TIRvish	tir	51343	51496	.	-	.	237	Right TIR of transposon 237
+seq1	TIRvish	tsd	51340	51342	.	-	.	237	Right TSD of transposon 237
+seq2	TIRvish	transposon	52776	53765	.	+	.	238
+seq2	TIRvish	tsd	52776	52777	.	+	.	238	Left TSD of transposon 238
+seq2	TIRvish	tir	52778	52923	.	+	.	238	Left TIR of transposon 238
+seq2	TIRvish	tir	53618	53763	.	+	.	238	Right TIR of transposon 238
+seq2	TIRvish	tsd	53764	53765	.	+	.	238	Right TSD of transposon 238
+seq2	TIRvish	transposon	61656	66041	.	+	.	239
+seq2	TIRvish	tsd	61656	61658	.	+	.	239	Left TSD of transposon 239
+seq2	TIRvish	tir	61659	61774	.	+	.	239	Left TIR of transposon 239
+seq2	TIRvish	tir	65922	66038	.	+	.	239	Right TIR of transposon 239
+seq2	TIRvish	tsd	66039	66041	.	+	.	239	Right TSD of transposon 239
+seq2	TIRvish	transposon	176925	179525	.	+	.	240
+seq2	TIRvish	tsd	176925	176926	.	+	.	240	Left TSD of transposon 240
+seq2	TIRvish	tir	176927	177028	.	+	.	240	Left TIR of transposon 240
+seq2	TIRvish	tir	179418	179523	.	+	.	240	Right TIR of transposon 240
+seq2	TIRvish	tsd	179524	179525	.	+	.	240	Right TSD of transposon 240
+seq2	TIRvish	transposon	188823	189847	.	+	.	241
+seq2	TIRvish	tsd	188823	188824	.	+	.	241	Left TSD of transposon 241
+seq2	TIRvish	tir	188825	188932	.	+	.	241	Left TIR of transposon 241
+seq2	TIRvish	tir	189740	189845	.	+	.	241	Right TIR of transposon 241
+seq2	TIRvish	tsd	189846	189847	.	+	.	241	Right TSD of transposon 241
+seq2	TIRvish	transposon	224545	227237	.	+	.	242
+seq2	TIRvish	tsd	224545	224546	.	+	.	242	Left TSD of transposon 242
+seq2	TIRvish	tir	224547	225544	.	+	.	242	Left TIR of transposon 242
+seq2	TIRvish	tir	226238	227235	.	+	.	242	Right TIR of transposon 242
+seq2	TIRvish	tsd	227236	227237	.	+	.	242	Right TSD of transposon 242
+seq2	TIRvish	transposon	271044	274307	.	+	.	243
+seq2	TIRvish	tsd	271044	271045	.	+	.	243	Left TSD of transposon 243
+seq2	TIRvish	tir	271046	271214	.	+	.	243	Left TIR of transposon 243
+seq2	TIRvish	tir	274140	274305	.	+	.	243	Right TIR of transposon 243
+seq2	TIRvish	tsd	274306	274307	.	+	.	243	Right TSD of transposon 243
+seq2	TIRvish	transposon	278497	282866	.	+	.	244
+seq2	TIRvish	tsd	278497	278501	.	+	.	244	Left TSD of transposon 244
+seq2	TIRvish	tir	278502	278625	.	+	.	244	Left TIR of transposon 244
+seq2	TIRvish	tir	282737	282861	.	+	.	244	Right TIR of transposon 244
+seq2	TIRvish	tsd	282862	282866	.	+	.	244	Right TSD of transposon 244
+seq2	TIRvish	transposon	289750	293488	.	+	.	245
+seq2	TIRvish	tsd	289750	289751	.	+	.	245	Left TSD of transposon 245
+seq2	TIRvish	tir	289752	289859	.	+	.	245	Left TIR of transposon 245
+seq2	TIRvish	tir	293383	293486	.	+	.	245	Right TIR of transposon 245
+seq2	TIRvish	tsd	293487	293488	.	+	.	245	Right TSD of transposon 245
+seq1	LTRpred	ltr	142967	143293	.	-	.	15	Left LTR of transposon 15
+seq1	LTRpred	ltr	152694	153019	.	-	.	15	Right LTR of transposon 15
+seq1	LTRpred	tsd	142963	142966	.	-	.	15	Left TSD of transposon 15
+seq1	LTRpred	tsd	153020	153023	.	-	.	15	Right TSD of transposon 15
+seq1	LTRpred	pbs	152684	152694	.	-	.	15	Primer binding site of transposon 15
+seq1	LTRpred	ltr	268295	268482	.	-	.	17	Left LTR of transposon 17
+seq1	LTRpred	ltr	276720	276908	.	-	.	17	Right LTR of transposon 17
+seq1	LTRpred	tsd	268291	268294	.	-	.	17	Left TSD of transposon 17
+seq1	LTRpred	tsd	276909	276912	.	-	.	17	Right TSD of transposon 17
+seq1	LTRpred	pbs	276709	276719	.	-	.	17	Primer binding site of transposon 17
+seq2	LTRpred	transposon	40194	47926	.	-	.	248	 orfs=0; repeat_region_length=7741
+seq2	LTRpred	ltr	40194	40349	.	-	.	248	Left LTR of transposon 248
+seq2	LTRpred	ltr	47770	47926	.	-	.	248	Right LTR of transposon 248
+seq2	LTRpred	tsd	40190	40193	.	-	.	248	Left TSD of transposon 248
+seq2	LTRpred	tsd	47927	47930	.	-	.	248	Right TSD of transposon 248
+seq2	LTRpred	pbs	47752	47767	.	-	.	248	Primer binding site of transposon 248
+seq2	LTRpred	ltr	245330	245904	.	+	.	31	Left LTR of transposon 31
+seq2	LTRpred	ltr	256299	256873	.	+	.	31	Right LTR of transposon 31
+seq2	LTRpred	tsd	245326	245329	.	+	.	31	Left TSD of transposon 31
+seq2	LTRpred	tsd	256874	256877	.	+	.	31	Right TSD of transposon 31
+seq2	LTRpred	pbs	245907	245919	.	+	.	31	Primer binding site of transposon 31
+seq2	LTRpred	transposon	278520	293715	.	+	.	250	 orfs=2; repeat_region_length=15204
+seq2	LTRpred	ltr	278520	278631	.	+	.	250	Left LTR of transposon 250
+seq2	LTRpred	ltr	293601	293715	.	+	.	250	Right LTR of transposon 250
+seq2	LTRpred	tsd	278516	278519	.	+	.	250	Left TSD of transposon 250
+seq2	LTRpred	tsd	293716	293719	.	+	.	250	Right TSD of transposon 250
+seq2	LTRpred	pbs	278635	278646	.	+	.	250	Primer binding site of transposon 250

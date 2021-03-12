@@ -1,0 +1,11 @@
+# RPSTBLASTN 2.10.0+
+# Query: seq1
+# Database: /mnt/home3/riehl/miniconda3/envs/transposon_annotation_tools_env/share/proteinNCBICDD1000/selection/Selection1000Library005
+# Fields: subject title, evalue, q. start, q. end
+# 1 hits found
+pfam15782, GREB1, Gene regulated by oestrogen in breast cancer.  GREB1 (gene regulated by estrogen in breast cancer 1) was first identified as an oestrogen-regulated gene expressed in breast cancer. Its exact function is not known but its expression is regulated by the coordinated binding of oestrogen-receptors to distal sites interacting with Pol II to activate gene transcription from core promoters located at a considerable distance from the greb1 gene.	3.39e-04	284256	283606
+# RPSTBLASTN 2.10.0+
+# Query: seq2
+# Database: /mnt/home3/riehl/miniconda3/envs/transposon_annotation_tools_env/share/proteinNCBICDD1000/selection/Selection1000Library005
+# 0 hits found
+# BLAST processed 2 queries

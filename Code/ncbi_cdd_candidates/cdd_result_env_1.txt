@@ -1,0 +1,3308 @@
+
+1. WSS_VP: White spot syndrome virus structural envelope protein VP
+This family of proteins is found in viruses. Proteins in this family are approximately 210 amino aci...
+Accession: pfam12175 ID: 371941
+
+2. Flavi_M: Flavivirus envelope glycoprotein M
+Flaviviruses are small enveloped viruses with a membrane-anchored envelope comprised of 3 proteins c...
+Accession: cl03065 ID: 351936
+
+3. Baculo_PEP_C: Baculovirus polyhedron envelope protein, PEP, C-terminus
+Polyhedra are large crystalline occlusion bodies containing nucleopolyhedrovirus virions, and surrou...
+Accession: pfam04513 ID: 309591
+
+4. ODV-E18: Occlusion-derived virus envelope protein ODV-E18
+This family of occlusion-derived viral envelope proteins are detected in viral-induced intranuclear ...
+Accession: pfam10717 ID: 287662
+
+5. Baculo_PEP_N: Baculovirus polyhedron envelope protein, PEP, N-terminus
+Polyhedra are large crystalline occlusion bodies containing nucleopolyhedrovirus virions, and surrou...
+Accession: pfam04512 ID: 282381
+
+6. SARS-CoV-2_E: Severe acute respiratory syndrome coronavirus 2 Envelope small membrane protein
+This group contains the Envelope (E) small membrane protein of Severe acute respiratory syndrome cor...
+Accession: cd21536 ID: 394862
+
+7. SARS-CoV-like_E: Severe acute respiratory syndrome coronavirus Envelope small membrane protein and similar proteins
+This group contains the Envelope (E) small membrane protein of Severe acute respiratory syndrome (SA...
+Accession: cd21534 ID: 394861
+
+8. MERS-CoV-like_E: Middle East respiratory syndrome-related coronavirus Envelope small membrane protein and similar proteins
+This group contains the Envelope (E) small membrane protein of Middle East respiratory syndrome (MER...
+Accession: cd21533 ID: 394860
+
+9. HKU1-CoV-like_E: human coronavirus HKU1 Envelope small membrane protein and similar proteins
+This group contains the Envelope (E) small membrane protein of human coronavirus HKU1 and related co...
+Accession: cd21532 ID: 394859
+
+10. CoV_E: Coronavirus Envelope (E) small membrane protein
+This family contains the Envelope (E) small membrane protein of betacoronaviruses, including the E p...
+Accession: cd21531 ID: 394858
+
+11. Herpes_UL73: UL73 viral envelope glycoprotein
+This family groups together the viral proteins BLRF1, U46, 53, and UL73. The UL73-like envelope glyc...
+Accession: cl29774 ID: 392192
+
+12. VERL: Vitelline envelope receptor for lysin
+VERL, the egg vitelline envelope (VE) receptor for lysin, is a giant unbranched glycoprotein compris...
+Accession: pfam11386 ID: 371502
+
+13. Chlorosome_CsmC: Chlorosome envelope protein C
+Chlorosomes are light-harvesting antennae found in green bacteria. CsmC is one of the proteins that ...
+Accession: pfam11098 ID: 371373
+
+14. KASH: Nuclear envelope localization domain
+The KASH (for Klarsicht/ANC-1/Syne-1 homology) or KLS domain is a highly hydrophobic nuclear envelop...
+Accession: pfam10541 ID: 371124
+
+15. GP41: Retroviral envelope protein
+This family includes envelope protein from a variety of retroviruses. It includes the GP41 subunit o...
+Accession: pfam00517 ID: 366145
+
+16. Flavi_M: Flavivirus envelope glycoprotein M
+Flaviviruses are small enveloped viruses with a membrane-anchored envelope comprised of 3 proteins c...
+Accession: cd17038 ID: 341208
+
+17. Baculo_E56: Baculoviral E56 protein, specific to ODV envelope
+This family represents the E56 protein, which is localizes to the occlusion derived virus (ODV) enve...
+Accession: pfam04639 ID: 282490
+
+18. Arteri_env: Arterivirus envelope protein
+This family consists of viral envelope proteins from the arterivirus genus; this includes porcine re...
+Accession: pfam01606 ID: 250739
+
+19. Toc34_like: Translocon at the Outer-envelope membrane of Chloroplasts 34-like (Toc34-like)
+The Toc34-like (Translocon at the Outer-envelope membrane of Chloroplasts) family contains several T...
+Accession: cd01853 ID: 206652
+
+20. Arteri_Gl: Arterivirus GL envelope glycoprotein
+Arteriviruses encode 4 envelope proteins, Gl, Gs, M and N. Gl envelope protein, is encoded in ORF5, ...
+Accession: pfam00951 ID: 109986
+
+21. MurB: UDP-N-acetylenolpyruvoylglucosamine reductase [Cell wall/membrane/envelope biogenesis]
+This model describes MurB, UDP-N-acetylenolpyruvoylglucosamine reductase, which is also called UDP-N...
+Accession: cl39087 ID: 393457
+
+22. WecB: UDP-N-acetylglucosamine 2-epimerase [Cell wall/membrane/envelope biogenesis]
+This cytosolic enzyme converts UDP-N-acetyl-D-glucosamine to UDP-N-acetyl-D-mannosamine. In E. coli,...
+Accession: cl39071 ID: 393441
+
+23. Asp23: Asp23 family, cell envelope-related function
+The alkaline shock protein Asp23 was identified as an alkaline shock protein that was expressed in a...
+Accession: cl00574 ID: 382089
+
+24. Asp23: Asp23 family, cell envelope-related function
+The alkaline shock protein Asp23 was identified as an alkaline shock protein that was expressed in a...
+Accession: pfam03780 ID: 377129
+
+25. Tic110: Chloroplast envelope transporter
+Tic110 is a family of chloroplast envelope proteins. Some are involved in protein translocation and ...
+Accession: pfam16940 ID: 374895
+
+26. Loricrin: Major keratinocyte cell envelope protein
+Loricrin is a family of major keratinocyte cell envelope proteins found in primates. It acts as an i...
+Accession: pfam15847 ID: 374168
+
+27. LCE: Late cornified envelope
+This is a family of late cornified envelope proteins that are expressed in skin.
+Accession: pfam14672 ID: 373211
+
+28. Ish1: Putative stress-responsive nuclear envelope protein
+This entry represents a repeat found in the fungal protein Ish1, a putative stress-responsive nuclea...
+Accession: pfam10281 ID: 370947
+
+29. Herpes_UL49_5: Herpesvirus UL49.5 envelope/tegument protein
+UL49.5 protein consists of 98 amino acids with a calculated molecular mass of 10,155 Da. It contains...
+Accession: pfam05702 ID: 368568
+
+30. Pox_A14: Poxvirus virion envelope protein A14
+This family consists of several Poxvirus virion envelope protein A14 like sequences. A14 is a compon...
+Accession: cl27949 ID: 355689
+
+31. Herpes_env: Herpesvirus putative major envelope glycoprotein
+This family consists of probable major envelope glycoproteins from members of the herpesviridae incl...
+Accession: cl28122 ID: 332943
+
+32. Flavi_E_C: Immunoglobulin-like domain III (C-terminal domain) of Flavivirus envelope glycoprotein E
+The C-terminal domain (domain III) of Flavivirus glycoprotein E appears to be involved in low-affini...
+Accession: cl28075 ID: 332896
+
+33. Flavi_M: Flavivirus envelope glycoprotein M
+Flaviviruses are small enveloped viruses with virions comprised of 3 proteins called C, M and E. The...
+Accession: pfam01004 ID: 307237
+
+34. EAV_GP5: Envelope glycoprotein GP 5 of equine arteritis virus
+EAV_GP5 is a domain family found in equine arteritis virus envelope. It is approximately 80 amino ac...
+Accession: pfam15981 ID: 292603
+
+35. HERV-K_env_2: Retro-transcribing viruses envelope glycoprotein
+This family comes from human endogenous retrovirus K envelope glycoproteins.
+Accession: pfam13804 ID: 290518
+
+36. Pox_A14: Poxvirus virion envelope protein A14
+This family consists of several Poxvirus virion envelope protein A14 like sequences. A14 is a compon...
+Accession: pfam05767 ID: 283435
+
+37. Baculo_ODV-E27: Baculovirus occlusion-derived virus envelope protein EC27
+This family consists of several baculovirus occlusion-derived virus envelope proteins (EC27 or E27)....
+Accession: pfam05314 ID: 283072
+
+38. Baculo_E25: Occlusion-derived virus envelope protein E25
+This family consists of several nucleopolyhedrovirus occlusion-derived virus envelope E25 proteins.
+Accession: pfam05274 ID: 283043
+
+39. Herpes_BLLF1: Herpes virus major outer envelope glycoprotein (BLLF1)
+This family consists of the BLLF1 viral late glycoprotein, also termed gp350/220. It is the most abu...
+Accession: pfam05109 ID: 282904
+
+40. Herpes_UL73: UL73 viral envelope glycoprotein
+This family groups together the viral proteins BLRF1, U46, 53, and UL73. The UL73-like envelope glyc...
+Accession: pfam03554 ID: 281543
+
+41. Foamy_virus_ENV: Foamy virus envelope protein
+Expression of the envelope (Env) glycoprotein is essential for viral particle egress. This feature i...
+Accession: pfam03408 ID: 281409
+
+42. NS3_envE: Non-structural protein NS3/Small envelope protein E
+This is a family of small non-structural proteins, well conserved among Coronavirus strains. This pr...
+Accession: pfam02723 ID: 280820
+
+43. Herpes_env: Herpesvirus putative major envelope glycoprotein
+This family consists of probable major envelope glycoproteins from members of the herpesviridae incl...
+Accession: pfam01673 ID: 279941
+
+44. EAV_GS: Equine arteritis virus small envelope glycoprotein
+Equine arteritis virus small envelope glycoprotein (Gs) is a class I transmembrane protein which ado...
+Accession: pfam01309 ID: 279629
+
+45. flavi_E_stem: flavivirus envelope glycoprotein E, stem/anchor domain
+This model describes the C-terminal domain, containing a stem region followed by two transmembrane a...
+Accession: TIGR04240 ID: 213897
+
+46. Flavi_E_C: Immunoglobulin-like domain III (C-terminal domain) of Flavivirus envelope glycoprotein E
+The C-terminal domain (domain III) of Flavivirus glycoprotein E appears to be involved in low-affini...
+Accession: cd12149 ID: 213392
+
+47. PLDc_vPLD3_4_5_like_2: Putative catalytic domain, repeat 2, of vertebrate phospholipases, PLD3, PLD4 and PLD5, viral envelope proteins K4 and p37, and similar proteins
+Putative catalytic domain, repeat 2, of vertebrate phospholipases D, PLD3, PLD4, and PLD5 (EC 3.1.4....
+Accession: cd09107 ID: 197206
+
+48. PLDc_vPLD3_4_5_like_1: Putative catalytic domain, repeat 1, of vertebrate phospholipases, PLD3, PLD4 and PLD5, viral envelope proteins K4 and p37, and similar proteins
+Putative catalytic domain, repeat 1, of vertebrate phospholipases D, PLD3, PLD4, and PLD5 (EC 3.1.4....
+Accession: cd09106 ID: 197205
+
+49. GBV-C_env: GB virus C genotype envelope
+This the envelope protein from the ssRNA GB virus genotype C.
+Accession: pfam12786 ID: 193262
+
+50. rpt_csmH: chlorosome envelope protein H repeat
+CsmH, as studied in Chlorobium tepidum, is one of at least ten surface-exposed proteins of the chlor...
+Accession: TIGR03058 ID: 132102
+
+51. 3a0901s03IAP75: chloroplast envelope protein translocase, IAP75 family
+Two families of proteins are involved in the chloroplast envelope import appartus.They are the three...
+Accession: TIGR00992 ID: 130065
+
+52. PRRSV_Env: PRRSV putative envelope protein
+This family consists of a conserved probable envelope protein or ORF2 in porcine reproductive and re...
+Accession: pfam02340 ID: 111251
+
+53. LytR_cpsA_psr: Cell envelope-related transcriptional attenuator domain
+This model describes a domain of unknown function that is found in the predicted extracellular domai...
+Accession: cl00581 ID: 382090
+
+54. LytR_C: LytR cell envelope-related transcriptional attenuator
+This family appears at the C-terminus of members of the LytR_cpsA_psr, pfam03816, family
+Accession: pfam13399 ID: 379163
+
+55. LCE6A: Late cornified envelope protein 6A family
+LCE6A is a family of proteins is found in mammals. It was identified in a large-scale screening expe...
+Accession: pfam15858 ID: 374174
+
+56. LELP1: Late cornified envelope-like proline-rich protein 1
+This family of uncharacterized proteins is found in mammals.
+Accession: pfam15042 ID: 373501
+
+57. Baculo_E66: Baculovirus E66 occlusion-derived virus envelope protein
+
+Accession: pfam04850 ID: 368154
+
+58. LytR_cpsA_psr: Cell envelope-related transcriptional attenuator domain
+
+Accession: pfam03816 ID: 367673
+
+59. MltE: Soluble lytic murein transglycosylase and related regulatory proteins (some contain LysM/invasin domains) [Cell wall/membrane/envelope biogenesis]
+lytic murein transglycosylase; Provisional
+Accession: cl30778 ID: 357654
+
+60. LolE: ABC-type transport system, involved in lipoprotein release, permease component [Cell wall/membrane/envelope biogenesis]
+This model describes the LolC protein, and its paralog LolE found in some species. These proteins ar...
+Accession: cl30308 ID: 357184
+
+61. SpoIID: Peptidoglycan hydrolase (amidase) enhancer domain [Cell wall/membrane/envelope biogenesis]
+This model describes a domain found typically in two or three proteins per genome in Cyanobacteria a...
+Accession: cl26737 ID: 355563
+
+62. Lnt: Apolipoprotein N-acyltransferase [Cell wall/membrane/envelope biogenesis]
+apolipoprotein N-acyltransferase; Reviewed
+Accession: cl25421 ID: 355393
+
+63. SpsG: Spore coat polysaccharide biosynthesis protein SpsG, predicted glycosyltransferase  [Cell wall/membrane/envelope biogenesis]
+This protein is found in association with enzymes involved in the biosynthesis of pseudaminic acid, ...
+Accession: cl28257 ID: 333077
+
+64. Vac_Fusion: Chordopoxvirus multifunctional envelope protein A27
+This is a family of viral fusion proteins from the chordopoxviruses. The A27L gene product, a 14-kDa...
+Accession: cl28105 ID: 332926
+
+65. Pestivirus_E2: Pestivirus envelope glycoprotein E2
+
+Accession: pfam16329 ID: 318535
+
+66. Viral_env_E26: Virus envelope protein E26
+E26 is a multifunctional protein. One form of E26 associates with viral DNA or DNA binding proteins,...
+Accession: pfam11050 ID: 287962
+
+67. Avian_gp85: Avian retrovirus envelope protein, gp85
+Family of a vain specific viral glycoproteins that forms a receptor-binding gp85 polypeptide that is...
+Accession: pfam03708 ID: 281671
+
+68. Baculo_gp64: Baculovirus gp64 envelope glycoprotein family
+This family includes the gp64 glycoprotein from baculovirus as well as other viruses.
+Accession: pfam03273 ID: 281290
+
+69. Vac_Fusion: Chordopoxvirus multifunctional envelope protein A27
+This is a family of viral fusion proteins from the chordopoxviruses. The A27L gene product, a 14-kDa...
+Accession: pfam02346 ID: 280501
+
+70. GP120: Envelope glycoprotein GP120
+The entry of HIV requires interaction of viral GP120 with CD4 and a chemokine receptor on the cell s...
+Accession: pfam00516 ID: 278917
+
+71. lytR_cpsA_psr: cell envelope-related function transcriptional attenuator common domain
+This model describes a domain of unknown function that is found in the predicted extracellular domai...
+Accession: TIGR00350 ID: 273029
+
+72. PRK11715: cell envelope integrity protein CreD
+
+Accession: PRK11715 ID: 236960
+
+73. PRK10523: envelope stress response activation lipoprotein NlpE
+
+Accession: PRK10523 ID: 236708
+
+74. PRK10494: envelope biogenesis factor ElyC
+
+Accession: PRK10494 ID: 236702
+
+75. cpxA: envelope stress sensor histidine kinase CpxA
+
+Accession: PRK09470 ID: 236532
+
+76. pspB: envelope stress response membrane protein PspB
+
+Accession: PRK09458 ID: 236526
+
+77. CwlA: N-acetylmuramoyl-L-alanine amidase CwlA [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG5632 ID: 227919
+
+78. COG5622: Protein required for attachment to host cells  [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG5622 ID: 227909
+
+79. Gnt1: Alpha-N-acetylglucosamine transferase  [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG5597 ID: 227884
+
+80. CotF: Spore coat protein CotF [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG5577 ID: 227864
+
+81. XynC: O-Glycosyl hydrolase  [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG5520 ID: 227807
+
+82. CotH: Spore coat protein CotH [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG5337 ID: 227642
+
+83. EpsI: Exopolysaccharide biosynthesis protein EpsI, predicted pyruvyl transferase  [Carbohydrate transport and metabolism, Cell wall/membrane/envelope biogenesis]
+
+Accession: COG5039 ID: 227372
+
+84. MrcA: Membrane carboxypeptidase/penicillin-binding protein [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG5009 ID: 227342
+
+85. PbpC: Membrane carboxypeptidase/penicillin-binding protein PbpC [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG4953 ID: 227289
+
+86. COG4952: L-rhamnose isomerase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG4952 ID: 227288
+
+87. RspA: L-alanine-DL-glutamate epimerase or related enzyme of enolase superfamily [Cell wall/membrane/envelope biogenesis, General function prediction only]
+
+Accession: COG4948 ID: 227284
+
+88. NlpI: Lipoprotein NlpI, contains TPR repeats [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG4785 ID: 227124
+
+89. BamA: Outer membrane protein assembly factor BamA [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG4775 ID: 227116
+
+90. LicC: CTP:phosphocholine cytidylyltransferase involved in choline phosphorylation for cell surface LPS epi... [Cell wall/membrane/envelope biogenesis, Lipid transport and metabolism]
+
+Accession: COG4750 ID: 227093
+
+91. COG4692: Predicted neuraminidase (sialidase)  [Carbohydrate transport and metabolism, Cell wall/membrane/envelope biogenesis]
+
+Accession: COG4692 ID: 227036
+
+92. COG4678: Muramidase (phage lambda lysozyme)  [Cell wall/membrane/envelope biogenesis, Mobilome: prophages, transposons]
+
+Accession: COG4678 ID: 227023
+
+93. MltF: Membrane-bound lytic murein transglycosylase MltF [Cell wall/membrane/envelope biogenesis, Signal transduction mechanisms]
+
+Accession: COG4623 ID: 226971
+
+94. LolE: ABC-type transport system, involved in lipoprotein release, permease component [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG4591 ID: 226957
+
+95. AcfC: Accessory colonization factor AcfC, contains ABC-type periplasmic domain  [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG4588 ID: 226954
+
+96. OmpT: Outer membrane protease [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG4571 ID: 226937
+
+97. LipA17: Surface antigen  [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG4520 ID: 226903
+
+98. SrtB: class B sortase (surface protein transpeptidase) [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG4509 ID: 226898
+
+99. LpsS: LPS sulfotransferase NodH [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG4424 ID: 226848
+
+100. COG4421: Capsular polysaccharide biosynthesis protein  [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG4421 ID: 226845
+
+101. NanH: Neuraminidase (sialidase)  [Carbohydrate transport and metabolism, Cell wall/membrane/envelope biogenesis]
+
+Accession: COG4409 ID: 226840
+
+102. YoaJ: Peptidoglycan-binding domain, expansin [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG4305 ID: 226755
+
+103. SMI1: Cell wall assembly regulator SMI1 [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG4282 ID: 226732
+
+104. Lpp: Outer membrane murein-binding lipoprotein Lpp [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG4238 ID: 226689
+
+105. BamD: Outer membrane protein assembly factor BamD, BamD/ComL family [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG4105 ID: 226590
+
+106. COG4092: Predicted glycosyltransferase involved in capsule biosynthesis  [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG4092 ID: 226577
+
+107. SpsG: Spore coat polysaccharide biosynthesis protein SpsG, predicted glycosyltransferase  [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3980 ID: 226488
+
+108. DltE: Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids [Cell wall/membrane/envelope biogenesis, Lipid transport and metabolism]
+
+Accession: COG3967 ID: 226476
+
+109. DltD: Poly D-alanine transfer protein DltD, involved inesterification of teichoic acids [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3966 ID: 226475
+
+110. COG3955: Uncharacterized protein, DUF1919 family [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3955 ID: 226464
+
+111. YveK: Capsular polysaccharide biosynthesis protein  [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3944 ID: 226453
+
+112. COG3942: Surface antigen  [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3942 ID: 226451
+
+113. MliC: Membrane-bound inhibitor of C-type lysozyme [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3895 ID: 226411
+
+114. LarA: Nickel-dependent lactate racemase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3875 ID: 226392
+
+115. COG3786: L,D-peptidoglycan transpeptidase YkuD, ErfK/YbiS/YcfS/YnhG family [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3786 ID: 226309
+
+116. OCH1: Mannosyltransferase OCH1 or related enzyme [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3774 ID: 226297
+
+117. CwlJ: Cell wall hydrolase CwlJ, involved in spore germination  [Cell cycle control, cell division, chromosome partitioning, Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3773 ID: 226296
+
+118. RrrD: Phage-related lysozyme (muramidase), GH24 family [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3772 ID: 226295
+
+119. MepA: Murein endopeptidase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3770 ID: 226293
+
+120. WzzB: LPS O-antigen chain length determinant protein, WzzB/FepE family [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3765 ID: 226288
+
+121. SrtA: Sortase (surface protein transpeptidase)  [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3764 ID: 226287
+
+122. Acm: Lyzozyme M1 (1,4-beta-N-acetylmuramidase), GH25 family [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3757 ID: 226280
+
+123. RgpF: Lipopolysaccharide biosynthesis protein  [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3754 ID: 226277
+
+124. OmpV: Outer membrane scaffolding protein for murein synthesis, MipA/OmpV family [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3713 ID: 226236
+
+125. OprB: Carbohydrate-selective porin OprB [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3659 ID: 226185
+
+126. LomR: Opacity protein and related surface antigens [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3637 ID: 226163
+
+127. KpsC: Capsule polysaccharide export protein KpsC/LpsZ [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3563 ID: 226093
+
+128. KpsS: Capsule polysaccharide modification protein KpsS [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3562 ID: 226092
+
+129. KpsE: Capsule polysaccharide export protein KpsE/RkpR [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3524 ID: 226055
+
+130. PlcC: Phospholipase C  [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3511 ID: 226042
+
+131. Tpd: Uncharacterized protein probably involved in high-affinity Fe2+ transport  [Cell wall/membrane/envelope biogenesis, Lipid transport and metabolism]
+
+Accession: COG3470 ID: 226001
+
+132. AidA: Type V secretory pathway, adhesin AidA [Cell wall/membrane/envelope biogenesis, Intracellular trafficking, secretion, and vesicular transport]
+
+Accession: COG3468 ID: 225999
+
+133. LpoB: Outer membrane lipoprotein LpoB, binds and activates PBP1b [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3417 ID: 225951
+
+134. PGRP: Peptidoglycan-binding (PGRP) domain of peptidoglycan hydrolases [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3409 ID: 225943
+
+135. RfaL: O-antigen ligase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3307 ID: 225844
+
+136. COG3306: Glycosyltransferase involved in LPS biosynthesis, GR25 family [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3306 ID: 225843
+
+137. WecH: Surface polysaccharide O-acyltransferase, integral membrane enzyme  [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3274 ID: 225813
+
+138. MscK: Small-conductance mechanosensitive channel [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3264 ID: 225803
+
+139. RhaM: L-rhamnose mutarotase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3254 ID: 225793
+
+140. Tsx: Nucleoside-specific outer membrane channel protein Tsx [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3248 ID: 225787
+
+141. GumC: Uncharacterized protein involved in exopolysaccharide biosynthesis [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3206 ID: 225747
+
+142. OmpC: Outer membrane protein (porin) [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3203 ID: 225744
+
+143. YdiY: Putative salt-induced outer membrane protein YdiY [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3137 ID: 225679
+
+144. SlyB: Outer membrane lipoprotein SlyB [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3133 ID: 225675
+
+145. MdoG: Periplasmic glucans biosynthesis protein [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3131 ID: 225673
+
+146. YrbK: Lipopolysaccharide export system protein LptC [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3117 ID: 225659
+
+147. MlaB: ABC-type transporter Mla maintaining outer membrane lipid asymmetry, MlaB component, contains STAS domain  [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3113 ID: 225655
+
+148. LpoA: Outer membrane lipoprotein LpoA, binds and activates PBP1a [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3107 ID: 225649
+
+149. YejM: Membrane-anchored periplasmic protein YejM, alkaline phosphatase superfamily [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3083 ID: 225625
+
+150. Slp: Starvation-inducible outer membrane lipoprotein [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3065 ID: 225607
+
+151. TolA: Membrane protein involved in colicin uptake [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3064 ID: 225606
+
+152. OapA: Cell envelope opacity-associated protein A (function unknown) [Function unknown]
+
+Accession: COG3061 ID: 225603
+
+153. NanM: N-acetylneuraminic acid mutarotase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3055 ID: 225597
+
+154. YxeI: Penicillin V acylase or related amidase, Ntn superfamily  [Cell wall/membrane/envelope biogenesis, General function prediction only]
+
+Accession: COG3049 ID: 225591
+
+155. OmpW: Outer membrane protein W [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3047 ID: 225589
+
+156. Blc: Bacterial lipocalin [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3040 ID: 225582
+
+157. YafK: Murein L,D-transpeptidase YafK [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3034 ID: 225577
+
+158. AmpD: N-acetyl-anhydromuramyl-L-alanine amidase AmpD [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3023 ID: 225567
+
+159. LolB: Outer membrane lipoprotein LolB, involved in outer membrane biogenesis [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG3017 ID: 225562
+
+160. CutF: Uncharacterized lipoprotein NlpE involved in copper resistance [Cell wall/membrane/envelope biogenesis, Defense mechanisms]
+
+Accession: COG3015 ID: 225560
+
+161. YcbB: Murein L,D-transpeptidase YcbB/YkuD [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG2989 ID: 225536
+
+162. AsmA: Uncharacterized protein involved in outer membrane biogenesis [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG2982 ID: 225529
+
+163. LptE: Outer membrane lipoprotein LptE/RlpB (LPS assembly) [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG2980 ID: 225527
+
+164. YciM: Lipopolysaccharide biosynthesis regulator YciM, contains six TPR domains and a predicted metal-binding C-terminal domain [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG2956 ID: 225504
+
+165. MltB: Membrane-bound lytic murein transglycosylase B [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG2951 ID: 225501
+
+166. SanA: Uncharacterized periplasmic protein SanA, affects membrane permeability for vancomycin [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG2949 ID: 225500
+
+167. MdoH: Membrane glycosyltransferase [Cell wall/membrane/envelope biogenesis, Carbohydrate transport and metabolism]
+
+Accession: COG2943 ID: 225494
+
+168. BamE: Outer membrane protein assembly factor BamE, lipoprotein component of the BamABCDE complex [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG2913 ID: 225465
+
+169. LpxH: UDP-2,3-diacylglucosamine pyrophosphatase LpxH [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG2908 ID: 225460
+
+170. MreD: Cell shape-determining protein MreD [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG2891 ID: 225444
+
+171. OmpA: Outer membrane protein OmpA and related peptidoglycan-associated (lipo)proteins [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG2885 ID: 225439
+
+172. KdsA: 3-deoxy-D-manno-octulosonic acid (KDO) 8-phosphate synthase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG2877 ID: 225432
+
+173. RfaE: ADP-heptose synthase, bifunctional sugar kinase/adenylyltransferase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG2870 ID: 225425
+
+174. MpaA: Murein tripeptide amidase MpaA [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG2866 ID: 225421
+
+175. VacJ: ABC-type transporter Mla maintaining outer membrane lipid asymmetry, lipoprotein component MlaA [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG2853 ID: 225409
+
+176. COG2843: Poly-gamma-glutamate biosynthesis protein CapA/YwtB (capsule formation), metallophosphatase superfamily   [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG2843 ID: 225399
+
+177. LolA: Outer membrane lipoprotein-sorting protein [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG2834 ID: 225390
+
+178. PldA: Outer membrane phospholipase A [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG2829 ID: 225385
+
+179. HlpA: Periplasmic chaperone for outer membrane proteins, Skp family [Cell wall/membrane/envelope biogenesis, Posttranslational modification, protein turnover, chaperones]
+
+Accession: COG2825 ID: 225381
+
+180. MltA: Membrane-bound lytic murein transglycosylase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG2821 ID: 225377
+
+181. PASTA: PASTA domain, binds beta-lactams  [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG2815 ID: 225372
+
+182. SpoIID: Peptidoglycan hydrolase (amidase) enhancer domain [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG2385 ID: 225259
+
+183. AnmK: 1,6-Anhydro-N-acetylmuramate kinase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG2377 ID: 225252
+
+184. FmhB: Lipid II:glycine glycyltransferase (Peptidoglycan interpeptide bridge formation enzyme) [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG2348 ID: 225224
+
+185. WcaK: Polysaccharide pyruvyl transferase family protein WcaK [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG2327 ID: 225208
+
+186. LytB: Putative cell wall-binding domain  [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG2247 ID: 225156
+
+187. RfbX: Membrane protein involved in the export of O-antigen and teichoic acid [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG2244 ID: 225153
+
+188. AgaS: Fructoselysine-6-P-deglycase FrlB and related proteins with duplicated sugar isomerase (SIS) domain [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG2222 ID: 225132
+
+189. OpgE: Phosphoethanolamine transferase for periplasmic glucans (OPG), alkaline phosphatase superfamily [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG2194 ID: 225105
+
+190. DdpX: D-alanyl-D-alanine dipeptidase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG2173 ID: 225084
+
+191. WcaJ: Sugar transferase involved in LPS biosynthesis (colanic, teichoic acid) [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG2148 ID: 225059
+
+192. SufI: Multicopper oxidase with three cupredoxin domains (includes cell division protein FtsP and spore coat protein CotA)   [Cell cycle control, cell division, chromosome partitioning, Inorganic ion transport and metabolism, Cell wall/membrane/envelope biogenesis]
+
+Accession: COG2132 ID: 225043
+
+193. MurQ: N-acetylmuramic acid 6-phosphate (MurNAc-6-P) etherase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG2103 ID: 225014
+
+194. SpsE: Sialic acid synthase SpsE, contains C-terminal SAF domain [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG2089 ID: 225000
+
+195. RemA: Regulator of extracellular matrix RemA, YlzA/DUF370 family [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG2052 ID: 224963
+
+196. DacB: D-alanyl-D-alanine carboxypeptidase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG2027 ID: 224938
+
+197. MscL: Large-conductance mechanosensitive channel [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1970 ID: 224881
+
+198. LptA: Lipopolysaccharide export system protein LptA [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1934 ID: 224845
+
+199. WecG: UDP-N-acetyl-D-mannosaminuronic acid transferase, WecB/TagA/CpsF family  [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1922 ID: 224833
+
+200. RfbC: dTDP-4-dehydrorhamnose 3,5-epimerase or related enzyme [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1898 ID: 224810
+
+201. TagB: CDP-glycerol glycerophosphotransferase, TagB/SpsB family  [Cell wall/membrane/envelope biogenesis, Lipid transport and metabolism]
+
+Accession: COG1887 ID: 224799
+
+202. LdcB: LD-carboxypeptidase LdcB, LAS superfamily  [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1876 ID: 224788
+
+203. SpsF: Spore coat polysaccharide biosynthesis protein SpsF, cytidylyltransferase family [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1861 ID: 224774
+
+204. OafA: Peptidoglycan/LPS O-acetylase OafA/YrhL, contains acyltransferase and SGNH-hydrolase domains  [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1835 ID: 224748
+
+205. ArnT: 4-amino-4-deoxy-L-arabinose transferase or related glycosyltransferase of PMT family [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1807 ID: 224720
+
+206. RacX: Aspartate/glutamate racemase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1794 ID: 224707
+
+207. KdsC: 3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC and related HAD superfamily phosphatases [Cell wall/membrane/envelope biogenesis, General function prediction only]
+
+Accession: COG1778 ID: 224692
+
+208. Med: Basic membrane lipoprotein Med, periplasmic binding protein (PBP1-ABC) superfamily [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1744 ID: 224658
+
+209. OsmF: Periplasmic glycine betaine/choline-binding (lipo)protein of an ABC-type transport system (osmoprotectant binding protein) [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1732 ID: 224646
+
+210. FlgJ: Flagellum-specific peptidoglycan hydrolase FlgJ [Cell wall/membrane/envelope biogenesis, Cell motility]
+
+Accession: COG1705 ID: 224619
+
+211. DltB: D-alanyl-lipoteichoic acid acyltransferase DltB, MBOAT superfamily [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1696 ID: 224610
+
+212. DacC: D-alanyl-D-alanine carboxypeptidase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1686 ID: 224600
+
+213. TagG: ABC-type polysaccharide/polyol phosphate export permease [Carbohydrate transport and metabolism, Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1682 ID: 224596
+
+214. LpxK: Tetraacyldisaccharide-1-P 4'-kinase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1663 ID: 224577
+
+215. LdcA: Muramoyltetrapeptide carboxypeptidase LdcA (peptidoglycan recycling) [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1619 ID: 224534
+
+216. Wza: Periplasmic protein involved in polysaccharide export, contains SLBB domain of the beta-grasp fold [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1596 ID: 224512
+
+217. TolC: Outer membrane protein TolC [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1538 ID: 224455
+
+218. PQQ: Outer membrane protein assembly factor BamB, contains PQQ-like beta-propeller repeat [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1520 ID: 224437
+
+219. KdtA: 3-deoxy-D-manno-octulosonic-acid transferase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1519 ID: 224436
+
+220. MlaD: ABC-type transporter Mla maintaining outer membrane lipid asymmetry, periplasmic component MlaD [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1463 ID: 224380
+
+221. CsgG: Curli biogenesis system outer membrane secretion channel CsgG [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1462 ID: 224379
+
+222. LptD: LPS assembly outer membrane protein LptD (organic solvent tolerance protein OstA) [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1452 ID: 224369
+
+223. RfaJ: Lipopolysaccharide biosynthesis protein, LPS:glycosyltransferase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1442 ID: 224359
+
+224. LysM: LysM repeat  [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1388 ID: 224306
+
+225. ErfK: Lipoprotein-anchoring transpeptidase ErfK/SrfK [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1376 ID: 224294
+
+226. MdoB: Phosphoglycerol transferase MdoB or a related enzyme of AlkP superfamily [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1368 ID: 224287
+
+227. LrgB: Putative effector of murein hydrolase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1346 ID: 224265
+
+228. Cps2a: Anionic cell wall polymer biosynthesis enzyme,  LytR-Cps2A-Psr (LCP) family  [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1316 ID: 224235
+
+229. BetT: Choline-glycine betaine transporter [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1292 ID: 224211
+
+230. KdsB: CMP-2-keto-3-deoxyoctulosonic acid synthetase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1212 ID: 224133
+
+231. GalU: UTP-glucose-1-phosphate uridylyltransferase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1210 ID: 224131
+
+232. RmlA1: dTDP-glucose pyrophosphorylase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1209 ID: 224130
+
+233. GCD1: NDP-sugar pyrophosphorylase, includes eIF-2Bgamma, eIF-2Bepsilon, and LPS biosynthesis proteins [Translation, ribosomal structure and biogenesis, Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1208 ID: 224129
+
+234. GlmU: Bifunctional protein GlmU, N-acetylglucosamine-1-phosphate-uridyltransferase/glucosamine-1-phosphate-acetyltransferase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1207 ID: 224128
+
+235. DdlA: D-alanine-D-alanine ligase and related ATP-grasp enzymes [Cell wall/membrane/envelope biogenesis, General function prediction only]
+
+Accession: COG1181 ID: 224102
+
+236. LptB: ABC-type lipopolysaccharide export system, ATPase component [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1137 ID: 224060
+
+237. LolD: ABC-type lipoprotein export system, ATPase component [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1136 ID: 224059
+
+238. TagH: ABC-type polysaccharide/polyol phosphate transport system, ATPase component [Carbohydrate transport and metabolism, Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1134 ID: 224057
+
+239. MlaF: ABC-type transporter Mla maintaining outer membrane lipid asymmetry, ATPase component MlaF [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1127 ID: 224052
+
+240. RfbD: dTDP-4-dehydrorhamnose reductase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1091 ID: 224016
+
+241. Gmd: GDP-D-mannose dehydratase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1089 ID: 224014
+
+242. RfbB: dTDP-D-glucose 4,6-dehydratase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1088 ID: 224013
+
+243. GalE: UDP-glucose 4-epimerase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1087 ID: 224012
+
+244. FlaA1: NDP-sugar epimerase, includes UDP-GlcNAc-inverting 4,6-dehydratase FlaA1 and capsular polysaccharide biosynthesis protein EpsC [Cell wall/membrane/envelope biogenesis, Posttranslational modification, protein turnover, chaperones]
+
+Accession: COG1086 ID: 224011
+
+245. NeuA: CMP-N-acetylneuraminic acid synthetase  [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1083 ID: 224008
+
+246. LpxD: UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1044 ID: 223974
+
+247. LpxA: Acyl-[acyl carrier protein]--UDP-N-acetylglucosamine O-acyltransferase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1043 ID: 223973
+
+248. Ugd: UDP-glucose 6-dehydrogenase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG1004 ID: 223936
+
+249. AmiC: N-acetylmuramoyl-L-alanine amidase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG0860 ID: 223929
+
+250. RfaF: ADP-heptose:LPS heptosyltransferase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG0859 ID: 223928
+
+251. AcrA: Multidrug efflux pump subunit AcrA (membrane-fusion protein) [Cell wall/membrane/envelope biogenesis, Defense mechanisms]
+
+Accession: COG0845 ID: 223914
+
+252. CpsB: Mannose-1-phosphate guanylyltransferase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG0836 ID: 223906
+
+253. Lnt: Apolipoprotein N-acyltransferase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG0815 ID: 223885
+
+254. MurB: UDP-N-acetylenolpyruvoylglucosamine reductase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG0812 ID: 223882
+
+255. TonB: Periplasmic protein TonB, links inner and outer membranes [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG0810 ID: 223880
+
+256. RlpA: Rare lipoprotein A, peptidoglycan hydrolase digesting "naked" glycans, contains C-terminal SPOR domain [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG0797 ID: 223868
+
+257. MurI: Glutamate racemase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG0796 ID: 223867
+
+258. LptF: Lipopolysaccharide export LptBFGC system, permease protein LptF [Cell wall/membrane/envelope biogenesis, Cell motility]
+
+Accession: COG0795 ID: 223866
+
+259. GutQ: D-arabinose 5-phosphate isomerase GutQ [Carbohydrate transport and metabolism, Cell wall/membrane/envelope biogenesis]
+
+Accession: COG0794 ID: 223865
+
+260. Spr: Cell wall-associated hydrolase, NlpC family [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG0791 ID: 223862
+
+261. Alr: Alanine racemase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG0787 ID: 223858
+
+262. LpxC: UDP-3-O-acyl-N-acetylglucosamine deacetylase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG0774 ID: 223845
+
+263. MurC: UDP-N-acetylmuramate-alanine ligase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG0773 ID: 223844
+
+264. MurD: UDP-N-acetylmuramoylalanine-D-glutamate ligase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG0771 ID: 223842
+
+265. MurF: UDP-N-acetylmuramyl pentapeptide synthase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG0770 ID: 223841
+
+266. MurE: UDP-N-acetylmuramyl tripeptide synthase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG0769 ID: 223840
+
+267. FtsI: Cell division protein FtsI/penicillin-binding protein 2 [Cell cycle control, cell division, chromosome partitioning, Cell wall/membrane/envelope biogenesis]
+
+Accession: COG0768 ID: 223839
+
+268. MlaE: ABC-type transporter Mla maintaining outer membrane lipid asymmetry, permease component MlaE [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG0767 ID: 223838
+
+269. MurA: UDP-N-acetylglucosamine enolpyruvyl transferase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG0766 ID: 223837
+
+270. LpxB: Lipid A disaccharide synthetase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG0763 ID: 223834
+
+271. YidD: Membrane-anchored protein YidD, putatitve component of membrane protein insertase Oxa1/YidC/SpoIIIJ [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG0759 ID: 223830
+
+272. MrcB: Membrane carboxypeptidase (penicillin-binding protein) [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG0744 ID: 223815
+
+273. MltE: Soluble lytic murein transglycosylase and related regulatory proteins (some contain LysM/invasin domains) [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG0741 ID: 223812
+
+274. NlpD: Murein DD-endopeptidase MepM and murein hydrolase activator NlpD, contain LysM domain [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG0739 ID: 223810
+
+275. TamA: Outer membrane translocation and assembly module TamA [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG0729 ID: 223801
+
+276. MviN: Peptidoglycan biosynthesis protein MviN/MurJ, putative lipid II flippase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG0728 ID: 223800
+
+277. CDA1: Peptidoglycan/xylan/chitin deacetylase, PgdA/CDA1 family [Carbohydrate transport and metabolism, Cell wall/membrane/envelope biogenesis]
+
+Accession: COG0726 ID: 223798
+
+278. MurG: UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG0707 ID: 223779
+
+279. YidC: Membrane protein insertase Oxa1/YidC/SpoIIIJ, required for the localization of integral membrane proteins [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG0706 ID: 223778
+
+280. Lgt: Prolipoprotein diacylglyceryltransferase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG0682 ID: 223754
+
+281. WecC: UDP-N-acetyl-D-mannosaminuronate dehydrogenase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG0677 ID: 223749
+
+282. MscS: Small-conductance mechanosensitive channel [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG0668 ID: 223740
+
+283. TagD: Glycerol-3-phosphate cytidylyltransferase, cytidylyltransferase family  [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG0615 ID: 223688
+
+284. LspA: Lipoprotein signal peptidase [Cell wall/membrane/envelope biogenesis, Intracellular trafficking, secretion, and vesicular transport]
+
+Accession: COG0597 ID: 223670
+
+285. Glf: UDP-galactopyranose mutase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG0562 ID: 223636
+
+286. Rfe: UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG0472 ID: 223548
+
+287. SpoVK: AAA+-type ATPase, SpoVK/Ycf46/Vps4 family [Cell wall/membrane/envelope biogenesis, Cell cycle control, cell division, chromosome partitioning, Signal transduction mechanisms]
+
+Accession: COG0464 ID: 223540
+
+288. WcaA: Glycosyltransferase involved in cell wall bisynthesis [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG0463 ID: 223539
+
+289. WcaG: Nucleoside-diphosphate-sugar epimerase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG0451 ID: 223528
+
+290. GlmS: Glucosamine 6-phosphate synthetase, contains amidotransferase and phosphosugar isomerase domains [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG0449 ID: 223526
+
+291. RfaB: Glycosyltransferase involved in cell wall bisynthesis [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG0438 ID: 223515
+
+292. WecE: dTDP-4-amino-4,6-dideoxygalactose transaminase  [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG0399 ID: 223476
+
+293. WecB: UDP-N-acetylglucosamine 2-epimerase [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG0381 ID: 223458
+
+294. DapA: Dihydrodipicolinate synthase/N-acetylneuraminate lyase [Amino acid transport and metabolism, Cell wall/membrane/envelope biogenesis]
+
+Accession: COG0329 ID: 223406
+
+295. PRK10955: envelope stress response regulator transcription factor CpxR
+
+Accession: PRK10955 ID: 182864
+
+296. PRK10697: envelope stress response membrane protein PspC
+
+Accession: PRK10697 ID: 182656
+
+297. cpxP: cell-envelope stress modulator CpxP
+
+Accession: PRK10363 ID: 182410
+
+298. pspG: envelope stress response protein PspG
+
+Accession: PRK09459 ID: 181875
+
+299. 3a0901s02IAP34: GTP-binding protein (Chloroplast Envelope Protein Translocase)
+[Transport and binding proteins, Nucleosides, purines and pyrimidines]
+Accession: TIGR00991 ID: 130064
+
+300. HCV_env: Hepatitis C virus envelope glycoprotein E1
+
+Accession: pfam01539 ID: 110536
+
+301. Ebola_HIV-1-like_HR1-HR2: heptad repeat 1-heptad repeat 2 region (ectodomain) of the transmembrane subunit of various endogenous retroviruses (ERVs) and infectious retroviruses, including Ebola virus and human immunodeficiency virus type 1 (HIV-1)
+This domain superfamily spans both heptad repeats of the glycoprotein (gp)/transmembrane subunit of ...
+Accession: cl02885 ID: 383161
+
+302. PAAR_like: proline-alanine-alanine-arginine (PAAR) repeat superfamily
+This domain is found in the PAAR (proline-alanine-alanine-arginine) repeat superfamily, where it for...
+Accession: cl21497 ID: 389773
+
+303. RRM_SF: RNA recognition motif (RRM) superfamily
+RRM, also known as RBD (RNA binding domain) or RNP (ribonucleoprotein domain), is a highly abundant ...
+Accession: cl17169 ID: 388407
+
+304. Ig: Immunoglobulin domain
+Immunoglobulin (Ig) domain found in the Ig superfamily. The Ig superfamily is a heterogenous group o...
+Accession: cl11960 ID: 386229
+
+305. Tubulin_FtsZ_Cetz-like: Tubulin protein family of FtsZ and CetZ-like
+This family includes tubulin alpha-, beta-, gamma-, delta-, epsilon, and zeta-tubulins as well as Ft...
+Accession: cl10017 ID: 385656
+
+306. Glycosyltransferase_GTB-type: glycosyltransferase family 1 and related proteins with GTB topology
+Glycosyltransferases catalyze the transfer of sugar moieties from activated donor molecules to speci...
+Accession: cl10013 ID: 385653
+
+307. Sortase: Sortase domain
+Sortases are cysteine transpeptidases, mainly found in Gram-positive bacteria, which either anchor s...
+Accession: cl09098 ID: 385412
+
+308. PKc_like: Protein Kinases, catalytic domain
+The protein kinase superfamily is mainly composed of the catalytic domains of serine/threonine-speci...
+Accession: cl21453 ID: 389743
+
+309. Glyco_tranf_GTA_type: Glycosyltransferase family A (GT-A) includes diverse families of glycosyl transferases with a common GT-A type structural fold
+Glycosyltransferases (GTs) are enzymes that synthesize oligosaccharides, polysaccharides, and glycoc...
+Accession: cl11394 ID: 386096
+
+310. Herpes_UL1: Herpesvirus glycoprotein L
+This family consists of several herpesvirus glycoprotein L or UL1 proteins. Glycoprotein L is known ...
+Accession: cl29975 ID: 392246
+
+311. LEM: LEM (Lap2/Emerin/Man1) domain found in emerin, lamina-associated polypeptide 2 (LAP2), inner nuclear membrane protein Man1 and similar proteins
+The family corresponds to a group of inner nuclear membrane proteins containing LEM domain. Emerin o...
+Accession: cl02649 ID: 383069
+
+312. deltaCoV_M: deltacoronavirus Membrane (or Matrix) protein
+This subfamily contains the Membrane (M) protein of deltacoronaviruses including porcine deltacorona...
+Accession: cd21594 ID: 394857
+
+313. batCoV_HKU9-like_M: Membrane (or Matrix) protein from bat coronavirus HKU9 and related betacoronaviruses in the D lineage
+This group contains the Membrane (M) protein of Rousettus bat coronavirus HKU9, and similar proteins...
+Accession: cd21570 ID: 394856
+
+314. SARS-like-CoV_M: Membrane (or Matrix) protein from Severe acute respiratory syndrome (SARS) coronavirus, SARS-CoV-2, and related betacoronaviruses in the B lineage
+This group contains the Membrane (M) protein of Severe acute respiratory syndrome coronavirus (SARS-...
+Accession: cd21569 ID: 394855
+
+315. HCoV-like_M: Membrane (or Matrix) protein from human coronavirus and related betacoronaviruses in the A lineage
+This group contains the Membrane (M) protein of human coronaviruses (HCoVs), HCoV-OC43 and HCoV-HKU1...
+Accession: cd21568 ID: 394854
+
+316. MERS-like-CoV_M: Membrane (or Matrix) protein from Middle East respiratory syndrome-related coronavirus and related betacoronaviruses in the C lineage
+This group contains the Membrane (M) protein of Middle East respiratory syndrome (MERS)-related CoV,...
+Accession: cd21567 ID: 394853
+
+317. gammaCoV_M: gammacoronavirus Membrane (or Matrix) protein
+This subfamily contains the Membrane (M) protein of gammacoronavirus including avian infectious bron...
+Accession: cd21566 ID: 394852
+
+318. betaCoV_M: betacoronavirus Membrane (or Matrix) protein
+This subfamily contains the Membrane (M) protein of betacoronaviruses including the M proteins from ...
+Accession: cd21565 ID: 394851
+
+319. alphaCoV_M: alphacoronavirus Membrane (or Matrix) protein
+This subfamily contains the Membrane (M) protein of alphacoronaviruses including human coronaviruses...
+Accession: cd21564 ID: 394850
+
+320. CoV_M: coronavirus Membrane (or Matrix) protein
+This family contains the Membrane (M) protein of coronaviruses (CoVs) including three highly pathoge...
+Accession: cd21529 ID: 394849
+
+321. P-loop_NTPase: P-loop containing Nucleoside Triphosphate Hydrolases
+Members of the P-loop NTPase domain superfamily are characterized by a conserved nucleotide phosphat...
+Accession: cl38936 ID: 393306
+
+322. VirB10_like: VirB10 and similar proteins form part of core complex in Type IV secretion system (T4SS)
+This family contains VirB10, a component of the type IV secretion system (T4SS) and its homologs, in...
+Accession: cl28929 ID: 391952
+
+323. Lysin-Sp18
+Sp18 and Lysin from Archaegastropoda (marine mollusks of the families Halotidae and Trochidae) sperm...
+Accession: cl23877 ID: 390151
+
+324. LolA_fold-like: family containing periplasmic molecular chaperone LolA, the outer membrane lipoprotein receptor LolB and the periplasmic protein RseB
+This family contains the periplasmic molecular chaperone LolA, the outer membrane lipoprotein recept...
+Accession: cl19192 ID: 388526
+
+325. Imelysin-like: imelysin also called Peptidase M75
+This family includes insulin-cleaving membrane protease (imelysin, ICMP), imelysin-like protein (IPP...
+Accession: cl09159 ID: 385424
+
+326. Herpes_glycop: Herpesvirus glycoprotein M
+The herpesvirus glycoprotein M (gM) is an integral membrane protein predicted to contain 8 transmemb...
+Accession: cl28128 ID: 332949
+
+327. FTSW_RODA_SPOVE: Cell cycle protein
+This entry includes the following members; FtsW, RodA, SpoVE
+Accession: cl00511 ID: 294347
+
+328. Baculo_p74_N: Baculoviridae P74 N-terminal
+This domain is found at the N-terminus of P74 occlusion-derived virus (ODV) envelope proteins which ...
+Accession: pfam08404 ID: 285589
+
+329. batCoV-HKU9-like_Spike_S1_NTD: N-terminal domain of the S1 subunit of the Spike (S) protein from Rousettus bat coronavirus HKU9 and related betacoronaviruses in the D lineage
+This subfamily contains the N-terminal domain (NTD) of the S1 subunit of the Spike (S) proteins from...
+Accession: cd21627 ID: 394953
+
+330. MERS-CoV-like_Spike_S1_NTD: N-terminal domain of the S1 subunit of the Spike (S) protein from Middle East respiratory syndrome-related coronavirus and related betacoronaviruses in the C lineage
+This subfamily contains the N-terminal domain (NTD) of the S1 subunit of the Spike (S) proteins from...
+Accession: cd21626 ID: 394952
+
+331. MHV-like_Spike_S1_NTD: N-terminal domain of the S1 subunit of the Spike (S) protein from murine hepatitis virus and related betacoronaviruses in the A lineage
+This subfamily contains the N-terminal domain (NTD) of the S1 subunit of the Spike (S) proteins from...
+Accession: cd21625 ID: 394951
+
+332. SARS-CoV-like_Spike_S1_NTD: N-terminal domain of the S1 subunit of the Spike (S) protein from Severe acute respiratory syndrome coronavirus and related betacoronaviruses in the B lineage
+This subfamily contains the N-terminal domain (NTD) of the S1 subunit of the Spike (S) proteins from...
+Accession: cd21624 ID: 394950
+
+333. CoV_Spike_S1_NTD: N-terminal domain of the S1 subunit of coronavirus Spike (S) proteins
+This family contains the N-terminal domain (NTD) of the S1 subunit of coronavirus (CoV) Spike (S) pr...
+Accession: cd21527 ID: 394949
+
+334. HEV_Spike_S1_RBD: receptor-binding domain of the S1 subunit of the Spike (S) protein from porcine hemagglutinating encephalomyelitis virus
+This group contains the receptor-binding domain (RBD) of the S1 subunit of the spike (S) protein fro...
+Accession: cd21508 ID: 394835
+
+335. bat_HKU4-like_Spike_S1_RBD: receptor-binding domain of the S1 subunit of the Spike (S) protein from Tylonycteris bat coronavirus HKU4 and similar proteins
+This group contains the receptor-binding domain (RBD) of the S1 subunit of the spike (S) protein fro...
+Accession: cd21487 ID: 394834
+
+336. human_MERS-CoV_Spike_S1_RBD: receptor-binding domain of the S1 subunit of the Spike (S) protein from human Middle East respiratory syndrome coronavirus
+This group contains the receptor-binding domain (RBD) of the S1 subunit of the spike (S) protein fro...
+Accession: cd21486 ID: 394833
+
+337. HCoV-OC43-like_Spike_S1_RBD: receptor-binding domain of the S1 subunit of the Spike (S) protein from human coronavirus OC43 and related proteins
+This group contains the receptor-binding domain (RBD) of the S1 subunit of the spike (S) protein fro...
+Accession: cd21485 ID: 394832
+
+338. MHV-like_Spike_S1_RBD: receptor-binding domain of the S1 subunit of the Spike (S) protein from mouse hepatitis virus and other rodent coronaviruses
+This group contains the receptor-binding domain (RBD) of the S1 subunit of the spike (S) protein fro...
+Accession: cd21484 ID: 394831
+
+339. HKU1_N1_CoV_Spike_S1_RBD: receptor-binding domain of the S1 subunit of the Spike (S) protein from human coronavirus HKU1, isolate N1
+This group contains the receptor-binding domain (RBD) of the S1 subunit of the spike (S) protein fro...
+Accession: cd21483 ID: 394830
+
+340. HKU1_N5-like_CoV_Spike_S1_RBD: receptor-binding domain of the S1 subunit of the Spike (S) protein from human coronavirus HKU1, isolate N5 and isolate N2
+This group contains the receptor-binding domain (RBD) of the S1 subunit of the spike (S) protein fro...
+Accession: cd21482 ID: 394829
+
+341. SARS-CoV_Spike_S1_RBD: receptor-binding domain of the S1 subunit of severe acute respiratory syndrome-related coronavirus Spike (S) protein
+This group contains the receptor-binding domain of the S1 subunit of the spike (S) protein from seve...
+Accession: cd21481 ID: 394828
+
+342. SARS-CoV-2_Spike_S1_RBD: receptor-binding domain of the S1 subunit of severe acute respiratory syndrome coronavirus 2 Spike (S) protein
+This group contains the receptor-binding domain of the S1 subunit of the spike (S) protein from high...
+Accession: cd21480 ID: 394827
+
+343. MERS-like_CoV_Spike_S1_RBD: receptor-binding domain of the S1 subunit of the Spike (S) protein from Middle East respiratory syndrome coronavirus
+This family contains the receptor-binding domain (RBD) of the S1 subunit of the spike (S) protein fr...
+Accession: cd21479 ID: 394826
+
+344. HKU1-like_CoV_Spike_S1_RBD: receptor-binding domain of the S1 subunit of the Spike (S) protein from human coronavirus HKU1 and related coronaviruses
+This family contains the receptor-binding domain (RBD) of the S1 subunit of the spike (S) protein fr...
+Accession: cd21478 ID: 394825
+
+345. SARS-CoV-like_Spike_S1_RBD: receptor-binding domain of the S1 subunit of severe acute respiratory syndrome-related coronavirus Spike (S) protein and similar proteins
+This subfamily contains the receptor-binding domain of the S1 subunit of coronavirus (CoV) spike (S)...
+Accession: cd21477 ID: 394824
+
+346. CoV_Spike_S1_RBD: receptor-binding domain of the S1 subunit of coronavirus spike (S) proteins
+This family contains the receptor-binding domain (RBD) of the S1 subunit of coronavirus (CoV) spike ...
+Accession: cd21470 ID: 394823
+
+347. phosphohexomutase
+The alpha-D-phosphohexomutase superfamily includes several related enzymes that catalyze a reversibl...
+Accession: cl38939 ID: 393309
+
+348. Herpes_glycoH_C: Herpesvirus glycoprotein H C-terminal domain
+Herpesvirus glycoprotein H (gH) is a virion associated envelope glycoprotein. Complex formation betw...
+Accession: cl29046 ID: 391969
+
+349. Herpes_glycop_D: Herpesvirus glycoprotein D/GG/GX domain
+This domain is found in several Herpes viruses glycoproteins. This is a family includes glycoprotein...
+Accession: cl27544 ID: 391759
+
+350. PrsW-protease: Protease prsW family
+This is a family of putative peptidases, possibly belonging to the MEROPS M79 family. PrsW, appears ...
+Accession: cl23838 ID: 390122
+
+351. UBA_like_SF: UBA domain-like superfamily
+The ubiquitin-associated (UBA) domain-like superfamily contains alpha-helical structural homology ub...
+Accession: cl21463 ID: 389751
+
+352. HAD_like: Haloacid Dehalogenase-like Hydrolases
+The haloacid dehalogenase (HAD) superfamily includes carbon and phosphorus hydrolases such as 2-halo...
+Accession: cl21460 ID: 389748
+
+353. AAT_I
+Aspartate aminotransferase (AAT) superfamily (fold type I) of pyridoxal phosphate (PLP)-dependent en...
+Accession: cl18945 ID: 388495
+
+354. LPLAT: Lysophospholipid acyltransferases (LPLATs) of glycerophospholipid biosynthesis
+Lysophospholipid acyltransferase (LPLAT) superfamily members are acyltransferases of de novo and rem...
+Accession: cl17185 ID: 388412
+
+355. TIC20: Chloroplast import apparatus Tic20-like
+Chloroplast function requires the import of nuclear encoded proteins from the cytoplasm across the c...
+Accession: cl15935 ID: 387700
+
+356. PLDc_SF: Catalytic domain of phospholipase D superfamily proteins
+Catalytic domain of phospholipase D (PLD) superfamily proteins. The PLD superfamily is composed of a...
+Accession: cl15239 ID: 387583
+
+357. YjgP_YjgQ: Predicted permease YjgP/YjgQ family
+Members of this family are predicted integral membrane proteins of unknown function. They are about ...
+Accession: cl12074 ID: 386264
+
+358. EFh
+EF-hand, calcium binding motif; A diverse superfamily of calcium sensors and calcium signal modulato...
+Accession: cl08302 ID: 385324
+
+359. Tic22: Tic22-like family
+The preprotein translocation at the inner envelope membrane of chloroplasts so far involves five pro...
+Accession: cl04468 ID: 383738
+
+360. CemA: CemA family
+Members of this family are probable integral membrane proteins. Their molecular function is unknown....
+Accession: cl03855 ID: 383495
+
+361. Lyz-like: lysozyme-like domains
+This family contains several members, including soluble lytic transglycosylases (SLT), goose egg-whi...
+Accession: cl00222 ID: 381874
+
+362. nt_trans: nucleotidyl transferase superfamily
+nt_trans (nucleotidyl transferase) This superfamily includes the class I amino-acyl tRNA synthetases...
+Accession: cl00015 ID: 381756
+
+363. PrsW-protease: Protease prsW family
+This is a family of putative peptidases, possibly belonging to the MEROPS M79 family. PrsW, appears ...
+Accession: pfam13367 ID: 379143
+
+364. TssD: Hemolysin coregulated protein Hcp (TssD)
+T6SSs are toxin delivery systems. It is a multiprotein complex requiring numerous core proteins (Tss...
+Accession: pfam17642 ID: 375224
+
+365. MLIP: Muscular LMNA-interacting protein
+MLIP is a Muscle-enriched A-type Lamin-interacting Protein, an innovation of amniotes, and is expres...
+Accession: pfam15274 ID: 373704
+
+366. BBP1_N: Spindle pole body component BBP1, Mps2-binding protein
+This N-terminal domain of BBP1, a spindle pole body component, interacts directly, though transientl...
+Accession: pfam15271 ID: 373701
+
+367. Nup160: Nucleoporin Nup120/160
+Nup120 is conserved from fungi to plants to humans, and is homologous with the Nup160 of vertebrates...
+Accession: pfam11715 ID: 371688
+
+368. Egg_lysin: Egg lysin (Sperm-lysin)
+Egg lysin creates a hole in the envelope of the egg thereby allowing the sperm to pass through the e...
+Accession: pfam01303 ID: 366569
+
+369. Peptidase_M48_M56: Peptidases M48 (Ste24 endopeptidase or htpX homolog) and M56 (in MecR1 and BlaR1), integral membrane metallopeptidases
+This family contains peptidase M48 (also known as Ste24 peptidase, Ste24p, Ste24 endopeptidase, a-fa...
+Accession: cl28898 ID: 333718
+
+370. PA
+PA: Protease-associated (PA) domain. The PA domain is an insert domain in a diverse fraction of prot...
+Accession: cl28883 ID: 333703
+
+371. PHA03178
+UL43 envelope protein; Provisional
+Accession: cl28609 ID: 333429
+
+372. BDV_M: ssRNA-binding matrix protein of Bornaviridae
+BDV_M is a family of matrix proteins from negative-strand Bornaviridae viruses. Its most stable olig...
+Accession: pfam16520 ID: 293128
+
+373. outer_YhbN_LptA: lipopolysaccharide transport periplasmic protein LptA
+Members of this protein family include LptA (previously called YhbN). It was shown to be an essentia...
+Accession: TIGR03002 ID: 274384
+
+374. glmU: UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase
+This protein is a bifunctional enzyme, GlmU, which catalyzes last two reactions in the four-step pat...
+Accession: TIGR01173 ID: 273482
+
+375. STKc_VRK: Catalytic domain of the Serine/Threonine protein kinase, Vaccinia Related Kinase
+STKs catalyze the transfer of the gamma-phosphoryl group from ATP to serine/threonine residues on pr...
+Accession: cd14015 ID: 270917
+
+376. LEM_LEMD2: LEM (Lap2/Emerin/Man1) domain found in LEM domain-containing protein 2 (LEM2)
+This CD corresponds to the LEM domain that is responsible for the interaction with chromatin protein...
+Accession: cd12941 ID: 240588
+
+377. LEM: LEM (Lap2/Emerin/Man1) domain found in emerin, lamina-associated polypeptide 2 (LAP2), inner nuclear membrane protein Man1 and similar proteins
+The family corresponds to a group of inner nuclear membrane proteins containing LEM domain. Emerin o...
+Accession: cd12934 ID: 240585
+
+378. S-100
+S-100: S-100 domain, which represents the largest family within the superfamily of proteins carrying...
+Accession: cd00213 ID: 238131
+
+379. RSV-like_HR1-HR2: heptad repeat 1-heptad repeat 2 region (ectodomain) of the transmembrane subunit of Rous sarcoma virus (RSV), and related domains
+This domain subfamily spans both heptad repeats of the glycoprotein (gp)/transmembrane subunit of va...
+Accession: cd09949 ID: 197372
+
+380. embe-CoV_Protein-I_like: BECV protein I and related Embecovirus proteins
+This subfamily includes protein I (also known as accessory protein N2) from bovine enteritic coronav...
+Accession: cd21662 ID: 394943
+
+381. merbe_CoV_ORF8b-like: MERS-CoV ORF8b protein and related Merbecovirus proteins
+This subfamily includes the ORF8b accessory protein from Middle East respiratory syndrome-related co...
+Accession: cd21661 ID: 394942
+
+382. embe-merbe_CoV_ORF8b_protein-I-like: MERS-CoV ORF8b, BECV protein I, and related Embecovirus and Merbecovirus proteins
+This family includes the ORF8b accessory protein from Middle East respiratory syndrome-related coron...
+Accession: cd21654 ID: 394941
+
+383. batCoV-HKU9_NS7b: NS7b protein from Rousettus bat coronavirus HKU9 and related betacoronaviruses in the D lineage
+This model represents the NS7b protein of Rousettus bat coronavirus (CoV) HKU9 and related proteins ...
+Accession: cd21644 ID: 394940
+
+384. ORF7b_SARS-CoV-like: Severe Acute Respiratory Syndrome coronavirus structural accessory protein ORF7b and related proteins
+This group contains the ORF7b, also called NS7b, of Severe Acute Respiratory Syndrome coronaviruses ...
+Accession: cd21635 ID: 394939
+
+385. ORF7b_SARS-CoV-2: Structural accessory protein ORF7b of Severe Acute Respiratory Syndrome coronavirus 2 and similar proteins
+This group contains the ORF7b, also called NS7b, of Severe Acute Respiratory Syndrome Coronavirus 2 ...
+Accession: cd21623 ID: 394938
+
+386. ORF7b_SARS_bat-CoV-like: Severe Acute Respiratory Syndrome coronavirus structural accessory protein ORF7b and similar proteins from related betacoronaviruses in the B lineage
+This family contains the structural accessory protein ORF7b, also called NS7b, of Severe Acute Respi...
+Accession: cd21598 ID: 394937
+
+387. ORF7a_SARS-CoV-like: Severe Acute Respiratory Syndrome coronavirus (SARS-CoV-2) structural accessory protein ORF7a and similar proteins from betacoronaviruses in the subgenera Sarbecovirus (B lineage)
+This group contains the structural accessory protein ORF7a, also called NS7a, of Severe Acute Respir...
+Accession: cd21685 ID: 394936
+
+388. ORF7a_SARS-CoV-2-like: Severe Acute Respiratory Syndrome coronavirus 2 (SARS-CoV-2) structural accessory protein ORF7a and a bat coronavirus (BatCoV RaTG13) from related betacoronaviruses in the subgenera Sarbecovirus (B lineage)
+This group contains the structural accessory protein ORF7a, also called NS7a, of Severe Acute Respir...
+Accession: cd21684 ID: 394935
+
+389. ORF7a_SARS-CoV-like: Severe Acute Respiratory Syndrome coronavirus (SARS-CoV) structural accessory protein ORF7a and similar proteins from related betacoronaviruses in the subgenera Sarbecovirus (B lineage)
+This family contains the structural accessory protein ORF7a, also called NS7a, of Severe Acute Respi...
+Accession: cd21663 ID: 394934
+
+390. NS7a_deltaCoV_HKU30-like: accessory protein NS7a found in deltacoronavirus, including avian coronavirus HKU30 and related coronaviruses
+This group includes the accessory protein NS7a from Quail deltacoronavirus (QdCoV) UAE-HKU30 and spa...
+Accession: cd21639 ID: 394933
+
+391. NS7a_deltaCoV_HKU16-like: accessory protein NS7a found in deltacoronavirus, including avian coronavirus HKU16 and related coronaviruses
+This group includes the accessory protein NS7a from White-eye coronavirus HKU16, Falcon coronavirus ...
+Accession: cd21638 ID: 394932
+
+392. NS7_PDCoV: Porcine deltacoronavirus (PDCoV) accessory protein NS7
+This group includes the accessory protein NS7 found in Porcine coronavirus HKU15. There are five ess...
+Accession: cd21637 ID: 394931
+
+393. deltaCoV_NS7_NS7a: deltacoronavirus accessory protein NS7 and NS7a
+This family includes the accessory protein NS7 found in deltacoronaviruses from the Buldecovirus sub...
+Accession: cd21628 ID: 394930
+
+394. NS6_deltaCoV: deltacoronavirus accessory protein NS6
+This family includes the accessory protein NS6 from deltacoronaviruses such as porcine coronavirus H...
+Accession: cd21629 ID: 394929
+
+395. MERS-CoV-like_ORF5: Non-structural protein ORF5 from Middle East respiratory syndrome-related coronavirus and related betacoronaviruses in the C lineage
+This model represents the non-structural protein ORF5 from Middle East respiratory syndrome-related ...
+Accession: cd21645 ID: 394928
+
+396. ORF4b_HKU5-CoV: accessory protein ORF4b, also known as non-structural protein 3c (NS3c), of Pipistrellus bat coronavirus HKU5 and similar proteins
+This model represents the accessory protein 4b, ORF4b (also called NS3c protein) of Pipistrellus bat...
+Accession: cd21653 ID: 394927
+
+397. ORF4b_HKU4-CoV: accessory protein ORF4b, also known as non-structural protein 3c (NS3c), of Tylonycteris bat coronavirus HKU4 and similar proteins
+This model represents the accessory protein 4b, ORF4b (also called NS3c protein) of Tylonycteris bat...
+Accession: cd21652 ID: 394926
+
+398. ORF4b_MERS-CoV-like: accessory protein ORF4b, also known as non-structural protein 3c (NS3c) in Middle East respiratory syndrome (MERS)-related CoV
+This model represents the accessory protein 4b, ORF4b (also called NS3c protein) of Middle East resp...
+Accession: cd21651 ID: 394925
+
+399. ORF4b_NS3c-betaCoV: accessory protein ORF4b, also known as non-structural protein 3c (NS3c), of betacoronaviruses in the C lineage
+This model represents the accessory protein 4b, ORF4b (also called NS3c protein) of Middle East resp...
+Accession: cd21647 ID: 394924
+
+400. SARS-CoV_ORF3b: accessory protein ORF3b of severe acute respiratory syndrome-associated coronavirus
+This model represents the accessory protein ORF3b of Severe acute respiratory syndrome-associated co...
+Accession: cd21649 ID: 394923
+
+401. SARS-CoV-like_ORF3a: accessory protein ORF3a of severe acute respiratory syndrome-associated coronavirus and similar proteins from related betacoronavirus
+This model represents the accessory protein ORF3a of Severe acute respiratory syndrome-associated co...
+Accession: cd21648 ID: 394922
+
+402. P-loop_NTPase: P-loop containing Nucleoside Triphosphate Hydrolases
+Members of the P-loop NTPase domain superfamily are characterized by a conserved nucleotide phosphat...
+Accession: cl38985 ID: 393355
+
+403. AmyAc_family: Alpha amylase catalytic domain family
+The Alpha-amylase family comprises the largest family of glycoside hydrolases (GH), with the majorit...
+Accession: cl38930 ID: 393300
+
+404. CobN_like: CobN subunit of cobaltochelatase, bchH and chlH subunits of magnesium chelatases, and similar proteins
+Cobaltochelatase is a complex enzyme that catalyzes the insertion of cobalt into hydrogenobyrinic ac...
+Accession: cl29847 ID: 392216
+
+405. TolB: Periplasmic component of the Tol biopolymer transport system [Intracellular trafficking, secretion, and vesicular transport]
+Members of this protein family are the TolB periplasmic protein of Gram-negative bacteria. TolB is p...
+Accession: cl29726 ID: 392172
+
+406. Transgly: Transglycosylase
+The penicillin-binding proteins are bifunctional proteins consisting of transglycosylase and transpe...
+Accession: cl29529 ID: 392120
+
+407. MFS: Major Facilitator Superfamily
+The Major Facilitator Superfamily (MFS) is a large and diverse group of secondary transporters that ...
+Accession: cl28910 ID: 391944
+
+408. BACK: BACK (BTB and C-terminal Kelch) domain
+The BACK domain is found in architectures C-terminal to a BTB domain, in a diverse set of architectu...
+Accession: cl28903 ID: 391941
+
+409. GLF: UDP-galactopyranose mutase
+This enzyme is involved in the conversion of UDP-GALP into UDP-GALF through a 2-keto intermediate. I...
+Accession: cl27287 ID: 391719
+
+410. T7SS_ESX1_EccB: Type VII secretion system ESX-1, transport TM domain B
+EccB is a family of largely Gram-positive bacterial transmembrane componenets of the type VII secret...
+Accession: cl27073 ID: 391675
+
+411. VPEP: PEP-CTERM motif
+This motif has been identified in a wide range of bacteria at their C-terminus. It has been suggeste...
+Accession: cl26875 ID: 391623
+
+412. FUSC-like: FUSC-like inner membrane protein yccS
+This family has similarities to the fusaric acid resistance protein family. The proteins are lodged ...
+Accession: cl26307 ID: 391503
+
+413. RseA_N: N-terminal domain of RseA
+This family contains the cytoplasmic (N-terminal) domain of RseA, the transmembrane anti-sigma-E fac...
+Accession: cl25432 ID: 391183
+
+414. CBP_BcsF: Cellulose biosynthesis protein BcsF
+CBP_BcsF is a family of bacterial cellulose biosynthesis proteins. Cellulose is necessary for biofil...
+Accession: cl24004 ID: 390228
+
+415. S-layer: S-layer protein
+Archaeal S-layer proteins consist of two copies of this domain.
+Accession: cl23990 ID: 390218
+
+416. Gram_pos_anchor: LPXTG cell wall anchor motif
+This model describes the LPXTG motif-containing region found at the C-terminus of many surface prote...
+Accession: cl23989 ID: 390217
+
+417. LpxK: Tetraacyldisaccharide-1-P 4&apos;-kinase
+This family consists of tetraacyldisaccharide-1-P 4'-kinase also known as Lipid-A 4'-kinase or Lipid...
+Accession: cl23778 ID: 390080
+
+418. F5_F8_type_C: F5/8 type C domain
+This domain is also known as the discoidin (DS) domain family.
+Accession: cl23730 ID: 390053
+
+419. T2SSC: Type II secretion system protein C
+This is the greater N-terminal region of GspC-type proteins. GspC proteins form part of the sophisti...
+Accession: cl21712 ID: 389880
+
+420. OstA: OstA-like protein
+This family of proteins are mostly uncharacterized. However the family does include E. coli OstA tha...
+Accession: cl21541 ID: 389800
+
+421. TolB_N: TolB amino-terminal domain
+TolB is an essential periplasmic component of the tol-dependent translocation system. This function ...
+Accession: cl21526 ID: 389789
+
+422. PEMT: Phospholipid methyltransferase
+The S. cerevisiae phospholipid methyltransferase (EC:2.1.1.16) has a broad substrate specificity of ...
+Accession: cl21511 ID: 389781
+
+423. Transpeptidase: Penicillin binding protein transpeptidase domain
+The active site serine is conserved in all members of this family.
+Accession: cl21491 ID: 389767
+
+424. OM_channels
+Porin superfamily.  These outer membrane channels share a beta-barrel structure that differ in stran...
+Accession: cl21487 ID: 389765
+
+425. cupin_like: Conserved domain found in cupin and related proteins
+A diverse protein domains superfamily which includes both metal-dependent and metal-independent enzy...
+Accession: cl21464 ID: 389752
+
+426. TIM: TIM-like beta/alpha barrel domains
+A large family of domains similar to triose phosphate isomerase (TIM) which, in general, share an ei...
+Accession: cl21457 ID: 389746
+
+427. Periplasmic_Binding_Protein_Type_2: Type 2 periplasmic binding fold superfamily
+This evolutionary model and hierarchy represent the ligand-binding domains found in solute binding p...
+Accession: cl21456 ID: 389745
+
+428. NADB_Rossmann: Rossmann-fold NAD(P)(+)-binding proteins
+A large family of proteins that share a Rossmann-fold NAD(P)H/NAD(P)(+) binding (NADB) domain. The N...
+Accession: cl21454 ID: 389744
+
+429. Pilus_CpaD: Pilus biogenesis CpaD protein (pilus_cpaD)
+Proteins in this entry consist of a pilus biogenesis protein, CpaD, from Caulobacter, and homologs i...
+Accession: cl19894 ID: 388696
+
+430. NlpE: NlpE N-terminal domain
+This family represents a bacterial outer membrane lipoprotein that is necessary for signalling by th...
+Accession: cl19736 ID: 388617
+
+431. SmpA_OmlA: SmpA / OmlA family
+Lipoprotein Bacterial outer membrane lipoprotein, possibly involved in in maintaining the structural...
+Accession: cl19285 ID: 388544
+
+432. MreC: rod shape-determining protein MreC
+MreC (murein formation C) is involved in the rod shape determination in E. coli, and more generally ...
+Accession: cl19252 ID: 388540
+
+433. REC: phosphoacceptor receiver (REC) domain of response regulators (RRs) and pseudo response regulators (PRRs)
+Two-component systems (TCSs) involving a sensor and a response regulator are used by bacteria to ada...
+Accession: cl19078 ID: 388505
+
+434. CBP_GIL: GGDEF I-site like or GIL domain
+The GIL domain, for GGDEF I-site like domain, is a c-di-GMP binding domain on the BcsE proteins of e...
+Accession: cl17862 ID: 388454
+
+435. RING_Ubox: The superfamily of RING finger (Really Interesting New Gene) domain and U-box domain
+RING finger is a specialized type of Zn-finger of 40 to 60 residues that binds two atoms of zinc. It...
+Accession: cl17238 ID: 388418
+
+436. DAHP_synth_1: DAHP synthetase I family
+Members of this family catalyze the first step in aromatic amino acid biosynthesis from chorismate. ...
+Accession: cl17225 ID: 388417
+
+437. NAT_SF: N-Acyltransferase superfamily: Various enyzmes that characteristicly catalyze the transfer of an acyl group to a substrate
+NAT (N-Acyltransferase) is a large superfamily of enzymes that mostly catalyze the transfer of an ac...
+Accession: cl17182 ID: 388411
+
+438. AdoMet_MTases
+S-adenosylmethionine-dependent methyltransferases (SAM or AdoMet-MTase), class I;  AdoMet-MTases are...
+Accession: cl17173 ID: 388410
+
+439. PH-like: Pleckstrin homology-like domain
+The PH-like family includes the PH domain, both the Shc-like and IRS-like PTB domains, the ran-bindi...
+Accession: cl17171 ID: 388408
+
+440. CE4_SF: Catalytic NodB homology domain of the carbohydrate esterase 4 superfamily
+The carbohydrate esterase 4 (CE4) superfamily mainly includes chitin deacetylases (EC 3.5.1.41), bac...
+Accession: cl15692 ID: 387662
+
+441. Caps_synth_CapC: Capsule biosynthesis CapC
+This family of proteins play a role in capsule biosynthesis. They are essential for gamma-polyglutam...
+Accession: cl14855 ID: 387398
+
+442. PgaD: PgaD-like protein
+This family includes the PgaD protein from E. coli. The homopolymer poly-beta-1,6-N-acetyl-D-glucosa...
+Accession: cl14676 ID: 387379
+
+443. MPP_superfamily: metallophosphatase superfamily, metallophosphatase domain
+Metallophosphatases (MPPs), also known as metallophosphoesterases, phosphodiesterases (PDEs), binucl...
+Accession: cl13995 ID: 387346
+
+444. EccE: Putative type VII ESX secretion system translocon, EccE
+EccE is a family of largely Gram-positive bacterial transmembrane componenets of the type VII secret...
+Accession: cl12752 ID: 386549
+
+445. CBP_BcsG: Cellulose biosynthesis protein BcsG
+CBP_BcsG is a family of bacterial cellulose biosynthesis proteins. Cellulose is necessary for biofil...
+Accession: cl11881 ID: 386222
+
+446. GT_MraY-like
+Glycosyltransferase 4 (GT4) includes both eukaryotic and prokaryotic UDP-D-N-acetylhexosamine:polypr...
+Accession: cl10571 ID: 385697
+
+447. lipocalin_FABP: lipocalin/cytosolic fatty acid-binding protein family
+Lipocalins are diverse, mainly low molecular weight extracellular proteins that bind principally sma...
+Accession: cl10502 ID: 385686
+
+448. PP-binding: Phosphopantetheine attachment site
+A 4'-phosphopantetheine prosthetic group is attached through a serine. This prosthetic group acts as...
+Accession: cl09936 ID: 385641
+
+449. Fib_succ_major: Fibrobacter succinogenes major domain (Fib_succ_major)
+This domain of about 175 to 200 amino acids is found, in from one to five copies, in over 50 protein...
+Accession: cl09821 ID: 385589
+
+450. VirE2: VirE2
+This family consists of several VirE2 proteins which seem to be specific to Agrobacterium tumefacien...
+Accession: cl09429 ID: 385463
+
+451. NTF2_like
+Nuclear transport factor 2 (NTF2-like) superfamily. This family includes members of the NTF2 family,...
+Accession: cl09109 ID: 385413
+
+452. LEM_like: LEM-like domain of lamina-associated polypeptide 2 (LAP2) and similar proteins
+LAP2, also termed thymopoietin (TP), or thymopoietin-related peptide (TPRP), is composed of isoform ...
+Accession: cl06998 ID: 384787
+
+453. TraK: TraK protein
+This family consists of several TraK proteins from Escherichia coli, Salmonella typhi and Salmonella...
+Accession: cl05878 ID: 384305
+
+454. VipB: Type VI secretion protein, EvpB/VC_A0108, tail sheath
+EvpB is a family of Gram-negative probable type VI secretion system components of the tail sheath. T...
+Accession: cl05484 ID: 384129
+
+455. Wzy_C: O-Antigen ligase
+This group of bacterial proteins is involved in the synthesis of O-antigen, a lipopolysaccharide fou...
+Accession: cl04850 ID: 383893
+
+456. Glyco_transf_WecG_TagA
+The glycosyltransferase WecG/TagA superfamily contains Escherichia coli WecG, Bacillus subtilis TagA...
+Accession: cl04270 ID: 383651
+
+457. TbpB_B_D: C-lobe and N-lobe beta barrels of Tf-binding protein B
+Bacterial lipoproteins represent a large group of specialized membrane proteins that perform a varie...
+Accession: cl03152 ID: 383262
+
+458. MurNAc-LAA
+N-acetylmuramoyl-L-alanine amidase or MurNAc-LAA (also known as peptidoglycan aminohydrolase, NAMLA ...
+Accession: cl02713 ID: 383097
+
+459. TUDOR
+Tudor domains are found in many eukaryotic organisms and have been implicated in protein-protein int...
+Accession: cl02573 ID: 383034
+
+460. DUF2391: Putative integral membrane protein (DUF2391)
+This entry is found in Nostoc sp. PCC 7120, Agrobacterium tumefaciens, Rhizobium meliloti, and Gloeo...
+Accession: cl01935 ID: 382769
+
+461. CpxP_like: CpxP component of the bacterial Cpx-two-component system and related proteins
+This family summarizes bacterial proteins related to CpxP, a periplasmic protein that forms part of ...
+Accession: cl01482 ID: 382560
+
+462. RseC_MucC: Positive regulator of sigma(E), RseC/MucC
+This bacterial family of integral membrane proteins represents a positive regulator of the sigma(E) ...
+Accession: cl01178 ID: 382417
+
+463. Slp: Outer membrane lipoprotein Slp family
+Slp superfamily members are present in the Gram-negative gamma proteobacteria Escherichia coli, whic...
+Accession: cl01164 ID: 382411
+
+464. Rieske
+Rieske domain; a [2Fe-2S] cluster binding domain commonly found in Rieske non-heme iron oxygenase (R...
+Accession: cl00938 ID: 382297
+
+465. BacA: Bacitracin resistance protein BacA
+Bacitracin resistance protein (BacA) is a putative undecaprenol kinase. BacA confers resistance to b...
+Accession: cl00858 ID: 382246
+
+466. MBOAT: MBOAT, membrane-bound O-acyltransferase family
+The MBOAT (membrane bound O-acyl transferase) family of membrane proteins contains a variety of acyl...
+Accession: cl00738 ID: 382173
+
+467. Abi: CAAX protease self-immunity
+Members of this family are probably proteases (after a isoprenyl group is attached to the Cys residu...
+Accession: cl00558 ID: 382079
+
+468. Asp_Glu_race: Asp/Glu/Hydantoin racemase
+This family contains aspartate racemase, maleate isomerases EC:5.2.1.1, glutamate racemase, hydantoi...
+Accession: cl00518 ID: 382054
+
+469. LpxC: UDP-3-O-acyl N-acetylglycosamine deacetylase
+The enzymes in this family catalyze the second step in the biosynthetic pathway for lipid A.
+Accession: cl00512 ID: 382051
+
+470. SIS
+SIS domain. SIS (Sugar ISomerase) domains are found in many phosphosugar isomerases and phosphosugar...
+Accession: cl00389 ID: 381988
+
+471. PLPDE_III: Type III Pyridoxal 5-phosphate (PLP)-Dependent Enzymes
+The fold type III PLP-dependent enzyme family is predominantly composed of two-domain proteins with ...
+Accession: cl00261 ID: 381908
+
+472. Translocase_SecB
+Preprotein translocase subunit SecB. SecB is a cytoplasmic component of the multisubunit membrane-bo...
+Accession: cl00251 ID: 381900
+
+473. Cis_IPPS: Cis (Z)-Isoprenyl Diphosphate Synthases
+Cis (Z)-Isoprenyl Diphosphate Synthases (cis-IPPS) catalyze the successive 1'-4 condensation of the ...
+Accession: cl00230 ID: 381881
+
+474. ribokinase_pfkB_like
+ribokinase/pfkB superfamily: Kinases that accept a wide variety of substrates, including carbohydrat...
+Accession: cl00192 ID: 381848
+
+475. HATPase: Histidine kinase-like ATPase domain
+This superfamily includes the histidine kinase-like ATPase (HATPase) domains of several ATP-binding ...
+Accession: cl00075 ID: 381791
+
+476. ZnMc
+Zinc-dependent metalloprotease. This super-family of metalloproteases contains two major branches, t...
+Accession: cl00064 ID: 381785
+
+477. FABP9: fatty acid binding protein 9 and similar proteins
+FABP9 (also known as testis-FABP, T-FABP, PERF15) is a major protein found in the inner acrosomal me...
+Accession: cd19471 ID: 381246
+
+478. REC_OmpR_CpxR: phosphoacceptor receiver (REC) domain of CpxR-like OmpR family response regulators
+CpxR is part of the CpxA/CpxR two-component regulatory system that mediates envelope stress response...
+Accession: cd17623 ID: 381138
+
+479. HU-CCDC81_bac_2: CCDC81-like prokaryotic HU domain 2
+Second of two HU domains found in bacterial proteins typically fused to a C-terminal transmembrane h...
+Accession: pfam18175 ID: 380133
+
+480. HU-CCDC81_bac_1: CCDC81-like prokaryotic HU domain 1
+First of two HU domains found in bacterial proteins typically fused to a C-terminal transmembrane he...
+Accession: pfam18174 ID: 380132
+
+481. TssR: Type VI secretion system, TssR
+T6SSs are toxin delivery systems. It is a multiprotein complex requiring numerous core proteins (Tss...
+Accession: pfam17643 ID: 379983
+
+482. AMIN: AMIN domain
+This N-terminal domain of various bacterial protein families is crucial for the targetting of peripl...
+Accession: pfam11741 ID: 378705
+
+483. Entericidin: Entericidin EcnA/B family
+This family consists of the entericidin antidote/toxin peptides. The entericidin locus is activated ...
+Accession: pfam08085 ID: 377961
+
+484. bPH_1: Bacterial PH domain
+This family contains many bacterial hypothetical proteins. The structures of Structure 3hsa and Stru...
+Accession: pfam08000 ID: 377953
+
+485. VipB: Type VI secretion protein, EvpB/VC_A0108, tail sheath
+EvpB is a family of Gram-negative probable type VI secretion system components of the tail sheath. T...
+Accession: pfam05943 ID: 377573
+
+486. RseC_MucC: Positive regulator of sigma(E), RseC/MucC
+This bacterial family of integral membrane proteins represents a positive regulator of the sigma(E) ...
+Accession: pfam04246 ID: 377263
+
+487. NlpE: NlpE N-terminal domain
+This family represents a bacterial outer membrane lipoprotein that is necessary for signalling by th...
+Accession: pfam04170 ID: 377235
+
+488. YadA_anchor: YadA-like membrane anchor domain
+This region represents the C-terminal 120 amino acids of a family of surface-exposed bacterial prote...
+Accession: pfam03895 ID: 377158
+
+489. SecB: Preprotein translocase subunit SecB
+This family consists of preprotein translocase subunit SecB. SecB is required for the normal export ...
+Accession: pfam02556 ID: 376817
+
+490. HEPN_Swt1: Swt1-like HEPN
+Swt1-like HEPN. This HEPN domain might have a role in binding and sensing unspliced pre-mRNAs that a...
+Accession: pfam18731 ID: 376154
+
+491. Sun2_CC2: SUN2 coiled coil domain 2
+LINC complexes are formed by coupling of KASH (Klarsicht, ANC-1, and Syne/Nesprin Homology) and SUN ...
+Accession: pfam18580 ID: 376006
+
+492. Herpes_glycoH_C: Herpesvirus glycoprotein H C-terminal domain
+Herpesvirus glycoprotein H (gH) is a virion associated envelope glycoprotein. Complex formation betw...
+Accession: pfam17488 ID: 375202
+
+493. TbpB_A: N-Lobe handle Tf-binding protein B
+Bacterial lipoproteins represent a large group of specialized membrane proteins that perform a varie...
+Accession: pfam17484 ID: 375201
+
+494. TbpB_C: C-lobe handle domain of Tf-binding protein B
+Bacterial lipoproteins represent a large group of specialized membrane proteins that perform a varie...
+Accession: pfam17483 ID: 375200
+
+495. GP24_25: Tail assembly protein Gp24 and Gp25
+Bacteriophages (viruses of bacteria) use a specialized organelle called a tail to deliver their gene...
+Accession: pfam17388 ID: 375168
+
+496. NlpE_C: NlpE C-terminal OB domain
+This family represents a bacterial outer membrane lipoprotein that is necessary for signalling by th...
+Accession: pfam17185 ID: 375038
+
+497. MCM3AP_GANP: MCM3AP domain of GANP
+MCM3AP_GANP is the C-terminal domain of germinal centre-associated proteins, GANPs in higher eukaryo...
+Accession: pfam16769 ID: 374789
+
+498. LppA: Lipoprotein confined to pathogenic Mycobacterium
+This is a family of lipoproteins found only in pathogenic mycobacteria. These pathogenic lipoprotein...
+Accession: pfam16708 ID: 374742
+
+499. ELYS-bb: beta-propeller of ELYS nucleoporin
+ELYS-bb is the N-terminal seven-bladed beta-propeller domain of ELYS nucleoporins in higher eukaryot...
+Accession: pfam16687 ID: 374727
+
+500. TIC20: Chloroplast import apparatus Tic20-like
+Chloroplast function requires the import of nuclear encoded proteins from the cytoplasm across the c...
+Accession: pfam16166 ID: 374405
+
+501. SVIP: Small VCP/p97-interacting protein
+SVIP, small VCP/p97-interacting protein, is a family of proteins found in eukaryotes. SVIP was ident...
+Accession: pfam15811 ID: 374135
+
+502. LYRIC: Lysine-rich CEACAM1 co-isolated protein family
+LYRIC is a family of proteins found in eukaryotes. It is a type-1b membrane protein with a single tr...
+Accession: pfam15686 ID: 374019
+
+503. Ntox21: Novel toxin 21
+Bacterial genomes and plasmids encode a variety of peptide and protein toxins that mediate inter-bac...
+Accession: pfam15526 ID: 373922
+
+504. BBP1_C: Spindle pole body component BBP1, C-terminal
+This C-terminal domain of BBP1, a spindle pole body component, carries coiled-coils that are necessa...
+Accession: pfam15272 ID: 373702
+
+505. SPRR2: Small proline-rich 2
+This family of small proteins is rich in proline, cysteine and glutamate. They contain a tandemly re...
+Accession: pfam14820 ID: 373317
+
+506. Apq12: Nuclear pore assembly and biogenesis
+This is a family of conserved fungal proteins involved in nuclear pore assembly. Apq12 is an integra...
+Accession: pfam12716 ID: 372265
+
+507. FtsZ_C: FtsZ family, C-terminal domain
+This family includes the bacterial FtsZ family of proteins. Members of this family are involved in p...
+Accession: pfam12327 ID: 372047
+
+508. SID: Septation initiation
+This family is required for activation of the spg1 GTPase signalling cascade which leads to the init...
+Accession: pfam11778 ID: 371719
+
+509. LAP2alpha: Lamina-associated polypeptide 2 alpha
+LAPs are components of the nuclear lamina which supports the nuclear envelope.LAP2alpha is a non-mem...
+Accession: pfam11560 ID: 371604
+
+510. EccE: Putative type VII ESX secretion system translocon, EccE
+EccE is a family of largely Gram-positive bacterial transmembrane componenets of the type VII secret...
+Accession: pfam11203 ID: 371417
+
+511. Sfi1_C: Spindle body associated protein C-terminus
+This C-terminal domain of spindle-body-associated protein Sfi1 has an important role to play in the ...
+Accession: pfam10638 ID: 371173
+
+512. Involucrin_N: Involucrin of squamous epithelia N-terminus
+This is the N-terminal three beta strands of involucrin, a protein present in keratinocytes of epide...
+Accession: pfam10583 ID: 371149
+
+513. NEMP: NEMP family
+This entry includes a group of nuclear envelope integral membrane proteins from animals and plants, ...
+Accession: pfam10225 ID: 370897
+
+514. LBR_tudor: Lamin-B receptor of TUDOR domain
+The Lamin-B receptor, found on the TUDOR domain pfam00567, is a chromatin and lamin binding protein ...
+Accession: pfam09465 ID: 370513
+
+515. Spike_rec_bind: Spike receptor binding domain
+Spike is an envelope glycoprotein which aids viral entry into the host cell. This domain corresponds...
+Accession: pfam09408 ID: 370471
+
+516. Cut8: Cut8, nuclear proteasome tether protein
+In Schizosaccharomyces pombe, Cut8 is a nuclear envelope protein that physically interacts with and ...
+Accession: pfam08559 ID: 369951
+
+517. Thymopoietin: Thymopoietin protein
+Short protein of 49 amino acid isolated from bovine spleen cells. Thymopoietins (TMPOs) are a group ...
+Accession: pfam08198 ID: 369744
+
+518. Sad1_UNC: Sad1 / UNC-like C-terminal
+The C. elegans UNC-84 protein is a nuclear envelope protein that is involved in nuclear anchoring an...
+Accession: pfam07738 ID: 369494
+
+519. Phlebovirus_G2: Phlebovirus glycoprotein G2
+This family consists of several Phlebovirus glycoprotein G2 sequences. Members of the Bunyaviridae f...
+Accession: pfam07245 ID: 369284
+
+520. Phlebovirus_G1: Phlebovirus glycoprotein G1
+This family consists of several Phlebovirus glycoprotein G1 sequences. Members of the Bunyaviridae f...
+Accession: pfam07243 ID: 369282
+
+521. VirE2: VirE2
+This family consists of several VirE2 proteins which seem to be specific to Agrobacterium tumefacien...
+Accession: pfam07229 ID: 369273
+
+522. Involucrin2: Involucrin
+This family represents a conserved region approximately 60 residues long, multiple copies of which a...
+Accession: pfam06994 ID: 369164
+
+523. Cytomega_TRL10: Cytomegalovirus TRL10 protein
+This family consists of several Cytomegalovirus TRL10 proteins. TRL10 represents a structural compon...
+Accession: pfam06084 ID: 368736
+
+524. Orf78: Orf78 (ac78)
+Family members include Autographa californica nuclear polyhedrosis virus (AcMNPV), AC78 or Orf78. AC...
+Accession: pfam06024 ID: 368709
+
+525. FPP: Filament-like plant protein, long coiled-coil
+FPP is a family of long coiled-coil plant proteins that are filament-like. It interacts with the nuc...
+Accession: pfam05911 ID: 368665
+
+526. Ran-binding: RanGTP-binding protein
+The small Ras-like GTPase Ran plays an essential role in the transport of macromolecules in and out ...
+Accession: pfam05508 ID: 368476
+
+527. UL45: UL45 protein, carbohydrate-binding C-type lectin-like
+This family consists of several UL45 proteins. The herpes simplex virus UL45 gene encodes an 18 kDa ...
+Accession: pfam05473 ID: 368457
+
+528. T7SS_ESX1_EccB: Type VII secretion system ESX-1, transport TM domain B
+EccB is a family of largely Gram-positive bacterial transmembrane componenets of the type VII secret...
+Accession: pfam05108 ID: 368288
+
+529. Baculo_p74: Baculoviridae p74 conserved region
+Baculoviruses are distinct from other virus families in that there are two viral phenotypes: budded ...
+Accession: pfam04583 ID: 368010
+
+530. SmpA_OmlA: SmpA / OmlA family
+Lipoprotein Bacterial outer membrane lipoprotein, possibly involved in in maintaining the structural...
+Accession: pfam04355 ID: 367908
+
+531. Tic22: Tic22-like family
+The preprotein translocation at the inner envelope membrane of chloroplasts so far involves five pro...
+Accession: pfam04278 ID: 367893
+
+532. Sigma_1_2: Reoviral Sigma1/Sigma2 family
+Reoviruses are double-stranded RNA viruses. They lack a membrane envelope and their capsid is organi...
+Accession: pfam03084 ID: 367326
+
+533. CemA: CemA family
+Members of this family are probable integral membrane proteins. Their molecular function is unknown....
+Accession: pfam03040 ID: 367312
+
+534. Herpes_glycop_H: Herpesvirus glycoprotein H main domain
+Herpesvirus glycoprotein H (gH) is a virion associated envelope glycoprotein. Complex formation betw...
+Accession: pfam02489 ID: 367103
+
+535. Gag_p10: Retroviral GAG p10 protein
+This family consists of various retroviral GAG (core) polyproteins and encompasses the p10 region pr...
+Accession: pfam02337 ID: 367040
+
+536. IBB: Importin beta binding domain
+This family consists of the importin alpha (karyopherin alpha), importin beta (karyopherin beta) bin...
+Accession: pfam01749 ID: 366788
+
+537. Herpes_glycop_D: Herpesvirus glycoprotein D/GG/GX domain
+This domain is found in several Herpes viruses glycoproteins. This is a family includes glycoprotein...
+Accession: pfam01537 ID: 366697
+
+538. TbpB_B_D: C-lobe and N-lobe beta barrels of Tf-binding protein B
+Bacterial lipoproteins represent a large group of specialized membrane proteins that perform a varie...
+Accession: pfam01298 ID: 366565
+
+539. BTB_POZ: BTB (Broad-Complex, Tramtrack and Bric a brac)/POZ (poxvirus and zinc finger) domain superfamily
+Proteins in this superfamily are characterized by the presence of a common protein-protein interacti...
+Accession: cl38908 ID: 365784
+
+540. Herpes_gI: Alphaherpesvirus glycoprotein I
+This family consists of glycoprotein I form various members of the alphaherpesvirinae these include ...
+Accession: cl30051 ID: 356927
+
+541. Marek_A: Marek&apos;s disease glycoprotein A
+envelope glycoprotein C; Provisional
+Accession: cl30047 ID: 356923
+
+542. Herpes_gE: Alphaherpesvirus glycoprotein E
+Glycoprotein E (gE) of Alphaherpesvirus forms a complex with glycoprotein I (gI) (pfam01688), functi...
+Accession: cl30037 ID: 356913
+
+543. Gp17: Superinfection exclusion protein, bacteriophage P22
+Bacteriophages infect host cells by injecting their genome through the cell wall. To this end, taile...
+Accession: cl10305 ID: 353069
+
+544. BACK_GCL: BACK (BTB and C-terminal Kelch) domain found in Drosophila melanogaster protein germ cell-less (GCL) and similar proteins
+The GCL protein is a nuclear envelope protein highly conserved between the mammalian and Drosophila ...
+Accession: cd18495 ID: 350570
+
+545. BTB_POZ_GCL: BTB (Broad-Complex, Tramtrack and Bric a brac)/POZ (poxvirus and zinc finger) domain found in Drosophila melanogaster protein germ cell-less (GCL) and similar proteins
+GCL proteins are nuclear envelope proteins highly conserved between the mammalian and Drosophila ort...
+Accession: cd18305 ID: 349614
+
+546. HATPase_BaeS-like: Histidine kinase-like ATPase domain of two-component sensor histidine kinases similar to Escherichia coli BasS
+This family includes the histidine kinase-like ATPase (HATPase) domains of various two-component sen...
+Accession: cd16946 ID: 340422
+
+547. Gp17: Superinfection exclusion protein, bacteriophage P22
+Bacteriophages infect host cells by injecting their genome through the cell wall. To this end, taile...
+Accession: pfam17420 ID: 340135
+
+548. Tubulin: Tubulin/FtsZ family, GTPase domain
+This family includes the tubulin alpha, beta and gamma chains, as well as the bacterial FtsZ family ...
+Accession: pfam00091 ID: 333832
+
+549. PHA03175
+UL43 envelope protein; Provisional
+Accession: cl28637 ID: 333457
+
+550. PilV: Tfp pilus assembly protein PilV [Cell motility, Extracellular structures]
+Pilus systems categorized as type IV pilins differ greatly from one another, with some showing great...
+Accession: cl28550 ID: 333370
+
+551. Mollicu_LP: MOLPALP family lipoprotein
+Members of this family are surface lipoproteins, about 900 amino acids long on average, found only i...
+Accession: cl28172 ID: 332992
+
+552. Cytomega_gL: Cytomegalovirus glycoprotein L
+Glycoprotein L from cytomegalovirus serves a chaperone for the correct folding and surface expressio...
+Accession: cl28118 ID: 332939
+
+553. Herpes_UL43: Herpesvirus UL43 protein
+UL43 genes are expressed with true-late (gamma2) kinetics and have been identified as a virion tegum...
+Accession: cl27973 ID: 332794
+
+554. TPT: Triose-phosphate Transporter family
+This family includes transporters with a specificity for triose phosphate.
+Accession: cl26744 ID: 331565
+
+555. M48A_Zmpste24p_like: Peptidase M48 subfamily A, a type 1 CaaX endopeptidase
+This family contains peptidase family M48 subfamily A which includes a number of well-characterized ...
+Accession: cd07343 ID: 320702
+
+556. M48A_Ste24p: Peptidase M48 CaaX prenyl protease type 1, an integral membrane, Zn-dependent protein
+This family of M48 CaaX prenyl protease 1-like family includes a number of well characterized genes ...
+Accession: cd07330 ID: 320689
+
+557. Sortase_D_2: Sortase domain found in subfamily 2 of the class D family of sortases
+Class D sortases are cysteine transpeptidases distributed in Gram-positive bacteria (mainly present ...
+Accession: cd06166 ID: 320681
+
+558. Sortase_D_1: Sortase domain found in subfamily 1 of the class D family of sortases
+Class D sortases are cysteine transpeptidases distributed in Gram-positive bacteria (mainly present ...
+Accession: cd05828 ID: 320677
+
+559. Sortase_B: Sortase domain found in class B sortases
+Class B sortases are membrane-bound cysteine transpeptidases broadly distributed in Gram-positive ba...
+Accession: cd05826 ID: 320675
+
+560. Sortase: Sortase domain
+Sortases are cysteine transpeptidases, mainly found in Gram-positive bacteria, which either anchor s...
+Accession: cd00004 ID: 320674
+
+561. RseA_N: N-terminal domain of RseA
+This family contains the cytoplasmic (N-terminal) domain of RseA, the transmembrane anti-sigma-E fac...
+Accession: cd16328 ID: 319992
+
+562. LolA_like: proteins similar to periplasmic molecular chaperone LolA, the outer membrane lipoprotein receptor LolB and the periplasmic protein RseB
+This family contains uncharacterized proteins similar to the periplasmic molecular chaperone LolA, t...
+Accession: cd16329 ID: 319986
+
+563. RseB: RseB, a sensor in periplasmic stress
+This family contains the periplasmic protein RseB (also known as MucB or Mucb/RseB) which exerts a c...
+Accession: cd16327 ID: 319985
+
+564. LolA_fold-like: family containing periplasmic molecular chaperone LolA, the outer membrane lipoprotein receptor LolB and the periplasmic protein RseB
+This family contains the periplasmic molecular chaperone LolA, the outer membrane lipoprotein recept...
+Accession: cd16324 ID: 319982
+
+565. HAD_FCP1-like: human CTD phosphatase subunit 1 (CTDP1/FCP1) and related proteins; belongs to the haloacid dehalogenase-like superfamily
+Human CTDP1/FCP1 is a protein phosphatase which dephosphorylates the phosphorylated C terminus (CTD)...
+Accession: cd07521 ID: 319823
+
+566. TraM-like: C-terminal domain of transfer protein TraM
+This family contains the C-terminal domain of transfer protein TraM of the G+ broad host range Enter...
+Accession: cd16427 ID: 319758
+
+567. TraB: TraB is a homolog of VirB10 which forms part of core complex in Type IV secretion system (T4SS)
+This family contains TraB (VirB10 homolog) and a component of the type IV secretion system (T4SS), a...
+Accession: cd16430 ID: 319756
+
+568. VirB10: VirB10 forms part of core complex in Type IV secretion system (T4SS)
+This family contains VirB10, a component of the type IV secretion system (T4SS), including homologs ...
+Accession: cd16429 ID: 319755
+
+569. VirB10_like: VirB10 and similar proteins form part of core complex in Type IV secretion system (T4SS)
+This family contains VirB10, a component of the type IV secretion system (T4SS) and its homologs, in...
+Accession: cd16426 ID: 319754
+
+570. RING-H2_RNF43: RING finger, H2 subclass, found in RING finger protein 43 (RNF43) and similar proteins
+RNF43 is a transmembrane E3 ubiquitin-protein ligase that plays an important role in frizzled-depend...
+Accession: cd16798 ID: 319712
+
+571. Ig1_Necl-3: First (N-terminal) immunoglobulin (Ig)-like domain of nectin-like molecule-3 (Necl-3, also known as cell adhesion molecule 2 (CADM2))
+Ig1_Necl-3: domain similar to the N-terminal immunoglobulin (Ig)-like domain of nectin-like molecule...
+Accession: cd07701 ID: 319327
+
+572. Ig2_Necl-1-4_like: Second immunoglobulin (Ig)-like domain of the nectin-like molecules Necl-1 - Necl-4 (also known as cell adhesion molecules CADM3, CADM1, CADM2, and CADM4, respectively)
+Ig2_Necl-1-4_like: domain similar to the second immunoglobulin (Ig)-like domain of the nectin-like m...
+Accession: cd05761 ID: 319311
+
+573. Ig1_Necl_like: First (N-terminal) immunoglobulin (Ig)-like domain of the nectin-like molecules
+Ig1_Necl_like:  N-terminal immunoglobulin (Ig)-like domain of the nectin-like molecules Necl-1 (also...
+Accession: cd05717 ID: 319294
+
+574. CpxA_peri: Two-component sensor protein CpxA, periplasmic domain
+CpxA_peri is the periplasmic domain-family of the Gram-negative Gammaproteobacteria two-component si...
+Accession: pfam16527 ID: 318680
+
+575. UL73_N: Cytomegalovirus glycoprotein N terminal
+This domain family is found in viruses, and is approximately 30 amino acids in length. The family is...
+Accession: pfam12522 ID: 315236
+
+576. MreD: rod shape-determining protein MreD
+MreD (murein formation D) is involved in the rod shape determination in E. coli, and more generally ...
+Accession: cl01087 ID: 294686
+
+577. MPS2: Monopolar spindle protein 2
+Is a fungal transmembrane protein which is part of the component of the spindle pole body (SPB) requ...
+Accession: pfam17060 ID: 293665
+
+578. Gp_UL130: HCMV glycoprotein pUL130
+This family of proteins represents pUL130 from Human cytomegalovirus, a glycoprotein secreted from i...
+Accession: pfam11668 ID: 288512
+
+579. Herpes_UL74: Herpes UL74 glycoproteins
+Members of this family are viral glycoproteins that form part of an envelope complex.
+Accession: pfam07982 ID: 285256
+
+580. T2SSL: Type II secretion system (T2SS), protein L
+This family consists of Type II secretion system protein L sequences from several Gram-negative (did...
+Accession: pfam05134 ID: 282928
+
+581. PIF: Per os infectivity
+This is a family of dsDNA Baculovirus proteins. It is required for the infectivity of the OBs or occ...
+Accession: pfam05092 ID: 282889
+
+582. GP4: GP4
+GP4 is a minor membrane-associated glycoproteins. This family contains envelope protein GP4 from equ...
+Accession: pfam03010 ID: 281063
+
+583. Corona_M: Coronavirus M matrix/glycoprotein
+This family consists of various coronavirus matrix proteins which are transmembrane glycoproteins. T...
+Accession: pfam01635 ID: 279907
+
+584. Filo_glycop: Filovirus glycoprotein
+This family includes an extracellular region from the envelope glycoprotein of Ebola and Marburg vir...
+Accession: pfam01611 ID: 279888
+
+585. FtsZ_type1: Filamenting temperature sensitive mutant Z, type 1
+FtsZ is a GTPase that is similar to the eukaryotic tubulins and is essential for cell division in pr...
+Accession: cd02201 ID: 276961
+
+586. Tubulin_FtsZ_Cetz-like: Tubulin protein family of FtsZ and CetZ-like
+This family includes tubulin alpha-, beta-, gamma-, delta-, epsilon, and zeta-tubulins as well as Ft...
+Accession: cd00286 ID: 276954
+
+587. PRK09822
+lipopolysaccharide core biosynthesis protein; Provisional
+Accession: cl15945 ID: 276137
+
+588. LmtA_Leptospira: lipid A Kdo2 1-phosphate O-methyltransferase
+This family describes LmtA, which methylates a phosphate on the Kdo2 sugar of lipid A. The model is ...
+Accession: TIGR04571 ID: 275364
+
+589. Mollicu_LP: MOLPALP family lipoprotein
+Members of this family are surface lipoproteins, about 900 amino acids long on average, found only i...
+Accession: TIGR04547 ID: 275340
+
+590. lept_O_ant_chp1: surface carbohydrate biosynthesis protein
+Members of this protein family occur only in a subset of Leptospira species, and in those species oc...
+Accession: TIGR04441 ID: 275234
+
+591. WaaZ_KDO_III: Kdo-III transferase WaaZ
+Members of this family are WaaZ, or Kdo-III transferase. This enzyme, present in some strains of E. ...
+Accession: TIGR04437 ID: 275230
+
+592. PLP_IMCC1989: putative PLP-dependent aminotransferase
+Members of this family are PLP-dependent enzymes, probable aminotransferases of the DegT/DnrJ/EryC1/...
+Accession: TIGR04422 ID: 275215
+
+593. FemAB_IMCC1989: FemAB family protein
+Members of this family are FemA/FemB family proteins from a cassette that some Leptospira have in th...
+Accession: TIGR04421 ID: 275214
+
+594. PFTS_polysacc: polysaccharide biosynthesis PFTS motif protein
+Members of this protein family are found in O-antigen biosynthesis loci in Leptospira, two tandem ho...
+Accession: TIGR04417 ID: 275210
+
+595. LptC_YrbK: LPS export ABC transporter periplasmic protein LptC
+Members of this family are LptC, a periplasmic protein tethered to the inner membrane in the lipopol...
+Accession: TIGR04409 ID: 275202
+
+596. LptG_lptG: LPS export ABC transporter permease LptG
+Members of this family are LptG, one of homologous, two tandem-encoded permease genes of an export A...
+Accession: TIGR04408 ID: 275201
+
+597. LptF_YjgP: LPS export ABC transporter permease LptF
+Members of this family are LptF, one of homologous, two tandem-encoded permease genes of an export A...
+Accession: TIGR04407 ID: 275200
+
+598. LPS_export_lptB: LPS export ABC transporter ATP-binding protein
+Members of this fmaily are LptB, the ATP-binding cassette protein of an ABC transporter involved in ...
+Accession: TIGR04406 ID: 275199
+
+599. surf_polysacc: surface carbohydrate biosynthesis protein
+This model describes an uncharacterized homology region found broadly in proteins of surface carbohy...
+Accession: TIGR04396 ID: 275189
+
+600. Lepto_lipo_1: lipoprotein, Leptospiral tandem type
+Members of this family are lipoproteins restricted (so far) to the genus Leptospira, sometimes with ...
+Accession: TIGR04389 ID: 275182
+
+601. acidic_w_LPXTA: processed acidic surface protein
+Members of this family are acidic surface proteins with an N-terminal signal peptide and a variant C...
+Accession: TIGR04383 ID: 275176
+
+602. glycosyl_04372: putative glycosyltransferase, TIGR04372 family
+This domain occurs in proteins of various lengths, in contexts that include O-antigen biosynthesis r...
+Accession: TIGR04372 ID: 275165
+
+603. methyltran_NanM: putative sugar O-methyltransferase
+Members of this family appear to be SAM-dependent O-methyltransferases acting on sugars, based on it...
+Accession: TIGR04371 ID: 275164
+
+604. glyco_rpt_poly: oligosaccharide repeat unit polymerase
+Members of this subfamily of highly hydrophobic proteins, with few highly conserved residues, all ma...
+Accession: TIGR04370 ID: 275163
+
+605. LTA_dltB: D-alanyl-lipoteichoic acid biosynthesis protein DltB
+Members of this protein family are DltB, part of a four-gene operon for D-alanyl-lipoteichoic acid b...
+Accession: TIGR04091 ID: 274974
+
+606. poly_gGlu_PgsC: poly-gamma-glutamate biosynthesis protein PgsC/CapC
+Of four genes commonly found to be involved in biosynthesis and export of poly-gamma-glutamate, pgsB...
+Accession: TIGR04011 ID: 274916
+
+607. alt_bact_glmU: UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase
+The MJ_1101 protein from Methanococcus jannaschii has been characterized as the GlmU enzyme catalyzi...
+Accession: TIGR03991 ID: 274907
+
+608. deacetyl_PgaB: poly-beta-1,6-N-acetyl-D-glucosamine N-deacetylase PgaB
+Two well-characterized systems produce polysaccharide based on N-acetyl-D-glucosamine in straight ch...
+Accession: TIGR03938 ID: 274867
+
+609. termin_org_P1: adhesin P1
+Members of this protein family are the major adhesin of the Mycoplasma terminal organelle. The prote...
+Accession: TIGR03839 ID: 274811
+
+610. cellullose_BcsF: celllulose biosynthesis operon protein BcsF/YhjT
+Members of this protein family are found invariably together with genes of bacterial cellulose biosy...
+Accession: TIGR03493 ID: 274605
+
+611. shape_MreD: rod shape-determining protein MreD
+Members of this protein family are the MreD protein of bacterial cell shape determination. Most rod-...
+Accession: TIGR03426 ID: 274574
+
+612. pbp2_mrdA: penicillin-binding protein 2
+Members of this protein family are penicillin-binding protein 2 (PBP-2), a protein whose gene (desig...
+Accession: TIGR03423 ID: 274573
+
+613. cellulose_yhjQ: cellulose synthase operon protein YhjQ
+Members of this family are the YhjQ protein, found immediately upsteam of bacterial cellulose syntha...
+Accession: TIGR03371 ID: 274549
+
+614. cellulose_bcsE: cellulose biosynthesis protein BcsE
+This protein, called BcsE (bacterial cellulose synthase E) or YhjS, is required for cellulose biosyn...
+Accession: TIGR03369 ID: 274548
+
+615. pilP_fam: type IV pilus biogenesis protein PilP
+Members of this protein family are found in type IV pilus biogenesis loci and include proteins desig...
+Accession: TIGR03021 ID: 274394
+
+616. pepcterm_ChnLen: polysaccharide chain length determinant protein, PEP-CTERM locus subfamily
+Members of this protein family belong to the family of polysaccharide chain length determinant prote...
+Accession: TIGR03007 ID: 274386
+
+617. pepcterm_polyde: polysaccharide deacetylase family protein, PEP-CTERM locus subfamily
+Members of this protein family belong to the family of polysaccharide deacetylases (pfam01522). All ...
+Accession: TIGR03006 ID: 274385
+
+618. spore_cwlD: N-acetylmuramoyl-L-alanine amidase CwlD
+Members of this protein family are the CwlD family of N-acetylmuramoyl-L-alanine amidase. This famil...
+Accession: TIGR02883 ID: 274337
+
+619. propeller_TolB: tol-pal system beta propeller repeat protein TolB
+Members of this protein family are the TolB periplasmic protein of Gram-negative bacteria. TolB is p...
+Accession: TIGR02800 ID: 274305
+
+620. TraK_Ftype: type-F conjugative transfer system secretin TraK
+The TraK protein is predicted to interact with the TraV and TraB proteins as part of the scaffold wh...
+Accession: TIGR02756 ID: 274283
+
+621. lp_: uncharacterized proteobacterial lipoprotein
+Members of this protein family are restricted to the Proteobacteria, and all are predicted lipoprote...
+Accession: TIGR02722 ID: 274269
+
+622. CDP_4_6_dhtase: CDP-glucose 4,6-dehydratase
+Members of this protein family are CDP-glucose 4,6-dehydratase from a variety of Gram-negative and G...
+Accession: TIGR02622 ID: 274236
+
+623. ftsW: cell division protein FtsW
+This family consists of FtsW, an integral membrane protein with ten transmembrane segments. In gener...
+Accession: TIGR02614 ID: 274232
+
+624. Verru_Chthon_A: Verru_Chthon cassette protein A
+In Verrucomicrobium spinosum and Chthoniobacter flavus, a four-gene operon that includes proteins wi...
+Accession: TIGR02600 ID: 274222
+
+625. TIGR02599: Verru_Chthon cassette protein C
+This family consists sets of paralogous family of proteins in the Verrucomicrobium spinosum and Chth...
+Accession: TIGR02599 ID: 274221
+
+626. TIGR02596: Verru_Chthon cassette protein D
+This model describes a nearly twenty member protein family in Verrucomicrobium spinosum and a somewh...
+Accession: TIGR02596 ID: 274219
+
+627. type_IV_pilB: type IV-A pilus assembly ATPase PilB
+This model describes a protein of type IV pilus biogenesis designated PilB in Pseudomonas aeruginosa...
+Accession: TIGR02538 ID: 274186
+
+628. IV_pilin_GFxxxE: prepilin-type N-terminal cleavage/methylation domain
+This model describes many but not all examples of the N-terminal region of bacterial proteins that r...
+Accession: TIGR02532 ID: 274182
+
+629. pilus_cpaD: pilus (Caulobacter type) biogenesis lipoprotein CpaD
+This family consists of a pilus biogenesis protein, CpaD, from Caulobacter, and homologs in other ba...
+Accession: TIGR02522 ID: 274178
+
+630. pilus_B_mal_scr: type IVB pilus formation outer membrane protein, R64 PilN family
+Several related protein families encode outer membrane pore proteins for type II secretion, type III...
+Accession: TIGR02520 ID: 274177
+
+631. pilus_MshL: pilus (MSHA type) biogenesis protein MshL
+Members of this family are predicted secretins, that is, outer membrane pore proteins associated wit...
+Accession: TIGR02519 ID: 274176
+
+632. IV_pilus_PilQ: type IV pilus secretin (or competence protein) PilQ
+A number of proteins homologous to PilQ are involved in type IV pilus formation, competence for tran...
+Accession: TIGR02515 ID: 274173
+
+633. MltB_2: lytic murein transglycosylase
+Members of this family are closely related to the MltB family lytic murein transglycosylases describ...
+Accession: TIGR02283 ID: 274067
+
+634. MltB: lytic murein transglycosylase B
+This family consists of lytic murein transglycosylases (murein hydrolases) in the family of MltB, wh...
+Accession: TIGR02282 ID: 274066
+
+635. rodA_shape: rod shape-determining protein RodA
+This protein is a member of the FtsW/RodA/SpoVE family (pfam01098). It is found only in species with...
+Accession: TIGR02210 ID: 274033
+
+636. lipid_A_msbB: lipid A biosynthesis (KDO)2-(lauroyl)-lipid IVA acyltransferase
+This family consists of MsbB in E. coli and closely related proteins in other species. MsbB is homol...
+Accession: TIGR02208 ID: 274032
+
+637. lipid_A_htrB: lipid A biosynthesis lauroyl (or palmitoleoyl) acyltransferase
+This model represents a narrow clade of acyltransferases, nearly all of which transfer a lauroyl gro...
+Accession: TIGR02207 ID: 274031
+
+638. rfaE_dom_I: rfaE bifunctional protein, domain I
+RfaE is a protein involved in the biosynthesis of ADP-L-glycero-D-manno-heptose, a precursor for LPS...
+Accession: TIGR02198 ID: 274029
+
+639. heptose_epim: ADP-L-glycero-D-manno-heptose-6-epimerase
+This family consists of examples of ADP-L-glycero-D-mannoheptose-6-epimerase, an enzyme involved in ...
+Accession: TIGR02197 ID: 274028
+
+640. heptsyl_trn_II: lipopolysaccharide heptosyltransferase II
+This family consists of examples of ADP-heptose:LPS heptosyltransferase II, an enzyme of LPS inner c...
+Accession: TIGR02195 ID: 274026
+
+641. heptsyl_trn_I: lipopolysaccharide heptosyltransferase I
+This family consists of examples of ADP-heptose:LPS heptosyltransferase I, an enzyme of LPS inner co...
+Accession: TIGR02193 ID: 274025
+
+642. Fib_succ_major: Fibrobacter succinogenes major paralogous domain
+This domain of about 175 to 200 amino acids is found, in from one to five copies, in over 50 protein...
+Accession: TIGR02145 ID: 273995
+
+643. PBP_1a_fam: penicillin-binding protein, 1A family
+Bacterial that synthesize a cell wall of peptidoglycan (murein) generally have several transglycosyl...
+Accession: TIGR02074 ID: 273955
+
+644. PBP_1c: penicillin-binding protein 1C
+This subfamily of the penicillin binding proteins includes the member from E. coli designated penici...
+Accession: TIGR02073 ID: 273954
+
+645. PBP_1b: penicillin-binding protein 1B
+Bacterial that synthesize a cell wall of peptidoglycan (murein) generally have several transglycosyl...
+Accession: TIGR02071 ID: 273952
+
+646. mono_pep_trsgly: monofunctional biosynthetic peptidoglycan transglycosylase
+This family is one of the transglycosylases involved in the late stages of peptidoglycan biosynthesi...
+Accession: TIGR02070 ID: 273951
+
+647. lipid_A_lpxH: UDP-2,3-diacylglucosamine diphosphatase
+This model represents LpxH, UDP-2,3-diacylglucosamine hydrolase, and essential enzyme in E. coli tha...
+Accession: TIGR01854 ID: 273835
+
+648. lipid_A_lpxD: UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase LpxD
+This model describes LpxD, an enzyme for the biosynthesis of lipid A, a component oflipopolysacchari...
+Accession: TIGR01853 ID: 273834
+
+649. outer_NodT: efflux transporter, outer membrane factor (OMF) lipoprotein, NodT family
+Members of this model comprise a subfamily of the Outer Membrane Factor (TCDB 1.B.17) porins. OMF pr...
+Accession: TIGR01845 ID: 273830
+
+650. D-ala-DACP-lig: D-alanine--poly(phosphoribitol) ligase, subunit 1
+This model represents the enzyme (also called D-alanine-D-alanyl carrier protein ligase) which activ...
+Accession: TIGR01734 ID: 273780
+
+651. murJ_mviN: murein biosynthesis integral membrane protein MurJ
+This model represents MurJ (previously MviN), a family of integral membrane proteins predicted to ha...
+Accession: TIGR01695 ID: 273763
+
+652. S_layer_rel_Mac: S-layer family duplication domain
+This model represents a sequence region found tandemly duplicated in two proven archaeal S-layer gly...
+Accession: TIGR01567 ID: 273694
+
+653. S_layer_MJ: S-layer protein, MJ0822 family
+This model represents one of several families of proteins associated with the formation of prokaryot...
+Accession: TIGR01564 ID: 273693
+
+654. GMP_PMI: mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase
+This enzyme is known to be bifunctional, as both mannose-6-phosphate isomerase (EC 5.3.1.8) (PMI) an...
+Accession: TIGR01479 ID: 273648
+
+655. gmd: GDP-mannose 4,6-dehydratase
+Alternate name: GDP-D-mannose dehydratase. This enzyme converts GDP-mannose to GDP-4-dehydro-6-deoxy...
+Accession: TIGR01472 ID: 273644
+
+656. pilT_fam: pilus retraction protein PilT
+This model represents the PilT subfamily of proteins related to GspE, a protein involved in type II ...
+Accession: TIGR01420 ID: 273613
+
+657. rmlC: dTDP-4-dehydrorhamnose 3,5-epimerase
+This enzyme participates in the biosynthesis of dTDP-L-rhamnose, often as a precursor to LPS O-antig...
+Accession: TIGR01221 ID: 273510
+
+658. rmlD: dTDP-4-dehydrorhamnose reductase
+This enzyme catalyzes the last of 4 steps in making dTDP-rhamnose, a precursor of LPS core antigen, ...
+Accession: TIGR01214 ID: 273505
+
+659. D_ala_D_alaTIGR: D-alanine--D-alanine ligase
+This model describes D-Ala--D-Ala ligase, an enzyme that makes a required precursor of the bacterial...
+Accession: TIGR01205 ID: 273498
+
+660. dTDP_gluc_dehyt: dTDP-glucose 4,6-dehydratase
+This protein is related to UDP-glucose 4-epimerase (GalE) and likewise has an NAD cofactor. [Cell en...
+Accession: TIGR01181 ID: 273489
+
+661. aman2_put: alpha-1,2-mannosidase, putative
+The identification of members of this family as putative alpha-1,2-mannosidases is based on an unpub...
+Accession: TIGR01180 ID: 273488
+
+662. LPXTG_anchor: LPXTG-motif cell wall anchor domain
+This model describes the LPXTG motif-containing region found at the C-terminus of many surface prote...
+Accession: TIGR01167 ID: 273478
+
+663. murF: UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+This family consists of the strictly bacterial MurF gene of peptidoglycan biosynthesis. This enzyme ...
+Accession: TIGR01143 ID: 273468
+
+664. glmS: glucosamine--fructose-6-phosphate aminotransferase (isomerizing)
+The member from Methanococcus jannaschii contains an intein. [Cell envelope, Biosynthesis and degrad...
+Accession: TIGR01135 ID: 273462
+
+665. murG: undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase
+RM 8449890 RT The final step of peptidoglycan subunit assembly in Escherichia coli occurs in the cyt...
+Accession: TIGR01133 ID: 273460
+
+666. galU: UTP--glucose-1-phosphate uridylyltransferase
+Built to distinquish between the highly similar genes galU and galF [Cell envelope, Biosynthesis and...
+Accession: TIGR01099 ID: 273443
+
+667. murD: UDP-N-acetylmuramoylalanine--D-glutamate ligase
+[Cell envelope, Biosynthesis and degradation of murein sacculus and peptidoglycan]
+Accession: TIGR01087 ID: 273436
+
+668. murE: UDP-N-acetylmuramyl-tripeptide synthetase
+Most members of this family are EC 6.3.2.13, UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminop...
+Accession: TIGR01085 ID: 273435
+
+669. murC: UDP-N-acetylmuramate--L-alanine ligase
+This model describes the MurC protein in bacterial peptidoglycan (murein) biosynthesis. In a few spe...
+Accession: TIGR01082 ID: 273433
+
+670. 3a0901s06TIC22: chloroplast protein import component, Tic22 family
+Two families of proteins are involved in the chloroplast envelope import appartus.They are the three...
+Accession: TIGR00995 ID: 273383
+
+671. 3a0901s05TIC20: chloroplast protein import component, Tic20 family
+Two families of proteins are involved in the chloroplast envelope import appartus.They are the three...
+Accession: TIGR00994 ID: 273382
+
+672. 2A73: putative bicarbonate transporter, IctB family
+This family of proteins is suggested to transport inorganic carbon (HCO3-), based on the phenotype o...
+Accession: TIGR00947 ID: 273357
+
+673. fbt: folate/biopterin transporter
+The Folate-Biopterin Transporter (FBT) Family (TC 2.A.71)The only functionally characterized members...
+Accession: TIGR00788 ID: 273268
+
+674. slp: outer membrane lipoprotein, Slp family
+Slp superfamily members are present in the Gram-negative gamma proteobacteria Escherichia coli, whic...
+Accession: TIGR00752 ID: 273251
+
+675. nanA: N-acetylneuraminate lyase
+N-acetylneuraminate lyase is also known as N-acetylneuraminic acid aldolase, sialic acid aldolase, o...
+Accession: TIGR00683 ID: 273217
+
+676. lpxK: tetraacyldisaccharide 4'-kinase
+Also called lipid-A 4'-kinase. This essential gene encodes an enzyme in the pathway of lipid A biosy...
+Accession: TIGR00682 ID: 273216
+
+677. rlpA: rare lipoprotein A
+This is a family of prokaryotic proteins with unknown function. Lipoprotein annotation based on the ...
+Accession: TIGR00413 ID: 273065
+
+678. lpxC: UDP-3-0-acyl N-acetylglucosamine deacetylase
+UDP-3-O-(R-3-hydroxymyristoyl)-GlcNAc deacetylase from E. coli , LpxC, was previously designated Env...
+Accession: TIGR00325 ID: 273014
+
+679. TIGR00274: N-acetylmuramic acid 6-phosphate etherase
+This protein, MurQ, is involved in recycling components of the bacterial murein sacculus turned over...
+Accession: TIGR00274 ID: 272991
+
+680. wecB: UDP-N-acetylglucosamine 2-epimerase
+This cytosolic enzyme converts UDP-N-acetyl-D-glucosamine to UDP-N-acetyl-D-mannosamine. In E. coli,...
+Accession: TIGR00236 ID: 272978
+
+681. murB: UDP-N-acetylenolpyruvoylglucosamine reductase
+This model describes MurB, UDP-N-acetylenolpyruvoylglucosamine reductase, which is also called UDP-N...
+Accession: TIGR00179 ID: 272945
+
+682. glut_race: glutamate racemase
+This family consists of glutamate racemase, a protein required for making the UDP-N-acetylmuramoyl-p...
+Accession: TIGR00067 ID: 272885
+
+683. UDP-GALP_mutase: UDP-galactopyranose mutase
+This enzyme is involved in the conversion of UDP-GALP into UDP-GALF through a 2-keto intermediate. I...
+Accession: TIGR00031 ID: 272864
+
+684. Imelysin-like_IrpA: Imelysin-like domain in iron-regulated protein A
+This family includes putative iron-regulated protein A (IrpA) mainly from Bacteriodes, proteobacteri...
+Accession: cd14658 ID: 271141
+
+685. Imelysin_IrpA-like: Imelysin-like iron-regulated protein A-like
+This family includes putative iron-regulated protein A (IrpA) mainly from Bacteriodes, proteobacteri...
+Accession: cd14657 ID: 271140
+
+686. Imelysin-like: imelysin also called Peptidase M75
+This family includes insulin-cleaving membrane protease (imelysin, ICMP), imelysin-like protein (IPP...
+Accession: cd11376 ID: 271138
+
+687. PK_VRK3: Pseudokinase domain of Vaccinia Related Kinase 3
+The pseudokinase domain shows similarity to protein kinases but lacks crucial residues for catalytic...
+Accession: cd14124 ID: 271026
+
+688. STKc_VRK2: Catalytic domain of the Serine/Threonine protein kinase, Vaccinia Related Kinase 2
+STKs catalyze the transfer of the gamma-phosphoryl group from ATP to serine/threonine residues on pr...
+Accession: cd14123 ID: 271025
+
+689. STKc_VRK1: Catalytic domain of the Serine/Threonine protein kinase, Vaccinia Related Kinase 1
+STKs catalyze the transfer of the gamma-phosphoryl group from ATP to serine/threonine residues on pr...
+Accession: cd14122 ID: 271024
+
+690. UBA_p47: UBA-like domain found in NSFL1 cofactor p47 and similar proteins
+p47, also called UBX domain-containing protein 2C, is a major cofactor of the cytosolic AAA ATPase p...
+Accession: cd14348 ID: 270533
+
+691. UBA_TAP-C_like: UBA-like domain found in the NXF family of mRNA nuclear export factors and similar proteins
+This family includes nuclear RNA export factors (NXF1/NXF2), FAS-associated factors (FAF1/2), tyrosy...
+Accession: cd14273 ID: 270459
+
+692. GH31_NET37: glucosidase NET37
+NET37 (also known as KIAA1161) is a human lamina-associated nuclear envelope transmembrane protein. ...
+Accession: cd06592 ID: 269878
+
+693. PAAR_CT_2: proline-alanine-alanine-arginine (PAAR) domain with uncharacterized C-terminal extension
+This domain is found in the PAAR (proline-alanine-alanine-arginine) repeat family of mostly beta- an...
+Accession: cd14744 ID: 269829
+
+694. PAAR_CT_1: proline-alanine-alanine-arginine (PAAR) domain with C-terminal extension
+This domain is found in the PAAR (proline-alanine-alanine-arginine) repeat family of mostly gamma-pr...
+Accession: cd14743 ID: 269828
+
+695. PAAR_RHS: proline-alanine-alanine-arginine (PAAR) domain, also containing C-terminal Rearrangement hotspot (Rhs) extensions
+This PAAR (proline-alanine-alanine-arginine) repeat subfamily, which forms a sharp conical extension...
+Accession: cd14742 ID: 269827
+
+696. PAAR_5: proline-alanine-alanine-arginine (PAAR) domain
+This domain is found in the PAAR (proline-alanine-alanine-arginine) repeat family in bacteria as wel...
+Accession: cd14741 ID: 269826
+
+697. PAAR_4: proline-alanine-alanine-arginine (PAAR) domain
+This domain is found in the PAAR (proline-alanine-alanine-arginine) repeat family of bacteria, and f...
+Accession: cd14740 ID: 269825
+
+698. PAAR_3: proline-alanine-alanine-arginine (PAAR) domain
+This domain is found in the PAAR (proline-alanine-alanine-arginine) repeat family, where it forms a ...
+Accession: cd14739 ID: 269824
+
+699. PAAR_2: proline-alanine-alanine-arginine (PAAR) domain
+This domain is found in the PAAR (proline-alanine-alanine-arginine) repeat family, where it forms a ...
+Accession: cd14738 ID: 269823
+
+700. PAAR_1: proline-alanine-alanine-arginine (PAAR) domain
+This domain is found in the PAAR (proline-alanine-alanine-arginine) repeat family, where it forms a ...
+Accession: cd14737 ID: 269822
+
+701. PAAR_like: proline-alanine-alanine-arginine (PAAR) repeat superfamily
+This domain is found in the PAAR (proline-alanine-alanine-arginine) repeat superfamily, where it for...
+Accession: cd14671 ID: 269821
+
+702. EPT_RTPC-like
+This domain family includes the Enolpyruvate transferase (EPT) family and the RNA 3' phosphate cycla...
+Accession: cl00288 ID: 260328
+
+703. Gypsy: Gypsy protein
+This family consists of several Gypsy/Env proteins from Drosophila and Ceratitis fruit fly species. ...
+Accession: pfam07253 ID: 254125
+
+704. RRM_Nup53: RNA recognition motif in nucleoporin Nup53
+This subgroup corresponds to the RRM of nucleoporin Nup53, also termed mitotic phosphoprotein 44 (MP...
+Accession: cd12722 ID: 241166
+
+705. RRM3_RBM15B: RNA recognition motif 3 in putative RNA-binding protein 15B (RBM15B) from vertebrate
+This subgroup corresponds to the RRM3 of RBM15B, also termed one twenty-two 3 (OTT3), a paralog of R...
+Accession: cd12558 ID: 241002
+
+706. RRM2_RBM15B: RNA recognition motif 2 in putative RNA binding motif protein 15B (RBM15B) from vertebrate
+This subgroup corresponds to the RRM2 of RBM15B, also termed one twenty-two 3 (OTT3), a paralog of R...
+Accession: cd12556 ID: 241000
+
+707. RRM1_RBM15B: RNA recognition motif 1 in putative RNA binding motif protein 15B (RBM15B) from vertebrate
+This subfamily corresponds to the RRM1 of RBM15B, also termed one twenty-two 3 (OTT3), a paralog of ...
+Accession: cd12554 ID: 240998
+
+708. RRM_Nup53_like: RNA recognition motif in nucleoporin Nup53 and similar proteins
+This subfamily corresponds to the RRM domain of nucleoporin Nup53, also termed mitotic phosphoprotei...
+Accession: cd12441 ID: 240887
+
+709. RRM3_Spen: RNA recognition motif 3 in the Spen (split end) protein family
+This subfamily corresponds to the RRM3 domain in the Spen (split end) protein family which includes ...
+Accession: cd12310 ID: 240756
+
+710. RRM2_Spen: RNA recognition motif 2 in the Spen (split end) protein family
+This subfamily corresponds to the RRM2 domain in the Spen (split end) protein family which includes ...
+Accession: cd12309 ID: 240755
+
+711. RRM1_Spen: RNA recognition motif 1 in the Spen (split end) protein family
+This subfamily corresponds to the RRM1 domain in the Spen (split end) family which includes RNA bind...
+Accession: cd12308 ID: 240754
+
+712. Rieske_RO_Alpha_Cao
+Cao (chlorophyll a oxygenase) is a rieske non-heme iron-sulfur protein located within the plastid-en...
+Accession: cd04337 ID: 239829
+
+713. ZnMc_hatching_enzyme
+Zinc-dependent metalloprotease, hatching enzyme-like subfamily. Hatching enzymes are secreted by tel...
+Accession: cd04283 ID: 239810
+
+714. PA_C5a_like
+PA_C5a_like: Protease-associated domain containing proteins like Streptococcus pyogenes C5a peptidas...
+Accession: cd02133 ID: 239048
+
+715. NTF2
+Nuclear transport factor 2 (NTF2) domain plays an important role in the trafficking of macromolecule...
+Accession: cd00780 ID: 238403
+
+716. PA
+PA: Protease-associated (PA) domain. The PA domain is an insert domain in a diverse fraction of prot...
+Accession: cd00538 ID: 238300
+
+717. tolA
+cell envelope integrity inner membrane protein TolA; Provisional
+Accession: PRK09510 ID: 236545
+
+718. odv-e66
+occlusion-derived virus envelope protein E66; Provisional
+Accession: PHA03393 ID: 223072
+
+719. PHA03302
+envelope glycoprotein L; Provisional
+Accession: PHA03302 ID: 223038
+
+720. PHA03301
+envelope glycoprotein L; Provisional
+Accession: PHA03301 ID: 223037
+
+721. PHA03295
+envelope glycoprotein H; Provisional
+Accession: PHA03295 ID: 223036
+
+722. PHA03294
+envelope glycoprotein H; Provisional
+Accession: PHA03294 ID: 223035
+
+723. PHA03291
+envelope glycoprotein I; Provisional
+Accession: PHA03291 ID: 223033
+
+724. PHA03283
+envelope glycoprotein E; Provisional
+Accession: PHA03283 ID: 223032
+
+725. PHA03273
+envelope glycoprotein C; Provisional
+Accession: PHA03273 ID: 223031
+
+726. PHA03271
+envelope glycoprotein C; Provisional
+Accession: PHA03271 ID: 223030
+
+727. PHA03264
+envelope glycoprotein D; Provisional
+Accession: PHA03264 ID: 223029
+
+728. PHA03237
+envelope glycoprotein M; Provisional
+Accession: PHA03237 ID: 223019
+
+729. PHA03179
+UL43 envelope protein; Provisional
+Accession: PHA03179 ID: 223006
+
+730. PHA03176
+UL43 envelope protein; Provisional
+Accession: PHA03176 ID: 223005
+
+731. Tubulin_C: Tubulin/FtsZ family, C-terminal domain
+This domain is found in the tubulin alpha, beta and gamma chains, as well as the bacterial FtsZ fami...
+Accession: smart00865 ID: 214868
+
+732. Tubulin: Tubulin/FtsZ family, GTPase domain
+This domain is found in all tubulin chains, as well as the bacterial FtsZ family of proteins. These ...
+Accession: smart00864 ID: 214867
+
+733. cemA
+envelope membrane protein
+Accession: CHL00043 ID: 214345
+
+734. ABC_YhbG: ATP-binding cassette component of YhbG transport system
+The ABC transporters belonging to the YhbG family are similar to members of the Mj1267_LivG family, ...
+Accession: cd03218 ID: 213185
+
+735. sortase_srtB: sortase, SrtB family
+Members of this transpeptidase family are, in most cases, designated sortase B, product of the srtB ...
+Accession: TIGR03064 ID: 211782
+
+736. PBP4: D-alanyl-D-alanine carboxypeptidase, serine-type, PBP4 family
+In E. coli, this protein is known as penicillin binding protein 4 (dacB). A signal sequence is cleav...
+Accession: TIGR00666 ID: 200042
+
+737. CobN_like: CobN subunit of cobaltochelatase, bchH and chlH subunits of magnesium chelatases, and similar proteins
+Cobaltochelatase is a complex enzyme that catalyzes the insertion of cobalt into hydrogenobyrinic ac...
+Accession: cd10150 ID: 199903
+
+738. ENVV1-like_HR1-HR2: heptad repeat 1-heptad repeat 2 region (ectodomain) of the transmembrane subunit of the human endogenous retrovirus ENVV1, and related domains
+This domain subfamily spans both heptad repeats of the glycoprotein (gp)/transmembrane subunit of va...
+Accession: cd09950 ID: 197373
+
+739. Ebola_RSV-like_HR1-HR2: heptad repeat 1-heptad repeat 2 region of the transmembrane subunit of various endogenous retroviruses (ERVs) and infectious retroviruses, including Ebola virus and Rous sarcoma virus
+This domain family spans both heptad repeats of the glycoprotein (gp)/transmembrane subunit of endog...
+Accession: cd09948 ID: 197371
+
+740. Ebola_HIV-1-like_HR1-HR2: heptad repeat 1-heptad repeat 2 region (ectodomain) of the transmembrane subunit of various endogenous retroviruses (ERVs) and infectious retroviruses, including Ebola virus and human immunodeficiency virus type 1 (HIV-1)
+This domain superfamily spans both heptad repeats of the glycoprotein (gp)/transmembrane subunit of ...
+Accession: cd09947 ID: 197370
+
+741. HIV-1-like_HR1-HR2: heptad repeat 1-heptad repeat 2 region (ectodomain) of the gp41 subunit of human immunodeficiency virus (HIV-1), and related domains
+This domain family spans both heptad repeats of the glycoprotein (gp)/transmembrane subunit of vario...
+Accession: cd09909 ID: 197369
+
+742. HTLV-1-like_HR1-HR2: heptad repeat 1-heptad repeat 2 region (ectodomain) of the transmembrane subunit of human T-cell leukemia virus type 1 (HTLV-1), and related domains
+This domain subfamily spans both heptad repeats of the glycoprotein (gp)/transmembrane(TM) subunit o...
+Accession: cd09851 ID: 197368
+
+743. Ebola-like_HR1-HR2: heptad repeat 1-heptad repeat 2 region of the transmembrane subunit of Filoviridae viruses, Ebola virus and Marburg virus, and related domains
+This domain subfamily spans both heptad repeats of the glycoprotein (gp)/transmembrane subunit of va...
+Accession: cd09850 ID: 197367
+
+744. CpxP_like: CpxP component of the bacterial Cpx-two-component system and related proteins
+This family summarizes bacterial proteins related to CpxP, a periplasmic protein that forms part of ...
+Accession: cd09916 ID: 197366
+
+745. poly_gGlu_PgsB: poly-gamma-glutamate synthase PgsB/CapB
+Of four genes commonly found to be involved in biosynthesis and export of poly-gamma-glutamate, pgsB...
+Accession: TIGR04012 ID: 188527
+
+746. PGA_PgaD: poly-beta-1,6-N-acetyl-D-glucosamine biosynthesis protein PgaD
+Members of this protein family are PgaD, essential to the production of poly-beta-1,6-N-acetyl-D-glu...
+Accession: TIGR03940 ID: 188455
+
+747. PIA_icaB: intercellular adhesin biosynthesis polysaccharide N-deacetylase
+A common motif in bacterial biosynthesis of polysaccharide for export is modification that follows p...
+Accession: TIGR03933 ID: 188448
+
+748. PIA_icaD: intracellular adhesion protein D
+Members of this protein family are IcaD (intracellular adhesion protein D), which with catalytic sub...
+Accession: TIGR03932 ID: 188447
+
+749. lipid_A_lpxA: acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+This model describes LpxA, an enzyme for the biosynthesis of lipid A, a component oflipopolysacchari...
+Accession: TIGR01852 ID: 188173
+
+750. PLN03209
+translocon at the inner envelope of chloroplast subunit 62; Provisional
+Accession: PLN03209 ID: 178748
+
+751. PHA03292
+envelope glycoprotein I; Provisional
+Accession: PHA03292 ID: 177577
+
+752. PHA03286
+envelope glycoprotein E; Provisional
+Accession: PHA03286 ID: 177576
+
+753. PHA03278
+envelope glycoprotein K; Provisional
+Accession: PHA03278 ID: 177574
+
+754. PHA03275
+envelope glycoprotein K; Provisional
+Accession: PHA03275 ID: 177573
+
+755. PHA03242
+envelope glycoprotein M; Provisional
+Accession: PHA03242 ID: 177566
+
+756. PHA03239
+envelope glycoprotein M; Provisional
+Accession: PHA03239 ID: 177565
+
+757. PHA03178
+UL43 envelope protein; Provisional
+Accession: PHA03178 ID: 177552
+
+758. PHA03175
+UL43 envelope protein; Provisional
+Accession: PHA03175 ID: 177551
+
+759. PHA03303
+envelope glycoprotein L; Provisional
+Accession: PHA03303 ID: 165560
+
+760. PHA03299
+envelope glycoprotein L; Provisional
+Accession: PHA03299 ID: 165556
+
+761. PHA03298
+envelope glycoprotein L; Provisional
+Accession: PHA03298 ID: 165555
+
+762. PHA03297
+envelope glycoprotein L; Provisional
+Accession: PHA03297 ID: 165554
+
+763. PHA03296
+envelope glycoprotein H; Provisional
+Accession: PHA03296 ID: 165553
+
+764. PHA03290
+envelope glycoprotein I; Provisional
+Accession: PHA03290 ID: 165547
+
+765. PHA03289
+envelope glycoprotein I; Provisional
+Accession: PHA03289 ID: 165546
+
+766. PHA03282
+envelope glycoprotein E; Provisional
+Accession: PHA03282 ID: 165539
+
+767. PHA03281
+envelope glycoprotein E; Provisional
+Accession: PHA03281 ID: 165538
+
+768. PHA03279
+envelope glycoprotein K; Provisional
+Accession: PHA03279 ID: 165536
+
+769. PHA03276
+envelope glycoprotein K; Provisional
+Accession: PHA03276 ID: 165533
+
+770. PHA03270
+envelope glycoprotein C; Provisional
+Accession: PHA03270 ID: 165528
+
+771. PHA03269
+envelope glycoprotein C; Provisional
+Accession: PHA03269 ID: 165527
+
+772. PHA03265
+envelope glycoprotein D; Provisional
+Accession: PHA03265 ID: 165523
+
+773. PHA03240
+envelope glycoprotein M; Provisional
+Accession: PHA03240 ID: 165499
+
+774. PHA02898
+virion envelope protein; Provisional
+Accession: PHA02898 ID: 165223
+
+775. pepcterm_CAAX: CAAX prenyl protease-related protein
+The CAAX prenyl protease, in eukaryotes, catalyzes three covalent modifications, including cleavage ...
+Accession: TIGR03008 ID: 163100
+
+776. murA: UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+[Cell envelope, Biosynthesis and degradation of murein sacculus and peptidoglycan]
+Accession: TIGR01072 ID: 162190
+
+777. mraY: phospho-N-acetylmuramoyl-pentapeptide-transferase
+Involved in peptidoglycan biosynthesis, the enzyme catalyzes the first of the lipid cycle reactions....
+Accession: TIGR00445 ID: 161884
+
+778. BIV_Env: Bovine immunodeficiency virus surface protein (SU)
+The bovine lentivirus also known as the bovine immunodeficiency-like virus (BIV) has conserved and h...
+Accession: pfam05858 ID: 147812
+
+779. Ig2_Necl-1: Second immunoglobulin (Ig)-like domain of nectin-like molcule-1 (Necl-1, also known as cell adhesion molecule3 (CADM3))
+Ig2_Necl-1: second immunoglobulin (Ig)-like domain of nectin-like molcule-1 (Necl-1, also known as c...
+Accession: cd07705 ID: 143329
+
+780. Ig2_Nectin-1_like: Second immunoglobulin (Ig) domain of nectin-1 (also known as poliovirus receptor related protein 1, or as CD111) and similar proteins
+Ig2_Nectin-1_like: domain similar to the second immunoglobulin (Ig) domain of nectin-1 (also known a...
+Accession: cd05890 ID: 143298
+
+781. Ig1_Nectin-1_like: First immunoglobulin (Ig) domain of nectin-1 (also known as poliovirus receptor related protein 1, or as CD111) and similar proteins
+Ig1_Nectin-1_like: domain similar to the first immunoglobulin (Ig) domain of nectin-1 (also known as...
+Accession: cd05886 ID: 143294
+
+782. Ig1_Necl-1: First (N-terminal) immunoglobulin (Ig)-like domain of nectin-like molcule-1 (Necl-1, also known as cell adhesion molecule3 (CADM3))
+Ig1_Necl-1: domain similar to the N-terminal immunoglobulin (Ig)-like domain of nectin-like molecule...
+Accession: cd05882 ID: 143290
+
+783. Ig1_Necl-2: First (N-terminal) immunoglobulin (Ig)-like domain of nectin-like molecule 2
+Ig1_Necl-2: domain similar to the N-terminal immunoglobulin (Ig)-like domain of nectin-like molecule...
+Accession: cd05881 ID: 143289
+
+784. S_layer_CsaB: polysaccharide pyruvyl transferase CsaB
+The CsaB protein (cell surface anchoring B) of Bacillus anthracis adds a pyruvoyl group to peptidogl...
+Accession: TIGR03609 ID: 132648
+
+785. cellulose_yhjU: cellulose synthase operon protein YhjU
+This protein was identified by the partial phylogenetic profiling algorithm () as part of the system...
+Accession: TIGR03368 ID: 132411
+
+786. pepcterm_export: putative polysaccharide export protein, PEP-CTERM sytem-associated
+This protein family belongs to the larger set of polysaccharide biosynthesis/export proteins describ...
+Accession: TIGR03027 ID: 132072
+
+787. spore_pdaA: delta-lactam-biosynthetic de-N-acetylase
+Muramic delta-lactam is an unusual constituent of peptidoglycan, found only in bacterial spores in t...
+Accession: TIGR02884 ID: 131930
+
+788. G1P_cyt_trans: glucose-1-phosphate cytidylyltransferase
+Members of this family are the enzyme glucose-1-phosphate cytidylyltransferase, also called CDP-gluc...
+Accession: TIGR02623 ID: 131672
+
+789. spoVE: stage V sporulation protein E
+This model represents an exception within the members of the FtsW model TIGR02614. This exception oc...
+Accession: TIGR02615 ID: 131664
+
+790. TIGR02598: Verru_Chthon cassette protein B
+This family consists sets of paralogous family of proteins in the Verrucomicrobium spinosum and Chth...
+Accession: TIGR02598 ID: 131647
+
+791. PEP_exosort: PEP-CTERM protein-sorting domain
+This model describes a 25-residue domain that includes a near-invariant Pro-Glu-Pro (PEP) motif, a t...
+Accession: TIGR02595 ID: 131644
+
+792. TIGR02587: putative integral membrane protein TIGR02587
+Members of this family are found in Nostoc sp. PCC 7120, Agrobacterium tumefaciens, Sinorhizobium me...
+Accession: TIGR02587 ID: 131636
+
+793. type_IV_pilV: type IV pilus modification protein PilV
+Pilus systems categorized as type IV pilins differ greatly from one another, with some showing great...
+Accession: TIGR02523 ID: 131575
+
+794. wecD_rffC: TDP-D-fucosamine acetyltransferase
+This model represents the WecD protein (Formerly RffC) for the biosynthesis of enterobacterial commo...
+Accession: TIGR02382 ID: 131435
+
+795. ECA_wecA: undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphatetransferase
+Members of this family are the WecA enzyme of enterobacterial common antigen biosynthesis, undecapre...
+Accession: TIGR02380 ID: 131433
+
+796. ECA_wecE: TDP-4-keto-6-deoxy-D-glucose transaminase
+This family consists of TDP-4-keto-6-deoxy-D-glucose transaminases, the WecE (formerly RffA) protein...
+Accession: TIGR02379 ID: 131432
+
+797. spoVD_pbp: stage V sporulation protein D
+This model describes the spoVD subfamily of homologs of the cell division protein FtsI, a penicillin...
+Accession: TIGR02214 ID: 131269
+
+798. MsbA_lipidA: lipid A export permease/ATP-binding protein MsbA
+This family consists of a single polypeptide chain transporter in the ATP-binding cassette (ABC) tra...
+Accession: TIGR02203 ID: 131258
+
+799. heptsyl_trn_III: lipopolysaccharide heptosyltransferase III, putative
+This family consists of examples of the putative ADP-heptose:LPS heptosyltransferase III, an enzyme ...
+Accession: TIGR02201 ID: 131256
+
+800. rfaE_dom_II: rfaE bifunctional protein, domain II
+RfaE is a protein involved in the biosynthesis of ADP-L-glycero-D-manno-heptose, a precursor for LPS...
+Accession: TIGR02199 ID: 131254
+
+801. dltC: D-alanine--poly(phosphoribitol) ligase, subunit 2
+This protein is part of the teichoic acid operon in gram-positive organisms. Gram positive organisms...
+Accession: TIGR01688 ID: 130749
+
+802. KdsC-phosphatas: 3-deoxy-D-manno-octulosonate 8-phosphate phosphatase, YrbI family
+This family of proteins is a member of the IIIA subfamily of the haloacid dehalogenase (HAD) superfa...
+Accession: TIGR01670 ID: 130731
+
+803. YCCS: TIGR01666 family membrane protein
+This model represents a clade of sequences from gamma and beta proteobacteria. These proteins are >7...
+Accession: TIGR01666 ID: 130727
+
+804. rhamnosyltran: L-rhamnosyltransferase
+This model subfamily is comprised of gamma proteobacteria whose proteins function as L-rhamnosyltran...
+Accession: TIGR01556 ID: 130619
+
+805. g3p_cytidyltrns: glycerol-3-phosphate cytidylyltransferase
+This model describes glycerol-3-phosphate cytidyltransferase, also called CDP-glycerol pyrophosphory...
+Accession: TIGR01518 ID: 130581
+
+806. glmM: phosphoglucosamine mutase
+This model describes GlmM, phosphoglucosamine mutase, also designated in MrsA and YhbF E. coli, UreC...
+Accession: TIGR01455 ID: 130522
+
+807. KDO8P_synth: 3-deoxy-8-phosphooctulonate synthase
+This model describes 3-deoxy-8-phosphooctulonate synthase. Alternate names include 2-dehydro-3-deoxy...
+Accession: TIGR01362 ID: 130429
+
+808. rmlA: glucose-1-phosphate thymidylyltransferase, short form
+Alternate name: dTDP-D-glucose synthase homotetramer This model describes a tightly conserved but br...
+Accession: TIGR01207 ID: 130274
+
+809. mpl: UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase
+Alternate name: murein tripeptide ligase [Cell envelope, Biosynthesis and degradation of murein sacc...
+Accession: TIGR01081 ID: 130153
+
+810. sortase_fam: LPXTG-site transpeptidase (sortase) family protein
+This family includes Staphylococcus aureus sortase, a transpeptidase that attaches surface proteins ...
+Accession: TIGR01076 ID: 130148
+
+811. mreB: cell shape determining protein, MreB/Mrl family
+MreB (mecillinam resistance) in E. coli (also called envB) and the paralogous pair MreB and Mrl of B...
+Accession: TIGR00904 ID: 129982
+
+812. tpt: Tpt phosphate/phosphoenolpyruvate translocator
+The 6-8 TMS Triose-phosphate Transporter (TPT) Family (TC 2.A.7.9)Functionally characterized members...
+Accession: TIGR00817 ID: 129898
+
+813. undec_PP_bacA: undecaprenyl-diphosphatase UppP
+This is a family of small, highly hydrophobic proteins. Overexpression of this protein in Escherichi...
+Accession: TIGR00753 ID: 129836
+
+814. wecG_tagA_cpsF: bacterial polymer biosynthesis proteins, WecB/TagA/CpsF family
+The WecG member of this superfamily, believed to be UDP-N-acetyl-D-mannosaminuronic acid transferase...
+Accession: TIGR00696 ID: 129779
+
+815. alr: alanine racemase
+This enzyme interconverts L-alanine and D-alanine. Its primary function is to generate D-alanine for...
+Accession: TIGR00492 ID: 129583
+
+816. kdsB: 3-deoxy-D-manno-octulosonate cytidylyltransferase
+[Cell envelope, Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides]
+Accession: TIGR00466 ID: 129558
+
+817. gmhA: phosphoheptose isomerase
+This model describes phosphoheptose isomerase. Because a closely related paralo in Escherichia coli ...
+Accession: TIGR00441 ID: 129533
+
+818. TIGR00363: lipoprotein, YaeC family
+This family of putative lipoproteins contains a consensus site for lipoprotein signal sequence cleav...
+Accession: TIGR00363 ID: 129460
+
+819. mreC: rod shape-determining protein MreC
+MreC (murein formation C) is involved in the rod shape determination in E. coli, and more generally ...
+Accession: TIGR00219 ID: 129323
+
+820. lpxB: lipid-A-disaccharide synthase
+Lipid-A precursor biosynthesis producing lipid A disaccharide in a condensation reaction. transcribe...
+Accession: TIGR00215 ID: 129319
+
+821. GmhB_yaeD: D,D-heptose 1,7-bisphosphate phosphatase
+This family of proteins formerly designated yaeD resembles the histidinol phosphatase domain of the ...
+Accession: TIGR00213 ID: 129317
+
+822. uppS: undecaprenyl diphosphate synthase
+This enzyme builds undecaprenyl diphosphate, a molecule that in bacteria is used a carrier in synthe...
+Accession: TIGR00055 ID: 129165
+
+823. Lysin-Sp18
+Sp18 and Lysin from Archaegastropoda (marine mollusks of the families Halotidae and Trochidae) sperm...
+Accession: cd00243 ID: 119415
+
+824. PSGP: Apopolysialoglycoprotein (PSGP)
+This family represents a series of 13 reside repeats found in the apopolysialoglycoprotein of Oncorh...
+Accession: pfam07276 ID: 115901
+
+825. Ail_Lom: Enterobacterial Ail/Lom protein
+This family consists of several bacterial and phage Ail/Lom-like proteins. The Yersinia enterocoliti...
+Accession: pfam06316 ID: 115004
+
+826. HCV_NS1: Hepatitis C virus non-structural protein E2/NS1
+The hypervariable region of the E2/NS1 region of hepatitis C virus varies greatly between viral isol...
+Accession: pfam01560 ID: 110557
+
+827. GlmM
+GlmM is a bacterial phosphoglucosamine mutase (PNGM) that belongs to the alpha-D-phosphohexomutase s...
+Accession: cd05802 ID: 100095

@@ -1,0 +1,592 @@
+
+1. TnsA_like_Actin: TnsA-like heteromeric transposase endonuclease subunit
+The transposase of transposon Tn7 contains multiple subunit. Members of this family are largely rest...
+Accession: NF033179 ID: 380186
+
+2. Nterm_IS4: Insertion element 4 transposase N-terminal
+This family represents the N-terminal region of proteins carrying the transposase enzyme, DDE_Tnp_1 ...
+Accession: pfam13006 ID: 379017
+
+3. Tnp_DNA_bind: Transposase DNA-binding
+This domain occurs at the C-terminus of transposases including E. coli tnpA. TnpA encodes a transpos...
+Accession: pfam14706 ID: 373239
+
+4. Dimer_Tnp_Tn5: Transposase Tn5 dimerization domain
+Transposons are mobile DNA sequences capable of replication and insertion into the chromosome. Typic...
+Accession: pfam02281 ID: 280446
+
+5. DDE_Tnp_ISL3: Transposase
+Transposase proteins are necessary for efficient DNA transposition. Contains transposases for IS204,...
+Accession: cl24015 ID: 390235
+
+6. DDE_Tnp_Tn3: Tn3 transposase DDE domain
+This family includes transposases of Tn3, Tn21, Tn1721, Tn2501, Tn3926 transposons from E-coli. The ...
+Accession: cl14901 ID: 387407
+
+7. DDE_Tnp_1_4: Transposase DDE domain group 1
+Transposase proteins are necessary for efficient DNA transposition. This domain is a member of the D...
+Accession: pfam13701 ID: 379340
+
+8. LZ_Tnp_IS66: Transposase C of IS166 homeodomain
+This is a leucine-zipper-like or homeodomain-like region of transposase TnpC of insertion element IS...
+Accession: pfam13007 ID: 379018
+
+9. zf-IS66: zinc-finger binding domain of transposase IS66
+This is a zinc-finger region of the N-terminus of the insertion element IS66 transposase.
+Accession: pfam13005 ID: 379016
+
+10. Y2_Tnp: Putative transposase
+Transposases are needed for efficient transposition of the insertion sequence or transposon DNA. Thi...
+Accession: pfam04986 ID: 377437
+
+11. DDE_Tnp_IS66: Transposase IS66 family
+Transposase proteins are necessary for efficient DNA transposition. This family includes IS66 from A...
+Accession: pfam03050 ID: 376980
+
+12. DDE_Tnp_ISL3: Transposase
+Transposase proteins are necessary for efficient DNA transposition. Contains transposases for IS204,...
+Accession: pfam01610 ID: 376574
+
+13. DDE_Tnp_1: Transposase DDE domain
+Transposase proteins are necessary for efficient DNA transposition. This domain is a member of the D...
+Accession: pfam01609 ID: 376573
+
+14. DEDD_Tnp_IS110: Transposase
+Transposase proteins are necessary for efficient DNA transposition. This family includes an amino-te...
+Accession: pfam01548 ID: 376564
+
+15. DDE_Tnp_Tn3: Tn3 transposase DDE domain
+This family includes transposases of Tn3, Tn21, Tn1721, Tn2501, Tn3926 transposons from E-coli. The ...
+Accession: pfam01526 ID: 376561
+
+16. Plavaka: Plavaka transposase
+A transposase with an RNaseH catalytic domain that often has a histone binding BAM/BAH domain at the...
+Accession: pfam18759 ID: 376181
+
+17. KDZ: Kyakuja-Dileera-Zisupton transposase
+A transposase family with an RNaseH catalytic domain, often fused to DNA binding domains such as SAP...
+Accession: pfam18758 ID: 376180
+
+18. HTH_48: HTH domain in Mos1 transposase
+The N-terminal domain of the Mos1 Mariner transposase comprises two HTH domains. This HTH domain bin...
+Accession: pfam17906 ID: 375419
+
+19. DDE_Tnp_1_6: Transposase DDE domain
+Transposase proteins are necessary for efficient DNA transposition. This domain is a member of the D...
+Accession: pfam13751 ID: 372705
+
+20. DDE_Tnp_1_3: Transposase DDE domain
+Transposase proteins are necessary for efficient DNA transposition. This domain is a member of the D...
+Accession: pfam13612 ID: 372648
+
+21. PDDEXK_2: PD-(D/E)XK nuclease family transposase
+Members of this family belong to the PD-(D/E)XK nuclease superfamily. These proteins are transposase...
+Accession: pfam12784 ID: 372314
+
+22. Zn_Tnp_IS1595: Transposase zinc-ribbon domain
+This zinc binding domain is found in a range of transposase proteins such as ISSPO8, ISSOD11, ISRSSP...
+Accession: pfam12760 ID: 372296
+
+23. DBD_Tnp_Hermes: Hermes transposase DNA-binding domain
+This domain confers specific DNA-binding on Hermes transposase.
+Accession: pfam10683 ID: 371194
+
+24. Transposase_24: Plant transposase (Ptta/En/Spm family)
+Transposase proteins are necessary for efficient DNA transposition. This family includes various pla...
+Accession: pfam03004 ID: 367291
+
+25. HTH_Tnp_1: Transposase
+Transposase proteins are necessary for efficient DNA transposition. This family consists of various ...
+Accession: pfam01527 ID: 366690
+
+26. HTH_Tnp_Tc3_2: Transposase
+Transposase proteins are necessary for efficient DNA transposition. This family includes the amino-t...
+Accession: pfam01498 ID: 366677
+
+27. Transposase_1: Transposase (partial DDE domain)
+This family includes the mariner transposase.
+Accession: pfam01359 ID: 366592
+
+28. DDE_Tnp_IS1: IS1 transposase
+Transposase proteins are necessary for efficient DNA transposition. This family represents bacterial...
+Accession: cl00721 ID: 294470
+
+29. DDE_Tnp_1_5: Transposase DDE domain
+Transposase proteins are necessary for efficient DNA transposition. This domain is a member of the D...
+Accession: pfam13737 ID: 290455
+
+30. DDE_Tnp_1_2: Transposase DDE domain
+Transposase proteins are necessary for efficient DNA transposition. This domain is a member of the D...
+Accession: pfam13586 ID: 290319
+
+31. OrfB_Zn_ribbon: Putative transposase DNA-binding domain
+This putative domain is found at the C-terminus of a large number of transposase proteins. This doma...
+Accession: pfam07282 ID: 284650
+
+32. DDE_Tnp_IS1: IS1 transposase
+Transposase proteins are necessary for efficient DNA transposition. This family represents bacterial...
+Accession: pfam03400 ID: 281403
+
+33. HTH_Tnp_IS630: Transposase
+Transposase proteins are necessary for efficient DNA transposition. This family includes insertion s...
+Accession: pfam01710 ID: 279973
+
+34. T_den_put_tspse: conserved hypothetical protein (putative transposase or invertase)
+Several lines of evidence suggest that members of this family (loaded as a fragment mode model to fi...
+Accession: TIGR01784 ID: 273806
+
+35. INT_tnpB_C_Tn554: Putative Transposase B from transposon Tn554, C-terminal catalytic domain
+This family includes putative Transposase B from transposon Tn554. It belongs to a DNA breaking-rejo...
+Accession: cd01187 ID: 271187
+
+36. INT_tnpA_C_Tn554: Putative Transposase A from transposon Tn554, C-terminal catalytic domain
+This family includes putative Transposase A from transposon Tn554. It belongs to a DNA breaking-rejo...
+Accession: cd01186 ID: 271186
+
+37. Tnp_P_element_C: 87kDa Transposase
+This domain family is found in eukaryotes, and is typically between 78 and 110 amino acids in length...
+Accession: pfam12596 ID: 257152
+
+38. HTH_Tnp_Tc3_1: Tc3 transposase
+Tc3 is transposase with a specific DNA-binding domain which contains three alpha-helices, two of whi...
+Accession: pfam11427 ID: 192757
+
+39. Transposase_21: Transposase family tnp2
+This family represents a conserved region approximately 260 residues long within a number of hypothe...
+Accession: cl29371 ID: 392069
+
+40. Transposase_31: Putative transposase, YhgA-like
+This family of putative transposases includes the YhgA sequence from Escherichia coli and several pr...
+Accession: cl29316 ID: 392048
+
+41. HTH_Tnp_Tc5: Tc5 transposase DNA-binding domain
+
+Accession: cl12115 ID: 386276
+
+42. DDE_Tnp_IS1595: ISXO2-like transposase domain
+This domain probably functions as an integrase that is found in a wide variety of transposases, incl...
+Accession: cl01481 ID: 382559
+
+43. Y1_Tnp: Transposase IS200 like
+Transposases are needed for efficient transposition of the insertion sequence or transposon DNA. Thi...
+Accession: cl00848 ID: 382241
+
+44. SET_SETMAR: SET domain (including pre-SET and post-SET domains) found in SET domain and mariner transposase fusion protein (SETMAR) and similar proteins
+SETMAR (also termed metnase) is a DNA-binding protein that is indirectly recruited to sites of DNA d...
+Accession: cd10544 ID: 380942
+
+45. zf-ISL3: zinc-finger of transposase IS204/IS1001/IS1096/IS1165
+
+Accession: pfam14690 ID: 379669
+
+46. Zn_Tnp_IS91: Transposase zinc-binding domain
+This domain is likely to be a zinc-binding domain. It is found at the N-terminus of transposases bel...
+Accession: pfam14319 ID: 379554
+
+47. HTH_Tnp_ISL3: Helix-turn-helix domain of transposase family ISL3
+
+Accession: pfam13542 ID: 379250
+
+48. DUF4096: Putative transposase of IS4/5 family (DUF4096)
+
+Accession: pfam13340 ID: 379129
+
+49. Mu-transpos_C: Mu transposase, C-terminal
+Members of this family are found in various prokaryotic integrases and transposases. They adopt a be...
+Accession: pfam09299 ID: 378147
+
+50. DUF772: Transposase domain (DUF772)
+This presumed domain is found at the N-terminus of many proteins found in transposons.
+Accession: pfam05598 ID: 377531
+
+51. Transposase_20: Transposase IS116/IS110/IS902 family
+Transposases are needed for efficient transposition of the insertion sequence or transposon DNA. Thi...
+Accession: pfam02371 ID: 376773
+
+52. Y1_Tnp: Transposase IS200 like
+Transposases are needed for efficient transposition of the insertion sequence or transposon DNA. Thi...
+Accession: pfam01797 ID: 376616
+
+53. Transpos_assoc: Transposase-associated domain
+
+Accession: pfam13963 ID: 372846
+
+54. DDE_Tnp_1_7: Transposase IS4
+
+Accession: pfam13843 ID: 372752
+
+55. HTH_Tnp_1_2: Helix-turn-helix of insertion element transposase
+This is a family of largely phage proteins which are likely to be a helix-turn-helix insertion eleme...
+Accession: pfam13022 ID: 372433
+
+56. DDE_Tnp_IS1595: ISXO2-like transposase domain
+This domain probably functions as an integrase that is found in a wide variety of transposases, incl...
+Accession: pfam12762 ID: 372298
+
+57. MULE: MULE transposase domain
+This domain was identified by Babu and colleagues.
+Accession: pfam10551 ID: 371130
+
+58. DDE_Tnp_ISAZ013: Rhodopirellula transposase DDE domain
+These transposases are found in the planctomycete Rhodopirellula baltica, the cyanobacterium Nostoc,...
+Accession: pfam07592 ID: 369439
+
+59. Transposase_31: Putative transposase, YhgA-like
+This family of putative transposases includes the YhgA sequence from Escherichia coli and several pr...
+Accession: pfam04754 ID: 368098
+
+60. Transp_Tc5_C: Tc5 transposase C-terminal domain
+This family corresponds to a C-terminal cysteine rich region that probably binds to a metal ion and ...
+Accession: pfam04236 ID: 367883
+
+61. HTH_Tnp_Tc5: Tc5 transposase DNA-binding domain
+
+Accession: pfam03221 ID: 367403
+
+62. Transposase_23: TNP1/EN/SPM transposase
+
+Accession: pfam03017 ID: 367298
+
+63. Transposase_21: Transposase family tnp2
+
+Accession: pfam02992 ID: 367286
+
+64. DDE_2: Bacteriophage Mu transposase
+
+Accession: pfam02914 ID: 367246
+
+65. OrfB_IS605: Probable transposase
+This family includes IS891, IS1136 and IS1341. DUF1225, pfam06774, has now been merged into this fam...
+Accession: pfam01385 ID: 366606
+
+66. DBD_Tnp_Mut: MuDR family transposase
+This region is found in plant proteins that are presumed to be the transposases for Mutator transpos...
+Accession: pfam03108 ID: 335224
+
+67. Transposase_mut: Transposase, Mutator family
+
+Accession: cl27632 ID: 332453
+
+68. Transposase_mut: Transposase, Mutator family
+
+Accession: pfam00872 ID: 307151
+
+69. Tnp_P_element: Transposase protein
+Protein in this family are transposases found in insects. This region is about 230 amino acids in le...
+Accession: pfam12017 ID: 288840
+
+70. tspaseT_teng_C: transposase, IS605 OrfB family, central region
+This model represents a region of a sequence similarity between a family of putative transposases of...
+Accession: TIGR01766 ID: 273793
+
+71. COG5659: SRSO17 transposase [Mobilome: prophages, transposons]
+
+Accession: COG5659 ID: 227946
+
+72. COG5558: Transposase  [Mobilome: prophages, transposons]
+
+Accession: COG5558 ID: 227845
+
+73. YadD: Predicted transposase YdaD [Replication, recombination and repair]
+
+Accession: COG5464 ID: 227751
+
+74. YhhI: Predicted transposase YbfD/YdcC associated with H repeats [Mobilome: prophages, transposons]
+
+Accession: COG5433 ID: 227720
+
+75. COG5421: Transposase  [Mobilome: prophages, transposons]
+
+Accession: COG5421 ID: 227708
+
+76. COG4644: Transposase and inactivated derivatives, TnpA family  [Mobilome: prophages, transposons]
+
+Accession: COG4644 ID: 226991
+
+77. COG4584: Transposase [Mobilome: prophages, transposons]
+
+Accession: COG4584 ID: 226950
+
+78. InsA: Transposase [Mobilome: prophages, transposons]
+
+Accession: COG3677 ID: 226202
+
+79. COG3676: Transposase and inactivated derivatives  [Mobilome: prophages, transposons]
+
+Accession: COG3676 ID: 226201
+
+80. COG3666: Transposase [Mobilome: prophages, transposons]
+
+Accession: COG3666 ID: 226192
+
+81. COG3547: Transposase [Mobilome: prophages, transposons]
+
+Accession: COG3547 ID: 226077
+
+82. COG3464: Transposase [Mobilome: prophages, transposons]
+
+Accession: COG3464 ID: 225995
+
+83. COG3436: Transposase [Mobilome: prophages, transposons]
+
+Accession: COG3436 ID: 225970
+
+84. COG3415: Transposase [Mobilome: prophages, transposons]
+
+Accession: COG3415 ID: 225949
+
+85. InsG: IS4 transposase [Mobilome: prophages, transposons]
+
+Accession: COG3385 ID: 225920
+
+86. COG3335: Transposase [Mobilome: prophages, transposons]
+
+Accession: COG3335 ID: 225872
+
+87. IS285: Transposase (or an inactivated derivative) [Mobilome: prophages, transposons]
+
+Accession: COG3328 ID: 225865
+
+88. Rve: Transposase (or an inactivated derivative) [Mobilome: prophages, transposons]
+
+Accession: COG3316 ID: 225853
+
+89. COG3293: Transposase [Mobilome: prophages, transposons]
+
+Accession: COG3293 ID: 225830
+
+90. IS5: Transposase and inactivated derivatives, IS5 family [Mobilome: prophages, transposons]
+
+Accession: COG3039 ID: 225581
+
+91. InsE: Transposase and inactivated derivatives [Mobilome: prophages, transposons]
+
+Accession: COG2963 ID: 225511
+
+92. Tra8: Transposase and inactivated derivatives, IS30 family [Mobilome: prophages, transposons]
+
+Accession: COG2826 ID: 225382
+
+93. Tra5: Transposase InsO and inactivated derivatives [Mobilome: prophages, transposons]
+
+Accession: COG2801 ID: 225361
+
+94. RAYT: REP element-mobilizing transposase RayT [Mobilome: prophages, transposons]
+
+Accession: COG1943 ID: 224854
+
+95. InsB: Transposase and inactivated derivatives, IS1 family [Mobilome: prophages, transposons]
+
+Accession: COG1662 ID: 224576
+
+96. InsQ: Transposase [Mobilome: prophages, transposons]
+
+Accession: COG0675 ID: 223747
+
+97. PRK09956: ISNCY family transposase
+
+Accession: PRK09956 ID: 182167
+
+98. DDE_Tnp_2: Archaeal putative transposase ISC1217
+
+Accession: pfam04693 ID: 147046
+
+99. tspaseT_teng_N: transposase, putative, N-terminal domain
+This model represents the N-terminal region of a family of putative transposases found in the larges...
+Accession: TIGR01765 ID: 130826
+
+100. ZnF_PMZ: plant mutator transposase zinc finger
+
+Accession: smart00575 ID: 128845
+
+101. P-loop_NTPase: P-loop containing Nucleoside Triphosphate Hydrolases
+Members of the P-loop NTPase domain superfamily are characterized by a conserved nucleotide phosphat...
+Accession: cl38936 ID: 393306
+
+102. DDE_Tnp_4: DDE superfamily endonuclease
+This family of proteins are related to pfam00665 and are probably endonucleases of the DDE superfami...
+Accession: cl21562 ID: 389813
+
+103. rve: Integrase core domain
+Integrase mediates integration of a DNA copy of the viral genome into the host chromosome. Integrase...
+Accession: cl21549 ID: 389805
+
+104. Ser_Recombinase
+Serine Recombinase family, catalytic domain; a DNA binding domain may be present either N- or C-term...
+Accession: cl02788 ID: 383127
+
+105. CxC2: CxC2 like cysteine cluster associated with KDZ transposases
+A predicted Zinc chelating domain present N-terminal to the KDZ transposase domain.
+Accession: cl39014 ID: 393384
+
+106. HTH: Helix-turn-helix domains
+A large family of mostly alpha-helical protein domains with a characteristic fold; most members func...
+Accession: cl21459 ID: 389747
+
+107. HTH_MerR-SF: Helix-Turn-Helix DNA binding domain of transcription regulators from the MerR superfamily
+Helix-turn-helix (HTH) transcription regulator MerR superfamily, N-terminal domain. The MerR family ...
+Accession: cl02600 ID: 383042
+
+108. DNA_BRE_C: DNA breaking-rejoining enzymes, C-terminal catalytic domain
+The DNA breaking-rejoining enzyme superfamily includes type IB topoisomerases and tyrosine based sit...
+Accession: cl00213 ID: 381866
+
+109. P-loop_NTPase: P-loop containing Nucleoside Triphosphate Hydrolases
+Members of the P-loop NTPase domain superfamily are characterized by a conserved nucleotide phosphat...
+Accession: cl38985 ID: 393355
+
+110. Tn7_Tnp_TnsA_N: TnsA endonuclease N terminal
+The Tn7 transposase is composed of proteins TnsA and TnsB. DNA breakage at the 5' end of the transpo...
+Accession: cl21695 ID: 389871
+
+111. DDE_5: DDE superfamily endonuclease
+This family of proteins are related to pfam00665 and are probably endonucleases of the DDE superfami...
+Accession: cl17874 ID: 388455
+
+112. DDE_Tnp_1_assoc: DDE_Tnp_1-associated
+This domain is frequently found N-terminal to the transposase, IS family DDE_Tnp_1, pfam01609 and it...
+Accession: pfam13808 ID: 379382
+
+113. DUF4158: Domain of unknown function (DUF4158)
+The exact function of this domain is not clear, but it frequently occurs as an N-terminal region of ...
+Accession: pfam13700 ID: 379339
+
+114. DDE_5: DDE superfamily endonuclease
+This family of proteins are related to pfam00665 and are probably endonucleases of the DDE superfami...
+Accession: pfam13546 ID: 379252
+
+115. HTH_OrfB_IS605: Helix-turn-helix domain
+This is the N terminal helix-turn-helix domain of Transposase_2 pfam01385.
+Accession: pfam12323 ID: 378838
+
+116. Tn7_Tnp_TnsA_N: TnsA endonuclease N terminal
+The Tn7 transposase is composed of proteins TnsA and TnsB. DNA breakage at the 5' end of the transpo...
+Accession: pfam08722 ID: 378037
+
+117. Tn7_Tnp_TnsA_C: TnsA endonuclease C terminal
+The Tn7 transposase is composed of proteins TnsA and TnsB. DNA breakage at the 5' end of the transpo...
+Accession: pfam08721 ID: 378036
+
+118. IstB_IS21_ATP: IstB-like ATP binding N-terminal
+This bacterial domain is found to the N-terminus of the pfam01695 like ATP binding domain in protein...
+Accession: pfam08483 ID: 378004
+
+119. CxC7: CxC7 like cysteine cluster associated with KDZ transposases
+A predicted Zinc chelating domain present N-terminal to the KDZ transposase domain.
+Accession: pfam18866 ID: 376285
+
+120. CxC3: CxC3 like cysteine cluster associated with KDZ transposases
+A predicted Zinc chelating domain present N-terminal to the KDZ transposase domain.
+Accession: pfam18804 ID: 376223
+
+121. CxC2: CxC2 like cysteine cluster associated with KDZ transposases
+A predicted Zinc chelating domain present N-terminal to the KDZ transposase domain.
+Accession: pfam18803 ID: 376222
+
+122. CxC1: CxC1 like cysteine cluster associated with KDZ transposases
+A predicted Zinc chelating domain present N-terminal to the KDZ transposase domain.
+Accession: pfam18802 ID: 376221
+
+123. CxC6: CxC6 like cysteine cluster associated with KDZ transposases
+A predicted Zinc chelating domain inserted into the core of the KDZ transposase domain.
+Accession: pfam18721 ID: 376144
+
+124. CxC5: CxC5 like cysteine cluster associated with KDZ transposases
+A predicted Zinc chelating domain present N-terminal to the KDZ transposase domain.
+Accession: pfam18718 ID: 376141
+
+125. CxC4: CxC4 like cysteine cluster associated with KDZ transposases
+A predicted Zinc chelating domain present N-terminal to the KDZ transposase domain.
+Accession: pfam18717 ID: 376140
+
+126. DUF4216: Domain of unknown function (DUF4216)
+This DUF is sometimes found at the C-terminal end of proteins carrying a Transposase_21 domain, pfam...
+Accession: pfam13952 ID: 372837
+
+127. HTH_Tnp_4: Helix-turn-helix of DDE superfamily endonuclease
+This domain is the probable DNA-binding region of transposase enzymes, necessary for efficient DNA t...
+Accession: pfam13613 ID: 372649
+
+128. DDE_Tnp_4: DDE superfamily endonuclease
+This family of proteins are related to pfam00665 and are probably endonucleases of the DDE superfami...
+Accession: pfam13359 ID: 372577
+
+129. Maelstrom: piRNA pathway germ-plasm component
+Maelstrom is a germ-plasm component protein, that is shown to be functionally involved in the piRNA ...
+Accession: pfam13017 ID: 372431
+
+130. Tet_JBP: Oxygenase domain of the 2OGFeDO superfamily
+A double-stranded beta helix (DSBH) fold domain of the 2-oxoglutarate (2OG)-Fe(II)-dependent dioxyge...
+Accession: pfam12851 ID: 372343
+
+131. Tn7_TnsC_Int: Tn7 transposition regulator TnsC
+TnsC is a molecular switch that regulates transposition and interacts with TnsA which is a component...
+Accession: pfam11426 ID: 371524
+
+132. DUF659: Protein of unknown function (DUF 659)
+Transposase-like protein with no known function.
+Accession: pfam04937 ID: 368202
+
+133. DDE_1: DDE superfamily endonuclease
+This family of proteins are related to pfam00665 and are probably endonucleases of the DDE superfami...
+Accession: pfam03184 ID: 367380
+
+134. HTH_Tnp_Mu_1: Mu DNA-binding domain
+This family consists of MuA-transposase and repressor protein CI. These proteins contain homologous ...
+Accession: pfam02316 ID: 367032
+
+135. IstB_IS21: IstB-like ATP binding protein
+This protein contains an ATP/GTP binding P-loop motif. It is found associated with IS21 family inser...
+Accession: pfam01695 ID: 366760
+
+136. DDE_3: DDE superfamily endonuclease
+This family of proteins are related to pfam00665 and are probably endonucleases of the DDE superfami...
+Accession: pfam13358 ID: 315923
+
+137. LZ_Tnp_IS481: leucine-zipper of insertion element IS481
+This is the upstream region of the conjoined ORF AB of insertion element 481. The significance of IS...
+Accession: pfam13011 ID: 289759
+
+138. SR_TndX_transposase
+Serine Recombinase (SR) family, TndX-like transposase subfamily, catalytic domain; composed of large...
+Accession: cd03770 ID: 239739
+
+139. SR_IS607_transposase_like
+Serine Recombinase (SR) family, IS607-like transposase subfamily, catalytic domain; members contain ...
+Accession: cd03769 ID: 239738
+
+140. Ser_Recombinase
+Serine Recombinase family, catalytic domain; a DNA binding domain may be present either N- or C-term...
+Accession: cd00338 ID: 238206
+
+141. PRK14702
+insertion element IS2 transposase InsD; Provisional
+Accession: PRK14702 ID: 237792
+
+142. PHA02517
+putative transposase OrfB; Reviewed
+Accession: PHA02517 ID: 222853
+
+143. PRK09409
+IS2 transposase TnpB; Reviewed
+Accession: PRK09409 ID: 181829
+
+144. PRK09183
+transposase/IS protein; Provisional
+Accession: PRK09183 ID: 181681
+
+145. PRK06526
+transposase; Provisional
+Accession: PRK06526 ID: 180607
+
+146. PHA02942
+putative transposase; Provisional
+Accession: PHA02942 ID: 165252
+
+147. PRK08181
+transposase; Validated
+Accession: PRK08181 ID: 136670
+
+148. HTH_MerR-trunc: Helix-Turn-Helix DNA binding domain of truncated MerR-like proteins
+Proteins in this family mostly have a truncated helix-turn-helix (HTH) MerR-like domain. They lack a...
+Accession: cd04762 ID: 133390

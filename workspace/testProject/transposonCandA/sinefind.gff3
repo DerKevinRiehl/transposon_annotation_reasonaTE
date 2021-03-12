@@ -1,0 +1,24 @@
+# sineFinder Annotation
+# Structure of this file: 
+# 1)	Chromosome
+# 2)	Annotation Software
+# 3)	Annotation Feature
+# 4)	Start Position
+# 5)	End Position
+# 6)	Score / Probability
+# 7)	Strand
+# 8)	Phase (not used)
+# 9)	TransposonNr
+# 10)	Attributes separated by ;
+seq1	sineFinder	transposon	100083	100228	.	-	.	1	
+seq1	sineFinder	tsd	100217	100228	10	-	.	1	Left TSD of transposon 1
+seq1	sineFinder	tsd	100083	100094	10	-	.	1	Right TSD of transposon 1
+seq2	sineFinder	transposon	147939	148457	.	-	.	2	
+seq2	sineFinder	tsd	148446	148457	10	-	.	2	Left TSD of transposon 2
+seq2	sineFinder	tsd	147939	147950	10	-	.	2	Right TSD of transposon 2
+seq2	sineFinder	transposon	98454	98579	.	-	.	3	
+seq2	sineFinder	tsd	98564	98579	12	-	.	3	Left TSD of transposon 3
+seq2	sineFinder	tsd	98454	98469	12	-	.	3	Right TSD of transposon 3
+seq2	sineFinder	transposon	16712	16836	.	-	.	4	
+seq2	sineFinder	tsd	16823	16836	11	-	.	4	Left TSD of transposon 4
+seq2	sineFinder	tsd	16712	16725	11	-	.	4	Right TSD of transposon 4

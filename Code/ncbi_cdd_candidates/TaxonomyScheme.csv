@@ -1,0 +1,378 @@
+ConTEdb	DNA transpos	2
+ConTEdb	DNA transposons,Helitron,Helitron	2.3
+ConTEdb	DNA transposons,TIR,hAT	2.1.2
+ConTEdb	DNA transposons,TIR,Maverick	2.4
+ConTEdb	DNA transposons,TIR,Merlin	2.1.4
+ConTEdb	DNA transposons,TIR,P	2.1.6
+ConTEdb	DNA transposons,TIR,PIF-Harbinger	2.1.8
+ConTEdb	DNA transposons,TIR,TcMar	2.1.1
+ConTEdb	DNA transposons,TIR,Unknown	2.1
+ConTEdb	Retrotransposons,LINE,Jockey	1.4.3
+ConTEdb	Retrotransposons,LINE,L1	1.4.4
+ConTEdb	Retrotransposons,LINE,Penelope	1.3.1
+ConTEdb	Retrotransposons,LINE,RTE	1.4.2
+ConTEdb	Retrotransposons,LINE,RTE-X	1.4.2
+ConTEdb	Retrotransposons,LTR,Copia	1.1.1
+ConTEdb	Retrotransposons,LTR,Copia(Xen1)	1.1.1
+ConTEdb	Retrotransposons,LTR,DIRS	1.2
+ConTEdb	Retrotransposons,LTR,ERV	1.1.5
+ConTEdb	Retrotransposons,LTR,ERV1	1.1.5
+ConTEdb	Retrotransposons,LTR,ERV4	1.1.5
+ConTEdb	Retrotransposons,LTR,ERVK	1.1.5
+ConTEdb	Retrotransposons,LTR,ERVL	1.1.5
+ConTEdb	Retrotransposons,LTR,Gypsy	1.1.2
+ConTEdb	Retrotransposons,LTR,Ngaro	1.2.2
+ConTEdb	Retrotransposons,LTR,Pao	1.1.3
+ConTEdb	Retrotransposons,LTR,Unknown	1.1
+ConTEdb	Retrotransposons,LTR,Viper	1.2.1
+ConTEdb	DNA transposons,MITE,MITE	2.5
+ConTEdb	DNA transposons,TIR,CMC	2.1.11
+ConTEdb	DNA transposons,TIR,Ginger	2.1.13
+ConTEdb	DNA transposons,TIR,IS3EU	2.1
+ConTEdb	DNA transposons,TIR,MuLE	2.1.10
+ConTEdb	DNA transposons,TIR,Sola	2.1.12
+ConTEdb	Retrotransposons,LINE,CR1	1.4.3
+ConTEdb	Retrotransposons,LINE,DRE	1.4.8
+ConTEdb	Retrotransposons,LINE,L2	1.4.3
+ConTEdb	Retrotransposons,LINE,R1	1.4.5
+ConTEdb	Retrotransposons,LINE,Tad1	1.4.5
+ConTEdb	Retrotransposons,LTR,Caulimovirus	1.1.4
+ConTEdb	Retrotransposons,LTR,Ginger	2.1.13
+ConTEdb	Retrotransposons,LINE,Penelope	1.4.7
+DPTEdb	DNA transposons,Helitron,Helitron	2.3
+DPTEdb	DNA transposons,TIR,hAT	2.1.2
+DPTEdb	DNA transposons,TIR,P	2.1.6
+DPTEdb	DNA transposons,TIR,PIF-Harbinger	2.1.8
+DPTEdb	DNA transposons,TIR,TcMar	2.1.1
+DPTEdb	DNA transposons,TIR,Unknown	2.1
+DPTEdb	Retrotransposons,LINE,Jockey	1.4.3
+DPTEdb	Retrotransposons,LINE,L1	1.4.4
+DPTEdb	Retrotransposons,LINE,R2	1.4.1
+DPTEdb	Retrotransposons,LINE,RTE	1.4.2
+DPTEdb	Retrotransposons,LINE,RTE-BovB	1.4.2
+DPTEdb	Retrotransposons,LINE,Unknown	1.4
+DPTEdb	Retrotransposons,LTR,Copia	1.1.1
+DPTEdb	Retrotransposons,LTR,ERV1	1.1.5
+DPTEdb	Retrotransposons,LTR,ERV4	1.1.5
+DPTEdb	Retrotransposons,LTR,ERVK	1.1.5
+DPTEdb	Retrotransposons,LTR,ERVL	1.1.5
+DPTEdb	Retrotransposons,LTR,Gypsy	1.1.2
+DPTEdb	Retrotransposons,LTR,Ngaro	1.2.2
+DPTEdb	Retrotransposons,LTR,Pao	1.1.3
+DPTEdb	Retrotransposons,LTR,Unknown	1.1
+DPTEdb	DNA transposons,MITE,MITE	2.5
+DPTEdb	DNA transposons,TIR,Academ	2.1.14
+DPTEdb	DNA transposons,TIR,CMC	2.1.11
+DPTEdb	DNA transposons,TIR,MULE	2.1.10
+DPTEdb	DNA transposons,TIR,Novosib	2.1.18
+DPTEdb	Retrotransposons,LINE,CR1	1.4.3
+DPTEdb	Retrotransposons,LINE,CRE	1.4.1
+DPTEdb	Retrotransposons,LINE,DRE	1.4.8
+DPTEdb	Retrotransposons,LINE,I	1.4.5
+DPTEdb	Retrotransposons,LINE,L2	1.4.3
+DPTEdb	Retrotransposons,LINE,Penelope	1.4.7
+DPTEdb	Retrotransposons,LINE,Rex	1.4.3
+DPTEdb	Retrotransposons,LINE,Tad1	1.4.5
+DPTEdb	Retrotransposons,LTR,Caulimovirus	1.1.4
+DPTEdb	Retrotransposons,LTR,DIRS	1.2
+mipsREdat-PGSB	DNA	2
+mipsREdat-PGSB	DNA/Harbinger	2.1.8
+mipsREdat-PGSB	DNA/hAT	2.1.2
+mipsREdat-PGSB	DNA/hAT-Ac	2.1.2
+mipsREdat-PGSB	DNA/TcMar	2.1.1
+mipsREdat-PGSB	DNA/TcMar-Pogo	2.1.1
+mipsREdat-PGSB	LINE	1.4
+mipsREdat-PGSB	LTR	1.1
+mipsREdat-PGSB	LTR/Copia	1.1.1
+mipsREdat-PGSB	LTR/Gypsy	1.1.2
+mipsREdat-PGSB	RC/Helitron	2.3
+mipsREdat-PGSB	Retroelement	1
+mipsREdat-PGSB	SINE	1.5
+mipsREdat-PGSB	DNA/En-Spm	2.1.9
+mipsREdat-PGSB	DNA/Mite	2.5
+mipsREdat-PGSB	DNA/MuDR	2.1.10
+mipsREdat-PGSB	DNA/Stowaway	2.5.2
+mipsREdat-PGSB	DNA/Tourist	2.5.1
+MnTEdb	DNA transposons,Helitron,Helitron	2.3
+MnTEdb	DNA transposons,TIR,hAT	2.1.2
+MnTEdb	DNA transposons,TIR,PIF-Harbinger	2.1.8
+MnTEdb	Retrotransposons,LINE,L1	1.4.4
+MnTEdb	Retrotransposons,LINE,RTE-BovB	1.4.2
+MnTEdb	Retrotransposons,LTR,Copia	1.1.1
+MnTEdb	Retrotransposons,LTR,Gypsy	1.1.2
+MnTEdb	DNA transposons,MITE,MITE	2.5
+MnTEdb	DNA transposons,TIR,CMC	2.1.11
+MnTEdb	DNA transposons,TIR,MuLE	2.1.10
+MnTEdb	Retrotransposons,LTR,Lard	1.1
+MnTEdb	Retrotransposons,LTR,Trim	1.1
+PMITEdb	PIF/Harbinger	2.1.8
+PMITEdb	hAT	2.1.2
+PMITEdb	Mutator	2.1.3
+PMITEdb	Tc1/Mariner	2.1.1
+PMITEdb	CACTA	2.1.9
+PMITEdb	P	2.1.6
+PMITEdb	Novosib	2.1.18
+RepBase23.08	BEL	1.1.3
+RepBase23.08	Copia	1.1.1
+RepBase23.08	Crypton	2.2
+RepBase23.08	CryptonA	2.2
+RepBase23.08	CryptonF	2.2
+RepBase23.08	CryptonI	2.2
+RepBase23.08	CryptonS	2.2
+RepBase23.08	CryptonV	2.2
+RepBase23.08	DIRS	1.2
+RepBase23.08	DNA transposon	2
+RepBase23.08	ERV1	1.1.5
+RepBase23.08	ERV2	1.1.5
+RepBase23.08	ERV3	1.1.5
+RepBase23.08	ERV4	1.1.5
+RepBase23.08	Gypsy	1.1.2
+RepBase23.08	GYPSY superfamily	1.1.2
+RepBase23.08	GYPSY-I_MT	1.1.2
+RepBase23.08	Harbinger	2.1.8
+RepBase23.08	hAT	2.1.2
+RepBase23.08	HAT superfamily	2.1.2
+RepBase23.08	Helitron	2.3
+RepBase23.08	Jockey	1.4.3
+RepBase23.08	L1	1.4.4
+RepBase23.08	LINE	1.4
+RepBase23.08	LINE1	1.4.4
+RepBase23.08	LTR Retrotransposon	1.1
+RepBase23.08	Mariner/Tc1	2.1.1
+RepBase23.08	mariner/Tc1 superfamily	2.1.1
+RepBase23.08	Merlin	2.1.4
+RepBase23.08	P	2.1.6
+RepBase23.08	P-element	2.1.6
+RepBase23.08	Penelope	1.3.1
+RepBase23.08	piggyBac	2.1.7
+RepBase23.08	R2	1.4.1
+RepBase23.08	RTE	1.4.2
+RepBase23.08	RTETP	1.4.2
+RepBase23.08	RTEX	1.4.2
+RepBase23.08	SINE	1.5
+RepBase23.08	tRNA	1.5.1
+RepBase23.08	Academ	2.1.14
+RepBase23.08	Caulimoviridae	1.1.4
+RepBase23.08	Chapaev	2.1.9
+RepBase23.08	CR1	1.4.3
+RepBase23.08	CR1 clad	1.4.3
+RepBase23.08	CR1 clade	1.4.3
+RepBase23.08	Crack	1.4.3
+RepBase23.08	CRE	1.4.1
+RepBase23.08	Dada	2.1.15
+RepBase23.08	Daphne	1.4.3
+RepBase23.08	Endogenous Retrovirus	1.1.4
+RepBase23.08	Endogenous retrovirus S71	1.1.4
+RepBase23.08	EnSpm	2.1.9
+RepBase23.08	EnSpm/CACTA	2.1.9
+RepBase23.08	Ginger1	2.1.13
+RepBase23.08	Ginger2/TDD	2.1.13
+RepBase23.08	Gypsy-like endogenous retorvirus	x delete
+RepBase23.08	I	1.4.5
+RepBase23.08	Ingi	1.4.5
+RepBase23.08	IS3EU	2.1
+RepBase23.08	ISFUN1	x delete
+RepBase23.08	ISL2EU	2.1
+RepBase23.08	Kiri	1.4.3
+RepBase23.08	Kolobok	2.1.16
+RepBase23.08	L1 repeat	x delete
+RepBase23.08	L1M4_5	1.4.4
+RepBase23.08	L2	1.4.3
+RepBase23.08	L2A	1.4.3
+RepBase23.08	L2B	1.4.3
+RepBase23.08	LINE_FR	x delete
+RepBase23.08	LINE1 repeat	x delete
+RepBase23.08	LIRP1	x delete
+RepBase23.08	Loa	1.4.5
+RepBase23.08	LTR67	x delete
+RepBase23.08	MITE	2.5
+RepBase23.08	MSAT	x delete
+RepBase23.08	MuDR	2.1.10
+RepBase23.08	NeSL	1.4.1
+RepBase23.08	Nimb	1.4.5
+RepBase23.08	nonautonomous DNA transposon	x delete
+RepBase23.08	Non-autonomous DNA transposon	x delete
+RepBase23.08	Non-LTR Retrotransposon	x delete
+RepBase23.08	Novosib	2.1.18
+RepBase23.08	Outcast	1.4.5
+RepBase23.08	P7SL_MD	x delete
+RepBase23.08	Partial internal sequence of endogenous retrovirus HSRIRT	x delete
+RepBase23.08	PAT	x delete
+RepBase23.08	PEN1	x delete
+RepBase23.08	PEN2	x delete
+RepBase23.08	PEN4	x delete
+RepBase23.08	Polinton	2.4
+RepBase23.08	Proto1	1.4.4
+RepBase23.08	Proto2	1.4.2
+RepBase23.08	R1	1.4.5
+RepBase23.08	R1A_SS	1.4.5
+RepBase23.08	R1B_DS	1.4.5
+RepBase23.08	R1B_SS	1.4.5
+RepBase23.08	R4	1.4.1
+RepBase23.08	RandI	1.4.6
+RepBase23.08	Rex1	1.4.3
+RepBase23.08	SINE_HE1	1.5
+RepBase23.08	SINE1/7SL	1.5.2
+RepBase23.08	SINE2/tRNA	1.5.1
+RepBase23.08	SINE3/5S	1.5.3
+RepBase23.08	SINEU/snRNA	x delete
+RepBase23.08	Sola	2.1.12
+RepBase23.08	Sola1	2.1.12
+RepBase23.08	Sola2	2.1.12
+RepBase23.08	Sola3	2.1.12
+RepBase23.08	Tad1	1.4.5
+RepBase23.08	Tx1	1.4.4
+RepBase23.08	Vingi	1.4.5
+RepBase23.08	Zator	2.1.17
+RepBase23.08	Penelope	1.4.7
+RiTE	#DNA/Harbinger	2.1.8
+RiTE	#DNA/hAT	2.1.2
+RiTE	#DNA/hAT-MITE	2.1.2
+RiTE	#DNA/PiggyBac_Galileo_4776	2.1.7
+RiTE	#DNA/PiggyBac_GLT_SM2_4778	2.1.7
+RiTE	#DNA/PiggyBac_NVREP385_4785	2.1.7
+RiTE	#DNA/PiggyBac_PIGGYB_DNA/piggyBac_4864	2.1.7
+RiTE	#DNA/Tc1-Mariner	2.1.1
+RiTE	#DNA/TcMar	2.1.1
+RiTE	#DNA/Tc-Mar	2.1.1
+RiTE	#DNA/Tc-Mariner	2.1.1
+RiTE	#DNA/Tc-Mariner_stowaway	2.1.1
+RiTE	#DNA/TcMar-MITE	2.1.1
+RiTE	#DNA/Tc-Mar-MITE	2.1.1
+RiTE	#DNA/TcMar-MITE_ORSgTEMT	2.1.1
+RiTE	#LINE	1.4
+RiTE	#LINE/L1	1.4.4
+RiTE	#LINE/RTE	1.4.2
+RiTE	#LINE_Jockey	1.4.3
+RiTE	#LINE_L1	1.4.4
+RiTE	#LTR/Copia	1.1.1
+RiTE	#LTR/DIRS	1.2
+RiTE	#LTR/ERV	1.1.5
+RiTE	#LTR/Gypsy	1.1.2
+RiTE	#LTR/Pao	1.1.3
+RiTE	#LTR/Unknown	1.1
+RiTE	#SINE	1.5
+RiTE	DNA-transposon, Helitron, Helitron	2.3
+RiTE	#DNA/En-Spm	2.1.9
+RiTE	#DNA/En-Spm_punc	2.1.9
+RiTE	#DNA/Harbinger-MITE	x delete
+RiTE	#DNA/Harbinger-N18_RBi_2280	2.1.8
+RiTE	#DNA/Harb-MITE	x delete
+RiTE	#DNA/Micropon	x delete
+RiTE	#DNA/MITE	2.5
+RiTE	#DNA/MITE_BR	2.5
+RiTE	#DNA/MITE_g_MITE	2.5
+RiTE	#DNA/MITE_ORSgTEMT	2.5
+RiTE	#DNA/MITE_pun_MITE_	2.5
+RiTE	#DNA/MuDR	2.1.10
+RiTE	#DNA/MuDR_DNATE	2.1.10
+RiTE	#DNA/Sola_Sola1_scaff103_Cont7013_28137	2.1.12
+RiTE	#DNA/Transib_Transib1_28096	2.1.5
+RiTE	#DNA_041_4ag_40684	x delete
+RiTE	#DNA_055_4bsa_40685	x delete
+RiTE	#DNA_055_4bsb_40686	x delete
+RiTE	#DNA_456_3_40687	x delete
+RiTE	#DNA_nohit_39691_40690	x delete
+RiTE	#DNAt_CACTA/En-Spm_CA_consensus-1	2.1.9
+RiTE	#DNAt_CACTA/En-Spm_Storm_NA_consensus-1	2.1.9
+RiTE	#DNAt_Harbinger	2.1.8
+RiTE	#DNAt_hAT_HA_c9p20275907	2.1.2
+RiTE	#DNAt_hAT_HA_RND-1	2.1.2
+RiTE	#DNAt_hAT_HA_RND-3	2.1.2
+RiTE	#DNAt_hAT_MF_consensus-1	x delete
+RiTE	#DNAt_MULE	2.1.10
+RiTE	#DNAt_Mutatorr	2.1.3
+RiTE	#DNAt_Tc-Mariner	2.1.1
+RiTE	#LINE/I_	1.4.5
+RiTE	#LINE_CR1	1.4.3
+RiTE	#LINE_Daphne	1.4.3
+RiTE	#LINE_g	1.4
+RiTE	#LINE_glab	1.4
+RiTE	#LINE_gnl	1.4
+RiTE	#LINE_L7	1.4
+RiTE	#LINE_punc	1.4
+RiTE	#LINE_R1	1.4.5
+RiTE	#LINE_REX	1.4.3
+RiTE	#LTR/TRIM	1.1
+RiTE	#LTR_168_2_58590	x delete
+RiTE	#LTR_ORSiTERTOOT_821779_58596	x delete
+RiTE	#LTR_pun_Trunc_2167_58598	1.1
+RiTE	#LTR_punc	1.1
+RiTE	#LTR_Trunc4342_Gypsy1_58597	1.1.2
+RiTE	#SINE_At	1.5
+RiTE	#SINE_Au	1.5
+RiTE	#SINE_bart	1.5
+RiTE	#SINE_brac	1.5
+RiTE	#SINE_Faba	1.5
+RiTE	#SINE_glab	1.5
+RiTE	#SINE_glum	1.5
+RiTE	#SINE_gnl	1.5
+RiTE	#SINE_indi	1.5
+RiTE	#SINE_japo	1.5
+RiTE	#SINE_leer	1.5
+RiTE	#SINE_long	1.5
+RiTE	#SINE_meri	1.5
+RiTE	#SINE_niva	1.5
+RiTE	#SINE_OR	1.5
+RiTE	#SINE_p-SINE	1.5
+RiTE	#SINE_punc	1.5
+RiTE	#SINE_RATHE	1.5
+RiTE	#SINE_rufi	1.5
+Soyetedb	ClassI, LINE, L1	1.4.4
+Soyetedb	ClassI, LTR, Copia	1.1.1
+Soyetedb	ClassI, LTR, Gypsy	1.1.2
+Soyetedb	ClassII, Helitron, Helitron	2.3
+Soyetedb	ClassII, TIR, CACTA	2.1.9
+Soyetedb	ClassII, TIR, hAT	2.1.2
+Soyetedb	ClassII, TIR, Mutator	2.1.3
+Soyetedb	ClassII, TIR, PIF-Harbinge	2.1.8
+Soyetedb	ClassII, TIR, Tc1-Mariner	2.1.1
+Soyetedb	ClassI, LINE, Ukn	x delete
+Soyetedb	ClassII, TIR, PONG	x delete
+SPTEDdb	DNA transposons, TIR, Crypton	2.2
+SPTEDdb	DNA transposons, TIR, PIF-Harbinger	2.1.8
+SPTEDdb	DNA transposons, TIR, TcMar	2.1.1
+SPTEDdb	DNA transposons, TIR, Unknown	2.1
+SPTEDdb	DNA transposons, TIR, hAT	2.1.2
+SPTEDdb	DNA transposons, Helitron, Helitron	2.3
+SPTEDdb	Retrotransposons, LINE, L1	1.4.4
+SPTEDdb	Retrotransposons, LTR, Copia	1.1.1
+SPTEDdb	Retrotransposons, LTR, DIRS	1.2
+SPTEDdb	Retrotransposons, LTR, ERV1	1.1.5
+SPTEDdb	Retrotransposons, LTR, ERV4	1.1.5
+SPTEDdb	Retrotransposons, LTR, ERVK	1.1.5
+SPTEDdb	Retrotransposons, LTR, Gypsy	1.1.2
+SPTEDdb	Retrotransposons, LTR, Pao	1.1.3
+SPTEDdb	Retrotransposons, LTR, Unknown	1.1
+SPTEDdb	Retrotransposons, LTR, ERVL	1.1.5
+SPTEDdb	Retrotransposons, LTR, Ngaro	1.2.2
+SPTEDdb	DNA transposons, TIR, CMC	2.1.11
+SPTEDdb	DNA transposons, TIR, MULE	2.1.10
+SPTEDdb	Retrotransposons, LINE, I	1.4.5
+SPTEDdb	Retrotransposons, LINE, L2	1.4.3
+SPTEDdb	Retrotransposons, LTR, Caulimovirus	1.4.5
+SPTEDdb	DNA transposons, MITE, MITE	2.5
+TrepDB	DNA-transposon, Helitron, Helitron	2.3
+TrepDB	DNA-transposon, TIR, hAT	2.1.2
+TrepDB	DNA-transposon, TIR, PiggyBac	2.1.7
+TrepDB	DNA-transposon, TIR, CACTA	2.1.9
+TrepDB	DNA-transposon, TIR, Harbinger	2.1.8
+TrepDB	DNA-transposon, TIR, Mutator	2.1.3
+TrepDB	DNA-transposon, TIR, P	2.1.6
+TrepDB	DNA-transposon, TIR, Mariner	2.1.1
+TrepDB	DNA-transposon, TIR, unknown	2.1
+TrepDB	Retrotransposon, non-LTR (SINE), Jokey	1.4.3
+TrepDB	Retrotransposon, non-LTR (SINE), L1	1.4.4
+TrepDB	Retrotransposon, non-LTR (SINE), unknown	1.4
+TrepDB	Retrotransposon, LTR, Halcyon	1.1
+TrepDB	Retrotransposon, LTR, Copia	1.1.1
+TrepDB	Retrotransposon, LTR, Gypsy	1.1.2
+TrepDB	Retrotransposon, LTR, unknown	1.1
+TrepDB	Retrotransposon, non-LTR (SINE), I	1.4.5
+TrepDB	Retrotransposon, non-LTR (SINE), Pan	x delete
+TrepDB	Retrotransposon, LTR, Echo	x delete
+ConTEdb	DNA transposons,TIR,MULE	2.1.10
+DPTEdb	DNA transposons,TIR,MuLE	2.1.10
+SPTEDdb	DNA transposons, TIR, MuLE	2.1.10
+RiTE	#LINE_Rex	1.4.3
+RepBase23.08	LTR retrotransposon	1.1

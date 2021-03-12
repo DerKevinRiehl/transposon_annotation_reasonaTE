@@ -1,0 +1,128 @@
+
+1. EEP: Exonuclease-Endonuclease-Phosphatase (EEP) domain superfamily
+This large superfamily includes the catalytic domain (exonuclease/endonuclease/phosphatase or EEP do...
+Accession: cl00490 ID: 382041
+
+2. FpgNei_N: N-terminal domain of Fpg (formamidopyrimidine-DNA glycosylase, MutM)_Nei (endonuclease VIII) base-excision repair DNA glycosylases
+DNA glycosylases maintain genome integrity by recognizing base lesions created by ionizing radiation...
+Accession: cl03119 ID: 383245
+
+3. nfo: apurinic endonuclease (APN1)
+All proteins in this family for which functions are known are 5' AP endonculeases that are used in b...
+Accession: TIGR00587 ID: 273156
+
+4. EndIII_4Fe-2S: Iron-sulfur binding domain of endonuclease III
+Escherichia coli endonuclease III (EC 4.2.99.18) is a DNA repair enzyme that acts both as a DNA N-gl...
+Accession: cl38990 ID: 393360
+
+5. EndIII_4Fe-2S: Iron-sulfur binding domain of endonuclease III
+Escherichia coli endonuclease III (EC 4.2.99.18) is a DNA repair enzyme that acts both as a DNA N-gl...
+Accession: pfam10576 ID: 378447
+
+6. Ape1-like_AP-endo: Human Ape1-like subfamily of the ExoIII family apurinic/apyrimidinic (AP) endonucleases
+This subfamily includes human Ape1 (also known as Apex, Hap1, or Ref-1) and related proteins. These ...
+Accession: cd09087 ID: 197321
+
+7. ExoIII_AP-endo: Escherichia coli exonuclease III (ExoIII)-like apurinic/apyrimidinic (AP) endonucleases
+The ExoIII family AP endonucleases belong to the large EEP (exonuclease/endonuclease/phosphatase) su...
+Accession: cd09073 ID: 197307
+
+8. EEP-2: Exonuclease-Endonuclease-Phosphatase (EEP) domain superfamily; uncharacterized family 2
+This family of uncharacterized proteins belongs to a superfamily that includes the catalytic domain ...
+Accession: cd09084 ID: 197318
+
+9. EEP-1: Exonuclease-Endonuclease-Phosphatase domain; uncharacterized family 1
+This family of uncharacterized proteins belongs to a superfamily that includes the catalytic domain ...
+Accession: cd09083 ID: 197317
+
+10. EEP: Exonuclease-Endonuclease-Phosphatase (EEP) domain superfamily
+This large superfamily includes the catalytic domain (exonuclease/endonuclease/phosphatase or EEP do...
+Accession: cd08372 ID: 197306
+
+11. ENDO3c: endonuclease III
+includes endonuclease III (DNA-(apurinic or apyrimidinic site) lyase), alkylbase DNA glycosidases (A...
+Accession: smart00478 ID: 214684
+
+12. EcNei-like_N: N-terminal domain of Escherichia coli Nei/endonuclease VIII and related DNA glycosylases
+This family contains the N-terminal domain of proteobacteria Nei and related DNA glycosylases. It in...
+Accession: cd08965 ID: 176799
+
+13. AP_endonuc_2_N: AP endonuclease family 2 C-terminus
+This highly-conserved sequence is found at the C-terminus of several apurinic/apyrimidinic (AP) endo...
+Accession: pfam07582 ID: 377871
+
+14. AP2Ec: AP endonuclease family 2
+These endonucleases play a role in DNA repair. Cleave phosphodiester bonds at apurinic or apyrimidin...
+Accession: smart00518 ID: 214707
+
+15. BaFpgNei_N_4: Uncharacterized bacterial subgroup of the N-terminal domain of Fpg (formamidopyrimidine-DNA glycosylase, MutM)_Nei  (endonuclease VIII) base-excision repair DNA glycosylases
+This family is an uncharacterized bacterial subgroup of the FpgNei_N domain superfamily. DNA glycosy...
+Accession: cd08976 ID: 176810
+
+16. BaFpgNei_N_3: Uncharacterized bacterial subgroup of the N-terminal domain of Fpg (formamidopyrimidine-DNA glycosylase, MutM)_Nei  (endonuclease VIII) base-excision repair DNA glycosylases
+This family is an uncharacterized bacterial subgroup of the FpgNei_N domain superfamily. DNA glycosy...
+Accession: cd08975 ID: 176809
+
+17. BaFpgNei_N_2: Uncharacterized bacterial subgroup of the N-terminal domain of Fpg (formamidopyrimidine-DNA glycosylase, MutM)_Nei  (endonuclease VIII) base-excision repair DNA glycosylases
+This family is an uncharacterized bacterial subgroup of the FpgNei_N domain superfamily. DNA glycosy...
+Accession: cd08974 ID: 176808
+
+18. BaFpgNei_N_1: Uncharacterized bacterial subgroup of the N-terminal domain of Fpg (formamidopyrimidine-DNA glycosylase, MutM)_Nei  (endonuclease VIII) base-excision repair DNA glycosylases
+This family is an uncharacterized bacterial subgroup of the FpgNei_N domain superfamily. DNA glycosy...
+Accession: cd08973 ID: 176807
+
+19. FpgNei_N: N-terminal domain of Fpg (formamidopyrimidine-DNA glycosylase, MutM)_Nei (endonuclease VIII) base-excision repair DNA glycosylases
+DNA glycosylases maintain genome integrity by recognizing base lesions created by ionizing radiation...
+Accession: cd08773 ID: 176798
+
+20. ENDO3c
+endonuclease III; includes endonuclease III (DNA-(apurinic or apyrimidinic site) lyase), alkylbase D...
+Accession: cl23768 ID: 390075
+
+21. AP2Ec
+AP endonuclease family 2; These endonucleases play a role in DNA repair. Cleave phosphodiester bonds...
+Accession: cl23721 ID: 390045
+
+22. Fapy_DNA_glyco: Formamidopyrimidine-DNA glycosylase N-terminal domain
+This entry represents the catalytic domain of DNA glycosylase/AP lyase enzymes, which are involved i...
+Accession: smart00898 ID: 214895
+
+23. ENDO3c
+endonuclease III; includes endonuclease III (DNA-(apurinic or apyrimidinic site) lyase), alkylbase D...
+Accession: cd00056 ID: 238013
+
+24. AP2Ec
+AP endonuclease family 2; These endonucleases play a role in DNA repair. Cleave phosphodiester bonds...
+Accession: cd00019 ID: 237986
+
+25. PF_Nei_N: N-terminal domain of the plant and fungal Nei and related proteins
+This family contains the N-terminal domain of plant and Fungi Nei and related proteins. It belongs t...
+Accession: cd08972 ID: 176806
+
+26. AcNei2_N: N-terminal domain of the actinomycetal Nei2 and related DNA glycosylases
+This family contains the N-terminal domain of the actinomycetal Nei2 and related DNA glycosylases. I...
+Accession: cd08971 ID: 176805
+
+27. AcNei1_N: N-terminal domain of the actinomycetal Nei1 and related DNA glycosylases
+This family contains the N-terminal domain of the actinomycetal Nei1 and related DNA glycosylases. I...
+Accession: cd08970 ID: 176804
+
+28. MeNeil3_N: N-terminal domain of metazoan Nei-like glycosylase 3 (NEIL3)
+This family contains the N-terminal domain of the Metazoan Neil3. It belongs to the FpgNei_N, [N-ter...
+Accession: cd08969 ID: 176803
+
+29. MeNeil2_N: N-terminal domain of metazoan Nei-like glycosylase 2 (NEIL2)
+This family contains the N-terminal domain of the metazoan protein Neil2. It belongs to the FpgNei_N...
+Accession: cd08968 ID: 176802
+
+30. MeNeil1_N: N-terminal domain of metazoan Nei-like glycosylase 1 (NEIL1)
+This family contains the N-terminal domain of metazoan NEIL1. It belongs to the FpgNei_N, [N-termina...
+Accession: cd08967 ID: 176801
+
+31. EcFpg-like_N: N-terminal domain of Escherichia coli Fpg1/MutM and related bacterial DNA glycosylases
+This family contains the N-terminal domain of Escherichia coli Fpg1/MutM and related bacterial DNA g...
+Accession: cd08966 ID: 176800
+
+32. gcp_kae1: metallohydrolase, glycoprotease/Kae1 family
+This subfamily includes the well-studied secreted O-sialoglycoprotein endopeptidase (glycoprotease, ...
+Accession: TIGR00329 ID: 129429

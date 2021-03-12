@@ -1,0 +1,980 @@
+
+1. AE_Prim_S_like
+AE_Prim_S_like: primase domain similar to that found in the small subunit of archaeal and eukaryotic...
+Accession: cl01287 ID: 382471
+
+2. DNA_pol_A_Aquificae_like: Phylum Aquificae Pol A is different from Escherichia coli  Pol A by three signature sequences
+Family A polymerase functions primarily to fill DNA gaps that arise during DNA repair, recombination...
+Accession: cd08639 ID: 176476
+
+3. pol
+RNA-dependent RNA polymerase
+Accession: PHA00497 ID: 222802
+
+4. DNA_pol_gammaA: Pol gammaA is a family A polymerase that is responsible for DNA replication and repair in mitochondria
+DNA polymerase gamma (Pol gamma), 5'-3' polymerase domain (Pol gammaA). Pol gammaA is a family A pol...
+Accession: cd08641 ID: 176478
+
+5. PolY: Y-family of DNA polymerases
+Y-family DNA polymerases are a specialized subset of polymerases that facilitate translesion synthes...
+Accession: cl28996 ID: 391962
+
+6. DNA_pol_A: Family A polymerase primarily fills DNA gaps that arise during DNA repair, recombination and replication
+DNA polymerase family A, 5'-3' polymerase domain. Family A polymerase functions primarily to fill DN...
+Accession: cl02626 ID: 383059
+
+7. DnaQ_like_exo: DnaQ-like (or DEDD) 3&apos;-5&apos; exonuclease domain superfamily
+The DnaQ-like exonuclease superfamily is a structurally conserved group of 3'-5' exonucleases, which...
+Accession: cl10012 ID: 385652
+
+8. Zn-ribbon: C-terminal zinc ribbon domain of RNA polymerase intrinsic transcript cleavage subunit
+The homologous C-terminal zinc ribbon domains of subunits A12.2, Rpb9, and C11 in RNA Polymerases (P...
+Accession: cl02609 ID: 383047
+
+9. DNAPolymera_Pol: DNA polymerase catalytic subunit Pol
+This family of proteins represents the catalytic subunit, Pol, of the Herpes simplex virus DNA polym...
+Accession: pfam11590 ID: 314473
+
+10. RPA43_OB: RPA43 OB domain in RNA Pol I
+This is OB domain found in RPA43 proteins (DNA-directed RNA polymerase I subunit RPA43, also known a...
+Accession: pfam17875 ID: 375397
+
+11. POLBc
+DNA polymerase type-B family catalytic domain. DNA-directed DNA polymerases elongate DNA by adding n...
+Accession: cl10023 ID: 353046
+
+12. CBS_pair_CAP-ED_NT_Pol-beta-like_DUF294_assoc: Two tandem repeats of the cystathionine beta-synthase (CBS pair) domains associated with the bacterial CAP_ED (cAMP receptor protein effector domain) family of transcription factors, the NT (Nucleotidyltransferase) Pol-beta-like domain, and the DUF294 domain
+This cd contains two tandem repeats of the cystathionine beta-synthase (CBS pair) domains associated...
+Accession: cd04589 ID: 341365
+
+13. CBS_pair_CAP-ED_NT_Pol-beta-like_DUF294_assoc: Two tandem repeats of the cystathionine beta-synthase (CBS pair) domains associated with the bacterial CAP_ED (cAMP receptor protein effector domain) family of transcription factors, the NT (Nucleotidyltransferase) Pol-beta-like domain, and the DUF294 domain
+This cd contains two tandem repeats of the cystathionine beta-synthase (CBS pair) domains associated...
+Accession: cd04587 ID: 341363
+
+14. NT_Pol-beta-like_1: Nucleotidyltransferase (NT) domain of an uncharacterized subgroup of the Pol beta-like NT superfamily
+The Pol beta-like NT superfamily includes DNA polymerase beta and other family X DNA Polymerases, as...
+Accession: cd07749 ID: 143394
+
+15. PPL4: Prim-pol 4
+Family of prim-pol enzymes with predicted roles in RNA processing and repair, potentially acting ind...
+Accession: pfam18188 ID: 375617
+
+16. PPL5: Prim-pol family 5
+Family of prim-pol enzymes currently known only in kinetoplastids.
+Accession: pfam18168 ID: 375602
+
+17. MMS19_N: Dos2-interacting transcription regulator of RNA-Pol-II
+This domain, along with the C-terminal part, pfam12460, is an essential component of a silencing com...
+Accession: pfam14500 ID: 373098
+
+18. RTP1_C1: Required for nuclear transport of RNA pol II C-terminus 1
+This domain is found towards the C-terminus of required for the nuclear transport of RNA pol II prot...
+Accession: pfam10363 ID: 371007
+
+19. RTP1_C2: Required for nuclear transport of RNA pol II C-terminus 2
+This domain is found towards the C-terminus of required for the nuclear transport of RNA pol II prot...
+Accession: pfam10304 ID: 370961
+
+20. Spt5-NGN: Early transcription elongation factor of RNA pol II, NGN section
+Spt5p and prokaryotic NusG are shown to contain a novel 'NGN' domain. The combined NGN and KOW motif...
+Accession: pfam03439 ID: 377036
+
+21. Fmp27_WPPW: RNA pol II promoter Fmp27 protein domain
+Fmp27_WPPW is a conserved domain of a family of proteins involved in RNA polymerase II transcription...
+Accession: pfam10359 ID: 371004
+
+22. Fmp27_GFWDK: RNA pol II promoter Fmp27 protein domain
+Fmp27_GFWDK is a conserved domain of a family of proteins involved in RNA polymerase II transcriptio...
+Accession: pfam10347 ID: 370997
+
+23. Fmp27_SW: RNA pol II promoter Fmp27 protein domain
+Fmp27_SW is a conserved domain of a family of proteins involved in RNA polymerase II transcription i...
+Accession: pfam10305 ID: 370962
+
+24. CDC73_C: RNA pol II accessory factor, Cdc73 family, C-terminal
+CDC73 is an RNA polymerase II accessory factor, and forms part of the Paf1 complex that has roles in...
+Accession: pfam05179 ID: 368320
+
+25. DNA_pol3_delt_C: Processivity clamp loader gamma complex DNA pol III C-term
+This domain lies at the C-terminus of the delta subunit of the DNA polymerase III clamp loader gamma...
+Accession: pfam14840 ID: 291506
+
+26. Med19: Mediator of RNA pol II transcription subunit 19
+Med19 represents a family of conserved proteins which are members of the multi-protein co-activator ...
+Accession: pfam10278 ID: 287279
+
+27. LHP1: La protein, small RNA-binding pol III transcript stabilizing protein and related La-motif-containing proteins involved in translation [Posttranslational modification, protein turnover, chaperones / Translation, ribosomal structure and biogenesis]
+
+Accession: COG5193 ID: 227520
+
+28. NT_Pol-beta-like: Nucleotidyltransferase (NT) domain of DNA polymerase beta and similar proteins
+This superfamily includes the NT domains of DNA polymerase beta and other family X DNA polymerases, ...
+Accession: cl11966 ID: 386233
+
+29. pepsin_retropepsin_like: Cellular and retroviral pepsin-like aspartate proteases
+This family includes both cellular and retroviral pepsin-like aspartate proteases. The cellular peps...
+Accession: cl11403 ID: 386101
+
+30. VHS_ENTH_ANTH: VHS, ENTH and ANTH domain superfamily
+This superfamily is composed of proteins containing a VHS, CID, ENTH, or ANTH domain. The VHS domain...
+Accession: cl02544 ID: 383016
+
+31. PolY_Pol_IV_kappa: DNA Polymerase IV/Kappa
+Pol IV, also known as Pol kappa, DinB, and Dpo4, is a translesion synthesis (TLS) polymerase.  Trans...
+Accession: cd03586 ID: 176459
+
+32. LigD_Pol_like
+LigD_Pol_like: Polymerase (Pol) domain of bacterial LigD proteins similar to Pseudomonas aeruginosa ...
+Accession: cd04861 ID: 240131
+
+33. Zn-ribbon_RPB9: C-terminal zinc ribbon domain of RPB9 subunit of RNA polymerase II
+The C-terminal zinc ribbon domain (C-ribbon) of subunit B9 (Zn-ribbon_RPB9) in RNA polymerase (Pol) ...
+Accession: cd10508 ID: 259793
+
+34. MtLigD_Pol_like
+MtLigD_Pol_like: Polymerase (Pol) domain of bacterial LigD proteins similar to Mycobacterium tubercu...
+Accession: cd04863 ID: 240133
+
+35. PaeLigD_Pol_like
+PaeLigD_Pol_like: Polymerase (Pol) domain of bacterial LigD proteins similar to Pseudomonas aerugino...
+Accession: cd04862 ID: 240132
+
+36. DNA_polA_exo: DEDDy 3'-5' exonuclease domain of family-A DNA polymerases
+The 3'-5' exonuclease domain of family-A DNA polymerases has a fundamental role in reducing polymera...
+Accession: cd06128 ID: 176649
+
+37. NT_POLXc: Nucleotidyltransferase (NT) domain of family X DNA Polymerases
+X family polymerases fill in short gaps during DNA repair. They are relatively inaccurate enzymes an...
+Accession: cd00141 ID: 143386
+
+38. POLBc_epsilon
+DNA polymerase type-B epsilon subfamily catalytic domain. Three DNA-dependent DNA polymerases type B...
+Accession: cd05535 ID: 99918
+
+39. CD_CSD: CHROMO (CHRromatin Organization Modifier) domains and chromo shadow domains
+Members of this group are chromodomains or chromo shadow domains; these are SH3-fold-beta-barrel dom...
+Accession: cl28914 ID: 391946
+
+40. PHD_SF: PHD finger superfamily
+The PHD finger superfamily includes a canonical plant homeodomain (PHD) finger typically characteriz...
+Accession: cl22851 ID: 389947
+
+41. CBS_pair_SF: Two tandem repeats of the cystathionine beta-synthase (CBS pair) domains superfamily
+The CBS domain, named after human CBS, is a small domain originally identified in cystathionine beta...
+Accession: cl15354 ID: 387599
+
+42. Zn-ribbon_RPC11: C-terminal zinc ribbon domain of RPC11 subunit of RNA polymerase III
+The C-terminal zinc ribbon domain (C-ribbon) of subunit C11 (Zn-ribbon_RPC11) in RNA polymerase (Pol...
+Accession: cd10509 ID: 259794
+
+43. Zn-ribbon_RPA12: C-terminal zinc ribbon domain of RPA12 subunit of RNA polymerase I
+The C-terminal zinc ribbon domain (C-ribbon) of subunit A12 (Zn-ribbon_RPA12) in RNA polymerase (Pol...
+Accession: cd10507 ID: 259792
+
+44. RRM_SF: RNA recognition motif (RRM) superfamily
+RRM, also known as RBD (RNA binding domain) or RNP (ribonucleoprotein domain), is a highly abundant ...
+Accession: cl17169 ID: 388407
+
+45. RNAP_Rpb7_N_like
+RNAP_Rpb7_N_like: This conserved domain represents the N-terminal ribonucleoprotein (RNP) domain of ...
+Accession: cl04309 ID: 383671
+
+46. class_II_aaRS-like_core
+Class II tRNA amino-acyl synthetase-like catalytic core domain. Class II amino acyl-tRNA synthetases...
+Accession: cl00268 ID: 381913
+
+47. DNApol_Exo: DNA mitochondrial polymerase exonuclease domain
+This domain belongs to human mitochondrial DNA polymerase (Pol-gamma). Pol-gamma has a catalytic sub...
+Accession: pfam18136 ID: 375581
+
+48. LigD_Pol_like_3
+LigD_Pol_like_3: Polymerase (Pol) domain of bacterial LigD proteins similar to Pseudomonas aeruginos...
+Accession: cd04866 ID: 240136
+
+49. LigD_Pol_like_2
+LigD_Pol_like_2: Polymerase (Pol) domain of bacterial LigD proteins similar to Pseudomonas aeruginos...
+Accession: cd04865 ID: 240135
+
+50. LigD_Pol_like_1
+LigD_Pol_like_1: Polymerase (Pol) domain of mostly bacterial LigD proteins similar to Pseudomonas ae...
+Accession: cd04864 ID: 240134
+
+51. AE_Prim_S_like
+AE_Prim_S_like: primase domain similar to that found in the small subunit of archaeal and eukaryotic...
+Accession: cd00525 ID: 238291
+
+52. PolY_Pol_eta: DNA Polymerase eta
+Pol eta, also called Rad30A, is a translesion synthesis (TLS) polymerase.  Translesion synthesis is ...
+Accession: cd01702 ID: 176456
+
+53. PolY: Y-family of DNA polymerases
+Y-family DNA polymerases are a specialized subset of polymerases that facilitate translesion synthes...
+Accession: cd00424 ID: 176453
+
+54. TFIIE_beta_winged_helix: TFIIE_beta_winged_helix domain, located at the central core region of TFIIE beta, with double-stranded DNA binding activity
+Transcription Factor IIE (TFIIE) beta winged-helix (or forkhead) domain is located at the central co...
+Accession: cl02153 ID: 382864
+
+55. BRCT: C-terminal domain of the breast cancer suppressor protein (BRCA1) and related domains
+The BRCT (BRCA1 C-terminus) domain is found within many DNA damage repair and cell cycle checkpoint ...
+Accession: cl00038 ID: 381769
+
+56. DNA_pol_D_N: DNA polymerase delta subunit OB-fold domain
+The eukaryotic DNA polymerase delta (Pol delta) participates in genome replication, homologous recom...
+Accession: pfam18018 ID: 375491
+
+57. GlyRS-like_core
+Glycyl-tRNA synthetase (GlyRS)-like class II core catalytic domain. GlyRS functions as a homodimer i...
+Accession: cd00774 ID: 238397
+
+58. DNA_pol_A_theta: DNA polymerase theta is a low-fidelity family A enzyme implicated in translesion synthesis and in somatic hypermutation
+DNA polymerase theta is a low-fidelity family A enzyme implicated in translesion synthesis (TLS) and...
+Accession: cd08638 ID: 176475
+
+59. TFIIE_beta_winged_helix: TFIIE_beta_winged_helix domain, located at the central core region of TFIIE beta, with double-stranded DNA binding activity
+Transcription Factor IIE (TFIIE) beta winged-helix (or forkhead) domain is located at the central co...
+Accession: cd07977 ID: 153423
+
+60. POLBc_zeta
+DNA polymerase type-B zeta subfamily catalytic domain. DNA polymerase (Pol) zeta is a member of the ...
+Accession: cd05534 ID: 99917
+
+61. DNA_pol_III_epsilon_Ecoli_like: DEDDh 3'-5' exonuclease domain of the epsilon subunit of Escherichia coli DNA polymerase III and similar proteins
+This subfamily is composed of the epsilon subunit of Escherichia coli DNA polymerase III (Pol III) a...
+Accession: cd06131 ID: 99835
+
+62. DNA_pol_III_epsilon_like: an uncharacterized bacterial subgroup of the DEDDh 3'-5' exonuclease domain family with similarity to the epsilon subunit of DNA polymerase III
+This subfamily is composed of uncharacterized bacterial proteins with similarity to the epsilon subu...
+Accession: cd06130 ID: 99834
+
+63. DNA_polB_II_exo: DEDDy 3'-5' exonuclease domain of Escherichia coli DNA polymerase II and similar bacterial family-B DNA polymerases
+The 3'-5' exonuclease domain of Escherichia coli DNA polymerase II (Pol II) and similar bacterial pr...
+Accession: cd05784 ID: 99827
+
+64. DNA_polB_Kod1_like_exo: DEDDy 3'-5' exonuclease domain of Pyrococcus kodakaraensis Kod1 and similar archaeal family-B DNA polymerases
+The 3'-5' exonuclease domain of archaeal family-B DNA polymerases with similarity to Pyrococcus koda...
+Accession: cd05780 ID: 99823
+
+65. metallo-hydrolase-like_MBL-fold: mainly hydrolytic enzymes and related proteins which carry out various biological functions; MBL-fold metallohydrolase domain
+Members of the MBL-fold metallohydrolase superfamily are mainly hydrolytic enzymes which carry out a...
+Accession: cl23716 ID: 390040
+
+66. RNA_pol_Rpc34: RNA polymerase Rpc34 subunit
+Subunit specific to RNA Pol III, the tRNA specific polymerase. The C34 subunit of yeast RNA Pol III ...
+Accession: cl02127 ID: 382856
+
+67. TFIIS_I
+N-terminal domain (domain I) of transcription elongation factor S-II (TFIIS); similar to a domain fo...
+Accession: cl00146 ID: 381824
+
+68. Med26: TFIIS helical bundle-like domain
+Mediator is a large complex of up to 33 proteins that is conserved from plants to fungi to humans - ...
+Accession: pfam08711 ID: 370079
+
+69. RNA_pol_Rpc34: RNA polymerase Rpc34 subunit
+Subunit specific to RNA Pol III, the tRNA specific polymerase. The C34 subunit of yeast RNA Pol III ...
+Accession: pfam05158 ID: 368310
+
+70. RNAP_I_Rpa43_N
+RNAP_I_Rpa43_N: Rpa43, N-terminal ribonucleoprotein (RNP) domain. Rpa43 is a subunit of eukaryotic R...
+Accession: cd04328 ID: 239820
+
+71. DNA_pol_A_pol_I_C: Polymerase I functions primarily to fill DNA gaps that arise during DNA repair, recombination and replication
+Family A polymerase (polymerase I) functions primarily to fill DNA gaps that arise during DNA repair...
+Accession: cd08637 ID: 176474
+
+72. PolY_Pol_iota: DNA Polymerase iota
+Pol iota, also called Rad30B, is a translesion synthesis (TLS) polymerase.  Translesion synthesis is...
+Accession: cd01703 ID: 176457
+
+73. PolY_Pol_V_umuC: umuC subunit of DNA Polymerase V
+umuC subunit of Pol V.   Pol V is a bacterial translesion synthesis (TLS) polymerase that consists o...
+Accession: cd01700 ID: 176454
+
+74. POLBc_Pol_II_B
+DNA polymerase type-II B subfamily catalytic domain. Bacteria contain five DNA polymerases (I, II, I...
+Accession: cd05538 ID: 99921
+
+75. POLBc_Pol_II
+DNA polymerase type-II subfamily catalytic domain. Bacteria contain five DNA polymerases (I, II, III...
+Accession: cd05537 ID: 99920
+
+76. POLBc
+DNA polymerase type-B family catalytic domain. DNA-directed DNA polymerases elongate DNA by adding n...
+Accession: cd00145 ID: 99912
+
+77. Retrotran_gag_3: gag-polypeptide of LTR copia-type
+This family is found in Plants and fungi, and contains pol polyprotein-like retroelements or retrotr...
+Accession: cl39048 ID: 393418
+
+78. DEAD-like_helicase_N: N-terminal helicase domain of the DEAD-box helicase superfamily
+The DEAD-like helicase superfamily is a diverse family of proteins involved in ATP-dependent RNA or ...
+Accession: cl28899 ID: 391939
+
+79. PH-like: Pleckstrin homology-like domain
+The PH-like family includes the PH domain, both the Shc-like and IRS-like PTB domains, the ran-bindi...
+Accession: cl17171 ID: 388408
+
+80. TAF8: TATA Binding Protein (TBP) Associated Factor 8
+The TATA Binding Protein (TBP) Associated Factor 8 (TAF8) is one of several TAFs that bind TBP, and ...
+Accession: cl11065 ID: 385921
+
+81. RNA_pol_Rpb8: RNA polymerase Rpb8
+Rpb8 is a subunit common to the three yeast RNA polymerases, pol I, II and III. Rpb8 interacts with ...
+Accession: cl02716 ID: 383099
+
+82. pgc: polar granule component
+Polar granule component (pgc) is implicated in primordial germ cell specification in Drosophila, whi...
+Accession: cd20259 ID: 380770
+
+83. Med26_C: Mediator complex subunit 26 C-terminal
+Med26_C is the C-terminal domain of subunit 26 of the Mediator complex in eukaryotes. Med19 and Med2...
+Accession: pfam15693 ID: 374026
+
+84. Med27: Mediator complex subunit 27
+Mediator is a large complex of up to 33 proteins that is conserved from plants to fungi to humans - ...
+Accession: pfam11571 ID: 371608
+
+85. ELL: RNA polymerase II elongation factor ELL
+ELL is a family of RNA polymerase II elongation factors. It is bound stably to elongation-associated...
+Accession: pfam10390 ID: 371023
+
+86. RNA_pol_I_A49: A49-like RNA polymerase I associated factor
+Saccharomyces cerevisiae A49 is a specific subunit associated with RNA polymerase I (Pol I) in eukar...
+Accession: pfam06870 ID: 369116
+
+87. BEX: Brain expressed X-linked like family
+This is a family of transcription elongation factors which includes those referred to as Bex protein...
+Accession: pfam04538 ID: 367981
+
+88. DEADc_DDX21_DDX50: DEAD-box helicase domain of DEAD box proteins 21 and 50
+DDX21 (also called Gu-Alpha and nucleolar RNA helicase 2) is an RNA helicase that acts as a sensor o...
+Accession: cd17944 ID: 350702
+
+89. BRCT_polymerase_lambda: BRCT domain of DNA polymerase lambda and similar proteins
+DNA polymerase lambda, also termed Pol Lambda, or DNA polymerase beta-2 (Pol beta2), or DNA polymera...
+Accession: cd17715 ID: 349347
+
+90. CD_MarY1_POL_like: chromodomain of Tricholoma matsutake polyprotein, and similar proteins
+This subgroup includes the CHROMO (CHRromatin Organization Modifier) domain found in the polyprotein...
+Accession: cd18975 ID: 349331
+
+91. CBS_pair_CAP-ED_NT_Pol-beta-like_DUF294_assoc: CBS domain protein
+This cd contains two tandem repeats of the cystathionine beta-synthase (CBS pair) domains associated...
+Accession: cd17771 ID: 341407
+
+92. OCRE: OCRE domain
+The OCRE (OCtamer REpeat) domain contains 5 repeats of an 8-residue motif, which were shown to form ...
+Accession: cl23757 ID: 304914
+
+93. OCRE_ZOP1_plant: OCRE domain found in Zinc-finger and OCRE domain-containing Protein 1 (ZOP1) and similar proteins found in plant
+ZOP1 is a novel plant-specific nucleic acid-binding protein required for both RNA-directed DNA methy...
+Accession: cd16165 ID: 293884
+
+94. Borrelia_orfX: Orf-X protein
+This short protein has no known function and is found in Jaagsiekte sheep retrovirus. Jaagsiekte she...
+Accession: pfam04160 ID: 282070
+
+95. PHD_Bye1p_SIZ1_like: PHD domain found in Saccharomyces cerevisiae bypass of ESS1 protein 1 (Bye1p), the E3 Sumo Ligase SIZ1, and similar proteins
+Yeast Bye1p is a nuclear transcription factor with a domain resembling the central domain in the tra...
+Accession: cd15570 ID: 277045
+
+96. PH_TFIIH: Transcription Factor II H (TFIIH) Pleckstrin homology (PH) domain
+The transcription factor II H (TFIIH) is one of the general transcription factors (GTFs) known to be...
+Accession: cd13229 ID: 270049
+
+97. Zn-ribbon_TFIIS: domain III/zinc ribbon domain of Transcription Factor IIS
+TFIIS is a zinc-containing transcription factor. It has been shown in vitro to have distinct biochem...
+Accession: cd13749 ID: 259796
+
+98. Zn-ribbon: C-terminal zinc ribbon domain of RNA polymerase intrinsic transcript cleavage subunit
+The homologous C-terminal zinc ribbon domains of subunits A12.2, Rpb9, and C11 in RNA Polymerases (P...
+Accession: cd00656 ID: 259791
+
+99. RRM_SCAF8: RNA recognition motif in SR-related and CTD-associated factor 8 (SCAF8) and similar proteins
+This subgroup corresponds to the RRM of SCAF8 (also termed CDC5L complex-associated protein 7, or RN...
+Accession: cd12462 ID: 240908
+
+100. RRM_SCAF4_SCAF8: RNA recognition motif in SR-related and CTD-associated factor 4 (SCAF4), SR-related and CTD-associated factor 8 (SCAF8) and similar proteins
+This subfamily corresponds to the RRM in a new class of SCAFs (SR-like CTD-associated factors), incl...
+Accession: cd12227 ID: 240673
+
+101. RNAP_II_Rpb7_N
+RNAP_II_Rpb7_N: Rpb7, N-terminal ribonucleoprotein (RNP) domain. Rpb7 is a subunit of eukaryotic RNA...
+Accession: cd04329 ID: 239821
+
+102. DNA_polA_I_Bacillus_like_exo: inactive DEDDy 3'-5' exonuclease domain of Bacillus stearothermophilus DNA polymerase I and similar family-A DNA polymerases
+Bacillus stearothermophilus-like Polymerase I (Pol I), a subgroup of the family-A DNA polymerases, c...
+Accession: cd06140 ID: 176652
+
+103. DNA_polA_I_Ecoli_like_exo: DEDDy 3'-5' exonuclease domain of Escherichia coli DNA polymerase I and similar bacterial family-A DNA polymerases
+Escherichia coli-like Polymerase I (Pol I), a subgroup of family-A DNA polymerases, contains a DEDDy...
+Accession: cd06139 ID: 176651
+
+104. DNA_pol_A_pol_I_B: Polymerase I functions primarily to fill DNA gaps that arise during DNA repair, recombination and replication
+Family A polymerase functions primarily to fill DNA gaps that arise during DNA repair, recombination...
+Accession: cd08643 ID: 176480
+
+105. DNA_pol_A_pol_I_A: Polymerase I functions primarily to fill DNA gaps that arise during DNA repair, recombination and replication
+Family A polymerase (polymerase I) functions primarily to fill DNA gaps that arise during DNA repair...
+Accession: cd08642 ID: 176479
+
+106. DNA_pol_A_plastid_like: DNA polymerase A type from plastids of higher plants possibly involve in DNA replication or in the repair of errors occurring during replication
+DNA polymerase A type from plastids of higher plants possibly involve in DNA replication or in the r...
+Accession: cd08640 ID: 176477
+
+107. DNA_pol_A: Family A polymerase primarily fills DNA gaps that arise during DNA repair, recombination and replication
+DNA polymerase family A, 5'-3' polymerase domain. Family A polymerase functions primarily to fill DN...
+Accession: cd06444 ID: 176473
+
+108. RP_RTVL_H_like: Retropepsin of the RTVL_H family of human endogenous retrovirus-like elements
+This family includes aspartate proteases from retroelements with LTR (long terminal repeats) includi...
+Accession: cd06095 ID: 133159
+
+109. RP_Saci_like: RP_Saci_like, retropepsin family
+Retropepsin on retrotransposons with long terminal repeats (LTR) including Saci-1, -2 and -3 of Schi...
+Accession: cd06094 ID: 133158
+
+110. retropepsin_like_LTR_2: Retropepsins_like_LTR, pepsin-like aspartate proteases
+Retropepsin of retrotransposons with long terminal repeats are pepsin-like aspartate proteases. Whil...
+Accession: cd05484 ID: 133151
+
+111. HIV_retropepsin_like: Retropepsins, pepsin-like aspartate proteases
+This is a subfamily of retropepsins. The family includes pepsin-like aspartate proteases from retrov...
+Accession: cd05482 ID: 133149
+
+112. retropepsin_like_LTR_1: Retropepsins_like_LTR; pepsin-like aspartate protease from retrotransposons with long terminal repeats
+Retropepsin of retrotransposons with long terminal repeats are pepsin-like aspartate proteases. Whil...
+Accession: cd05481 ID: 133148
+
+113. pepsin_retropepsin_like: Cellular and retroviral pepsin-like aspartate proteases
+This family includes both cellular and retroviral pepsin-like aspartate proteases. The cellular peps...
+Accession: cd05470 ID: 133137
+
+114. retropepsin_like: Retropepsins; pepsin-like aspartate proteases
+The family includes pepsin-like aspartate proteases from retroviruses, retrotransposons and retroele...
+Accession: cd00303 ID: 133136
+
+115. POLBc_alpha
+DNA polymerase type-B alpha subfamily catalytic domain. Three DNA-dependent DNA polymerases type B (...
+Accession: cd05532 ID: 99915
+
+116. RNA_pol_B_RPB2
+RNA polymerase beta subunit. RNA polymerases catalyse the DNA dependent polymerization of RNA. Proka...
+Accession: cl29917 ID: 392236
+
+117. RNA_pol_Rpb5_N: RNA polymerase Rpb5, N-terminal domain
+Rpb5 has a bipartite structure which includes a eukaryote-specific N-terminal domain and a C-termina...
+Accession: cl29798 ID: 392201
+
+118. TAF12: TATA Binding Protein (TBP) Associated Factor 12
+The TATA Binding Protein (TBP) Associated Factor 12 (TAF12; also known as TAF2J or TAFII20) is one o...
+Accession: cl22931 ID: 389977
+
+119. TAF9: TATA Binding Protein (TBP) Associated Factor 9 (TAF9) is one of several TAFs that bind TBP and is involved in forming Transcription Factor IID (TFIID) complex
+The TATA Binding Protein (TBP) Associated Factor 9 (TAF9) is one of several TAFs that bind TBP and a...
+Accession: cl22885 ID: 389957
+
+120. Hint
+Hedgehog/Intein domain, found in Hedgehog proteins as well as proteins which contain inteins and und...
+Accession: cl22434 ID: 389914
+
+121. TAF6C: C-terminal domain of TATA Binding Protein (TBP) Associated Factor 6 (TAF6)
+This model characterizes the carboxy (C)-terminal domain of TATA Binding Protein (TBP) Associated Fa...
+Accession: cl21736 ID: 389889
+
+122. UBA_like_SF: UBA domain-like superfamily
+The ubiquitin-associated (UBA) domain-like superfamily contains alpha-helical structural homology ub...
+Accession: cl21463 ID: 389751
+
+123. Rev1_C: C-terminal domain of the Y-family polymerase Rev1
+Rev1 is a eukaryotic translesion synthesis (TLS) polymerase; TLS is a process that allows the bypass...
+Accession: cl17091 ID: 388394
+
+124. RNA_pol_Rpb6: RNA polymerase Rpb6
+Rpb6 is an essential subunit in the eukaryotic polymerases Pol I, II and III. This family also conta...
+Accession: cl14651 ID: 387373
+
+125. RPA_2b-aaRSs_OBF_like: Replication protein A, class 2b aminoacyl-tRNA synthetases, and related proteins with oligonucleotide/oligosaccharide (OB) fold
+This superfamily includes two oligonucleotide/oligosaccharide binding fold (OBF) domain families. On...
+Accession: cl09930 ID: 385638
+
+126. S1_like
+S1_like: Ribosomal protein S1-like RNA-binding domain. Found in a wide variety of RNA-associated pro...
+Accession: cl09927 ID: 385635
+
+127. TAF5_NTD2: TAF5_NTD2 is the second conserved N-terminal region of TATA Binding Protein (TBP) Associated Factor 5 (TAF5), involved in forming Transcription Factor IID (TFIID)
+The TATA Binding Protein (TBP) Associated Factor 5 (TAF5) is one of several TAFs that bind TBP and a...
+Accession: cl08418 ID: 385354
+
+128. zf-H2C2: His(2)-Cys(2) zinc finger
+This domain binds to histone upstream activating sequence (UAS) elements that are found in histone g...
+Accession: cl07828 ID: 385237
+
+129. TAF4: TATA Binding Protein (TBP) Associated Factor 4 (TAF4) is one of several TAFs that bind TBP and is involved in forming Transcription Factor IID (TFIID) complex
+The TATA Binding Protein (TBP) Associated Factor 4 (TAF4) is one of several TAFs that bind TBP and a...
+Accession: cl05005 ID: 383955
+
+130. TAF7: TATA Binding Protein (TBP) Associated Factor 7 (TAF7) is one of several TAFs that bind TBP and is involved in forming Transcription Factor IID (TFIID) complex
+The TATA Binding Protein (TBP) Associated Factor 7 (TAF7) is one of several TAFs that bind TBP and a...
+Accession: cl04653 ID: 383805
+
+131. RT_like
+RT_like: Reverse transcriptase (RT, RNA-dependent DNA polymerase)_like family. An RT gene is usually...
+Accession: cl02808 ID: 383137
+
+132. LAM: LA motif RNA-binding domain
+This domain is found at the N-terminus of La RNA-binding proteins as well as in other related protei...
+Accession: cl02755 ID: 383107
+
+133. TAF11: TATA Binding Protein (TBP) Associated Factor 11 (TAF11) is one of several TAFs that bind TBP and is involved in forming Transcription Factor IID (TFIID) complex
+The TATA Binding Protein (TBP) Associated Factor 11 (TAF11) is one of several TAFs that bind TBP and...
+Accession: cl02176 ID: 382877
+
+134. HAT_KAT11: Histone acetylation protein
+Histone acetylation is required in many cellular processes including transcription, DNA repair, and ...
+Accession: cl02120 ID: 382852
+
+135. RNA_pol_Rpb4: RNA polymerase Rpb4
+This family includes the Rpb4 protein. This family also includes C17 (aka CGRP-RCP) is an essential ...
+Accession: cl00638 ID: 382123
+
+136. HGTP_anticodon
+HGTP anticodon binding domain, as found at the C-terminus of histidyl, glycyl, threonyl and prolyl t...
+Accession: cl00266 ID: 381912
+
+137. UBCc
+Ubiquitin-conjugating enzyme E2, catalytic (UBCc) domain. This is part of the ubiquitin-mediated pro...
+Accession: cl00154 ID: 381827
+
+138. TAF12: TATA Binding Protein (TBP) Associated Factor 12
+The TATA Binding Protein (TBP) Associated Factor 12 (TAF12; also known as TAF2J or TAFII20) is one o...
+Accession: cd07981 ID: 381751
+
+139. TAF6C: C-terminal domain of TATA Binding Protein (TBP) Associated Factor 6 (TAF6)
+This model characterizes the carboxy (C)-terminal domain of TATA Binding Protein (TBP) Associated Fa...
+Accession: cd08050 ID: 381749
+
+140. PI-TkoII_IV: DNA polymerase II intein Domain IV
+This domain can be found in the hyperthermophilic archaeon Thermococcus kodakaraensis Pol-2 intein. ...
+Accession: pfam18714 ID: 380140
+
+141. RNA_pol_RpbG: DNA-directed RNA polymerase, subunit G
+RNA_pol_RpbG is a family of archaeal and fungal subunit G of DNA-directed RNA polymerase.
+Accession: pfam16992 ID: 379914
+
+142. RNA_pol_Rpb6: RNA polymerase Rpb6
+Rpb6 is an essential subunit in the eukaryotic polymerases Pol I, II and III. This family also conta...
+Accession: pfam01192 ID: 376482
+
+143. Zn-C2H2_12: Autophagy receptor zinc finger-C2H2 domain
+This domain is found in calcium-binding and coiled-coil domain 2/NDP25 (CALCOCO2/NDP25) found in Hom...
+Accession: pfam18112 ID: 375561
+
+144. DNA_pol_P_Exo: DNA polymerase nu pseudo-exo
+This domain, known as the Pseudo-exo domain, is found DNA polymerase Nu protein in species such as H...
+Accession: pfam18049 ID: 375517
+
+145. Morc6_S5: Morc6 ribosomal protein S5 domain 2-like
+This domain is found in MORC6 proteins in eukaryotes. Arabidopsis microrchidia (MORC) ATPase family ...
+Accession: pfam17942 ID: 375439
+
+146. Tau95_N: Tau95 Triple barrel domain
+TFIIIC1 is a multisubunit DNA binding factor that serves as a dynamic platform for assembly of pre-i...
+Accession: pfam17682 ID: 375251
+
+147. BRD4_CDT: C-terminal domain of bromodomain protein 4
+BRD4_CDT is the short highly conserved C-terminal domain of certain bromodomain proteins, notably Br...
+Accession: pfam17105 ID: 374989
+
+148. GREB1: Gene regulated by oestrogen in breast cancer
+GREB1 (gene regulated by estrogen in breast cancer 1) was first identified as an oestrogen-regulated...
+Accession: pfam15782 ID: 374106
+
+149. zf-C4pol: C4-type zinc-finger of DNA polymerase delta
+In fission yeast this zinc-finger domain appears is the region of Pol3 that binds directly to the B-...
+Accession: pfam14260 ID: 372984
+
+150. Retrotran_gag_3: gag-polypeptide of LTR copia-type
+This family is found in Plants and fungi, and contains pol polyprotein-like retroelements or retrotr...
+Accession: pfam14244 ID: 372977
+
+151. DUF4219: Domain of unknown function (DUF4219)
+This domain is very short and is found at the N-terminal of many Gag-pol polyprotein and related pro...
+Accession: pfam13961 ID: 372844
+
+152. SEN1_N: SEN1 N terminal
+This domain is found at the N terminal of the helicase SEN1. SEN1 is a Pol II termination factor for...
+Accession: pfam12726 ID: 372274
+
+153. MMS19_C: RNAPII transcription regulator C-terminal
+MMS19 is required for both nucleotide excision repair (NER) and RNA polymerase II (RNAP II) transcri...
+Accession: pfam12460 ID: 372125
+
+154. Thoc2: Transcription- and export-related complex subunit
+The THO/TREX complex is the transcription- and export-related complex associated with spliceosomes t...
+Accession: pfam11732 ID: 371698
+
+155. RNA_pol_3_Rpc31: DNA-directed RNA polymerase III subunit Rpc31
+RNA polymerase III contains seventeen subunits in yeasts and in human cells. Twelve of these are aki...
+Accession: pfam11705 ID: 371681
+
+156. HnRNPA1: Nuclear factor hnRNPA1
+This family of proteins represents hnRNPA1, a nuclear factor that binds to Pol II transcripts. The f...
+Accession: pfam11627 ID: 371635
+
+157. TAF8_C: Transcription factor TFIID complex subunit 8 C-term
+This is the C-terminal, Delta, part of the TAF8 protein. The N-terminal is generally the histone fol...
+Accession: pfam10406 ID: 371033
+
+158. DNA_pol_lambd_f: Fingers domain of DNA polymerase lambda
+DNA polymerases catalyze the addition of dNMPs onto the 3-prime ends of DNA chains. There is a gener...
+Accession: pfam10391 ID: 371024
+
+159. Fmp27: Mitochondrial protein from FMP27
+This family contains mitochondrial FMP27 proteins which in yeasts together with SEN1 are long genes ...
+Accession: pfam10344 ID: 370994
+
+160. Rrn6: RNA polymerase I-specific transcription-initiation factor
+RNA polymerase I-specific transcription-initiation factor Rrn6 and Rrn7 represent components of a mu...
+Accession: pfam10214 ID: 370888
+
+161. Med10: Transcription factor subunit Med10 of Mediator complex
+Med10 is one of the protein subunits of the Mediator complex, tethered to Rgr1 protein. The Mediator...
+Accession: pfam09748 ID: 370657
+
+162. Tau95: RNA polymerase III transcription factor (TF)IIIC subunit
+TFIIIC1 is a multisubunit DNA binding factor that serves as a dynamic platform for assembly of pre-i...
+Accession: pfam09734 ID: 370643
+
+163. Med18: Med18 protein
+Med18 is one subunit of Mediator, a head-module multiprotein complex, that stimulates basal RNA poly...
+Accession: pfam09637 ID: 370594
+
+164. HUN: HPC2 and ubinuclein domain
+HPC2 (Histone promoter control 2) is required for cell-cycle regulation of histone transcription. It...
+Accession: pfam08729 ID: 370085
+
+165. Med5: Mediator complex subunit Med5
+The mediator complex is required for the expression of nearly all RNA pol II dependent genes in Sacc...
+Accession: pfam08689 ID: 370064
+
+166. RVP_2: Retroviral aspartyl protease
+Single domain aspartyl proteases from retroviruses, retrotransposons, and badnaviruses (plant dsDNA ...
+Accession: pfam08284 ID: 369793
+
+167. HAT_KAT11: Histone acetylation protein
+Histone acetylation is required in many cellular processes including transcription, DNA repair, and ...
+Accession: pfam08214 ID: 369758
+
+168. RNA_polI_A34: DNA-directed RNA polymerase I subunit RPA34.5
+This is a family of proteins conserved from yeasts to human. Subunit A34.5 of RNA polymerase I is a ...
+Accession: pfam08208 ID: 369753
+
+169. RNA_polI_A14: Yeast RNA polymerase I subunit RPA14
+This is a family of yeast proteins. A14 is one of the final two subunits of Saccharomyces cerevisiae...
+Accession: pfam08203 ID: 369748
+
+170. RRN3: RNA polymerase I specific transcription initiation factor RRN3
+This family consists of several eukaryotic proteins which are homologous to the yeast RRN3 protein. ...
+Accession: pfam05327 ID: 368388
+
+171. RNA_pol_Rpc4: RNA polymerase III RPC4
+Specific subunit for Pol III, the tRNA specific polymerase.
+Accession: pfam05132 ID: 368299
+
+172. RNA_pol_Rpb1_R: RNA polymerase Rpb1 C-terminal repeat
+The repetitive C-terminal domain (CTD) of Rpb1 (RNA polymerase Pol II) plays a critical role in the ...
+Accession: pfam05001 ID: 368231
+
+173. RNA_pol_Rpb4: RNA polymerase Rpb4
+This family includes the Rpb4 protein. This family also includes C17 (aka CGRP-RCP) is an essential ...
+Accession: pfam03874 ID: 367707
+
+174. RNA_pol_Rpb5_N: RNA polymerase Rpb5, N-terminal domain
+Rpb5 has a bipartite structure which includes a eukaryote-specific N-terminal domain and a C-termina...
+Accession: pfam03871 ID: 367704
+
+175. RNA_pol_Rpb8: RNA polymerase Rpb8
+Rpb8 is a subunit common to the three yeast RNA polymerases, pol I, II and III. Rpb8 interacts with ...
+Accession: pfam03870 ID: 367703
+
+176. RNA_pol_Rpb2_6: RNA polymerase Rpb2, domain 6
+RNA polymerases catalyze the DNA dependent polymerization of RNA. Prokaryotes contain a single RNA p...
+Accession: pfam00562 ID: 366167
+
+177. RVP: Retroviral aspartyl protease
+Single domain aspartyl proteases from retroviruses, retrotransposons, and badnaviruses (plant dsDNA ...
+Accession: pfam00077 ID: 365855
+
+178. BTB_POZ: BTB (Broad-Complex, Tramtrack and Bric a brac)/POZ (poxvirus and zinc finger) domain superfamily
+Proteins in this superfamily are characterized by the presence of a common protein-protein interacti...
+Accession: cl38908 ID: 365784
+
+179. trimeric_dUTPase: Trimeric dUTP diphosphatases
+Trimeric dUTP diphosphatases, or dUTPases, are the most common family of dUTPase, found in bacteria,...
+Accession: cl00493 ID: 351119
+
+180. BTB_POZ_ZBTB43: BTB (Broad-Complex, Tramtrack and Bric a brac)/POZ (poxvirus and zinc finger) domain found in zinc finger and BTB domain-containing protein 43 (ZBTB43)
+ZBTB43, also called zinc finger and BTB domain-containing protein 22B (ZBTB22b), zinc finger protein...
+Accession: cd18227 ID: 349536
+
+181. BRCT_polymerase_mu: BRCT domain of DNA-directed DNA/RNA polymerase mu (polymerase mu) and similar proteins
+Polymerase Mu (EC 2.7.7.7), also termed Pol mu, or terminal transferase, is a Gap-filling polymerase...
+Accession: cd18442 ID: 349395
+
+182. BRCT_polymerase_mu_like: BRCT domain of DNA-directed DNA/RNA polymerase mu (polymerase mu), DNA nucleotidylexotransferase and similar proteins
+The family includes DNA-directed DNA/RNA polymerase mu (polymerase mu) and DNA nucleotidylexotransfe...
+Accession: cd17713 ID: 349345
+
+183. CD_POL_like: chromodomain of a Zea maize putative metaviridae (gypsy-type) retrotransposon polyproteins (Z195D10.9), and similar proteins
+This subgroup includes the CHROMO (CHRromatin Organization Modifier) domain found in Zea maize Z195D...
+Accession: cd18979 ID: 349335
+
+184. CD_POL_like: chromodomain of Penicillium solitum protein PENSOL_c198G03123
+This subgroup includes the CHROMO (CHRromatin Organization Modifier) domain found in Penicillium sol...
+Accession: cd18974 ID: 349330
+
+185. CD_Tf2-1_POL_like: chromodomain of Rhizoctonia solani AG-1 IB retrotransposable element Tf2 155 kDa protein type 1, and similar proteins
+This subgroup includes the CHROMO (CHRromatin Organization Modifier) domain found in Rhizoctonia sol...
+Accession: cd18973 ID: 349329
+
+186. CD_POL_like: chromodomain of Hypsizygus marmoreus TY3B-I_0 protein, and similar proteins
+This subgroup includes the CHROMO (CHRromatin Organization Modifier) domain found in Hypsizygus marm...
+Accession: cd18970 ID: 349326
+
+187. CID_RPRD1B: CID (CTD-Interacting Domain) of Regulation of nuclear pre-mRNA domain-containing protein 1B
+Regulation of nuclear pre-mRNA domain-containing protein 1B (RPRD1B) is also called Cell cycle-relat...
+Accession: cd17012 ID: 340809
+
+188. CID_RPRD1A: CID (CTD-Interacting Domain) of Regulation of nuclear pre-mRNA domain-containing protein 1A
+Regulation of nuclear pre-mRNA domain-containing protein 1A (RPRD1A) is also called Cyclin-dependent...
+Accession: cd17011 ID: 340808
+
+189. CID_SFRS15_SCAF4: CID (CTD-Interacting Domain) of Splicing factor arginine serine rich 15
+Splicing factor arginine serine rich 15 (SFRS15) is also called CTD-binding SR-like protein RA4 or S...
+Accession: cd17005 ID: 340802
+
+190. CID_SCAF8: CID (CTD-Interacting Domain) of SR-related and CTD-associated factor 8
+SR-related and CTD-associated factor 8 (SCAF8) is also called CDC5L complex-associated protein 7 (CC...
+Accession: cd17004 ID: 340801
+
+191. CID_Rtt103: CID (CTD-Interacting Domain) of yeast transcription termination factor Rtt103 and similar proteins
+Yeast transcription termination factor Rtt103 is a CID (CTD-Interacting Domain) containing protein t...
+Accession: cd17003 ID: 340800
+
+192. CID_RPRD1: CID (CTD-Interacting Domain) of Regulation of nuclear pre-mRNA domain-containing protein 1 and similar proteins
+This subfamily contains Regulation of nuclear pre-mRNA domain-containing proteins 1A (RPRD1A) and 1B...
+Accession: cd17002 ID: 340799
+
+193. CID_RPRD2: CID (CTD-Interacting Domain) of Regulation of nuclear pre-mRNA domain-containing protein 2
+Regulation of nuclear pre-mRNA domain-containing protein 2 (RPRD2) is a CID (CTD-Interacting Domain)...
+Accession: cd17001 ID: 340798
+
+194. CID_Nrd1_like: CID (CTD-Interacting Domain) of Nrd1 and similar proteins
+This subfamily includes Saccharomyces cerevisiae protein Nrd1, Schizosaccharomyces pombe Rpb7-bindin...
+Accession: cd16984 ID: 340781
+
+195. CID_SCAF8_like: CID (CTD-Interacting Domain) of SR-related and CTD-associated factor 8 and similar proteins
+This subfamily includes SR-related and CTD-associated factors 8 (SCAF8) and 4 (SCAF4), and similar p...
+Accession: cd16983 ID: 340780
+
+196. CID_Pcf11: CID (CTD-Interacting Domain) of Pcf11
+Pcf11 is conserved across eukaryotes. The best studied protein is Saccharomyces cerevisiae Pcf11, al...
+Accession: cd16982 ID: 340779
+
+197. CID_RPRD_like: CID (CTD-Interacting Domain) of Regulation of nuclear pre-mRNA domain-containing proteins
+This family is composed of  Regulation of nuclear pre-mRNA domain-containing proteins 1A (RPRD1A), 1...
+Accession: cd16981 ID: 340778
+
+198. CID: CID (CTD-Interacting Domain) family
+The CTD-Interacting Domain (CID) is present in several eukaryotic RNA-processing factors including y...
+Accession: cd03562 ID: 340766
+
+199. VHS_ENTH_ANTH: VHS, ENTH and ANTH domain superfamily
+This superfamily is composed of proteins containing a VHS, CID, ENTH, or ANTH domain. The VHS domain...
+Accession: cd00197 ID: 340764
+
+200. TF_Zn_Ribbon: TFIIB zinc-binding
+The transcription factor TFIIB contains a zinc-binding motif near the N-terminus. This domain is inv...
+Accession: pfam08271 ID: 336978
+
+201. G-7-MTase: mRNA (guanine-7-)methyltransferase (G-7-MTase)
+The Sendai virus RNA-dependent RNA polymerase complex, which consists of L and P proteins, participa...
+Accession: cl27811 ID: 332632
+
+202. TAF: TATA box binding protein associated factor (TAF)
+TAF proteins adopt a histone-like fold.
+Accession: cl23774 ID: 304931
+
+203. Int9-like_MBL-fold: integrator subunit 9, and related proteins; MBL-fold metallo-hydrolase domain
+Integrator is a metazoan-specific multisubunit, multifunctional protein complex composed of 14 subun...
+Accession: cd16294 ID: 293852
+
+204. INTS11-like_MBL-fold: Integrator complex subunit 11, and related proteins; MBL-fold metallo-hydrolase domain
+Integrator is a metazoan-specific multisubunit, multifunctional protein complex composed of 14 subun...
+Accession: cd16291 ID: 293849
+
+205. Int9-11_CPSF2-3-like_MBL-fold: Int9, Int11, CPSF2, CPSF3 and related cleavage and polyadenylation specificity factors; MBL-fold metallo-hydrolase domain
+CPSF3 (cleavage and polyadenylation specificity factor subunit 3; also known as cleavage and polyade...
+Accession: cd07734 ID: 293820
+
+206. zf-H3C2: Zinc-finger like, probable DNA-binding
+This is a family of probably DNA-binding zinc-fingers found on Gag-Pol polyproteins from mouse retro...
+Accession: pfam16721 ID: 293326
+
+207. Prok-E2_B: Prokaryotic E2 family B
+A member of the E2/UBC superfamily of proteins found in several bacteria. The active site residues a...
+Accession: pfam14461 ID: 291151
+
+208. G-7-MTase: mRNA (guanine-7-)methyltransferase (G-7-MTase)
+The Sendai virus RNA-dependent RNA polymerase complex, which consists of L and P proteins, participa...
+Accession: pfam12803 ID: 289567
+
+209. rpo30_N: Poxvirus DNA dependent RNA polymerase 30kDa subunit
+This family of proteins is found in viruses. Proteins in this family are typically between 193 and 2...
+Accession: pfam12410 ID: 289195
+
+210. ePHD_AF10_like: Extended PHD finger found in protein AF-10 and AF-17
+The extended plant homeodomain (ePHD) zinc finger is characterized as Cys2HisCys5HisCys2His. This mo...
+Accession: cd15672 ID: 277142
+
+211. PHD_PHF3: PHD finger found in PHD finger protein 3 (PHF3)
+PHF3 is a human homolog of yeast protein bypass of Ess1 (Bye1), a nuclear protein with a domain rese...
+Accession: cd15638 ID: 277108
+
+212. PHD_AF10_AF17: PHD finger found in protein AF-10 and AF-17
+This family includes protein AF-10 and AF-17. AF-10, also termed ALL1 (acute lymphoblastic leukemia)...
+Accession: cd15574 ID: 277049
+
+213. PHD_PHF3_like: PHD finger found in PHD finger protein 3 (PHF3), and death-inducer obliterator variants Dido1, Dido2, and Dido3
+PHF3 is a human homolog of yeast protein bypass of Ess1 (Bye1), a nuclear protein with a domain rese...
+Accession: cd15552 ID: 277027
+
+214. dut: deoxyuridine 5'-triphosphate nucleotidohydrolase (dut)
+The main function of these proteins is in maintaining the levels of dUTP in the cell to prevent dUTP...
+Accession: TIGR00576 ID: 273149
+
+215. UBA_HUWE1: UBA domain found in eukaryotic E3 ubiquitin-protein ligase HUWE1 and similar proteins
+HUWE1, also called ARF-binding protein 1 (ARF-BP1), HECT, UBA and WWE domain-containing protein 1, h...
+Accession: cd14288 ID: 270474
+
+216. Zn-ribbon_TFS: C-terminal zinc ribbon domain of archaeal Transcription Factor S (TFS)
+TFS is an archaeal protein that stimulates the intrinsic cleavage activity of archaeal RNA polymeras...
+Accession: cd10511 ID: 259795
+
+217. TAF13: The TATA Binding Protein (TBP) Associated Factor 13 (TAF13) is one of several TAFs that bind TBP and is involved in forming Transcription Factor IID (TFIID) complex
+The TATA Binding Protein (TBP) Associated Factor 13 (TAF13) is one of several TAFs that bind TBP and...
+Accession: cl02174 ID: 242920
+
+218. RRM_SCAF4: RNA recognition motif found in SR-related and CTD-associated factor 4 (SCAF4) and similar proteins
+The CD corresponds to the RRM of SCAF4 (also termed splicing factor, arginine/serine-rich 15 or SFR1...
+Accession: cd12461 ID: 240907
+
+219. AE_Prim_S
+AE_Prim_S: primase domain similar to that found in the small subunit of archaeal and eukaryotic (A/E...
+Accession: cd04860 ID: 240130
+
+220. Prim_Pol
+Prim_Pol: Primase-polymerase (primpol) domain of the type found in bifunctional replicases from arch...
+Accession: cd04859 ID: 240129
+
+221. Rho_CSD
+Rho_CSD: Rho protein cold-shock domain (CSD). Rho protein is a transcription termination factor in m...
+Accession: cd04459 ID: 239906
+
+222. RPA2_OBF_family
+RPA2_OBF_family: A family of oligonucleotide binding (OB) folds with similarity to the OB fold of th...
+Accession: cd03524 ID: 239601
+
+223. RT_G2_intron
+RT_G2_intron: Reverse transcriptases (RTs) with group II intron origin. RT transcribes DNA using RNA...
+Accession: cd01651 ID: 238828
+
+224. HGTP_anticodon
+HGTP anticodon binding domain, as found at the C-terminus of histidyl, glycyl, threonyl and prolyl t...
+Accession: cd00738 ID: 238379
+
+225. Gly_His_Pro_Ser_Thr_tRS_core
+Gly_His_Pro_Ser_Thr_tRNA synthetase class II core domain. This domain is the core catalytic domain o...
+Accession: cd00670 ID: 238359
+
+226. Hint
+Hedgehog/Intein domain, found in Hedgehog proteins as well as proteins which contain inteins and und...
+Accession: cd00081 ID: 238035
+
+227. Rev1_C: C-terminal domain of the Y-family polymerase Rev1
+Rev1 is a eukaryotic translesion synthesis (TLS) polymerase; TLS is a process that allows the bypass...
+Accession: cd12145 ID: 213388
+
+228. PolY_Rev1: DNA polymerase Rev1
+Rev1 is a translesion synthesis (TLS) polymerase found in eukaryotes.  Translesion synthesis is a pr...
+Accession: cd01701 ID: 176455
+
+229. TAF5_NTD2: TAF5_NTD2 is the second conserved N-terminal region of TATA Binding Protein (TBP) Associated Factor 5 (TAF5), involved in forming Transcription Factor IID (TFIID)
+The TATA Binding Protein (TBP) Associated Factor 5 (TAF5) is one of several TAFs that bind TBP and a...
+Accession: cd08044 ID: 176269
+
+230. TAF8: TATA Binding Protein (TBP) Associated Factor 8
+The TATA Binding Protein (TBP) Associated Factor 8 (TAF8) is one of several TAFs that bind TBP, and ...
+Accession: cd08049 ID: 176263
+
+231. TAF11: TATA Binding Protein (TBP) Associated Factor 11 (TAF11) is one of several TAFs that bind TBP and is involved in forming Transcription Factor IID (TFIID) complex
+The TATA Binding Protein (TBP) Associated Factor 11 (TAF11) is one of several TAFs that bind TBP and...
+Accession: cd08048 ID: 173967
+
+232. TAF7: TATA Binding Protein (TBP) Associated Factor 7 (TAF7) is one of several TAFs that bind TBP and is involved in forming Transcription Factor IID (TFIID) complex
+The TATA Binding Protein (TBP) Associated Factor 7 (TAF7) is one of several TAFs that bind TBP and a...
+Accession: cd08047 ID: 173966
+
+233. TAF4: TATA Binding Protein (TBP) Associated Factor 4 (TAF4) is one of several TAFs that bind TBP and is involved in forming Transcription Factor IID (TFIID) complex
+The TATA Binding Protein (TBP) Associated Factor 4 (TAF4) is one of several TAFs that bind TBP and a...
+Accession: cd08045 ID: 173965
+
+234. TAF9: TATA Binding Protein (TBP) Associated Factor 9 (TAF9) is one of several TAFs that bind TBP and is involved in forming Transcription Factor IID (TFIID) complex
+The TATA Binding Protein (TBP) Associated Factor 9 (TAF9) is one of several TAFs that bind TBP and a...
+Accession: cd07979 ID: 173963
+
+235. TAF13: The TATA Binding Protein (TBP) Associated Factor 13 (TAF13) is one of several TAFs that bind TBP and is involved in forming Transcription Factor IID (TFIID) complex
+The TATA Binding Protein (TBP) Associated Factor 13 (TAF13) is one of several TAFs that bind TBP and...
+Accession: cd07978 ID: 173962
+
+236. LARP_7: La RNA-binding domain of La-related protein 7
+LARP7 is a component of the 7SK snRNP, a key factor in the regulation of RNA polymerase II transcrip...
+Accession: cd08032 ID: 153401
+
+237. NT_KNTase_like: Nucleotidyltransferase (NT) domain of Staphylococcus aureus kanamycin nucleotidyltransferase, and similar proteins
+S. aureus KNTase is a plasmid encoded enzyme which confers resistance to a wide range of aminoglycos...
+Accession: cd05403 ID: 143393
+
+238. NT_PAP_TUTase: Nucleotidyltransferase (NT) domain of poly(A) polymerases and terminal uridylyl transferases
+Poly(A) polymerases (PAPs) catalyze mRNA poly(A) tail synthesis, and terminal uridylyl transferases ...
+Accession: cd05402 ID: 143392
+
+239. NT_GlnE_GlnD_like: Nucleotidyltransferase (NT) domain of Escherichia coli adenylyltransferase (GlnE), Escherichia coli uridylyl transferase (GlnD), and similar proteins
+Escherichia coli GlnD and -E participate in the Glutamine synthetase (GS)/Glutamate synthase (GOGAT)...
+Accession: cd05401 ID: 143391
+
+240. NT_2-5OAS_ClassI-CCAase: Nucleotidyltransferase (NT) domain of 2'5'-oligoadenylate (2-5A)synthetase (2-5OAS) and class I CCA-adding enzyme
+In vertebrates, 2-5OASs are induced by interferon during the innate immune response to protect again...
+Accession: cd05400 ID: 143390
+
+241. NT_Rel-Spo_like: Nucleotidyltransferase (NT) domain of RelA- and SpoT-like ppGpp synthetases and hydrolases
+This family includes the catalytic domains of Escherichia coli ppGpp synthetase (RelA), ppGpp synthe...
+Accession: cd05399 ID: 143389
+
+242. NT_ClassII-CCAase: Nucleotidyltransferase (NT) domain of ClassII CCA-adding enzymes
+CCA-adding enzymes add the sequence [cytidine(C)-cytidine-adenosine (A)], one nucleotide at a time, ...
+Accession: cd05398 ID: 143388
+
+243. NT_Pol-beta-like: Nucleotidyltransferase (NT) domain of DNA polymerase beta and similar proteins
+This superfamily includes the NT domains of DNA polymerase beta and other family X DNA polymerases, ...
+Accession: cd05397 ID: 143387
+
+244. TAF: TATA box binding protein associated factor
+TAFs (TATA box binding protein associated factors) are part of the transcription initiation factor T...
+Accession: smart00803 ID: 129039
+
+245. UAF_Rrn10: UAF complex subunit Rrn10
+The protein Rrn10 has been identified as a component of the Upstream Activating Factor (UAF), an RNA...
+Accession: pfam05234 ID: 113985

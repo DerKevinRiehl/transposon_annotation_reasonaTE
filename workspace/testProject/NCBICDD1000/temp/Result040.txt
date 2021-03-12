@@ -1,0 +1,11 @@
+# RPSTBLASTN 2.10.0+
+# Query: seq1
+# Database: /mnt/home3/riehl/miniconda3/envs/transposon_annotation_tools_env/share/proteinNCBICDD1000/selection/Selection1000Library040
+# 0 hits found
+# RPSTBLASTN 2.10.0+
+# Query: seq2
+# Database: /mnt/home3/riehl/miniconda3/envs/transposon_annotation_tools_env/share/proteinNCBICDD1000/selection/Selection1000Library040
+# Fields: subject title, evalue, q. start, q. end
+# 1 hits found
+cd14018, STKc_PINK1, Catalytic domain of the Serine/Threonine protein kinase, Pten INduced Kinase 1.  STKs catalyze the transfer of the gamma-phosphoryl group from ATP to serine/threonine residues on protein substrates. PINK1 contains an N-terminal mitochondrial targeting sequence, a catalytic domain, and a C-terminal regulatory region. It plays an important role in maintaining mitochondrial homeostasis. It protects cells against oxidative stress-induced apoptosis by phosphorylating the chaperone TNFR-associated protein 1 (TRAP1), also called Hsp75. Phosphorylated TRAP1 prevents cytochrome c release and peroxide-induced apoptosis. PINK1 interacts with Omi/HtrA2, a serine protease, and Parkin, an E3 ubiquitin ligase, in different pathways to promote mitochondrial health. The parkin gene is the most commonly mutated gene in autosomal recessive familial parkinsonism. Mutations within the catalytic domain of PINK1 are also associated with Parkinson's disease. The PINK1 subfamily is part of a larger superfamily that includes the catalytic domains of other protein STKs, protein tyrosine kinases, RIO kinases, aminoglycoside phosphotransferase, choline kinase, and phosphoinositide 3-kinase.	0.008	117350	117282
+# BLAST processed 2 queries

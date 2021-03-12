@@ -1,0 +1,52 @@
+
+1. Aspartase: Aspartase
+This subgroup contains Escherichia coli aspartase (L-aspartate ammonia-lyase), Bacillus aspartase an...
+Accession: cd01357 ID: 176462
+
+2. Lyase_I_like: Lyase class I_like superfamily: contains the lyase class I family, histidine ammonia-lyase and phenylalanine ammonia-lyase, which catalyze similar beta-elimination reactions
+Lyase class I_like superfamily of enzymes that catalyze beta-elimination reactions and are active as...
+Accession: cl00013 ID: 381754
+
+3. Aspartase_like: aspartase (L-aspartate ammonia-lyase) and fumarase class II enzymes
+This group contains aspartase (L-aspartate ammonia-lyase), fumarase class II enzymes, and related pr...
+Accession: cd01596 ID: 176468
+
+4. Taspase1_like: Taspase 1 (threonine aspartase 1) and similar proteins
+Taspase1 catalyzes the cleavage of the mix lineage leukemia (MLL) nuclear protein and transcription ...
+Accession: cd04514 ID: 271336
+
+5. ArsB_NhaD_permease
+Anion permease ArsB/NhaD.  These permeases have been shown to translocate sodium, arsenate, antimoni...
+Accession: cl21473 ID: 389757
+
+6. Fumerase: Fumarate hydratase (Fumerase)
+This family consists of several bacterial fumarate hydratase proteins FumA and FumB. Fumarase, or fu...
+Accession: cl00851 ID: 382244
+
+7. Fumerase_C: Fumarase C-terminus
+This family consists of the C terminal region of several bacterial fumarate hydratase proteins (FumA...
+Accession: cl00795 ID: 382206
+
+8. Ntn_Asparaginase_2_like: L-Asparaginase type 2-like enzymes of the NTN-hydrolase superfamily
+This family includes Glycosylasparaginase, Taspase 1, and  L-Asparaginase type 2 enzymes. Glycosylas...
+Accession: cl00635 ID: 382122
+
+9. Dcu: anaerobic c4-dicarboxylate membrane transporter family protein
+These proteins are members of th C4-Dicarboxylate Uptake (Dcu) Family (TC 2.A.13). Most proteins in ...
+Accession: TIGR00770 ID: 273263
+
+10. ttdA_fumA_fumB: hydro-lyases, Fe-S type, tartrate/fumarate subfamily, alpha region
+A number of Fe-S cluster-containing hydro-lyases share a conserved motif, including argininosuccinat...
+Accession: TIGR00722 ID: 273234
+
+11. Lyase_I_like: Lyase class I_like superfamily: contains the lyase class I family, histidine ammonia-lyase and phenylalanine ammonia-lyase, which catalyze similar beta-elimination reactions
+Lyase class I_like superfamily of enzymes that catalyze beta-elimination reactions and are active as...
+Accession: cd01594 ID: 176466
+
+12. Lyase_I: Lyase class I family; a group of proteins which catalyze similar beta-elimination reactions
+The Lyase class I family contains class II fumarase, aspartase, adenylosuccinate lyase (ASL), argini...
+Accession: cd01334 ID: 176461
+
+13. ttdB_fumA_fumB: hydro-lyases, Fe-S type, tartrate/fumarate subfamily, beta region
+A number of Fe-S cluster-containing hydro-lyases share a conserved motif, including argininosuccinat...
+Accession: TIGR00723 ID: 129806

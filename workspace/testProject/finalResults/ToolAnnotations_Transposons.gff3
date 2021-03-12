@@ -1,0 +1,218 @@
+seq1	reasonaTE	transposon	103436	112025	9:13	+	.	transposon=1;class=2/1/3(CMC,TIR,DNATransposon)
+seq1	reasonaTE	transposon	403095	403341	10:7	+	.	transposon=2;class=2/1/3(CMC,TIR,DNATransposon)
+seq1	reasonaTE	transposon	406008	406254	10:8	+	.	transposon=3;class=1/1/1(Copia,LTR,Retrotransposon)
+seq2	reasonaTE	transposon	59617	62452	10:7	+	.	transposon=4;class=2/1/1(Tc1-Mariner,TIR,DNATransposon)
+seq2	reasonaTE	transposon	63873	66153	12:6	-	.	transposon=5;class=2/1/5(Zator,TIR,DNATransposon)
+seq2	reasonaTE	transposon	221872	233573	9:7	+	.	transposon=6;class=1/1/2(Gypsy,LTR,Retrotransposon)
+seq2	reasonaTE	transposon	343966	345722	10:7	+	.	transposon=7;class=1/1/1(Copia,LTR,Retrotransposon)
+seq2	reasonaTE	transposon	354142	360959	6:10	+	.	transposon=8;class=1/1/2(Gypsy,LTR,Retrotransposon)
+seq2	reasonaTE	transposon	454931	470824	12:8	+	.	transposon=9;class=2/2(Helitron,DNATransposon)
+seq1	reasonaTE	transposon	35536	39898	89.06	+	.	transposon=10 ;class=2/1/3(CMC,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	88035	89365	95.14	+	.	transposon=11 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	110238	123546	96.5	+	.	transposon=12 ;class=1/1/2(Gypsy,LTR,Retrotransposon);description=
+seq1	reasonaTE	transposon	130465	134374	92.7	+	.	transposon=13 ;class=2/1/3(CMC,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	139405	141554	92.84	+	.	transposon=14 ;class=1/1/2(Gypsy,LTR,Retrotransposon);description=
+seq1	reasonaTE	transposon	142967	153019	99.39	+	.	transposon=15 ;class=1/1/1(Copia,LTR,Retrotransposon);description=
+seq1	reasonaTE	transposon	177903	181898	97.4	+	.	transposon=16 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	268295	276908	91.53	+	.	transposon=17 ;class=2/1/3(CMC,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	403061	406260	86.94	+	.	transposon=18 ;class=2/1/3(CMC,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	451464	453045	94.08	+	.	transposon=19 ;class=2/1/1(Tc1-Mariner,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	689022	690514	87.03	+	.	transposon=20 ;class=2/1/2(hAT,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	745353	751257	87.97	+	.	transposon=21 ;class=1/1/2(Gypsy,LTR,Retrotransposon);description=
+seq2	reasonaTE	transposon	52464	54096	92.22	+	.	transposon=22 ;class=2/1/3(CMC,TIR,DNATransposon);description=
+seq2	reasonaTE	transposon	59697	61291	88.31	+	.	transposon=23 ;class=2/1/1(Tc1-Mariner,TIR,DNATransposon);description=
+seq2	reasonaTE	transposon	64595	65898	91.0	+	.	transposon=24 ;class=2/1/3(CMC,TIR,DNATransposon);description=
+seq2	reasonaTE	transposon	129436	132460	96.44	+	.	transposon=25 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq2	reasonaTE	transposon	149675	152548	90.96	+	.	transposon=26 ;class=1/1/1(Copia,LTR,Retrotransposon);description=
+seq2	reasonaTE	transposon	178462	188974	88.46	+	.	transposon=27 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq2	reasonaTE	transposon	212478	216283	91.28	+	.	transposon=28 ;class=1/1/2(Gypsy,LTR,Retrotransposon);description=
+seq2	reasonaTE	transposon	227288	230428	94.93	+	.	transposon=29 ;class=1/1/2(Gypsy,LTR,Retrotransposon);description=
+seq2	reasonaTE	transposon	241657	245259	89.66	+	.	transposon=30 ;class=2/1/1(Tc1-Mariner,TIR,DNATransposon);description=
+seq2	reasonaTE	transposon	245330	256873	98.78	+	.	transposon=31 ;class=1/1/2(Gypsy,LTR,Retrotransposon);description=
+seq2	reasonaTE	transposon	271325	274307	85.61	+	.	transposon=32 ;class=2/1/2(hAT,TIR,DNATransposon);description=
+seq2	reasonaTE	transposon	300833	310021	96.37	+	.	transposon=33 ;class=2/2(Helitron,DNATransposon);description=
+seq2	reasonaTE	transposon	317609	320944	86.45	+	.	transposon=34 ;class=2/1/3(CMC,TIR,DNATransposon);description=
+seq2	reasonaTE	transposon	344055	345392	90.76	+	.	transposon=35 ;class=2/1/2(hAT,TIR,DNATransposon);description=
+seq2	reasonaTE	transposon	358535	360507	96.09	+	.	transposon=36 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq2	reasonaTE	transposon	410198	413107	92.61	+	.	transposon=37 ;class=2/1/2(hAT,TIR,DNATransposon);description=
+seq2	reasonaTE	transposon	444166	446237	85.52	+	.	transposon=38 ;class=2/1/2(hAT,TIR,DNATransposon);description=
+seq2	reasonaTE	transposon	489455	499169	89.71	+	.	transposon=39 ;class=1/1/2(Gypsy,LTR,Retrotransposon);description=
+seq1	reasonaTE	transposon	18218	18293	0.559083	+	.	transposon=40 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	31392	31480	0.543902	+	.	transposon=41 ;class=2/1/3(CMC,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	40393	40837	0.555814	+	.	transposon=42 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	40599	40675	0.66652	+	.	transposon=43 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	44663	44763	0.508566	+	.	transposon=44 ;class=2/1/3(CMC,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	44738	45224	0.60285	+	.	transposon=45 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	45672	45867	0.565007	+	.	transposon=46 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	46044	46365	0.716443	+	.	transposon=47 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	46182	46577	0.577695	+	.	transposon=48 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	47594	48209	0.558776	+	.	transposon=49 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	157351	157413	0.734426	+	.	transposon=50 ;class=2/3(MITE,DNATransposon);description=
+seq1	reasonaTE	transposon	164481	164669	0.653942	+	.	transposon=51 ;class=2/1/4(Sola,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	215766	215941	0.518095	+	.	transposon=52 ;class=2/1/4(Sola,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	267270	267323	0.581469	+	.	transposon=53 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	290732	290787	0.759602	+	.	transposon=54 ;class=2/1/1(Tc1-Mariner,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	307107	307343	0.531005	+	.	transposon=55 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	368037	368261	0.59199	+	.	transposon=56 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	386338	386518	0.514759	+	.	transposon=57 ;class=2/1/3(CMC,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	387297	387508	0.512267	+	.	transposon=58 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	390261	390700	0.598905	+	.	transposon=59 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	393357	393869	0.510715	+	.	transposon=60 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	393562	393768	0.60086	+	.	transposon=61 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	393566	393751	0.619098	+	.	transposon=62 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	393632	393713	0.834566	+	.	transposon=63 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	396370	396653	0.512016	+	.	transposon=64 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	396596	396679	0.543924	+	.	transposon=65 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	413312	413842	0.506008	+	.	transposon=66 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	413488	413760	0.513633	+	.	transposon=67 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	413653	414187	0.51225	+	.	transposon=68 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	413747	414051	0.552385	+	.	transposon=69 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	413758	413845	0.548498	+	.	transposon=70 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	414044	414451	0.502066	+	.	transposon=71 ;class=2/1/1(Tc1-Mariner,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	416217	416553	0.61278	+	.	transposon=72 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	433798	434058	0.513037	+	.	transposon=73 ;class=2/1/3(CMC,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	454605	454882	0.622514	+	.	transposon=74 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	455980	456068	0.642435	+	.	transposon=75 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	459988	460273	0.640685	+	.	transposon=76 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	462862	463002	0.542167	+	.	transposon=77 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	462911	463002	0.521317	+	.	transposon=78 ;class=2/1/4(Sola,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	474935	475613	0.5374	+	.	transposon=79 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	476159	476223	0.597163	+	.	transposon=80 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	476354	476580	0.628977	+	.	transposon=81 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	477626	477979	0.524779	+	.	transposon=82 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	538810	539069	0.52228	+	.	transposon=83 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	558418	558839	0.567108	+	.	transposon=84 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	653019	653139	0.524758	+	.	transposon=85 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	663839	664398	0.594237	+	.	transposon=86 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	664303	664383	0.677275	+	.	transposon=87 ;class=2/1/3(CMC,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	664845	665624	0.521645	+	.	transposon=88 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	667905	668048	0.5169	+	.	transposon=89 ;class=2/1/3(CMC,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	670803	671110	0.508932	+	.	transposon=90 ;class=2/1/4(Sola,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	709607	709852	0.517936	-	.	transposon=91 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	666737	666792	0.568663	-	.	transposon=92 ;class=2/1/3(CMC,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	476177	476599	0.631604	-	.	transposon=93 ;class=2/1/3(CMC,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	473135	473226	0.554071	-	.	transposon=94 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	462566	462869	0.506699	-	.	transposon=95 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	459997	460600	0.535345	-	.	transposon=96 ;class=2/1/4(Sola,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	459987	460432	0.556788	-	.	transposon=97 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	415816	415865	0.509579	-	.	transposon=98 ;class=2/3(MITE,DNATransposon);description=
+seq1	reasonaTE	transposon	414180	414442	0.529717	-	.	transposon=99 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	414114	414364	0.50087	-	.	transposon=100 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	413926	414293	0.509436	-	.	transposon=101 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	413329	414052	0.532753	-	.	transposon=102 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	413702	413980	0.533126	-	.	transposon=103 ;class=2/1/3(CMC,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	413250	413838	0.528423	-	.	transposon=104 ;class=2/1/3(CMC,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	413250	413493	0.531898	-	.	transposon=105 ;class=2/1/3(CMC,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	393932	394000	0.526304	-	.	transposon=106 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	393508	393752	0.571419	-	.	transposon=107 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	386976	387446	0.60777	-	.	transposon=108 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	386888	387446	0.605643	-	.	transposon=109 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	262599	262704	0.597028	-	.	transposon=110 ;class=2/1/4(Sola,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	137399	137532	0.50819	-	.	transposon=111 ;class=2/1/1(Tc1-Mariner,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	65112	65296	0.537651	-	.	transposon=112 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	48966	49304	0.816319	-	.	transposon=113 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	45631	45721	0.566327	-	.	transposon=114 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	44427	44842	0.503102	-	.	transposon=115 ;class=2/1/3(CMC,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	44224	44669	0.534212	-	.	transposon=116 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	40561	40825	0.559463	-	.	transposon=117 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	32633	33049	0.500576	-	.	transposon=118 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq2	reasonaTE	transposon	186542	187290	0.57444	+	.	transposon=119 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq2	reasonaTE	transposon	186795	187393	0.565008	+	.	transposon=120 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq2	reasonaTE	transposon	275068	275707	0.540465	+	.	transposon=121 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq2	reasonaTE	transposon	275172	275547	0.535822	+	.	transposon=122 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq2	reasonaTE	transposon	292794	293007	0.64363	+	.	transposon=123 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq2	reasonaTE	transposon	368676	368760	0.710247	+	.	transposon=124 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq2	reasonaTE	transposon	479559	479717	0.516006	-	.	transposon=125 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq2	reasonaTE	transposon	318875	318953	0.708609	-	.	transposon=126 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq2	reasonaTE	transposon	44590	44789	0.51293	-	.	transposon=127 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	382281	382489	.	+	.	transposon=128 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	28090	28283	.	+	.	transposon=129 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	685580	685767	.	+	.	transposon=130 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	228276	228461	.	+	.	transposon=131 ;class=2/1/2(hAT,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	173088	173268	.	+	.	transposon=132 ;class=2/1/2(hAT,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	304536	304714	.	+	.	transposon=133 ;class=2/1/2(hAT,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	27016	27193	.	+	.	transposon=134 ;class=2/1/2(hAT,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	301110	301293	.	+	.	transposon=135 ;class=2/1/2(hAT,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	599763	599939	.	+	.	transposon=136 ;class=2/1/2(hAT,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	599287	599459	.	+	.	transposon=137 ;class=2/1/2(hAT,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	371058	371238	.	+	.	transposon=138 ;class=2/1/2(hAT,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	293215	293391	.	+	.	transposon=139 ;class=2/1/2(hAT,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	369228	369397	.	+	.	transposon=140 ;class=2/1/2(hAT,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	436219	436396	.	+	.	transposon=141 ;class=2/1/3(CMC,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	209149	209324	.	+	.	transposon=142 ;class=2/1/3(CMC,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	436804	436981	.	-	.	transposon=143 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq2	reasonaTE	transposon	287982	288170	.	+	.	transposon=144 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq2	reasonaTE	transposon	283107	283290	.	+	.	transposon=145 ;class=2/1/1(Tc1-Mariner,TIR,DNATransposon);description=
+seq2	reasonaTE	transposon	100325	100491	.	+	.	transposon=146 ;class=2/1/2(hAT,TIR,DNATransposon);description=
+seq2	reasonaTE	transposon	22087	22264	.	+	.	transposon=147 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	364691	364799	21.0	+	.	transposon=148 ;class=2/1/5(Zator,TIR,DNATransposon);description=Complete transposon
+seq1	reasonaTE	transposon	572182	572292	14.0	-	.	transposon=149 ;class=2/1/5(Zator,TIR,DNATransposon);description=Complete transposon
+seq1	reasonaTE	transposon	663243	663350	21.0	-	.	transposon=150 ;class=2/1/5(Zator,TIR,DNATransposon);description=Complete transposon
+seq1	reasonaTE	transposon	677878	677989	19.999992	-	.	transposon=151 ;class=2/1/2(hAT,TIR,DNATransposon);description=Complete transposon
+seq2	reasonaTE	transposon	288019	288126	20.0	+	.	transposon=152 ;class=2/1/5(Zator,TIR,DNATransposon);description=Complete transposon
+seq1	reasonaTE	transposon	100083	100228	.	-	.	transposon=178 ;class=2/1/2(hAT,TIR,DNATransposon);description=
+seq2	reasonaTE	transposon	147939	148457	.	-	.	transposon=179 ;class=2/1/2(hAT,TIR,DNATransposon);description=
+seq2	reasonaTE	transposon	98454	98579	.	-	.	transposon=180 ;class=2/1/1(Tc1-Mariner,TIR,DNATransposon);description=
+seq2	reasonaTE	transposon	16712	16836	.	-	.	transposon=181 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	10386	10560	.	-	.	transposon=182 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	27422	27909	.	-	.	transposon=183 ;class=2/1/2(hAT,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	200654	200843	.	-	.	transposon=185 ;class=2/1/1(Tc1-Mariner,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	238968	239291	.	-	.	transposon=186 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	213622	213805	.	+	.	transposon=187 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	317242	317467	.	-	.	transposon=188 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	436879	437089	.	-	.	transposon=189 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	472652	472914	.	-	.	transposon=190 ;class=2/1/1(Tc1-Mariner,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	544532	544679	.	-	.	transposon=191 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	559774	559923	.	-	.	transposon=192 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	481224	481424	.	+	.	transposon=193 ;class=2/1/2(hAT,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	478292	478504	.	+	.	transposon=194 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	595032	595262	.	-	.	transposon=195 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	630410	630587	.	-	.	transposon=196 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	630053	630230	.	+	.	transposon=197 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	572346	572804	.	+	.	transposon=198 ;class=2/1/2(hAT,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	692750	693054	.	+	.	transposon=199 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	750974	751298	.	+	.	transposon=200 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq2	reasonaTE	transposon	35246	35404	.	-	.	transposon=201 ;class=2/1/3(CMC,TIR,DNATransposon);description=
+seq2	reasonaTE	transposon	55272	55496	.	-	.	transposon=202 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq2	reasonaTE	transposon	57590	57899	.	-	.	transposon=203 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq2	reasonaTE	transposon	288295	288535	.	+	.	transposon=207 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq2	reasonaTE	transposon	471474	471727	.	+	.	transposon=208 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq2	reasonaTE	transposon	432804	433319	.	-	.	transposon=209 ;class=2/1/5(Zator,TIR,DNATransposon);description=
+seq1	reasonaTE	transposon	968	1649	.	+	.	transposon=210;class=2/1/2(hAT,TIR,DNATransposon)
+seq1	reasonaTE	transposon	12288	13392	.	+	.	transposon=211;class=2/1/3(CMC,TIR,DNATransposon)
+seq1	reasonaTE	transposon	15129	19842	.	+	.	transposon=212;class=2/1/1(Tc1-Mariner,TIR,DNATransposon)
+seq1	reasonaTE	transposon	27069	29800	.	+	.	transposon=213;class=2/1/2(hAT,TIR,DNATransposon)
+seq1	reasonaTE	transposon	51340	52294	.	+	.	transposon=214;class=2/1/2(hAT,TIR,DNATransposon)
+seq1	reasonaTE	transposon	62776	68779	.	+	.	transposon=215;class=2/1/1(Tc1-Mariner,TIR,DNATransposon)
+seq1	reasonaTE	transposon	118106	129149	.	+	.	transposon=216;class=2/1/4(Sola,TIR,DNATransposon)
+seq1	reasonaTE	transposon	233437	239281	.	+	.	transposon=217;class=2/1/3(CMC,TIR,DNATransposon)
+seq1	reasonaTE	transposon	242581	243433	.	+	.	transposon=218;class=2/1/2(hAT,TIR,DNATransposon)
+seq1	reasonaTE	transposon	268873	276894	.	+	.	transposon=219;class=2/1/3(CMC,TIR,DNATransposon)
+seq1	reasonaTE	transposon	293654	296928	.	+	.	transposon=220;class=2/1/2(hAT,TIR,DNATransposon)
+seq1	reasonaTE	transposon	321669	329111	.	+	.	transposon=221;class=2/1/2(hAT,TIR,DNATransposon)
+seq1	reasonaTE	transposon	364640	367701	.	+	.	transposon=222;class=2/1/3(CMC,TIR,DNATransposon)
+seq1	reasonaTE	transposon	380071	380852	.	+	.	transposon=223;class=2/1/2(hAT,TIR,DNATransposon)
+seq1	reasonaTE	transposon	396609	397181	.	+	.	transposon=224;class=2/1/2(hAT,TIR,DNATransposon)
+seq1	reasonaTE	transposon	465134	465936	.	+	.	transposon=225;class=2/1/5(Zator,TIR,DNATransposon)
+seq1	reasonaTE	transposon	476019	476752	.	+	.	transposon=226;class=2/1/5(Zator,TIR,DNATransposon)
+seq1	reasonaTE	transposon	589980	599462	.	+	.	transposon=227;class=1/1/2(Gypsy,LTR,Retrotransposon)
+seq1	reasonaTE	transposon	601860	607507	.	+	.	transposon=228;class=1/1/2(Gypsy,LTR,Retrotransposon)
+seq1	reasonaTE	transposon	629719	630916	.	+	.	transposon=229;class=2/1/2(hAT,TIR,DNATransposon)
+seq1	reasonaTE	transposon	658315	666233	.	+	.	transposon=230;class=2/1/2(hAT,TIR,DNATransposon)
+seq1	reasonaTE	transposon	677832	685770	.	+	.	transposon=231;class=2/1/2(hAT,TIR,DNATransposon)
+seq1	reasonaTE	transposon	733184	737953	.	+	.	transposon=232;class=1/1/1(Copia,LTR,Retrotransposon)
+seq1	reasonaTE	transposon	746945	753885	.	+	.	transposon=233;class=2/1/3(CMC,TIR,DNATransposon)
+seq1	reasonaTE	transposon	599280	599947	.	-	.	transposon=234;class=2/1/2(hAT,TIR,DNATransposon)
+seq1	reasonaTE	transposon	436217	436989	.	-	.	transposon=235;class=2/1/2(hAT,TIR,DNATransposon)
+seq1	reasonaTE	transposon	209204	214772	.	-	.	transposon=236;class=2/1/2(hAT,TIR,DNATransposon)
+seq1	reasonaTE	transposon	51340	52894	.	-	.	transposon=237;class=2/1/2(hAT,TIR,DNATransposon)
+seq2	reasonaTE	transposon	52776	53765	.	+	.	transposon=238;class=2/1/5(Zator,TIR,DNATransposon)
+seq2	reasonaTE	transposon	61656	66041	.	+	.	transposon=239;class=2/1/2(hAT,TIR,DNATransposon)
+seq2	reasonaTE	transposon	176925	179525	.	+	.	transposon=240;class=2/1/2(hAT,TIR,DNATransposon)
+seq2	reasonaTE	transposon	188823	189847	.	+	.	transposon=241;class=2/1/2(hAT,TIR,DNATransposon)
+seq2	reasonaTE	transposon	224545	227237	.	+	.	transposon=242;class=2/1/3(CMC,TIR,DNATransposon)
+seq2	reasonaTE	transposon	271044	274307	.	+	.	transposon=243;class=2/1/1(Tc1-Mariner,TIR,DNATransposon)
+seq2	reasonaTE	transposon	278497	282866	.	+	.	transposon=244;class=2/1/2(hAT,TIR,DNATransposon)
+seq2	reasonaTE	transposon	289750	293488	.	+	.	transposon=245;class=2/1/2(hAT,TIR,DNATransposon)
+seq2	reasonaTE	transposon	40194	47926	.	-	.	transposon=248 ;class=2/2(Helitron,DNATransposon);description= orfs=0; repeat_region_length=7741
+seq2	reasonaTE	transposon	278520	293715	.	+	.	transposon=250 ;class=2/1/2(hAT,TIR,DNATransposon);description= orfs=2; repeat_region_length=15204

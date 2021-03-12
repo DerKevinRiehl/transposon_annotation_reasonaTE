@@ -1,0 +1,13 @@
+package:
+  name: "transposon_annotation_reasonate"
+  version: "1.0.0"
+
+build:
+  number: 0
+
+about:
+  home: https://github.com/DerKevinRiehl/transposon_annotation_reasonaTE
+  license: GPL3
+  license_family: GPL
+  summary: Transposon Annotator "reasonaTE" - part of TransposonUltimate
+  description: Transposon Annotator "reasonaTE" - part of TransposonUltimate

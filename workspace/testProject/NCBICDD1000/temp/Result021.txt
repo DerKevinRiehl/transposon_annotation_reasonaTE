@@ -1,0 +1,11 @@
+# RPSTBLASTN 2.10.0+
+# Query: seq1
+# Database: /mnt/home3/riehl/miniconda3/envs/transposon_annotation_tools_env/share/proteinNCBICDD1000/selection/Selection1000Library021
+# Fields: subject title, evalue, q. start, q. end
+# 1 hits found
+cd17761, MCM_arch, archaeal MCM protein.  archaeal MCM proteins form a homohexameric ring homologous to the eukaryotic Mcm2-7 helicase and also function as the replicative helicase at the replication fork.	9.87e-115	196903	197820
+# RPSTBLASTN 2.10.0+
+# Query: seq2
+# Database: /mnt/home3/riehl/miniconda3/envs/transposon_annotation_tools_env/share/proteinNCBICDD1000/selection/Selection1000Library021
+# 0 hits found
+# BLAST processed 2 queries

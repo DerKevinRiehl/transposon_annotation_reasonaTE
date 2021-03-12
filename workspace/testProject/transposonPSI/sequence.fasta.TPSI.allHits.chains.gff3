@@ -1,0 +1,15 @@
+seq1	TransposonPSI	translated_nucleotide_match	116300	117574	752	+	.	ID=match00001; Target=LINE; E=7e-83 431 866
+seq1	TransposonPSI	translated_nucleotide_match	127679	128107	239	-	.	ID=match00002; Target=LINE; E=2e-21 665 810
+seq1	TransposonPSI	translated_nucleotide_match	133459	133659	163	-	.	ID=match00003; Target=LINE; E=1e-12 700 769
+seq1	TransposonPSI	translated_nucleotide_match	147777	148208	147	-	.	ID=match00004; Target=gypsy; E=1e-10 1169 1299
+seq1	TransposonPSI	translated_nucleotide_match	147016	147780	524	-	.	ID=match00005; Target=ltr_Roo; E=3e-54 1534 1767
+seq1	TransposonPSI	translated_nucleotide_match	147777	151295	2339	-	.	ID=match00006; Target=ltr_Roo; E=0.0 465 1533
+seq1	TransposonPSI	translated_nucleotide_match	151303	152256	548	-	.	ID=match00007; Target=ltr_Roo; E=5e-57 151 455
+seq1	TransposonPSI	translated_nucleotide_match	154729	155709	253	+	.	ID=match00008; Target=mariner; E=4e-25 9 342
+seq1	TransposonPSI	translated_nucleotide_match	452467	452793	101	+	.	ID=match00009; Target=mariner; E=5e-06 235 343
+seq1	TransposonPSI	translated_nucleotide_match	154822	155652	223	+	.	ID=match00010; Target=mariner_ant1; E=2e-21 33 307
+seq1	TransposonPSI	translated_nucleotide_match	452410	452700	101	+	.	ID=match00011; Target=mariner_ant1; E=4e-06 203 296
+seq2	TransposonPSI	translated_nucleotide_match	1620	2150	256	+	.	ID=match00012; Target=LINE; E=8e-24 687 866
+seq2	TransposonPSI	translated_nucleotide_match	253142	254113	152	+	.	ID=match00013; Target=ltr_Roo; E=4e-11 236 551
+seq2	TransposonPSI	translated_nucleotide_match	254511	255215	240	+	.	ID=match00014; Target=ltr_Roo; E=2e-21 521 779
+seq2	TransposonPSI	translated_nucleotide_match	255636	255980	153	+	.	ID=match00015; Target=ltr_Roo; E=3e-11 1710 1817

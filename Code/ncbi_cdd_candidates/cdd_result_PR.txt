@@ -1,0 +1,3748 @@
+
+1. serpin: SERine Proteinase INhibitors (serpin) family
+SERine Proteinase INhibitors (serpins) exhibit conformational polymorphism shifting from native to c...
+Accession: cl38926 ID: 393296
+
+2. crotonase-like
+Crotonase/Enoyl-Coenzyme A (CoA) hydratase superfamily. This superfamily contains a diverse set of e...
+Accession: cl23717 ID: 390041
+
+3. Clp_protease_like: Caseinolytic protease (ClpP) is an ATP-dependent protease
+Clp protease (caseinolytic protease; ClpP; endopeptidase Clp; Peptidase S14; ATP-dependent protease,...
+Accession: cd00394 ID: 132923
+
+4. S14_ClpP_2: Caseinolytic protease (ClpP) is an ATP-dependent, highly conserved serine protease
+Clp protease (caseinolytic protease; ClpP; Peptidase S14) is a highly conserved serine protease pres...
+Accession: cd07017 ID: 132928
+
+5. S14_ClpP_1: Caseinolytic protease (ClpP) is an ATP-dependent, highly conserved serine protease
+Clp protease (caseinolytic protease; ClpP; Peptidase S14) is a highly conserved serine protease pres...
+Accession: cd07016 ID: 132927
+
+6. S14_ClpP: Caseinolytic protease (ClpP) is an ATP-dependent, highly conserved serine protease
+Clp protease (caseinolytic protease; ClpP; Peptidase S14) is a highly conserved serine protease pres...
+Accession: cd07013 ID: 132924
+
+7. PA
+PA: Protease-associated (PA) domain. The PA domain is an insert domain in a diverse fraction of prot...
+Accession: cl28883 ID: 333703
+
+8. Ecotin: Protease Inhibitor Ecotin; homodimeric protease inhibitor
+Protease Inhibitor Ecotin; homodimeric protease inhibitor which binds two chymotrypsin-like serine p...
+Accession: cl00178 ID: 381839
+
+9. Ecotin: Protease Inhibitor Ecotin; homodimeric protease inhibitor
+Protease Inhibitor Ecotin; homodimeric protease inhibitor which binds two chymotrypsin-like serine p...
+Accession: cd00242 ID: 153074
+
+10. Peptidase_S41_TRI: Tricorn protease; serine protease family S41
+The tricorn protease (TRI), a member of the S41 peptidase family and named for its tricorn-like shap...
+Accession: cd07562 ID: 143478
+
+11. YdiL: Membrane protease YdiL, CAAX protease family  [Posttranslational modification, protein turnover, chaperones]
+
+Accession: COG1266 ID: 224185
+
+12. ClpP: ATP-dependent protease ClpP, protease subunit [Posttranslational modification, protein turnover, chaperones]
+
+Accession: COG0740 ID: 223811
+
+13. Peptidase_M48_M56: Peptidases M48 (Ste24 endopeptidase or htpX homolog) and M56 (in MecR1 and BlaR1), integral membrane metallopeptidases
+This family contains peptidase M48 (also known as Ste24 peptidase, Ste24p, Ste24 endopeptidase, a-fa...
+Accession: cl28898 ID: 333718
+
+14. pepsin_retropepsin_like: Cellular and retroviral pepsin-like aspartate proteases
+This family includes both cellular and retroviral pepsin-like aspartate proteases. The cellular peps...
+Accession: cl11403 ID: 386101
+
+15. UBA_like_SF: UBA domain-like superfamily
+The ubiquitin-associated (UBA) domain-like superfamily contains alpha-helical structural homology ub...
+Accession: cl21463 ID: 389751
+
+16. Lon_2: Putative ATP-dependent Lon protease
+This is a family of proteins that are annotated as ATP-dependent Lon proteases.
+Accession: cl11979 ID: 386238
+
+17. cnd41_like: Chloroplast Nucleoids DNA-binding Protease, catalyzes the degradation of ribulose-1,5-bisphosphate carboxylase/oxygenase
+Chloroplast Nucleoids DNA-binding Protease catalyzes the degradation of ribulose-1,5-bisphosphate ca...
+Accession: cd05472 ID: 133139
+
+18. deltaCoV_Nsp5_Mpro: deltacoronavirus non-structural protein 5, also called Main protease (Mpro)
+This subfamily contains the coronavirus (CoV) non-structural protein 5 (Nsp5) also called the Main p...
+Accession: cd21668 ID: 394889
+
+19. gammaCoV_Nsp5_Mpro: gammacoronavirus non-structural protein 5, also called Main protease (Mpro)
+This subfamily contains the coronavirus (CoV) non-structural protein 5 (Nsp5) also called the Main p...
+Accession: cd21667 ID: 394888
+
+20. betaCoV_Nsp5_Mpro: betacoronavirus non-structural protein 5, also called Main protease (Mpro)
+This subfamily contains the coronavirus (CoV) non-structural protein 5 (Nsp5) also called the Main p...
+Accession: cd21666 ID: 394887
+
+21. alphaCoV_Nsp5_Mpro: alphacoronavirus non-structural protein 5, also called Main protease (Mpro)
+This subfamily contains the coronavirus (CoV) non-structural protein 5 (Nsp5) also called the Main p...
+Accession: cd21665 ID: 394886
+
+22. CoV_Nsp5_Mpro: coronavirus non-structural protein 5, also called Main protease (Mpro)
+This family contains the coronavirus (CoV) non-structural protein 5 (Nsp5) also called the Main prot...
+Accession: cd21646 ID: 394885
+
+23. Rhomboid_N: Cytoplasmic N-terminal domain of rhomboid serine protease
+Rhomboid_N is the N-terminal cytoplasmic domain of the rhomboid intra-membraneous serine protease, o...
+Accession: cl29718 ID: 392169
+
+24. Prp-like: ribosomal-processing cysteine protease Prp and similar proteins
+This model represents a family of cysteine proteases that include members found to cleave the N-term...
+Accession: cl01080 ID: 382369
+
+25. serpinA2_PIL: serpin family A member 2, protease inhibitor 1-like
+Protease inhibitor 1-like (also called serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, ...
+Accession: cd19550 ID: 381018
+
+26. Inhibitor_I69: Spi protease inhibitor
+This family includes the inhibitor Spi and the pro-peptides of streptopain (SpeB). SpeB is produced ...
+Accession: pfam13734 ID: 379354
+
+27. Peptidase_S6: Immunoglobulin A1 protease
+This family consists of immunoglobulin A1 protease proteins. The immunoglobulin A1 protease cleaves ...
+Accession: pfam02395 ID: 367071
+
+28. 7tmA_PAR: protease-activated receptors, member of the class A family of seven-transmembrane G protein-coupled receptors
+This subfamily includes purinergic receptor P2Y8 and protease-activated receptors. P2Y8 (or P2RY8) e...
+Accession: cd15162 ID: 341328
+
+29. Peptidase_S41_CPP: C-terminal processing peptidase; serine protease family S41
+The C-terminal processing peptidase (CPP, EC 3.4.21.102) also known as tail-specific protease (tsp),...
+Accession: cd07560 ID: 143476
+
+30. Cathespin_E: Cathepsin E, non-lysosomal aspartic protease
+Cathepsin E is an intracellular, non-lysosomal aspartic protease expressed in a variety of cells and...
+Accession: cd05486 ID: 133153
+
+31. S49_Sppa_N_C: Signal peptide peptidase A (SppA), a serine protease, has catalytic Ser-Lys dyad
+Signal peptide peptidase A (SppA; Peptidase S49; Protease IV): SppA is found in all three domains of...
+Accession: cd07023 ID: 132934
+
+32. S49_SppA_1: Signal peptide peptidase A (SppA), a serine protease, has catalytic Ser-Lys dyad
+Signal peptide peptidase A (SppA; Peptidase S49; Protease IV): SppAs in this subfamily are found in ...
+Accession: cd07019 ID: 132930
+
+33. S49_SppA_67K_type: Signal peptide peptidase A (SppA) 67K type, a serine protease, has catalytic Ser-Lys dyad
+Signal peptide peptidase A (SppA; Peptidase S49; Protease IV) 67K type: SppA is found in all three d...
+Accession: cd07018 ID: 132929
+
+34. Ubl2_cv_PLpro_N_Nsp3-like: second ubiquitin-like (Ubl) domain located N-terminal to the coronavirus SARS-CoV papain-like protease (PLpro) domain in the non-structural protein 3 (Nsp3) and related proteins
+Severe acute respiratory syndrome coronavirus (SARS-CoV) non-structural proteins (Nsps) are encoded ...
+Accession: cd21466 ID: 394821
+
+35. USP25_USP28_C-like: carboxyl-terminal domain of ubiquitin-specific protease 25 (USP25) and 28 (USP28), and similar domains
+This family contains the C-terminal domain of two deubiquitinases (DUBs), ubiquitin-specific proteas...
+Accession: cl40424 ID: 394794
+
+36. Tiki_TraB-like: diverse proteins related to the Tiki and TraB protease domains
+The extracellular domain of Tiki family proteins shares homology with bacterial TraB/PrgY proteins w...
+Accession: cl38917 ID: 393292
+
+37. Peptidase_S30: Potyvirus P1 protease
+The potyviridae family positive stand RNA viruses with genome encoding a polyprotein. members includ...
+Accession: cl29696 ID: 392159
+
+38. RING_Ubox: The superfamily of RING finger (Really Interesting New Gene) domain and U-box domain
+RING finger is a specialized type of Zn-finger of 40 to 60 residues that binds two atoms of zinc. It...
+Accession: cl17238 ID: 388418
+
+39. ClpS: ATP-dependent Clp protease adaptor protein ClpS
+In the bacterial cytosol, ATP-dependent protein degradation is performed by several different chaper...
+Accession: cl00933 ID: 382292
+
+40. Abi: CAAX protease self-immunity
+Members of this family are probably proteases (after a isoprenyl group is attached to the Cys residu...
+Accession: cl00558 ID: 382079
+
+41. serpinA10_PZI: serpin family A member 10, protein Z-dependent protease inhibitor
+Protein Z-dependent protease inhibitor (ZPI) is a member of the serpin superfamily of proteinase inh...
+Accession: cd02055 ID: 381011
+
+42. chlamy_CPAF: protease-like activity factor CPAF
+CPAF (chlamydial protease/proteasome-like activity factor) is a serine protease secreted various spe...
+Accession: NF033424 ID: 380266
+
+43. Peptidase_Prp: Cysteine protease Prp
+This is a family of cysteine protease that are found to cleave the N-terminus extension of ribosomal...
+Accession: pfam04327 ID: 377307
+
+44. CspB_prodomain: Csp protease B prodomain
+Csp proteases (Csps) and the subtilase protease family Subtilases are serine proteases that contain ...
+Accession: pfam18425 ID: 375851
+
+45. CLIP_SPH_Scar: Clip-domain serine protease homolog Scarface
+The clip domain is a structural/regulatory unit in many arthropod serine proteases. The clip domain ...
+Accession: pfam18399 ID: 375825
+
+46. Rhomboid_N: Cytoplasmic N-terminal domain of rhomboid serine protease
+Rhomboid_N is the N-terminal cytoplasmic domain of the rhomboid intra-membraneous serine protease, o...
+Accession: pfam12122 ID: 371906
+
+47. Kazal_2: Kazal-type serine protease inhibitor domain
+Usually indicative of serine protease inhibitors. However, kazal-like domains are also seen in the e...
+Accession: pfam07648 ID: 369449
+
+48. Inh: Protease inhibitor Inh
+The Inh inhibitor is secreted into the periplasm where its presumed physiological function is to pro...
+Accession: pfam02974 ID: 367277
+
+49. CLP_protease: Clp protease
+The Clp protease has an active site catalytic triad. In E. coli Clp protease, ser-111, his-136 and a...
+Accession: pfam00574 ID: 366176
+
+50. DEXHc_viral_Ns3: DEXH-box helicase domain of NS3 protease-helicase
+NS3 is a nonstructural multifunctional protein found in pestiviruses that contains an N-terminal pro...
+Accession: cd17931 ID: 350689
+
+51. 7tmA_PAR2: protease-activated receptor 2, member of the class A family of seven-transmembrane G protein-coupled receptors
+Protease-acted receptors (PARs) are seven-transmembrane proteins that belong to the class A G-protei...
+Accession: cd15370 ID: 341349
+
+52. M4_TLP: Peptidase M4 family including thermolysin, protealysin, aureolysin, and neutral protease
+This peptidase M4 family includes several endopeptidases such as thermolysin (EC 3.4.24.27), aureoly...
+Accession: cd09597 ID: 341060
+
+53. Ubl_USP48: ubiquitin-like (Ubl) domain found in ubiquitin-specific-processing protease 48 (USP48) and similar proteins
+USP48, also termed USP31, or deubiquitinating enzyme 48, or ubiquitin thioesterase 48, or ubiquitin ...
+Accession: cd01795 ID: 340493
+
+54. Kazal_1: Kazal-type serine protease inhibitor domain
+Usually indicative of serine protease inhibitors. However, kazal-like domains are also seen in the e...
+Accession: pfam00050 ID: 333798
+
+55. Peptidase_S78: Caudovirus prohead serine protease
+Family of Caudovirus prohead serine proteases also found in a number of bacteria possibly as the res...
+Accession: cl01521 ID: 321544
+
+56. 7tmA_PAR4: protease-activated receptor 4, member of the class A family of seven-transmembrane G protein-coupled receptors
+Protease-acted receptors (PARs) are seven-transmembrane proteins that belong to the class A G-protei...
+Accession: cd15372 ID: 320494
+
+57. 7tmA_PAR3: protease-activated receptor 3, member of the class A family of seven-transmembrane G protein-coupled receptors
+Protease-acted receptors (PARs) are seven-transmembrane proteins that belong to the class A G-protei...
+Accession: cd15371 ID: 320493
+
+58. 7tmA_PAR1: protease-activated receptor 1, member of the class A family of seven-transmembrane G protein-coupled receptors
+Protease-acted receptors (PARs) are seven-transmembrane proteins that belong to the class A G-protei...
+Accession: cd15369 ID: 320491
+
+59. ATP_dep_HslV: ATP-dependent protease HslVU, peptidase subunit
+The ATP-dependent protease HslVU, a complex of hexameric HslU active as a protein-unfolding ATPase a...
+Accession: TIGR03692 ID: 274727
+
+60. degP_htrA_DO: periplasmic serine protease, Do/DeqQ family
+This family consists of a set proteins various designated DegP, heat shock protein HtrA, and proteas...
+Accession: TIGR02037 ID: 273938
+
+61. proheadase_HK97: phage prohead protease, HK97 family
+This model describes the prohead protease of HK97 and related phage. It is generally encoded next to...
+Accession: TIGR01543 ID: 273682
+
+62. lon_rel: lon-related putative ATP-dependent protease
+This model represents a set of proteins with extensive C-terminal homology to the ATP-dependent prot...
+Accession: TIGR00764 ID: 273259
+
+63. Peptidase_S30: Potyvirus P1 protease
+The potyviridae family positive stand RNA viruses with genome encoding a polyprotein. members includ...
+Accession: pfam01577 ID: 250716
+
+64. Peptidase_S41_IRBP: Interphotoreceptor retinoid-binding protein; serine protease family S41
+Interphotoreceptor retinoid-binding protein (IRBP) is a homolog of the S41 protease, C-terminal proc...
+Accession: cd07563 ID: 143479
+
+65. retropepsin_like_LTR_1: Retropepsins_like_LTR; pepsin-like aspartate protease from retrotransposons with long terminal repeats
+Retropepsin of retrotransposons with long terminal repeats are pepsin-like aspartate proteases. Whil...
+Accession: cd05481 ID: 133148
+
+66. pepsin_A_like_plant: Chroloplast Nucleoids DNA-binding Protease and Nucellin, pepsin-like aspartic proteases from plants
+This family contains pepsin like aspartic proteases from plants including Chloroplast Nucleoids DNA-...
+Accession: cd05476 ID: 133143
+
+67. Clp_protease_NfeD_like: Nodulation formation efficiency D (NfeD) is a membrane-bound ClpP-class protease
+Nodulation formation efficiency D (NfeD; stomatin operon partner protein, STOPP; DUF107) is a member...
+Accession: cd07021 ID: 132932
+
+68. Clp_protease_NfeD_1: Nodulation formation efficiency D (NfeD) is a membrane-bound ClpP-class protease
+Nodulation formation efficiency D (NfeD; stomatin operon partner protein, STOPP; DUF107) is a member...
+Accession: cd07020 ID: 132931
+
+69. Clp_protease_NfeD: Nodulation formation efficiency D (NfeD) is a membrane-bound ClpP-class protease
+Nodulation formation efficiency D (NfeD; stomatin operon partner protein, STOPP; DUF107) is a member...
+Accession: cd07015 ID: 132926
+
+70. spore_lonB: ATP-dependent protease LonB
+Members of this protein are LonB, a paralog of the ATP-dependent protease La (LonA, TIGR00763). LonB...
+Accession: TIGR02902 ID: 131948
+
+71. hycI: hydrogenase maturation protease HycI
+Hydrogenase maturation protease is a protease that is involved in the C-terminal processing of HycE,...
+Accession: TIGR00142 ID: 129247
+
+72. CysPc: Calpain-like thiol protease family
+Calpain-like thiol protease family (peptidase family C2). Calcium activated neutral protease (large ...
+Accession: smart00230 ID: 128526
+
+73. Peptidase_S7: Peptidase S7, Flavivirus NS3 serine protease
+The viral genome is a positive strand RNA that encodes a single polyprotein precursor. Processing of...
+Accession: cl29867 ID: 392224
+
+74. PrsW-protease: Protease prsW family
+This is a family of putative peptidases, possibly belonging to the MEROPS M79 family. PrsW, appears ...
+Accession: cl23838 ID: 390122
+
+75. Peptidase_C48: Ulp1 protease family, C-terminal catalytic domain
+This domain contains the catalytic triad Cys-His-Asn.
+Accession: cl23802 ID: 390099
+
+76. Kazal_3: Kazal-type serine protease inhibitor domain
+Kazal domain found in factor I-like modules (FIMs) region on the carboxyl-terminal of complement com...
+Accession: cl20168 ID: 388778
+
+77. OTU: OTU-like cysteine protease
+This family is comprised of a group of predicted cysteine proteases, homologous to the Ovarian tumor...
+Accession: cl19932 ID: 388712
+
+78. Peptidase_S77: Prohead core protein serine protease
+prohead core scaffolding protein and protease
+Accession: cl11614 ID: 386185
+
+79. Prp-like: ribosomal-processing cysteine protease Prp and similar proteins
+This model represents a family of cysteine proteases that include members found to cleave the N-term...
+Accession: cd16332 ID: 381747
+
+80. USP28_C: carboxyl-terminal domain of ubiquitin-specific protease 28 (USP28)
+This family contains the C-terminal domain of ubiquitin-specific protease USP28, a deubiquitinase (D...
+Accession: cd20487 ID: 380452
+
+81. USP25_C: carboxyl-terminal domain of ubiquitin-specific protease 25 (USP25)
+This subfamily contains the C-terminal domain of ubiquitin-specific protease USP25, a deubiquitinase...
+Accession: cd20486 ID: 380451
+
+82. PrsW-protease: Protease prsW family
+This is a family of putative peptidases, possibly belonging to the MEROPS M79 family. PrsW, appears ...
+Accession: pfam13367 ID: 379143
+
+83. ClpS: ATP-dependent Clp protease adaptor protein ClpS
+In the bacterial cytosol, ATP-dependent protein degradation is performed by several different chaper...
+Accession: pfam02617 ID: 376861
+
+84. Abi: CAAX protease self-immunity
+Members of this family are probably proteases (after a isoprenyl group is attached to the Cys residu...
+Accession: pfam02517 ID: 376806
+
+85. Kazal_3: Kazal-type serine protease inhibitor domain
+Kazal domain found in factor I-like modules (FIMs) region on the carboxyl-terminal of complement com...
+Accession: pfam18434 ID: 375860
+
+86. Serine_protease: Gammaproteobacterial serine protease
+This family includes serine proteases such as L. pneumophila effector Lpg1137. Lpg1137, is a serine ...
+Accession: pfam18405 ID: 375831
+
+87. CLIP_SPH_mas: Clip-domain serine protease homolog masquerade
+The clip domain is a structural/regulatory unit in many arthropod serine proteases. The clip domain ...
+Accession: pfam18398 ID: 375824
+
+88. CLIP_1: Serine protease Clip domain PPAF-2
+This domain is found in Prophenoloxidase-activating factor (PPAF)-II present in the beetle Holotrich...
+Accession: pfam18322 ID: 375749
+
+89. LupA: Legionella ubiquitin-specific protease A domain
+This domain is found in Legionella ubiquitin-specific protease A (LupA). LupA removes a ubiquitin mo...
+Accession: pfam18242 ID: 375669
+
+90. SUB1_ProdP9: SUB1 protease Prodomain ProdP9
+This domain is the bound prodomain fragment ProdP9 of the SUB1 protein present in Plasmodium falcipa...
+Accession: pfam18213 ID: 375640
+
+91. GD_N: Serine protease gd N-terminus
+This domain is found at the N-terminus of the serine protease gd (gastrulation defective) in insects...
+Accession: pfam16030 ID: 374312
+
+92. Tricorn_PDZ: Tricorn protease PDZ domain
+This domain is the PDZ domain of tricorn protease.
+Accession: pfam14685 ID: 373223
+
+93. Tricorn_C1: Tricorn protease C1 domain
+This domain is the C1 core domain of tricorn protease. This is a mixed alpha-beta domain.
+Accession: pfam14684 ID: 373222
+
+94. Rhomboid_SP: Rhomboid serine protease
+This domain family is found in eukaryotes, and is approximately 210 amino acids in length. The famil...
+Accession: pfam12595 ID: 372211
+
+95. amfpi-1: Fungal protease inhibitor
+This protein family is found in eukaryotes, and is approximately 50 amino acids in length. These pro...
+Accession: pfam12190 ID: 371952
+
+96. Viral_protease: Papain like viral protease
+This family of viral proteases are similar to the papain protease and are required for proteolytic p...
+Accession: pfam08715 ID: 370080
+
+97. PLAC: PLAC (protease and lacunin) domain
+The PLAC (protease and lacunin) domain is a short six-cysteine region that is usually found at the C...
+Accession: pfam08686 ID: 370061
+
+98. Mgr1: Mgr1-like, i-AAA protease complex subunit
+The S. cerevisiae Mgr1 protein has been shown to be required for mitochondrial viability in yeast la...
+Accession: pfam08602 ID: 369991
+
+99. Lon_C: Lon protease (S16) C-terminal proteolytic domain
+The Lon serine proteases must hydrolyze ATP to degrade protein substrates. In Escherichia coli, thes...
+Accession: pfam05362 ID: 368405
+
+100. Peptidase_S29: Hepatitis C virus NS3 protease
+Hepatitis C virus NS3 protein is a serine protease which has a trypsin-like fold. The non-structural...
+Accession: pfam02907 ID: 367242
+
+101. HycI: Hydrogenase maturation protease
+The family consists of hydrogenase maturation proteases. In E. coli HypI the hydrogenase maturation ...
+Accession: pfam01750 ID: 366789
+
+102. LON: Found in ATP-dependent protease La (LON)
+N-terminal domain of the ATP-dependent protease La (LON), present also in other bacterial ORFs.
+Accession: cl19481 ID: 354426
+
+103. M28_like_PA_PDZ_associated: M28 Zn-peptidase containing a protease-associated (PA) domain insert and associated with a PDZ domain
+Peptidase family M28 (also called aminopeptidase Y family), uncharacterized subfamily. The M28 famil...
+Accession: cd05663 ID: 349913
+
+104. M28_like_PA: M28 Zn-peptidase containing a protease-associated (PA) domain insert
+Peptidase family M28 (also called aminopeptidase Y family), uncharacterized subfamily. The M28 famil...
+Accession: cd05660 ID: 349910
+
+105. M28_like: M28 Zn-peptidase, many containing a protease-associated (PA) domain insert
+Peptidase family M28 (also called aminopeptidase Y family), uncharacterized subfamily. The M28 famil...
+Accession: cd03877 ID: 349874
+
+106. M4_M36: Peptidase M4 family (includes thermolysin, aureolysin, neutral protease and bacillolysin) and Peptidase M36 family (also known as fungalysin)
+This family includes the peptidases M4 as well as M36, both belonging to the Gluzincin family. The M...
+Accession: cd02699 ID: 341048
+
+107. M48A_Ste24p-like: Peptidase M48 subfamily A-like, putative CaaX prenyl protease
+This family contains peptidase family M48 subfamily A-like CaaX prenyl protease 1, most of which are...
+Accession: cd07345 ID: 320704
+
+108. M48A_Ste24p: Peptidase M48 CaaX prenyl protease type 1, an integral membrane, Zn-dependent protein
+This family of M48 CaaX prenyl protease 1-like family includes a number of well characterized genes ...
+Accession: cd07330 ID: 320689
+
+109. EFh_PEF_CPNS1_2: Penta-EF hand, calcium binding motifs, found in calcium-dependent protease small subunit CAPNS1 and CAPNS2
+CAPNS1, also termed calpain small subunit 1 (CSS1), or calcium-activated neutral proteinase small su...
+Accession: cd16188 ID: 320063
+
+110. Peptidase_S7: Peptidase S7, Flavivirus NS3 serine protease
+The viral genome is a positive strand RNA that encodes a single polyprotein precursor. Processing of...
+Accession: pfam00949 ID: 307204
+
+111. Peptidase_C41: Hepatitis E cysteine protease
+Corresponds to MEROPs family C41. This papain-like protease cleaves the viral polyprotein encoded by...
+Accession: pfam05417 ID: 283151
+
+112. Peptidase_C3: 3C cysteine protease (picornain 3C)
+Picornaviral proteins are expressed as a single polyprotein which is cleaved by the viral 3C cystein...
+Accession: pfam00548 ID: 278947
+
+113. rhombo_GlpG: rhomboid family protease GlpG
+GlpG in E. coli is a rhomboid family intramembrane serine protease that has been extensively charact...
+Accession: TIGR04239 ID: 275075
+
+114. rhom_GG_sort: rhomboid family GlyGly-CTERM serine protease
+This model describes a rhomboid-like intramembrane serine protease. Its species distribution closely...
+Accession: TIGR03902 ID: 274845
+
+115. prc_long_Delta: putative carboxyl-terminal-processing protease, deltaproteobacterial
+This model describes a multidomain protein of about 1070 residues, restricted to the order Myxococca...
+Accession: TIGR03900 ID: 274843
+
+116. protease_PatA: cyanobactin maturation protease, PatA/PatG family
+This model describes a protease domain associated with the maturation of various members of the cyan...
+Accession: TIGR03895 ID: 274838
+
+117. spore_lon_C: ATP-dependent protease, Lon family
+Members of this protein family resemble the widely distributed ATP-dependent protease La, also calle...
+Accession: TIGR02903 ID: 274344
+
+118. sod_Ni_protease: nickel-type superoxide dismutase maturation protease
+Members of this protein family are apparent proteases encoded adjacent to the genes for a nickel-typ...
+Accession: TIGR02754 ID: 274282
+
+119. yopT_cys_prot: cysteine protease domain, YopT-type
+The model represents a cysteine protease domain found in proteins of bacteria that include plant pat...
+Accession: TIGR01586 ID: 273706
+
+120. PfpI: intracellular protease, PfpI family
+The member of this family from Pyrococcus horikoshii has been solved to 2 Angstrom resolution. It is...
+Accession: TIGR01382 ID: 273591
+
+121. hydrog_prot: hydrogenase maturation protease
+HycI and HoxM are well-characterized as responsible for C-terminal protease activity on their respec...
+Accession: TIGR00072 ID: 272890
+
+122. CARD_APAF1: Caspase activation and recruitment domain similar to that found in Apoptotic Protease-Activating Factor 1
+Caspase activation and recruitment domain (CARD) similar to that found in apoptotic protease-activat...
+Accession: cd08323 ID: 260034
+
+123. TSPc: tail specific protease
+tail specific protease
+Accession: smart00245 ID: 214582
+
+124. exo_VPEID: exosortase E/protease, VPEID-CTERM system
+Members of this protein family are fusion proteins of exosortase (N-terminal) and a CAAX prenyl prot...
+Accession: TIGR04162 ID: 200413
+
+125. LON: Found in ATP-dependent protease La (LON)
+N-terminal domain of the ATP-dependent protease La (LON), present also in other bacterial ORFs.
+Accession: smart00464 ID: 197740
+
+126. KAZAL: Kazal type serine protease inhibitors
+Kazal type serine protease inhibitors and follistatin-like domains.
+Accession: smart00280 ID: 197624
+
+127. KU: BPTI/Kunitz family of serine protease inhibitors
+Serine protease inhibitors. One member of the family is encoded by an alternatively-spliced form of ...
+Accession: smart00131 ID: 197529
+
+128. pepcterm_CAAX: CAAX prenyl protease-related protein
+The CAAX prenyl protease, in eukaryotes, catalyzes three covalent modifications, including cleavage ...
+Accession: TIGR03008 ID: 163100
+
+129. CRD_corin_2: One of two cysteine-rich domains of the corin protein, a type II transmembrane serine protease 
+The cysteine-rich domain (CRD) is an essential component of corin, a type II transmembrane serine pr...
+Accession: cd07888 ID: 143579
+
+130. CRD_corin_1: One of two cysteine-rich domains of the corin protein, a type II transmembrane serine protease 
+The cysteine-rich domain (CRD) is an essential component of corin, a type II transmembrane serine pr...
+Accession: cd07445 ID: 143554
+
+131. Peptidase_S41_CPP_like: C-terminal processing peptidase-like; serine protease family S41
+Bacterial protease homologs of the S41 family related to C-terminal processing peptidase (CPP).  CPP...
+Accession: cd07561 ID: 143477
+
+132. retropepsin_like_bacteria: Bacterial aspartate proteases, retropepsin-like protease family
+This family of bacteria aspartate proteases is a subfamily of retropepsin-like protease family, whic...
+Accession: cd05483 ID: 133150
+
+133. pepsin_A: Pepsin A, aspartic protease produced in gastric mucosa of mammals
+Pepsin, a well-known aspartic protease, is produced by the human gastric mucosa in seven different z...
+Accession: cd05478 ID: 133145
+
+134. beta_secretase_like: Beta-secretase, aspartic-acid protease important in the pathogenesis of Alzheimer's disease
+Beta-secretase also called BACE (beta-site of APP cleaving enzyme) or memapsin-2. Beta-secretase is ...
+Accession: cd05473 ID: 133140
+
+135. S49_Sppa_36K_type: Signal peptide peptidase A (SppA) 36K type, a serine protease, has catalytic Ser-Lys dyad
+Signal peptide peptidase A (SppA; Peptidase S49; Protease IV) 36K type: SppA is found in all three d...
+Accession: cd07022 ID: 132933
+
+136. DUF2268: Predicted Zn-dependent protease (DUF2268)
+This domain, found in various hypothetical bacterial proteins, as well as predicted zinc dependent p...
+Accession: cl22923 ID: 389973
+
+137. Zinc_peptidase_like: Zinc peptidases M18, M20, M28, and M42
+Zinc peptidases play vital roles in metabolic and signaling pathways throughout all kingdoms of life...
+Accession: cl14876 ID: 387401
+
+138. Peptidase_S66: LD-Carboxypeptidase, a serine protease, includes microcin C7 self immunity protein
+LD-carboxypeptidase (Muramoyltetrapeptide carboxypeptidase; EC 3.4.17.13; Merops family S66; initial...
+Accession: cl00700 ID: 382157
+
+139. USP25_USP28_C-like: carboxyl-terminal domain of ubiquitin-specific protease 25 (USP25) and 28 (USP28), and similar domains
+This family contains the C-terminal domain of two deubiquitinases (DUBs), ubiquitin-specific proteas...
+Accession: cd20485 ID: 380450
+
+140. JDVT-CAAX: JDVT-CTERM system CAAX-type protease
+See NF033191.
+Accession: NF033192 ID: 380195
+
+141. TSP_NTD: Tail specific protease N-terminal domain
+The N-terminal domain of tail specific proteases has a novel fold composed of 10 alpha helices.
+Accession: pfam17804 ID: 380026
+
+142. Peptidase_M48_N: CAAX prenyl protease N-terminal, five membrane helices
+The five N-terminal five transmembrane alpha-helices of peptidase_M48 family proteins including the ...
+Accession: pfam16491 ID: 379852
+
+143. Peptidase_S78_2: Putative phage serine protease XkdF
+This domain is largely found on phage proteins. In a number of cases the domain is associated with a...
+Accession: pfam14550 ID: 379643
+
+144. gag-asp_proteas: gag-polyprotein putative aspartyl protease
+This family of putative aspartyl proteases is found pre-dominantly in retroviral proteins.
+Accession: pfam13975 ID: 379408
+
+145. Asp_protease_2: Aspartyl protease
+This family consists of predicted aspartic proteases, typically from 180 to 230 amino acids in lengt...
+Accession: pfam13650 ID: 379313
+
+146. Lon_2: Putative ATP-dependent Lon protease
+This is a family of proteins that are annotated as ATP-dependent Lon proteases.
+Accession: pfam13337 ID: 379127
+
+147. DUF3340: C-terminal domain of tail specific protease (DUF3340)
+This presumed domain is found at the C-terminus of tail specific proteases. Its function is unknown....
+Accession: pfam11818 ID: 378726
+
+148. USP7_C2: Ubiquitin-specific protease C-terminal
+This C-terminal domain on many long ubiquitin-specific proteases has no known function.
+Accession: pfam14533 ID: 373116
+
+149. Peptidase_M85: NFkB-p65-degrading zinc protease
+This family of bacterial metallo-peptidases is thought to compromise the inflammatory response by de...
+Accession: pfam13678 ID: 372668
+
+150. USP7_ICP0_bdg: ICP0-binding domain of Ubiquitin-specific protease 7
+This domain is one of two C-terminal domains on the much longer ubiquitin-specific proteases. This p...
+Accession: pfam12436 ID: 372108
+
+151. Peptidase_C70: Papain-like cysteine protease AvrRpt2
+This is a family of cysteine proteases, found in actinobacteria, protobacteria and firmicutes. Papai...
+Accession: pfam12385 ID: 372083
+
+152. DUF2268: Predicted Zn-dependent protease (DUF2268)
+This domain, found in various hypothetical bacterial proteins, as well as predicted zinc dependent p...
+Accession: pfam10026 ID: 370782
+
+153. RVP_2: Retroviral aspartyl protease
+Single domain aspartyl proteases from retroviruses, retrotransposons, and badnaviruses (plant dsDNA ...
+Accession: pfam08284 ID: 369793
+
+154. Peptidase_S77: Prohead core protein serine protease
+
+Accession: pfam03420 ID: 367488
+
+155. Peptidase_A25: Germination protease
+
+Accession: pfam03418 ID: 367487
+
+156. Pro_Al_protease: Alpha-lytic protease prodomain
+
+Accession: pfam02983 ID: 367281
+
+157. Peptidase_C48: Ulp1 protease family, C-terminal catalytic domain
+This domain contains the catalytic triad Cys-His-Asn.
+Accession: pfam02902 ID: 367240
+
+158. LON_substr_bdg: ATP-dependent protease La (LON) substrate-binding domain
+This domain has been shown to be part of the PUA superfamily. This domain represents a general prote...
+Accession: pfam02190 ID: 366967
+
+159. Peptidase_M27: Clostridial neurotoxin zinc protease
+These toxins are zinc proteases that block neurotransmitter release by proteolytic cleavage of synap...
+Accession: pfam01742 ID: 366783
+
+160. JAB: JAB1/Mov34/MPN/PAD-1 ubiquitin protease
+Members of this family are found in proteasome regulatory subunits, eukaryotic initiation factor 3 (...
+Accession: pfam01398 ID: 366615
+
+161. Peptidase_C2: Calpain family cysteine protease
+
+Accession: pfam00648 ID: 366222
+
+162. Tryp_alpha_amyl: Protease inhibitor/seed storage/LTP family
+This family is composed of trypsin-alpha amylase inhibitors, seed storage proteins and lipid transfe...
+Accession: pfam00234 ID: 365965
+
+163. Bowman-Birk_leg: Bowman-Birk serine protease inhibitor family
+
+Accession: pfam00228 ID: 365961
+
+164. Kunitz_legume: Trypsin and protease inhibitor
+
+Accession: pfam00197 ID: 365940
+
+165. Peptidase_C1: Papain family cysteine protease
+
+Accession: pfam00112 ID: 365882
+
+166. Serpin: Serpin (serine protease inhibitor)
+Structure is a multi-domain fold containing a bundle of helices and a beta sandwich.
+Accession: pfam00079 ID: 365857
+
+167. RVP: Retroviral aspartyl protease
+Single domain aspartyl proteases from retroviruses, retrotransposons, and badnaviruses (plant dsDNA ...
+Accession: pfam00077 ID: 365855
+
+168. Asp: Eukaryotic aspartyl protease
+Aspartyl (acid) proteases include pepsins, cathepsins, and renins. Two-domain structure, probably ar...
+Accession: pfam00026 ID: 365818
+
+169. Tiki_TraB-like: diverse proteins related to the Tiki and TraB protease domains
+The extracellular domain of Tiki family proteins shares homology with bacterial TraB/PrgY proteins w...
+Accession: cd14787 ID: 350612
+
+170. OTU: OTU-like cysteine protease
+This family is comprised of a group of predicted cysteine proteases, homologous to the Ovarian tumor...
+Accession: pfam02338 ID: 334900
+
+171. Squash: Squash family serine protease inhibitor
+
+Accession: pfam00299 ID: 333989
+
+172. Asp_protease: Aspartyl protease
+This family of eukaryotic aspartyl proteases have a fold similar to retroviral proteases which impli...
+Accession: pfam09668 ID: 312981
+
+173. Peptidase_S78: Caudovirus prohead serine protease
+Family of Caudovirus prohead serine proteases also found in a number of bacteria possibly as the res...
+Accession: pfam04586 ID: 309640
+
+174. SPP: Signal-peptide peptidase, presenilin aspartyl protease
+SPP is a family of signal-peptide aspartyl proteases. The family carries the characteristic catalyti...
+Accession: pfam06550 ID: 284066
+
+175. Zn_protease: Putative ATP-dependant zinc protease
+Proteins in this family are annotated as being ATP-dependant zinc proteases.
+Accession: pfam05618 ID: 283308
+
+176. Peptidase_C24: 2C endopeptidase (C24) cysteine protease family
+
+Accession: pfam03510 ID: 281505
+
+177. T7SS_mycosin: type VII secretion-associated serine protease mycosin
+Members of this family are subtilisin-related serine proteases, found strictly in the Actinobacteria...
+Accession: TIGR03921 ID: 274856
+
+178. MprA_tail: MprA protease C-terminal rhombosortase-interaction domain
+This model describes the Ralstonia lineage variant of the GlyGly-CTERM domain (TIGR03501), a predict...
+Accession: TIGR03867 ID: 274825
+
+179. ClpA: ATP-dependent Clp protease ATP-binding subunit clpA
+[Protein fate, Degradation of proteins, peptides, and glycopeptides]
+Accession: TIGR02639 ID: 274241
+
+180. 2A1704: Peptide:H+ symporter (also transports b-lactam antibiotics, the antitumor agent, bestatin, and various protease inhibitors)
+[Transport and binding proteins, Amino acids, peptides and amines]
+Accession: TIGR00926 ID: 273343
+
+181. hslU: ATP-dependent protease HslVU, ATPase subunit
+This model represents the ATPase subunit of HslVU, while the proteasome-related peptidase subunit is...
+Accession: TIGR00390 ID: 273052
+
+182. PRK10993: omptin family outer membrane protease
+
+Accession: PRK10993 ID: 236813
+
+183. PRK10930: FtsH protease activity modulator HflK
+
+Accession: PRK10930 ID: 236799
+
+184. PRK05457: protease HtpX
+
+Accession: PRK05457 ID: 235478
+
+185. PRK05456: ATP-dependent protease subunit HslV
+
+Accession: PRK05456 ID: 235477
+
+186. clpX: ATP-dependent Clp protease ATP-binding subunit ClpX
+
+Accession: PRK05342 ID: 235422
+
+187. hslU: ATP-dependent protease ATPase subunit HslU
+
+Accession: PRK05201 ID: 235364
+
+188. COG5664: Predicted secreted Zn-dependent protease  [Posttranslational modification, protein turnover, chaperones]
+
+Accession: COG5664 ID: 227951
+
+189. COG5661: Predicted secreted Zn-dependent protease  [Posttranslational modification, protein turnover, chaperones]
+
+Accession: COG5661 ID: 227948
+
+190. COG5640: Secreted trypsin-like serine protease  [Posttranslational modification, protein turnover, chaperones]
+
+Accession: COG5640 ID: 227927
+
+191. COG5550: Predicted aspartyl protease  [Posttranslational modification, protein turnover, chaperones]
+
+Accession: COG5550 ID: 227837
+
+192. COG5549: Predicted Zn-dependent protease  [Posttranslational modification, protein turnover, chaperones]
+
+Accession: COG5549 ID: 227836
+
+193. COG5539: Predicted cysteine protease (OTU family) [Posttranslational modification, protein turnover, chaperones]
+
+Accession: COG5539 ID: 227826
+
+194. YjaZ: Predicted Zn-dependent protease YjaZ, DUF2268 family [General function prediction only]
+
+Accession: COG5504 ID: 227791
+
+195. HslV: ATP-dependent protease HslVU (ClpYQ), peptidase subunit [Posttranslational modification, protein turnover, chaperones]
+
+Accession: COG5405 ID: 227692
+
+196. CYK3: Cytokinesis protein 3, contains TGc (transglutaminase/protease-like) domain [Cell cycle control, cell division, chromosome partitioning]
+
+Accession: COG5279 ID: 227604
+
+197. ULP1: Protease, Ulp1 family  [Posttranslational modification, protein turnover, chaperones]
+
+Accession: COG5160 ID: 227489
+
+198. ESP1: Separase, a protease involved in sister chromatid separation [Cell division and chromosome partitioning / Posttranslational modification, protein turnover, chaperones]
+
+Accession: COG5155 ID: 227484
+
+199. CpaA: Flp pilus assembly protein, protease CpaA  [Posttranslational modification, protein turnover, chaperones, Signal transduction mechanisms]
+
+Accession: COG4960 ID: 227295
+
+200. TraF: Type IV secretory pathway, protease TraF  [Posttranslational modification, protein turnover, chaperones, Intracellular trafficking, secretion, and vesicular transport]
+
+Accession: COG4959 ID: 227294
+
+201. COG4946: Uncharacterized N-terminal domain of tricorn protease  [Function unknown]
+
+Accession: COG4946 ID: 227282
+
+202. COG4934: Serine protease, subtilase family  [Posttranslational modification, protein turnover, chaperones]
+
+Accession: COG4934 ID: 227270
+
+203. COG4930: Predicted ATP-dependent Lon-type protease  [Posttranslational modification, protein turnover, chaperones]
+
+Accession: COG4930 ID: 227267
+
+204. COG4870: Cysteine protease, C1A family  [Posttranslational modification, protein turnover, chaperones]
+
+Accession: COG4870 ID: 227207
+
+205. SERPIN: Serine protease inhibitor  [Posttranslational modification, protein turnover, chaperones]
+
+Accession: COG4826 ID: 227163
+
+206. COG4784: Putative Zn-dependent protease  [General function prediction only]
+
+Accession: COG4784 ID: 227123
+
+207. YfgC: Putative Zn-dependent protease, contains TPR repeats [General function prediction only]
+
+Accession: COG4783 ID: 227122
+
+208. ArpD: ABC-type protease/lipase transport system, ATPase and permease components  [Intracellular trafficking, secretion, and vesicular transport]
+
+Accession: COG4618 ID: 226969
+
+209. Eco: Serine protease inhibitor ecotin [Posttranslational modification, protein turnover, chaperones]
+
+Accession: COG4574 ID: 226940
+
+210. OmpT: Outer membrane protease [Cell wall/membrane/envelope biogenesis]
+
+Accession: COG4571 ID: 226937
+
+211. COG4449: Predicted protease, Abi (CAAX) family  [General function prediction only]
+
+Accession: COG4449 ID: 226857
+
+212. YdjI: Membrane protease subunit, stomatin/prohibitin family, contains C-terminal Zn-ribbon domain  [Posttranslational modification, protein turnover, chaperones]
+
+Accession: COG4260 ID: 226711
+
+213. COG3824: Predicted Zn-dependent protease, minimal metalloprotease (MMP)-like domain [Posttranslational modification, protein turnover, chaperones]
+
+Accession: COG3824 ID: 226345
+
+214. COG3740: Phage head maturation protease  [Mobilome: prophages, transposons]
+
+Accession: COG3740 ID: 226263
+
+215. COG3577: Predicted aspartyl protease  [General function prediction only]
+
+Accession: COG3577 ID: 226106
+
+216. COG3484: Predicted proteasome-type protease  [Posttranslational modification, protein turnover, chaperones]
+
+Accession: COG3484 ID: 226015
+
+217. COG3389: Presenilin-like membrane protease, A22 family [Posttranslational modification, protein turnover, chaperones]
+
+Accession: COG3389 ID: 225924
+
+218. YugP: Zn-dependent membrane protease YugP [Posttranslational modification, protein turnover, chaperones]
+
+Accession: COG2738 ID: 225348
+
+219. ClpS: ATP-dependent Clp protease adapter protein ClpS [Posttranslational modification, protein turnover, chaperones]
+
+Accession: COG2127 ID: 225038
+
+220. SpoIVFB: Zn-dependent protease (includes SpoIVFB) [Posttranslational modification, protein turnover, chaperones]
+
+Accession: COG1994 ID: 224905
+
+221. COG1913: Predicted Zn-dependent protease  [General function prediction only]
+
+Accession: COG1913 ID: 224825
+
+222. COG1800: Predicted transglutaminase-like protease [General function prediction only]
+
+Accession: COG1800 ID: 224713
+
+223. PtrB: Protease II [Amino acid transport and metabolism]
+
+Accession: COG1770 ID: 224684
+
+224. COG1750: Predicted archaeal serine protease, S18 family  [General function prediction only]
+
+Accession: COG1750 ID: 224664
+
+225. YbbJ: Membrane protein implicated in regulation of membrane protease activity [Posttranslational modification, protein turnover, chaperones]
+
+Accession: COG1585 ID: 224501
+
+226. AprE: Serine protease, subtilisin family  [Posttranslational modification, protein turnover, chaperones]
+
+Accession: COG1404 ID: 224322
+
+227. YebA: Transglutaminase-like enzyme, putative cysteine protease  [Posttranslational modification, protein turnover, chaperones]
+
+Accession: COG1305 ID: 224224
+
+228. HslU: ATP-dependent protease HslVU (ClpYQ), ATPase subunit [Posttranslational modification, protein turnover, chaperones]
+
+Accession: COG1220 ID: 224141
+
+229. ClpX: ATP-dependent protease Clp, ATPase subunit [Posttranslational modification, protein turnover, chaperones]
+
+Accession: COG1219 ID: 224140
+
+230. LonB: Predicted ATP-dependent protease [Posttranslational modification, protein turnover, chaperones]
+
+Accession: COG1067 ID: 223994
+
+231. Sms: Predicted ATP-dependent serine protease [Posttranslational modification, protein turnover, chaperones]
+
+Accession: COG1066 ID: 223993
+
+232. NfeD: Membrane-bound serine protease (ClpP class)  [Posttranslational modification, protein turnover, chaperones]
+
+Accession: COG1030 ID: 223961
+
+233. PrtC: Collagenase-like protease, PrtC family [Posttranslational modification, protein turnover, chaperones]
+
+Accession: COG0826 ID: 223896
+
+234. CtpA: C-terminal processing protease CtpA/Prc, contains a PDZ domain [Posttranslational modification, protein turnover, chaperones]
+
+Accession: COG0793 ID: 223864
+
+235. RseP: Membrane-associated protease RseP, regulator of RpoE activity  [Posttranslational modification, protein turnover, chaperones, Transcription]
+
+Accession: COG0750 ID: 223821
+
+236. GlpG: Membrane associated serine protease, rhomboid family  [Posttranslational modification, protein turnover, chaperones]
+
+Accession: COG0705 ID: 223777
+
+237. ThiJ: Putative intracellular protease/amidase [General function prediction only]
+
+Accession: COG0693 ID: 223765
+
+238. SppA: Periplasmic serine protease, ClpP class [Posttranslational modification, protein turnover, chaperones]
+
+Accession: COG0616 ID: 223689
+
+239. ClpA: ATP-dependent Clp protease ATP-binding subunit ClpA [Posttranslational modification, protein turnover, chaperones]
+
+Accession: COG0542 ID: 223616
+
+240. HtpX: Zn-dependent protease with chaperone function [Posttranslational modification, protein turnover, chaperones]
+
+Accession: COG0501 ID: 223575
+
+241. Lon: ATP-dependent Lon protease, bacterial type [Posttranslational modification, protein turnover, chaperones]
+
+Accession: COG0466 ID: 223542
+
+242. HflC: Regulator of protease activity HflC, stomatin/prohibitin superfamily [Posttranslational modification, protein turnover, chaperones]
+
+Accession: COG0330 ID: 223407
+
+243. TldD: Predicted Zn-dependent protease or its inactivated homolog [General function prediction only]
+
+Accession: COG0312 ID: 223389
+
+244. DegQ: Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain [Posttranslational modification, protein turnover, chaperones]
+
+Accession: COG0265 ID: 223343
+
+245. Pept_C1: Papain family cysteine protease
+
+Accession: smart00645 ID: 214761
+
+246. TGc: Transglutaminase/protease-like homologues
+Transglutaminases are enzymes that establish covalent links between proteins. A subset of transgluta...
+Accession: smart00460 ID: 214673
+
+247. STI: Soybean trypsin inhibitor (Kunitz) family of protease inhibitors
+
+Accession: smart00452 ID: 214670
+
+248. Tryp_SPc: Trypsin-like serine protease
+Many of these are synthesised as inactive precursor zymogens that are cleaved during limited proteol...
+Accession: smart00020 ID: 214473
+
+249. PRK14553: ribosomal-processing cysteine protease Prp
+
+Accession: PRK14553 ID: 184740
+
+250. PRK13244: protease inhibitor
+
+Accession: PRK13244 ID: 183915
+
+251. clpS: ATP-dependent Clp protease adapter ClpS
+
+Accession: PRK13019 ID: 183845
+
+252. PRK12552: ATP-dependent Clp protease proteolytic subunit
+
+Accession: PRK12552 ID: 183588
+
+253. PRK11029: protease modulator HflC
+
+Accession: PRK11029 ID: 182913
+
+254. PRK10779: sigma E protease regulator RseP
+
+Accession: PRK10779 ID: 182723
+
+255. PRK10447: FtsH protease modulator YccA
+
+Accession: PRK10447 ID: 182469
+
+256. PRK09862: ATP-dependent protease
+
+Accession: PRK09862 ID: 182120
+
+257. clan_AA_DTGF: clan AA aspartic protease, AF_0612 family
+Members of this protein family are clan AA aspartic proteases, related to family TIGR02281. These pr...
+Accession: TIGR03698 ID: 163410
+
+258. Peptidase_S66: LD-Carboxypeptidase, a serine protease, includes microcin C7 self immunity protein
+LD-carboxypeptidase (Muramoyltetrapeptide carboxypeptidase; EC 3.4.17.13; Merops family S66; initial...
+Accession: cd07025 ID: 132882
+
+259. clan_AA_DTGA: clan AA aspartic protease, TIGR02281 family
+This family consists of predicted aspartic proteases, typically from 180 to 230 amino acids in lengt...
+Accession: TIGR02281 ID: 131334
+
+260. Spuma_A9PTase: Spumavirus aspartic protease (A9)
+
+Accession: pfam03539 ID: 112362
+
+261. Peptidases_S8_S53: Peptidase domain in the S8 and S53 families
+Members of the peptidases S8 (subtilisin and kexin) and S53 (sedolisin) family include endopeptidase...
+Accession: cl10459 ID: 385675
+
+262. EFh_PEF: The penta-EF hand (PEF) family
+The penta-EF hand (PEF) family contains a group of five EF-hand calcium-binding proteins, including ...
+Accession: cl25352 ID: 355382
+
+263. Ubiquitin_like_fold: Beta-grasp ubiquitin-like fold
+Ubiquitin is a protein modifier that is involved in various cellular processes including transcripti...
+Accession: cl28922 ID: 391949
+
+264. 7tm_GPCRs: seven-transmembrane G protein-coupled receptor superfamily
+This hierarchical evolutionary model represents the seven-transmembrane (7TM) receptors, often refer...
+Accession: cl28897 ID: 391938
+
+265. Peptidase_S41: C-terminal processing peptidase family S41
+Peptidase family S41 (C-terminal processing peptidase or CTPase family) contains very different subf...
+Accession: cl02526 ID: 383007
+
+266. GluZincin: Gluzincin Peptidase family (thermolysin-like proteinases, TLPs) which includes peptidases M1, M2, M3, M4, M13, M32 and M36 (fungalysins)
+The Gluzincin family (thermolysin-like peptidases or TLPs) includes several zinc-dependent metallope...
+Accession: cl14813 ID: 387391
+
+267. H2MP
+Hydrogenase specific C-terminal endopeptidases, also called Hydrogen Maturation Proteases (H2MP). Th...
+Accession: cl00477 ID: 382033
+
+268. Peptidase_C39_like
+Peptidase family C39 mostly contains bacteriocin-processing endopeptidases from bacteria. The cystei...
+Accession: cl00296 ID: 381927
+
+269. MATH
+MATH (meprin and TRAF-C homology) domain; an independent folding unit with an eight-stranded beta-sa...
+Accession: cl02446 ID: 351761
+
+270. CAP: CAP (cysteine-rich secretory proteins, antigen 5, and pathogenesis-related 1 proteins) domain family
+The CAP (cysteine-rich secretory proteins, antigen 5, and pathogenesis-related 1 proteins) domain, a...
+Accession: cl00133 ID: 381818
+
+271. S2P-M50
+Site-2 protease (S2P) class of zinc metalloproteases (MEROPS family M50) cleaves transmembrane domai...
+Accession: cl10020 ID: 324562
+
+272. Peptidase_C25_N: Peptidase C25 family N-terminal domain, found in Arg-gingipain (Rgp), Lys-gingipain (Kgp) and related proteins
+Peptidase family C25 is a unique class of cysteine proteases, exemplified by gingipain, which is pro...
+Accession: cl03181 ID: 383270
+
+273. PDZ
+PDZ domain, also called DHR (Dlg homologous region) or GLGF (after a conserved sequence motif). Many...
+Accession: cl00117 ID: 381812
+
+274. KAZAL_FS
+Kazal type serine protease inhibitors and follistatin-like domains. Kazal inhibitors inhibit serine ...
+Accession: cl00097 ID: 381802
+
+275. FYVE_like_SF: FYVE domain like superfamily
+FYVE domain is a 60-80 residue double zinc finger motif-containing module named after the four prote...
+Accession: cl28890 ID: 333710
+
+276. CD_CSD: CHROMO (CHRromatin Organization Modifier) domains and chromo shadow domains
+Members of this group are chromodomains or chromo shadow domains; these are SH3-fold-beta-barrel dom...
+Accession: cl28914 ID: 391946
+
+277. Imelysin-like: imelysin also called Peptidase M75
+This family includes insulin-cleaving membrane protease (imelysin, ICMP), imelysin-like protein (IPP...
+Accession: cl09159 ID: 385424
+
+278. SPFH_like: core domain of the SPFH (stomatin, prohibitin, flotillin, and HflK/C) superfamily
+This model summarizes proteins similar to stomatin, prohibitin, flotillin, HflK/C (SPFH) and podocin...
+Accession: cl19107 ID: 388510
+
+279. Ntn_hydrolase
+The Ntn hydrolases (N-terminal nucleophile) are a diverse superfamily of of enzymes that are activat...
+Accession: cl00467 ID: 382028
+
+280. M28_TfR: M28 Zn-peptidase Transferrin Receptor family
+Peptidase M28 family; Transferrin Receptor (TfR) subfamily. TfRs are homodimeric type II transmembra...
+Accession: cd09848 ID: 349946
+
+281. M28_PMSA_TfR_like: M28 Zn-peptidase Transferrin Receptor-like family
+Peptidase M28 family; Transferrin Receptor (TfR) and prostate-specific membrane antigen (PSMA, also ...
+Accession: cd03874 ID: 349871
+
+282. PA_VapT_like
+PA_VapT_like: Protease-associated domain containing proteins like VapT from Vibrio metschnikovii str...
+Accession: cd04817 ID: 240121
+
+283. PA_C5a_like
+PA_C5a_like: Protease-associated domain containing proteins like Streptococcus pyogenes C5a peptidas...
+Accession: cd02133 ID: 239048
+
+284. Peptidase_S41: C-terminal processing peptidase family S41
+Peptidase family S41 (C-terminal processing peptidase or CTPase family) contains very different subf...
+Accession: cd06567 ID: 143475
+
+285. DUF1256: Protein of unknown function (DUF1256)
+This family consists of several uncharacterized bacterial proteins which seem to be specific to the ...
+Accession: cl04057 ID: 383563
+
+286. M35_like: Peptidase M35 family
+Family M35 Zn2+-metallopeptidase domain, also known as the deuterolysin family, contains fungal as w...
+Accession: cl03449 ID: 383355
+
+287. CRD_FZ: CRD_domain cysteine-rich domain, also known as Fz (frizzled) domain
+CRD_FZ is an essential component of a number of cell surface receptors, which are involved in multip...
+Accession: cl02447 ID: 382974
+
+288. vWFA
+Von Willebrand factor type A (vWA) domain was originally found in the blood coagulation protein von ...
+Accession: cl00057 ID: 381780
+
+289. GAT_1: Type 1 glutamine amidotransferase (GATase1)-like domain
+Type 1 glutamine amidotransferase (GATase1)-like domain. This group contains proteins similar to Cla...
+Accession: cl00020 ID: 381760
+
+290. KU
+BPTI/Kunitz family of serine protease inhibitors; Structure is a disulfide rich alpha+beta fold. BPT...
+Accession: cl00101 ID: 350901
+
+291. M48C_bepA_like: Peptidase M48C Ste24p bepA-like, integral membrane protein
+This family contains peptidase M48C Ste24p protease bepA (formerly yfgC)-like proteins considered to...
+Accession: cd07333 ID: 320692
+
+292. Peptidase_M48_M56: Peptidases M48 (Ste24 endopeptidase or htpX homolog) and M56 (in MecR1 and BlaR1), integral membrane metallopeptidases
+This family contains peptidase M48 (also known as Ste24 peptidase, Ste24p, Ste24 endopeptidase, a-fa...
+Accession: cd05843 ID: 320682
+
+293. MATH_Ubp21p
+Ubiquitin-specific protease 21 (Ubp21p) family, MATH domain; composed of fungal proteins with simila...
+Accession: cd03775 ID: 239744
+
+294. PA_PoS1_like
+PA_PoS1_like: Protease-associated (PA) domain PoS1-like. This group includes various PA domain-conta...
+Accession: cd02124 ID: 239039
+
+295. PA_subtilisin_like
+PA_subtilisin_like: Protease-associated domain containing subtilisin-like proteases. This group cont...
+Accession: cd02120 ID: 239035
+
+296. KAZAL_PSTI
+Kazal-type pancreatic secretory trypsin inhibitors (PSTI) and related proteins, including the second...
+Accession: cd01327 ID: 238648
+
+297. Peptidases_S8_Subtilisin_subset: Peptidase S8 family domain in Subtilisin proteins
+This group is composed of many different subtilisins: Pro-TK-subtilisin, subtilisin Carlsberg, serin...
+Accession: cd07477 ID: 173803
+
+298. M34_peptidase: Peptidase family M34 includes the C-terminal catalytic domain of anthrax lethal factor (ATLF), the protective antigen-binding domains of ATLF and edema factor, and Pro-Pro endopeptidase
+Peptidase family M34 (also known as the anthrax lethal factor family) includes the C-terminal cataly...
+Accession: cl40422 ID: 394792
+
+299. Autotransporter: Autotransporter beta-domain
+Secretion of protein products occurs by a number of different pathways in bacteria. One of these pat...
+Accession: cl22877 ID: 389954
+
+300. Rhomboid: Rhomboid family
+This family contains integral membrane proteins that are related to Drosophila rhomboid protein. Mem...
+Accession: cl21536 ID: 389796
+
+301. RRM_SF: RNA recognition motif (RRM) superfamily
+RRM, also known as RBD (RNA binding domain) or RNP (ribonucleoprotein domain), is a highly abundant ...
+Accession: cl17169 ID: 388407
+
+302. Peptidase_S24_S26
+The S24, S26 LexA/signal peptidase superfamily contains LexA-related and type I signal peptidase fam...
+Accession: cl10465 ID: 385677
+
+303. SRCR_2: Scavenger receptor cysteine-rich domain
+SRCR_2 is a scavenger receptor cysteine-rich domain family found largely on vertebrate sequences up-...
+Accession: cl02509 ID: 382996
+
+304. BI-1-like: BAX inhibitor (BI)-1/YccA-like protein family
+Mammalian members of the BAX inhibitor (BI)-1 like family of small transmembrane proteins have been ...
+Accession: cl00473 ID: 382031
+
+305. MIT
+MIT: domain contained within Microtubule Interacting and Trafficking molecules. The MIT domain is fo...
+Accession: cl00299 ID: 381929
+
+306. serpin1K-like: Manduca sexta Serpin 1K and similar proteins
+Serpin 1K is a chymotrypsin inhibitor and is 1 of 12 serpins found in the hemolymph of the hornworm ...
+Accession: cd19579 ID: 381045
+
+307. serpinD1_HCF2: serpin family D member 1, Heparin cofactor II
+Heparin cofactor II (HCF2/HC-II, also called protease inhibitor leuserpin-2/hLS2) is a protein encod...
+Accession: cd02047 ID: 381004
+
+308. M28_PSMA_like: M28 Zn-peptidase prostate-specific membrane antigen
+Peptidase M28 family; prostate-specific membrane antigen (PSMA, also called glutamate carboxypeptida...
+Accession: cd08022 ID: 349942
+
+309. GluZincin: Gluzincin Peptidase family (thermolysin-like proteinases, TLPs) which includes peptidases M1, M2, M3, M4, M13, M32 and M36 (fungalysins)
+The Gluzincin family (thermolysin-like peptidases or TLPs) includes several zinc-dependent metallope...
+Accession: cd09594 ID: 341057
+
+310. EFh_SPARC_EC: EF-hand, extracellular calcium-binding (EC) motif, found in secreted protein acidic and rich in cysteine (SPARC)-like proteins
+The SPARC protein family represents a diverse group of proteins that share a follistatin-like (FS) d...
+Accession: cl25349 ID: 330171
+
+311. M48C_Oma1_like: M48C peptidase, integral membrane endopeptidase
+This subfamily contains peptidase M48C Oma1 (also called mitochondrial metalloendopeptidase OMA1) pr...
+Accession: cd07342 ID: 320701
+
+312. M48C_loiP_like: Peptidase M48C Ste24p loiP-like, integral membrane protein
+This subfamily contains peptidase M48 Ste24p protease loiP (formerly yggG)-like family are mostly un...
+Accession: cd07334 ID: 320693
+
+313. M48C_Oma1_like: Peptidase M48C Ste24p, integral membrane endopeptidase
+This subfamily contains peptidase M48C Oma1 (also called mitochondrial metalloendopeptidase OMA1) pr...
+Accession: cd07332 ID: 320691
+
+314. M48C_Oma1_like: Peptidase M48C, integral membrane endopeptidase
+This subfamily contains peptidase M48C Oma1 (also called mitochondrial metalloendopeptidase OMA1) pr...
+Accession: cd07331 ID: 320690
+
+315. EFh_PEF_CAPN2: Penta-EF hand, calcium binding motifs, found in m-type calpain (CAPN2)
+CAPN2, also termed millimolar-calpain (m-calpain), or calpain-2 catalytic subunit, or calcium-activa...
+Accession: cd16199 ID: 320074
+
+316. Peptidase_C62: Gill-associated viral 3C-like peptidase
+a positive-stranded RNA virus of prawns, that has been called yellow head virus protease and gill-as...
+Accession: pfam12380 ID: 289173
+
+317. UBA1_UBP5_like: UBA1 domain found in ubiquitin carboxyl-terminal hydrolase UBP5, UBP13 and similar proteins
+UBP5, also called deubiquitinating enzyme 5, Isopeptidase T (IsoT), ubiquitin thioesterase 5, or ubi...
+Accession: cd14294 ID: 270480
+
+318. UBA_UBP25_like: UBA domain found in ubiquitin carboxyl-terminal hydrolase UBP25, UBP28, and similar proteins
+UBP25, also called deubiquitinating enzyme 25, USP on chromosome 21, ubiquitin thioesterase 25, or u...
+Accession: cd14276 ID: 270462
+
+319. PA
+PA: Protease-associated (PA) domain. The PA domain is an insert domain in a diverse fraction of prot...
+Accession: cd00538 ID: 238300
+
+320. BBI
+Bowman-Birk type proteinase inhibitor (BBI); family of plant serine protease inhibitors that block t...
+Accession: cd00023 ID: 237990
+
+321. Peptidases_S8_C5a_Peptidase: Peptidase S8 family domain in Streptococcal C5a peptidases
+Streptococcal C5a peptidase (SCP), is a highly specific protease and adhesin/invasin.  The subtilisi...
+Accession: cd07475 ID: 173801
+
+322. S49_SppA: Signal peptide peptidase A
+Signal peptide peptidase A (SppA; Peptidase S49; Protease IV): SppA is an intramembrane enzyme found...
+Accession: cd07014 ID: 132925
+
+323. TIGR02688: TIGR02688 family protein
+Members of this family are uncharacterized proteins sporadically distributed in bacteria and archaea...
+Accession: TIGR02688 ID: 131735
+
+324. Cathelicidins: Cathelicidin
+A novel protein family, showing a conserved proregion and a variable carboxyl-terminal antimicrobial...
+Accession: cl29764 ID: 392188
+
+325. DEAD-like_helicase_N: N-terminal helicase domain of the DEAD-box helicase superfamily
+The DEAD-like helicase superfamily is a diverse family of proteins involved in ATP-dependent RNA or ...
+Accession: cl28899 ID: 391939
+
+326. PHD_SF: PHD finger superfamily
+The PHD finger superfamily includes a canonical plant homeodomain (PHD) finger typically characteriz...
+Accession: cl22851 ID: 389947
+
+327. PepSY: Peptidase propeptide and YPEB domain
+This region is likely to have an protease inhibitory function (personal obs:C Yeats). This model is ...
+Accession: cl21622 ID: 389844
+
+328. PATR: Passenger-associated-transport-repeat
+This Autotransporter-associated beta strand repeat model represents a core 32-residue region of a cl...
+Accession: cl15373 ID: 387602
+
+329. HemeO-like: heme oxygenase
+Heme oxygenase (HO, EC 1.14.14.18) catalyzes the rate limiting step in the degradation of heme to bi...
+Accession: cl15243 ID: 387585
+
+330. BRO1_Alix_like: Protein-interacting Bro1-like domain of mammalian Alix and related domains
+This superfamily includes the Bro1-like domains of mammalian Alix (apoptosis-linked gene-2 interacti...
+Accession: cl14649 ID: 387372
+
+331. DD: Death Domain Superfamily of protein-protein interaction domains
+The Death Domain (DD) superfamily includes the DD, Pyrin, CARD (Caspase activation and recruitment d...
+Accession: cl14633 ID: 387368
+
+332. MPN: Mpr1p, Pad1p N-terminal (MPN) domains
+MPN (also known as Mov34, PAD-1, JAMM, JAB, MPN+) domains are found in the N-terminal termini of pro...
+Accession: cl13996 ID: 387347
+
+333. Peptidase_M48: Peptidase family M48
+Peptidase_M48 is the largely extracellular catalytic region of CAAX prenyl protease homologs such as...
+Accession: cl12018 ID: 386247
+
+334. DinI: DinI-like family
+This family of short proteins includes DNA-damage-inducible protein I (DinI) and related proteins. T...
+Accession: cl11630 ID: 386191
+
+335. CY
+Cystatin-like domain; Cystatins are a family of cysteine protease inhibitors that occur mainly as si...
+Accession: cl09238 ID: 385436
+
+336. MANEC: MANEC domain
+This region of similarity, comprising 8 conserved cysteines, is found in the N-terminal region of se...
+Accession: cl06508 ID: 384556
+
+337. zf-C4_ClpX: ClpX C4-type zinc finger
+The ClpX heat shock protein of Escherichia coli is a member of the universally conserved Hsp100 fami...
+Accession: cl05964 ID: 384335
+
+338. BRICHOS: BRICHOS domain
+The BRICHOS domain is about 100 amino acids long. It is found in a variety of proteins implicated in...
+Accession: cl04394 ID: 383704
+
+339. VIT: Vault protein inter-alpha-trypsin domain
+Inter-alpha-trypsin inhibitors (ITIs) consist of one light chain and a variable set of heavy chains....
+Accession: cl02699 ID: 383091
+
+340. VHS_ENTH_ANTH: VHS, ENTH and ANTH domain superfamily
+This superfamily is composed of proteins containing a VHS, CID, ENTH, or ANTH domain. The VHS domain...
+Accession: cl02544 ID: 383016
+
+341. SspB: Stringent starvation protein B
+Escherichia coli stringent starvation protein B (SspB), is thought to enhance the specificity of deg...
+Accession: cl01120 ID: 382390
+
+342. SGNH_hydrolase
+SGNH_hydrolase, or GDSL_hydrolase, is a diverse family of lipases and esterases. The tertiary fold o...
+Accession: cl01053 ID: 382355
+
+343. NfeD: NfeD-like C-terminal, partner-binding
+NfeD-like proteins are widely distributed throughout prokaryotes and are frequently associated with ...
+Accession: cl00686 ID: 382151
+
+344. PL_Passenger_AT
+Pertactin-like passenger domains (virulence factors) of autotransporter proteins of the type V secre...
+Accession: cl00185 ID: 381844
+
+345. WAP
+whey acidic protein-type four-disulfide core domains. Members of the family include whey acidic prot...
+Accession: cl00156 ID: 381828
+
+346. ZnMc
+Zinc-dependent metalloprotease. This super-family of metalloproteases contains two major branches, t...
+Accession: cl00064 ID: 381785
+
+347. CysPc
+Calpains, domains IIa, IIb; calcium-dependent cytoplasmic cysteine proteinases, papain-like. Functio...
+Accession: cl00051 ID: 381776
+
+348. Bbox_SF: B-box-type zinc finger superfamily
+The B-box-type zinc finger is a short zinc binding domain of around 40 amino acid residues in length...
+Accession: cl00034 ID: 381767
+
+349. serpin42Da-like: serpins similar to Drosophila melanogaster Serpin 42Da
+This subfamily is composed mainly of insect serpins, including Drosophila melanogaster serpin 42Da. ...
+Accession: cd19601 ID: 381065
+
+350. serpin_silkworm16_18_22: silk gland serpins 16, 18, and 22 from Bombyx mori
+Serpins 16, 18, and 22 of the silkworm Bombyx mori are found in the silk gland, a highly specialized...
+Accession: cd19580 ID: 381046
+
+351. serpinJ_IRS-2-like: serpin family J, Ixodes ricinus serpin-2 (IRS-2)
+The serpin family J clade contains serpins from the Chelicerates. This model includes serpins from t...
+Accession: cd19577 ID: 381043
+
+352. serpinI2_pancpin: serpin family I member 2, pancpin
+Pancpin (also called proteinase inhibitor 14/PI14 or myoepithelium-derived serine protease inhibitor...
+Accession: cd19576 ID: 381042
+
+353. serpinE2_GDN: serpin family E member 2, glia derived nexin (GDN)
+Serpin glia-derived nexin (GDN; also called peptidase inhibitor 7/PI-7 or protease nexin 1/PN-1) is ...
+Accession: cd19573 ID: 381039
+
+354. serpinB12_yukopin: serpin family B member 12, yukopin
+Yukopin, encoded by the SERPINB12 gene, is a member of the serpin superfamily of serine protease inh...
+Accession: cd19571 ID: 381037
+
+355. serpinB11_epipin: serpin family B member 11, epipin
+Epipin/SERPINB11 has no serine protease inhibitory activity, probably due to mutations in the scaffo...
+Accession: cd19570 ID: 381036
+
+356. serpinB10_bomapin: serpin family B member 10, bomapin
+Bomapin (also called proteinase inhibitor 10/PI10) is a hematopoietic- and myeloid leukaemia-specifi...
+Accession: cd19569 ID: 381035
+
+357. serpinB8_CAP-2: serpin family B member 8, cytoplasmic antiproteinase 2
+Cytoplasmic antiproteinase 2 (CAP-2 or peptidase inhibitor 8/PI-8) is a member of the ovalbumin fami...
+Accession: cd19567 ID: 381033
+
+358. serpinB3_B4_SCCA1_2: serpin family B members 3 and 4, squamous cell carcinoma antigens 1 and 2
+Squamous cell carcinoma antigen 1 (SCCA1, also called HsT1196 or protein T4-A) and squamous cell car...
+Accession: cd19563 ID: 381030
+
+359. serpinB2_PAI-2: serpin family B member 2, plasminogen activator inhibitor 2
+Plasminogen activator inhibitor-2 (PAI-2/PLANH2, also called placental PAI, monocyte arg-serpin, or ...
+Accession: cd19562 ID: 381029
+
+360. serpinA12_vaspin: serpin family A member 12, visceral adipose tissue-derived serpin
+Vaspin, also called visceral adipose tissue-derived serpin or serpinA12, was identified as an adipok...
+Accession: cd19558 ID: 381026
+
+361. serpinA9_centerin: serpin family A member 9, centerin
+Centerin, also known as germinal center B-cell-expressed transcript 1/GCET1, is a serpin whose expre...
+Accession: cd19556 ID: 381024
+
+362. serpinA5_PCI: serpin family A member 5, protein C inhibitor
+Protein C inhibitor (PCI/PROCI, also called PAI3, plasminogen activator inhibitor-3/PLANH3, plasma s...
+Accession: cd19553 ID: 381021
+
+363. serpinA_A1AT-like: serpin family A member, alpha-1-antitrypsin and similar proteins
+This group contains proteins similar to alpha-1-antitrypsin (also called A1AT, A1A, AAT, alpha1-prot...
+Accession: cd19549 ID: 381017
+
+364. serpinA_A1AT-like: serpin family A member, alpha-1-antitrypsin and similar serpin proteins in birds and reptiles
+The alpha-1-antitrypsin family has a variety of different members of sauropsida belonging to the cla...
+Accession: cd19548 ID: 381016
+
+365. serpinB14_OVA: serpin family B member 14, ovalbumin
+The chicken protein ovalbumin (OVA3), a storage protein from egg white, lacking a loop insertion mec...
+Accession: cd02059 ID: 381015
+
+366. serpinA1_A1AT: serpin family A member 1, alpha-1-antitrypsin
+Alpha-1-antitrypsin (also called A1AT, A1A, AAT, alpha1-proteinase inhibitor/A1PI, alpha1-antiprotei...
+Accession: cd02056 ID: 381012
+
+367. serpinG1_C1-INH: serpin family G member 1, plasma proteinase C1 inhibitor
+Plasma proteinase C1 inhibitor (C1-INH/C1IN) is a protease inhibitor of the serpin family. It plays ...
+Accession: cd02050 ID: 381006
+
+368. serpinC1_AT3: serpin family C member 1, antithrombin III
+Antithrombin III (AT3/ATIII) is a non-vitamin K-dependent serine protease that inhibits coagulation ...
+Accession: cd02045 ID: 381002
+
+369. serpinP_plants: serpin family P, plant serpins
+Plant SERine Proteinase INhibitors (serpins) are potent inhibitors of a range of mammalian serine pr...
+Accession: cd02043 ID: 381001
+
+370. Bbox1_CYLD: B-box-type 1 zinc finger found in tumor suppressor cylindromatosis (CYLD) and similar proteins
+CYLD, also termed ubiquitin carboxyl-terminal hydrolase CYLD, or deubiquitinating enzyme CYLD, or ub...
+Accession: cd19816 ID: 380874
+
+371. Imm35: Immunity protein 35
+A predicted immunity protein with an alpha+beta fold and a conserved tryptophan residue. Proteins co...
+Accession: pfam15567 ID: 379730
+
+372. PrcB_C: PrcB C-terminal
+This domain is found at the C-terminus of Treponema denticola PrcB. PrcB interacts with the PrtP pro...
+Accession: pfam14343 ID: 379569
+
+373. Autotransporter: Autotransporter beta-domain
+Secretion of protein products occurs by a number of different pathways in bacteria. One of these pat...
+Accession: pfam03797 ID: 377133
+
+374. NfeD: NfeD-like C-terminal, partner-binding
+NfeD-like proteins are widely distributed throughout prokaryotes and are frequently associated with ...
+Accession: pfam01957 ID: 376684
+
+375. Lectin_like: Lectin like domain
+This is a lectin like domain found in Cwp84, a surface-located cysteine protease (a member of the C1...
+Accession: pfam18560 ID: 375986
+
+376. PATR: Passenger-associated-transport-repeat
+This Autotransporter-associated beta strand repeat model represents a core 32-residue region of a cl...
+Accession: pfam12951 ID: 372405
+
+377. Hepsin-SRCR: Hepsin, SRCR
+Members of this family form an extracellular domain of the serine protease hepsin. They are formed p...
+Accession: pfam09272 ID: 370400
+
+378. DinI: DinI-like family
+This family of short proteins includes DNA-damage-inducible protein I (DinI) and related proteins. T...
+Accession: pfam06183 ID: 368780
+
+379. TENA_THI-4: TENA/THI-4/PQQC family
+Members of this family are found in all the three major phyla of life: archaebacteria, eubacteria, a...
+Accession: pfam03070 ID: 367321
+
+380. Peptidase_M48: Peptidase family M48
+Peptidase_M48 is the largely extracellular catalytic region of CAAX prenyl protease homologs such as...
+Accession: pfam01435 ID: 366640
+
+381. ING: Inhibitor of growth (ING) domain family
+The Inhibitor of growth (ING) family includes a group of tumor suppressors, ING1-5, which act as rea...
+Accession: cl28919 ID: 355795
+
+382. M28_Pgcp_like: M28 Zn-Peptidase Plasma glutamate carboxypeptidase
+Peptidase M28 family; Plasma glutamate carboxypeptidase (PGCP; blood plasma glutamate carboxypeptida...
+Accession: cd03883 ID: 349879
+
+383. CAP_PI15-like: CAP (cysteine-rich secretory proteins, antigen 5, and pathogenesis-related 1 proteins) domain of peptidase inhibitor 15 and similar proteins
+This family is composed of peptidase inhibitor 15 (PI15), peptidase inhibitor R3HDML, cysteine-rich ...
+Accession: cd18812 ID: 349406
+
+384. CAP: CAP (cysteine-rich secretory proteins, antigen 5, and pathogenesis-related 1 proteins) domain family
+The CAP (cysteine-rich secretory proteins, antigen 5, and pathogenesis-related 1 proteins) domain, a...
+Accession: cd00168 ID: 349397
+
+385. M1_APN-Q_like: Peptidase M1 aminopeptidase N catalytic domain family which includes aminopeptidase N (APN), aminopeptidase Q (APQ), tricorn interacting factor F3, and endoplasmic reticulum aminopeptidase 1 (ERAP1)
+This M1 peptidase family includes eukaryotic and bacterial members: the catalytic domains of aminope...
+Accession: cd09601 ID: 341064
+
+386. Ubl_USP14_like: ubiquitin-like (Ubl) domain found in ubiquitin carboxyl-terminal hydrolase 14 (USP14) and similar proteins
+USP14 (EC 3.4.19.12), also termed deubiquitinating enzyme 14, or ubiquitin thioesterase 14, or ubiqu...
+Accession: cd16104 ID: 340521
+
+387. Ubl_Ddi1_like: ubiquitin-like (Ubl) domain found in the eukaryotic Ddi1 family
+The eukaryotic Ddi1 family, including yeast aspartyl protease DNA-damage inducible 1 (Ddi1) and Ddi1...
+Accession: cd01796 ID: 340494
+
+388. Kunitz_BPTI: Kunitz/Bovine pancreatic trypsin inhibitor domain
+Indicative of a protease inhibitor, usually a serine protease inhibitor. Structure is a disulfide ri...
+Accession: pfam00014 ID: 333766
+
+389. Bac_small_YrzI: Probable sporulation protein (Bac_small_yrzI)
+Members of this family are very small proteins, about 47 residues each, in the genus Bacillus. Singl...
+Accession: cl23890 ID: 329155
+
+390. M48_yhfN_like: Peptidase M48 YhfN-like, a novel minigluzincin
+M48 YhfN-like protease is considered as a CaaX prenyl protease 1 homolog, with most of the sequences...
+Accession: cd07344 ID: 320703
+
+391. M48C_Oma1-like: Oma1 peptidase-like, integral membrane metallopeptidase
+This family contains peptidase M48 subfamily C (also known as Oma1 peptidase or mitochondrial metall...
+Accession: cd07324 ID: 320683
+
+392. 7tmA_P2Y8: purinergic receptor P2Y8, member of the class A family of seven-transmembrane G protein-coupled receptors
+P2Y8 (or P2RY8) expression is often increased in leukemia patients, and it plays a role in the patho...
+Accession: cd15368 ID: 320490
+
+393. EFh_PEF_CAPN1: Penta-EF hand, calcium binding motifs, found in mu-type calpain (CAPN1)
+CAPN1, also termed calpain-1 80-kDa catalytic subunit, or calpain-1 large subunit, or micromolar-cal...
+Accession: cd16198 ID: 320073
+
+394. EFh_PEF_CAPN9: Penta-EF hand, calcium binding motifs, found in calpain-9 (CAPN9)
+CAPN9, also termed digestive tract-specific calpain, or new calpain 4 (nCL-4), or protein CG36, is a...
+Accession: cd16192 ID: 320067
+
+395. EFh_PEF_CAPN8: Penta-EF hand, calcium binding motifs, found in calpain-8 (CAPN8)
+CAPN8, also termed new calpain 2 (nCL-2), or stomach-specific M-type calpain, is a calpain large sub...
+Accession: cd16191 ID: 320066
+
+396. EFh_PEF_CAPN3: Calcium-activated neutral
+CAPN3, also termed calcium-activated neutral proteinase 3 (CANP 3), or calpain L3, or calpain p94, o...
+Accession: cd16190 ID: 320065
+
+397. RING2-HC_LONFs: RING finger 2, HC subclass, found in the LON peptidase N-terminal domain and RING finger proteins family
+The LON peptidase N-terminal domain and RING finger proteins family includes LONRF1 (also known as R...
+Accession: cd16514 ID: 319428
+
+398. RING1-HC_LONFs: RING finger 1, HC subclass, found in the LON peptidase N-terminal domain and RING finger proteins family
+The LON peptidase N-terminal domain and RING finger proteins family includes LONRF1 (also known as R...
+Accession: cd16513 ID: 319427
+
+399. Spp-24: Secreted phosphoprotein 24 (Spp-24) cystatin-like domain
+This family represents a conserved region approximately 60 residues long within secreted phosphoprot...
+Accession: pfam07448 ID: 311407
+
+400. Peptidase_C53: Pestivirus Npro endopeptidase C53
+Unique to pestiviruses, the N-terminal protein encoded by the bovine viral diarrhoea virus genome is...
+Accession: pfam05550 ID: 283255
+
+401. FYVE1_Vac1p_like: FYVE-related domain 1 found in yeast protein VAC1 (Vac1p) and similar proteins
+Vac1p, also termed vacuolar segregation protein Pep7p, or carboxypeptidase Y-deficient protein 7, or...
+Accession: cd15761 ID: 277300
+
+402. FYVE2_Vac1p_like: FYVE domain 2 found in yeast protein VAC1 (Vac1p) and similar proteins
+Vac1p, also termed vacuolar segregation protein Pep7p, or carboxypeptidase Y-deficient protein 7, or...
+Accession: cd15737 ID: 277276
+
+403. FYVE_scVPS27p_Vac1p_like: FYVE domain found in Saccharomyces cerevisiae vacuolar protein sorting-associated protein 27 (scVps27p) and FYVE-related domain 1 found in yeast protein VAC1 (Vac1p) and similar proteins
+The family includes Saccharomyces cerevisiae vacuolar protein sorting-associated protein 27 (scVps27...
+Accession: cd15736 ID: 277275
+
+404. protease_degS: periplasmic serine pepetdase DegS
+This family consists of the periplasmic serine protease DegS (HhoB), a shorter paralog of protease D...
+Accession: TIGR02038 ID: 273939
+
+405. hflC: HflC protein
+HflK and HflC are paralogs encoded by tandem genes in Proteobacteria, spirochetes, and some other ba...
+Accession: TIGR01932 ID: 273883
+
+406. SppA_dom: signal peptide peptidase SppA, 36K type
+The related but duplicated, double-length protein SppA (protease IV) of E. coli was shown experiment...
+Accession: TIGR00706 ID: 273227
+
+407. lexA: SOS regulatory protein LexA
+LexA acts as a homodimer to repress a number of genes involved in the response to DNA damage (SOS re...
+Accession: TIGR00498 ID: 273106
+
+408. Imelysin-like_IPPA: Imelysin-like protein
+This family includes insulin-cleaving membrane protease (imelysin, ICMP)-like protein (IPPA from Psy...
+Accession: cd14659 ID: 271142
+
+409. UBA2_UBP13: UBA2 domain found in ubiquitin carboxyl-terminal hydrolase 13 (UBP13)
+UBP13, also called deubiquitinating enzyme 13, Isopeptidase T-3 (isoT3), ubiquitin thioesterase 13, ...
+Accession: cd14387 ID: 270570
+
+410. UBA2_UBP5: UBA2 domain found in ubiquitin carboxyl-terminal hydrolase 5 (UBP5)
+UBP5, also called deubiquitinating enzyme 5, Isopeptidase T (IsoT), ubiquitin thioesterase 5, or ubi...
+Accession: cd14386 ID: 270569
+
+411. UBA1_UBP13: UBA1 domain found in ubiquitin carboxyl-terminal hydrolase 13 (UBP13)
+UBP13, also called deubiquitinating enzyme 13, Isopeptidase T-3 (isoT3), ubiquitin thioesterase 13, ...
+Accession: cd14384 ID: 270567
+
+412. UBA1_UBP5: UBA1 domain found in ubiquitin carboxyl-terminal hydrolase 5 (UBP5)
+UBP5, also called deubiquitinating enzyme 5, Isopeptidase T (IsoT), ubiquitin thioesterase 5, or ubi...
+Accession: cd14383 ID: 270566
+
+413. UBA_UBP28: UBA domain found in ubiquitin carboxyl-terminal hydrolase 28 (UBP28) and similar proteins
+UBP28, also called deubiquitinating enzyme 28, ubiquitin thioesterase 28, or ubiquitin-specific-proc...
+Accession: cd14355 ID: 270540
+
+414. PA_2
+PA_2: Protease-associated (PA) domain subgroup 2. A subgroup of PA-domain containing proteins. The P...
+Accession: cd04819 ID: 240123
+
+415. PA_1
+PA_1: Protease-associated (PA) domain subgroup 1. A subgroup of PA-domain containing proteins. Prote...
+Accession: cd04813 ID: 240117
+
+416. MATH_Meprin_Alpha
+Meprin family, Alpha subunit, MATH domain; Meprins are multidomain extracellular metalloproteases ca...
+Accession: cd03783 ID: 239752
+
+417. MATH_HAUSP
+Herpesvirus-associated ubiquitin-specific protease (HAUSP, also known as USP7) family, N-terminal MA...
+Accession: cd03772 ID: 239741
+
+418. PA_hPAP21_like
+PA_hPAP21_like: Protease-associated domain containing proteins like the human secreted glycoprotein ...
+Accession: cd02127 ID: 239042
+
+419. PA_GRAIL_like
+PA _GRAIL_like: Protease-associated (PA) domain GRAIL-like. This group includes PA domain containing...
+Accession: cd02122 ID: 239037
+
+420. proteasome_protease_HslV
+proteasome_protease_HslV. This group contains the eukaryotic proteosome alpha and beta subunits and ...
+Accession: cd01906 ID: 238887
+
+421. vWA_complement_factors
+Complement factors B and C2 are two critical proteases for complement activation. They both contain ...
+Accession: cd01470 ID: 238747
+
+422. WAP
+whey acidic protein-type four-disulfide core domains. Members of the family include whey acidic prot...
+Accession: cd00199 ID: 238120
+
+423. TY
+Thyroglobulin type I repeats.; The N-terminal region of human thyroglobulin contains 11 type-1 repea...
+Accession: cd00191 ID: 238114
+
+424. M35_deuterolysin_like: Peptidase M35 domain of deuterolysins and related proteins
+This family M35 Zn2+-metallopeptidase extracellular domain is found in fungal deutrolysins (acid met...
+Accession: cd11008 ID: 199914
+
+425. Peptidase_C25_N_2: uncharacterized subgroup of the Peptidase C25 family N-terminal domain
+Domains in this subgroup are uncharacterized members of the Peptidase family C25 N-terminal domain f...
+Accession: cd10915 ID: 199213
+
+426. Peptidase_C25_N_1: uncharacterized subgroup of the Peptidase C25 family N-terminal domain
+Domains in this subgroup are uncharacterized members of the Peptidase family C25 N-terminal domain f...
+Accession: cd10914 ID: 199212
+
+427. Peptidase_C25_N_gingipain: gingipain subgroup of the Peptidase C25 family N-terminal domain
+Gingipain, produced by Porphyromonas gingivalis, exemplifies the Peptidase family C25, a unique clas...
+Accession: cd10913 ID: 199211
+
+428. Peptidase_C25_N: Peptidase C25 family N-terminal domain, found in Arg-gingipain (Rgp), Lys-gingipain (Kgp) and related proteins
+Peptidase family C25 is a unique class of cysteine proteases, exemplified by gingipain, which is pro...
+Accession: cd02258 ID: 199210
+
+429. Peptidases_S8_Kp43_protease: Peptidase S8 family domain in Kp43 proteases
+Kp43 proteases are members of the peptidase S8 or Subtilase clan of proteases. They have an Asp/His/...
+Accession: cd04842 ID: 173791
+
+430. MPN_AMSH_like: Mov34/MPN/PAD-1 family
+AMSH (associated molecule with the Src homology 3 domain (SH3) of STAM (signal-transducing adapter m...
+Accession: cd08066 ID: 163697
+
+431. Peptidase_C3G: Tungro spherical virus-type peptidase
+This is the protease for self-cleavage of the positive single-stranded polyproteins of a number of p...
+Accession: pfam12381 ID: 152816
+
+432. RP_RTVL_H_like: Retropepsin of the RTVL_H family of human endogenous retrovirus-like elements
+This family includes aspartate proteases from retroelements with LTR (long terminal repeats) includi...
+Accession: cd06095 ID: 133159
+
+433. RP_Saci_like: RP_Saci_like, retropepsin family
+Retropepsin on retrotransposons with long terminal repeats (LTR) including Saci-1, -2 and -3 of Schi...
+Accession: cd06094 ID: 133158
+
+434. retropepsin_like_LTR_2: Retropepsins_like_LTR, pepsin-like aspartate proteases
+Retropepsin of retrotransposons with long terminal repeats are pepsin-like aspartate proteases. Whil...
+Accession: cd05484 ID: 133151
+
+435. HIV_retropepsin_like: Retropepsins, pepsin-like aspartate proteases
+This is a subfamily of retropepsins. The family includes pepsin-like aspartate proteases from retrov...
+Accession: cd05482 ID: 133149
+
+436. retropepsin_like: Retropepsins; pepsin-like aspartate proteases
+The family includes pepsin-like aspartate proteases from retroviruses, retrotransposons and retroele...
+Accession: cd00303 ID: 133136
+
+437. Lon_rel_chp: conserved hypothetical protein
+This model describes a protein family of unknown function, about 690 residues in length, in which so...
+Accession: TIGR02653 ID: 131701
+
+438. hflK: HflK protein
+HflK and HflC are paralogs encoded by tandem genes in Proteobacteria, spirochetes, and some other ba...
+Accession: TIGR01933 ID: 130988
+
+439. API3
+Ascaris pepsin inhibitor-3 (API3); protein inhibitor that reversibly inhibits aspartic proteinase ca...
+Accession: cd00225 ID: 119406
+
+440. S2P-M50_PDZ_SREBP
+Sterol regulatory element-binding protein (SREBP) Site-2 protease (S2P), a zinc metalloprotease (MER...
+Accession: cd06162 ID: 100083
+
+441. S2P-M50
+Site-2 protease (S2P) class of zinc metalloproteases (MEROPS family M50) cleaves transmembrane domai...
+Accession: cd05709 ID: 100078
+
+442. H2MP_NAD-link-bidir
+Endopeptidases that belong to the bidirectional NAD-linked hydrogenase group. This group of endopept...
+Accession: cd06066 ID: 99876
+
+443. embe-CoV_Protein-I_like: BECV protein I and related Embecovirus proteins
+This subfamily includes protein I (also known as accessory protein N2) from bovine enteritic coronav...
+Accession: cd21662 ID: 394943
+
+444. merbe_CoV_ORF8b-like: MERS-CoV ORF8b protein and related Merbecovirus proteins
+This subfamily includes the ORF8b accessory protein from Middle East respiratory syndrome-related co...
+Accession: cd21661 ID: 394942
+
+445. embe-merbe_CoV_ORF8b_protein-I-like: MERS-CoV ORF8b, BECV protein I, and related Embecovirus and Merbecovirus proteins
+This family includes the ORF8b accessory protein from Middle East respiratory syndrome-related coron...
+Accession: cd21654 ID: 394941
+
+446. batCoV-HKU9_NS7b: NS7b protein from Rousettus bat coronavirus HKU9 and related betacoronaviruses in the D lineage
+This model represents the NS7b protein of Rousettus bat coronavirus (CoV) HKU9 and related proteins ...
+Accession: cd21644 ID: 394940
+
+447. ORF7b_SARS-CoV-like: Severe Acute Respiratory Syndrome coronavirus structural accessory protein ORF7b and related proteins
+This group contains the ORF7b, also called NS7b, of Severe Acute Respiratory Syndrome coronaviruses ...
+Accession: cd21635 ID: 394939
+
+448. ORF7b_SARS-CoV-2: Structural accessory protein ORF7b of Severe Acute Respiratory Syndrome coronavirus 2 and similar proteins
+This group contains the ORF7b, also called NS7b, of Severe Acute Respiratory Syndrome Coronavirus 2 ...
+Accession: cd21623 ID: 394938
+
+449. ORF7b_SARS_bat-CoV-like: Severe Acute Respiratory Syndrome coronavirus structural accessory protein ORF7b and similar proteins from related betacoronaviruses in the B lineage
+This family contains the structural accessory protein ORF7b, also called NS7b, of Severe Acute Respi...
+Accession: cd21598 ID: 394937
+
+450. ORF7a_SARS-CoV-like: Severe Acute Respiratory Syndrome coronavirus (SARS-CoV-2) structural accessory protein ORF7a and similar proteins from betacoronaviruses in the subgenera Sarbecovirus (B lineage)
+This group contains the structural accessory protein ORF7a, also called NS7a, of Severe Acute Respir...
+Accession: cd21685 ID: 394936
+
+451. ORF7a_SARS-CoV-2-like: Severe Acute Respiratory Syndrome coronavirus 2 (SARS-CoV-2) structural accessory protein ORF7a and a bat coronavirus (BatCoV RaTG13) from related betacoronaviruses in the subgenera Sarbecovirus (B lineage)
+This group contains the structural accessory protein ORF7a, also called NS7a, of Severe Acute Respir...
+Accession: cd21684 ID: 394935
+
+452. ORF7a_SARS-CoV-like: Severe Acute Respiratory Syndrome coronavirus (SARS-CoV) structural accessory protein ORF7a and similar proteins from related betacoronaviruses in the subgenera Sarbecovirus (B lineage)
+This family contains the structural accessory protein ORF7a, also called NS7a, of Severe Acute Respi...
+Accession: cd21663 ID: 394934
+
+453. NS7a_deltaCoV_HKU30-like: accessory protein NS7a found in deltacoronavirus, including avian coronavirus HKU30 and related coronaviruses
+This group includes the accessory protein NS7a from Quail deltacoronavirus (QdCoV) UAE-HKU30 and spa...
+Accession: cd21639 ID: 394933
+
+454. NS7a_deltaCoV_HKU16-like: accessory protein NS7a found in deltacoronavirus, including avian coronavirus HKU16 and related coronaviruses
+This group includes the accessory protein NS7a from White-eye coronavirus HKU16, Falcon coronavirus ...
+Accession: cd21638 ID: 394932
+
+455. NS7_PDCoV: Porcine deltacoronavirus (PDCoV) accessory protein NS7
+This group includes the accessory protein NS7 found in Porcine coronavirus HKU15. There are five ess...
+Accession: cd21637 ID: 394931
+
+456. deltaCoV_NS7_NS7a: deltacoronavirus accessory protein NS7 and NS7a
+This family includes the accessory protein NS7 found in deltacoronaviruses from the Buldecovirus sub...
+Accession: cd21628 ID: 394930
+
+457. NS6_deltaCoV: deltacoronavirus accessory protein NS6
+This family includes the accessory protein NS6 from deltacoronaviruses such as porcine coronavirus H...
+Accession: cd21629 ID: 394929
+
+458. MERS-CoV-like_ORF5: Non-structural protein ORF5 from Middle East respiratory syndrome-related coronavirus and related betacoronaviruses in the C lineage
+This model represents the non-structural protein ORF5 from Middle East respiratory syndrome-related ...
+Accession: cd21645 ID: 394928
+
+459. ORF4b_HKU5-CoV: accessory protein ORF4b, also known as non-structural protein 3c (NS3c), of Pipistrellus bat coronavirus HKU5 and similar proteins
+This model represents the accessory protein 4b, ORF4b (also called NS3c protein) of Pipistrellus bat...
+Accession: cd21653 ID: 394927
+
+460. ORF4b_HKU4-CoV: accessory protein ORF4b, also known as non-structural protein 3c (NS3c), of Tylonycteris bat coronavirus HKU4 and similar proteins
+This model represents the accessory protein 4b, ORF4b (also called NS3c protein) of Tylonycteris bat...
+Accession: cd21652 ID: 394926
+
+461. ORF4b_MERS-CoV-like: accessory protein ORF4b, also known as non-structural protein 3c (NS3c) in Middle East respiratory syndrome (MERS)-related CoV
+This model represents the accessory protein 4b, ORF4b (also called NS3c protein) of Middle East resp...
+Accession: cd21651 ID: 394925
+
+462. ORF4b_NS3c-betaCoV: accessory protein ORF4b, also known as non-structural protein 3c (NS3c), of betacoronaviruses in the C lineage
+This model represents the accessory protein 4b, ORF4b (also called NS3c protein) of Middle East resp...
+Accession: cd21647 ID: 394924
+
+463. SARS-CoV_ORF3b: accessory protein ORF3b of severe acute respiratory syndrome-associated coronavirus
+This model represents the accessory protein ORF3b of Severe acute respiratory syndrome-associated co...
+Accession: cd21649 ID: 394923
+
+464. SARS-CoV-like_ORF3a: accessory protein ORF3a of severe acute respiratory syndrome-associated coronavirus and similar proteins from related betacoronavirus
+This model represents the accessory protein ORF3a of Severe acute respiratory syndrome-associated co...
+Accession: cd21648 ID: 394922
+
+465. SARS-CoV-2_E: Severe acute respiratory syndrome coronavirus 2 Envelope small membrane protein
+This group contains the Envelope (E) small membrane protein of Severe acute respiratory syndrome cor...
+Accession: cd21536 ID: 394862
+
+466. SARS-CoV-like_E: Severe acute respiratory syndrome coronavirus Envelope small membrane protein and similar proteins
+This group contains the Envelope (E) small membrane protein of Severe acute respiratory syndrome (SA...
+Accession: cd21534 ID: 394861
+
+467. MERS-CoV-like_E: Middle East respiratory syndrome-related coronavirus Envelope small membrane protein and similar proteins
+This group contains the Envelope (E) small membrane protein of Middle East respiratory syndrome (MER...
+Accession: cd21533 ID: 394860
+
+468. HKU1-CoV-like_E: human coronavirus HKU1 Envelope small membrane protein and similar proteins
+This group contains the Envelope (E) small membrane protein of human coronavirus HKU1 and related co...
+Accession: cd21532 ID: 394859
+
+469. CoV_E: Coronavirus Envelope (E) small membrane protein
+This family contains the Envelope (E) small membrane protein of betacoronaviruses, including the E p...
+Accession: cd21531 ID: 394858
+
+470. deltaCoV_M: deltacoronavirus Membrane (or Matrix) protein
+This subfamily contains the Membrane (M) protein of deltacoronaviruses including porcine deltacorona...
+Accession: cd21594 ID: 394857
+
+471. batCoV_HKU9-like_M: Membrane (or Matrix) protein from bat coronavirus HKU9 and related betacoronaviruses in the D lineage
+This group contains the Membrane (M) protein of Rousettus bat coronavirus HKU9, and similar proteins...
+Accession: cd21570 ID: 394856
+
+472. SARS-like-CoV_M: Membrane (or Matrix) protein from Severe acute respiratory syndrome (SARS) coronavirus, SARS-CoV-2, and related betacoronaviruses in the B lineage
+This group contains the Membrane (M) protein of Severe acute respiratory syndrome coronavirus (SARS-...
+Accession: cd21569 ID: 394855
+
+473. HCoV-like_M: Membrane (or Matrix) protein from human coronavirus and related betacoronaviruses in the A lineage
+This group contains the Membrane (M) protein of human coronaviruses (HCoVs), HCoV-OC43 and HCoV-HKU1...
+Accession: cd21568 ID: 394854
+
+474. MERS-like-CoV_M: Membrane (or Matrix) protein from Middle East respiratory syndrome-related coronavirus and related betacoronaviruses in the C lineage
+This group contains the Membrane (M) protein of Middle East respiratory syndrome (MERS)-related CoV,...
+Accession: cd21567 ID: 394853
+
+475. gammaCoV_M: gammacoronavirus Membrane (or Matrix) protein
+This subfamily contains the Membrane (M) protein of gammacoronavirus including avian infectious bron...
+Accession: cd21566 ID: 394852
+
+476. betaCoV_M: betacoronavirus Membrane (or Matrix) protein
+This subfamily contains the Membrane (M) protein of betacoronaviruses including the M proteins from ...
+Accession: cd21565 ID: 394851
+
+477. alphaCoV_M: alphacoronavirus Membrane (or Matrix) protein
+This subfamily contains the Membrane (M) protein of alphacoronaviruses including human coronaviruses...
+Accession: cd21564 ID: 394850
+
+478. CoV_M: coronavirus Membrane (or Matrix) protein
+This family contains the Membrane (M) protein of coronaviruses (CoVs) including three highly pathoge...
+Accession: cd21529 ID: 394849
+
+479. DPUP_MHV_Nsp3: DPUP (domain preceding Ubl2 and PLP2) of non-structural protein 3 (Nsp3) from murine hepatitis virus and related betacoronaviruses in the A lineage
+This subfamily contains the DPUP (domain preceding Ubl2 and PLP2) of murine hepatitis virus (MHV) no...
+Accession: cd21524 ID: 394840
+
+480. Ubl1_cv_Nsp3_N-like: first ubiquitin-like (Ubl) domain located at the N-terminus of coronavirus SARS-CoV non-structural protein 3 (Nsp3) and related proteins
+This ubiquitin-like (Ubl) domain (Ubl1) is found at the N-terminus of coronavirus Nsp3, a large mult...
+Accession: cd21467 ID: 394822
+
+481. P-loop_NTPase: P-loop containing Nucleoside Triphosphate Hydrolases
+Members of the P-loop NTPase domain superfamily are characterized by a conserved nucleotide phosphat...
+Accession: cl38936 ID: 393306
+
+482. Phage_capsid: Phage capsid family
+Family of bacteriophage hypothetical proteins and capsid proteins.
+Accession: cl27082 ID: 391678
+
+483. Endostatin-like
+Endostatin-like domain; the angiogenesis inhibitor endostatin is a C-terminal fragment of collagen X...
+Accession: cl23985 ID: 390215
+
+484. Peptidase_S80: Bacteriophage T4-like capsid assembly protein (Gp20)
+This family consists of several bacteriophage T4-like capsid assembly (or portal) proteins. The exac...
+Accession: cl23948 ID: 390191
+
+485. RICIN
+Ricin-type beta-trefoil; Carbohydrate-binding domain formed from presumed gene triplication. The dom...
+Accession: cl23784 ID: 390085
+
+486. SASP_gamma: Small, acid-soluble spore protein, gamma-type
+The SASP family is a family of small, glutamine and asparagine-rich peptides that store amino acids ...
+Accession: cl21710 ID: 389879
+
+487. ChlI: Subunit ChlI of Mg-chelatase
+The Lon serine proteases must hydrolyze ATP to degrade protein substrates. In Escherichia coli, thes...
+Accession: cl21678 ID: 389863
+
+488. Tryp_SPc
+Trypsin-like serine protease; Many of these are synthesized as inactive precursor zymogens that are ...
+Accession: cl21584 ID: 389826
+
+489. Lipocalin: Lipocalin / cytosolic fatty-acid binding protein family
+Lipocalins are transporters for small hydrophobic molecules, such as lipids, steroid hormones, bilin...
+Accession: cl21528 ID: 389791
+
+490. TolB_N: TolB amino-terminal domain
+TolB is an essential periplasmic component of the tol-dependent translocation system. This function ...
+Accession: cl21526 ID: 389789
+
+491. Peptidase_M14NE-CP-C_like: Peptidase associated domain: C-terminal domain of M14 N/E carboxypeptidase; putative folding, regulation, or interaction domain
+This domain is found C-terminal to the M14 carboxypeptidase (CP) N/E subfamily containing zinc-bindi...
+Accession: cl21470 ID: 389755
+
+492. TIM: TIM-like beta/alpha barrel domains
+A large family of domains similar to triose phosphate isomerase (TIM) which, in general, share an ei...
+Accession: cl21457 ID: 389746
+
+493. PKc_like: Protein Kinases, catalytic domain
+The protein kinase superfamily is mainly composed of the catalytic domains of serine/threonine-speci...
+Accession: cl21453 ID: 389743
+
+494. Peptidase_U4: Sporulation factor SpoIIGA
+Members of this protein family are the stage II sporulation protein SpoIIGA. This protein acts as an...
+Accession: cl19579 ID: 388598
+
+495. Peptidase_M8: Leishmanolysin
+surface protease GP63; Provisional
+Accession: cl19482 ID: 388572
+
+496. PmbA_TldD: Putative modulator of DNA gyrase
+tldD and pmbA were found to suppress mutations in letD and inhibitor of DNA gyrase. Therefore it has...
+Accession: cl19356 ID: 388551
+
+497. CBP_GIL: GGDEF I-site like or GIL domain
+The GIL domain, for GGDEF I-site like domain, is a c-di-GMP binding domain on the BcsE proteins of e...
+Accession: cl17862 ID: 388454
+
+498. Transglut_core: Transglutaminase-like superfamily
+This family includes animal transglutaminases and other bacterial proteins of unknown function. Sequ...
+Accession: cl17362 ID: 388424
+
+499. DUSP: DUSP domain
+The DUSP (domain present in ubiquitin-specific protease) domain is found at the N-terminus of Ubiqui...
+Accession: cl12116 ID: 386277
+
+500. Ig: Immunoglobulin domain
+Immunoglobulin (Ig) domain found in the Ig superfamily. The Ig superfamily is a heterogenous group o...
+Accession: cl11960 ID: 386229
+
+501. STI
+Soybean trypsin inhibitor (Kunitz) family of protease inhibitors. Inhibit proteases by binding with ...
+Accession: cl11466 ID: 386126
+
+502. TSA: Type specific antigen
+There are several antigenic variants in Rickettsia tsutsugamushi, and a type-specific antigen (TSA) ...
+Accession: cl09299 ID: 385440
+
+503. Sod_Ni: Nickel-containing superoxide dismutase
+Nickel containing superoxide dismutase (NiSOD) is a metalloenzyme containing a hexameric assembly of...
+Accession: cl07609 ID: 385127
+
+504. fn3_5: Fn3-like domain
+Fn3_5 is an fn3-like domain which is frequently found as the first of three on streptococcal C5a pep...
+Accession: cl05663 ID: 384191
+
+505. Prolamin_like: Prolamin-like
+Prolamin_like (in which DUF784 and DUF1278 have been merged) is found to be expressed in the plant e...
+Accession: cl05275 ID: 384049
+
+506. Peptidase_U57: YabG peptidase U57
+YabG is a protease involved in the proteolysis and maturation of SpoIVA and YrbA proteins, conserved...
+Accession: cl05250 ID: 384038
+
+507. Phage_cap_P2: Phage major capsid protein, P2 family
+capsid protein; Provisional
+Accession: cl04947 ID: 383932
+
+508. Peptidase_C58: Yersinia/Haemophilus virulence surface antigen
+The model represents a cysteine protease domain found in proteins of bacteria that include plant pat...
+Accession: cl04145 ID: 383603
+
+509. GAT_SF: GAT domain found in eukaryotic ADP-ribosylation factor (Arf)-binding proteins (GGAs), metazoan myb protein 1 (Tom1)-like proteins, and similar proteins
+The GAT (GGA and Tom1) domain superfamily includes GGAs found in eukaryotes, Tom1-like proteins from...
+Accession: cl03906 ID: 383514
+
+510. Allergen_V_VI: Group V, VI major allergens from grass, including Phlp 5, Phlp 6, Pha a 5 and Lol p 5
+This family contains major allergens from various grass pollen, including Phl p 5 and Phl p 6 (timot...
+Accession: cl03283 ID: 383302
+
+511. CLIP: Regulatory CLIP domain of proteinases
+CLIP is a regulatory domain which controls the proteinase action of various proteins of the trypsin ...
+Accession: cl02731 ID: 383102
+
+512. SEP: SEP domain
+The SEP domain is named after Saccharomyces cerevisiae Shp1, Drosophila melanogaster eyes closed gen...
+Accession: cl02662 ID: 383078
+
+513. HTH_MerR-SF: Helix-Turn-Helix DNA binding domain of transcription regulators from the MerR superfamily
+Helix-turn-helix (HTH) transcription regulator MerR superfamily, N-terminal domain. The MerR family ...
+Accession: cl02600 ID: 383042
+
+514. NTR_like
+NTR_like domain; a beta barrel with an oligosaccharide/oligonucleotide-binding fold found in netrins...
+Accession: cl02512 ID: 382999
+
+515. Somatomedin_B: Somatomedin B domain
+Somatomedin-B is a peptide, proteolytically excised from vitronectin, that is a growth hormone-depen...
+Accession: cl02508 ID: 382995
+
+516. DAP_dppA: Peptidase M55, D-aminopeptidase dipeptide-binding protein family
+M55 Peptidase, D-Aminopeptidase dipeptide-binding protein (dppA; DAP dppA; EC 3.4.11.-) domain: Pept...
+Accession: cl01007 ID: 382335
+
+517. MazE_antitoxin: Antidote-toxin recognition MazE, bacterial antitoxin
+AbrB-like is a family of small proteins that operate in conjunction with a cognate toxin molecule. T...
+Accession: cl00877 ID: 382260
+
+518. Ntn_Asparaginase_2_like: L-Asparaginase type 2-like enzymes of the NTN-hydrolase superfamily
+This family includes Glycosylasparaginase, Taspase 1, and  L-Asparaginase type 2 enzymes. Glycosylas...
+Accession: cl00635 ID: 382122
+
+519. TP_methylase: S-AdoMet-dependent tetrapyrrole methylases
+This superfamily uses S-AdoMet (S-adenosyl-L-methionine or SAM) in the methylation of diverse substr...
+Accession: cl00304 ID: 381932
+
+520. PEBP: PhosphatidylEthanolamine-Binding Protein (PEBP) domain
+PhosphatidylEthanolamine-Binding Proteins (PEBPs) are represented in all three major phylogenetic di...
+Accession: cl00227 ID: 381878
+
+521. Calpain_III
+Calpain, subdomain III. Calpains are  calcium-activated cytoplasmic cysteine proteinases, participat...
+Accession: cl00165 ID: 381833
+
+522. BIR
+Baculoviral inhibition of apoptosis protein repeat domain; Found in inhibitors of apoptosis proteins...
+Accession: cl00035 ID: 381768
+
+523. OphMA_like: tetrapyrrole methylase family protein similar to Omphalotus olearius omphalotin methyltransferase (OphMA) and Dendrothele bispora dbOphMA
+OphMA, is the precursor protein of the fungal cyclic peptide Omphalotin A. Omphalotin A is a potent ...
+Accession: cd19916 ID: 381179
+
+524. serpinA: serpin family A
+The clade A of the serpin superfamily includes the classical serine proteinase inhibitors, alpha-1-a...
+Accession: cd19957 ID: 381073
+
+525. serpinB: serpin B family, ov-serpins
+The clade B of the serpin superfamily corresponds to the ovalbumin family of serpins (ov-serpins), a...
+Accession: cd19956 ID: 381072
+
+526. serpin48-like_insects: insect serpins similar to Tenebrio molitor serpin 48
+Serpins in insects function within development, wound healing and immunity. Tenebrio molitor serpin ...
+Accession: cd19955 ID: 381071
+
+527. serpin42Dd-like_insects: insect serpins similar to Drosophila melanogaster Serpin 42Dd
+Serpins in insects function within development, wound healing and immunity. Drosophila melanogaster ...
+Accession: cd19954 ID: 381070
+
+528. serpin_protozoa: viral serpin
+CrmA is a viral serpin that inhibits both cysteine and serine proteinases involved in the regulation...
+Accession: cd19605 ID: 381069
+
+529. serpin_protozoa: serpin family proteins from protozoa
+This group includes a variety of serpin clades from various protozoa including Neospora caninum that...
+Accession: cd19604 ID: 381068
+
+530. serpin_platyhelminthes: serpin family proteins from platyhelminthes
+This group includes a variety of serpins from platyhelminthes (lung fluke, tapeworm, flatworm). SERi...
+Accession: cd19603 ID: 381067
+
+531. serpin_mollusks: serpin family proteins from mollusks
+This group includes a variety of serpins from mollusks (freshwater snail, sea slug, and disk abalone...
+Accession: cd19602 ID: 381066
+
+532. serpin11-like_insects: insect serpins similar to Bombyx mori Serpin-11
+Serpins in insects function within development, wound healing and immunity. The specific function of...
+Accession: cd19600 ID: 381064
+
+533. serpin18-like_insects: insect serpins similar to Anopheles gambiae Serpin 18
+Serpins in insects function within development, wound healing and immunity. A. gambiae serpin 18 is ...
+Accession: cd19599 ID: 381063
+
+534. serpin77Ba-like_insects: insect serpins similar to Drosophila melanogaster Serpin 77Ba
+Serpins in insects function within development, wound healing and immunity. Drosophila melanogaster ...
+Accession: cd19598 ID: 381062
+
+535. serpin28D-like_insects: insect serpins similar to Drosophila melanogaster Serpin-28D
+Serpins in insects function within development, wound healing and immunity. Drosophila melanogaster ...
+Accession: cd19597 ID: 381061
+
+536. serpin_fungal: cellulosomal serpin precursor
+A single fungal serpin has been characterized to date: celpin from Piromyces spp. strain E2. Piromyc...
+Accession: cd19596 ID: 381060
+
+537. serpin_crustaceans_chelicerates_insects: serpin family proteins from crustaceans, chelicerates, and insects
+This group includes a variety of serpins from crustaceans (sea louse, Chinese mitten crab, signal cr...
+Accession: cd19594 ID: 381059
+
+538. serpin_bacteria_crustaceans: serpin family proteins from bacteria and crustaceans
+This group includes a variety of serpin family proteins from various bacteria and crustaceans includ...
+Accession: cd19593 ID: 381058
+
+539. serpin_like: serpin family proteins
+This group includes a variety of serpins in three domains of life eukaryotes, bacteria, and archaea....
+Accession: cd19591 ID: 381057
+
+540. serpin_thermopin-like: serpin thermopin and similar proteins
+Thermopin, the serpin from Thermobifida fusca, functions as an irreversible proteinase inhibitor wit...
+Accession: cd19590 ID: 381056
+
+541. serpin_tengpin-like: serpin tengpin and similar proteins
+Tengpin is an unusual prokaryotic serpin from the extremophile Thermoanaerobacter tengcongensis. In ...
+Accession: cd19589 ID: 381055
+
+542. serpin_miropin-like: serpin miropin and similar proteins
+Miropin, the serpin from Tannerella forsythia, is thought to contribute to the virulence of periodon...
+Accession: cd19588 ID: 381054
+
+543. serpinA16_HongrES1-like: serpin family A member 16, HongrES1 and similar proteins
+HongrES1 is an epididymis-specific secretory protein and is encoded by the SERPINA16 gene. It is one...
+Accession: cd19587 ID: 381053
+
+544. serpin_mimivirus: serpin-like proteins found in mimiviruses
+These viral serpins are from Mimiviridae (Tupanvirus, Powai, Bandra, Moumouvirus, and Megavirus) and...
+Accession: cd19586 ID: 381052
+
+545. serpin_poxvirus: serpin-like proteins found in poxviruses
+These are viral serpins from poxviridae that are not in the Orthopoxvirus branch (cowpox, ectromelia...
+Accession: cd19585 ID: 381051
+
+546. serpinO_SPI-3_virus: serpin family O, viral serpin-3
+This group of viral serpins are from the Orthopoxvirus branch (cowpox, ectromelia, vaccinia, variola...
+Accession: cd19584 ID: 381050
+
+547. serpinN_SPI-1_SPI-2: serpin family N, viral serpin-1 and serpin-2
+This group of viral serpins are from the Orthopoxvirus branch (cowpox, ectromelia, vaccinia, variola...
+Accession: cd19583 ID: 381049
+
+548. serpinM_ShSPI: serpin family M, Schistosoma haematobium serpin
+ShSPI is a serpin from the trematode Schistosoma haematobium. The protein is exposed on the surface ...
+Accession: cd19582 ID: 381048
+
+549. serpinL_nematode: serpin family L, serpin family proteins from nematodes
+The role of nematode serpins remains largely elusive. The only nematode serpin for which experimenta...
+Accession: cd19581 ID: 381047
+
+550. serpinK_insect_SRPN2-like: serpin family K, insect Serpin-2 and similar proteins
+Serpin-2 (SRPN2) is a negative regulator of the melanization response in the malaria vector Anophele...
+Accession: cd19578 ID: 381044
+
+551. serpinH2: serpin family H member 2
+The function of Danio rerio serpin H2 is not known. In general, SERine Proteinase INhibitors (serpin...
+Accession: cd19575 ID: 381041
+
+552. serpinE3: serpin family E member 3
+The function of serpin E3 is not known. It is a member of clade E, which also includes nexin and pla...
+Accession: cd19574 ID: 381040
+
+553. serpinB13_headpin: serpin family B member 13, headpin
+Headpin (also known as hurpin or proteinase inhibitor 13/P113) maps to chromosome 18q21.3 and is exp...
+Accession: cd19572 ID: 381038
+
+554. serpinB9_CAP-3: serpin family B member 9, cytoplasmic antiproteinase 3
+Cytoplasmic antiproteinase 3 (CAP-3; peptidase inhibitor 9/PI-9, Spi6, or testicular tissue protein ...
+Accession: cd19568 ID: 381034
+
+555. serpinB7_megsin: serpin family B member 7, megsin
+Megsin is named as such due to its primary expression in the mesangium, a structure associated with ...
+Accession: cd19566 ID: 381032
+
+556. serpinB6_CAP: serpin family B member 6, cytoplasmic antiproteinase
+Cytoplasmic antiproteinase (CAP, also called proteinase inhibitor 6/PI6 or placental thrombin inhibi...
+Accession: cd19565 ID: 381031
+
+557. serpinB1_LEI: serpin family B member 1 (serpin B1), leukocyte elastase inhibitor (LEI)
+Leukocyte elastase inhibitor (LEI , also known as proteinase inhibitor 2/PI2, monocyte neutrophil el...
+Accession: cd19560 ID: 381028
+
+558. serpinA14_UTMP_UABP-2: serpin family A member 14, uterine milk protein and uteroferrin-associated basic protein 2
+The uteroferrin(Uf)-associated basic proteins-2(UABP-2/UABP/UfAP) are a group of three (Mr = 42K, 48...
+Accession: cd19559 ID: 381027
+
+559. serpinA11: serpin family A member 11
+Serpin A11, in rats also called liver regeneration-related protein LRRG023, is a serpin encoded by t...
+Accession: cd19557 ID: 381025
+
+560. serpinA7_TBG: serpin family A member 7, thyroxine-binding globulin
+Thyroxine-binding globulin (TBG, also called T4-binding globulin) is a globulin that binds thyroid h...
+Accession: cd19555 ID: 381023
+
+561. serpinA6_CBG: serpin family A member 6, corticosteroid-binding globulin
+Corticosteroid-binding globulin (CBG, also known as transcortin) is encoded by the SERPINA6 gene in ...
+Accession: cd19554 ID: 381022
+
+562. serpinA4_KST: serpin family A member 4, kallistatin
+Kallistatin (KST, also called proteinase inhibitor 4/PI4, or kallikrein inhibitor/KAL) is a protein ...
+Accession: cd19552 ID: 381020
+
+563. serpinA3_A1AC: serpin family A member 3, alpha 1-antichymotrypsin
+Alpha 1-antichymotrypsin (a1AC/A1AC/a1ACT/AACT) is an alpha globulin glycoprotein that is a member o...
+Accession: cd19551 ID: 381019
+
+564. serpinB_MENT-like: serpin family B, Myeloid and Erythroid Nuclear Termination stage-specific protein (MENT) and similar proteins
+Gallus gallus Myeloid and Erythroid Nuclear Termination stage-specific protein (MENT) is a nonhiston...
+Accession: cd02058 ID: 381014
+
+565. serpinB5_maspin: serpin family B member 5, mammary serine proteinase inhibitor
+Mammary serine proteinase inhibitor (maspin, also known as proteinase inhibitor 5/PI5), a member of ...
+Accession: cd02057 ID: 381013
+
+566. serpinA8_AGT: serpin family A member 8, angiotensinogen
+Angiotensinogen (AGT) is part of the renin-angiotensin system (RAS), which plays an important role i...
+Accession: cd02054 ID: 381010
+
+567. serpinF2_A2AP: serpin family F member 2, alpha2-antiplasmin inhibitor
+Alpha2-antiplasmin inhibitor (A2AP/API, also called plasmin inhibitor/PLI or alpha-2-antiplasmin) is...
+Accession: cd02053 ID: 381009
+
+568. serpinF1_PEDF: serpin family F member 1, Pigment epithelium-derived factor (PEDF)
+Pigment epithelium-derived factor (PEDF, also called capsin or EPC-1) is an extracellular component ...
+Accession: cd02052 ID: 381008
+
+569. serpinE1_PAI-1: serpin family E member 1, plasminogen activator inhibitor-1
+Plasminogen activator inhibitor-1 (PAI-1/PLANH1, also called endothelial PAI) is the primary, fast-a...
+Accession: cd02051 ID: 381007
+
+570. serpinI1_NSP: serpin family I member 1, neuroserpin
+Neuroserpin (NSP, also called proteinase inhibitor 12/PI-12) is an inhibitory member of the serpin f...
+Accession: cd02048 ID: 381005
+
+571. serpinH1_CBP1: serpin family H member 1, collagen-binding protein 1
+Collagen-binding protein 1 (CBP1, also called heat shock protein 47/hsp47 or colligin), because of i...
+Accession: cd02046 ID: 381003
+
+572. serpin: SERine Proteinase INhibitors (serpin) family
+SERine Proteinase INhibitors (serpins) exhibit conformational polymorphism shifting from native to c...
+Accession: cd00172 ID: 381000
+
+573. M34_ATLF_C-like: C-terminal catalytically active domain of anthrax toxin lethal factor and similar domains; belongs to peptidase family M34
+This subfamily includes the C-terminal catalytic domain of anthrax toxin lethal factor (ATLF; EC 3.4...
+Accession: cd20493 ID: 380336
+
+574. M34_peptidase_like: uncharacterized subfamily of peptidase family M34
+Peptidase family M34 (also known as the anthrax lethal factor family) includes the C-terminal cataly...
+Accession: cd20184 ID: 380334
+
+575. M34_peptidase: Peptidase family M34 includes the C-terminal catalytic domain of anthrax lethal factor (ATLF), the protective antigen-binding domains of ATLF and edema factor, and Pro-Pro endopeptidase
+Peptidase family M34 (also known as the anthrax lethal factor family) includes the C-terminal cataly...
+Accession: cd20171 ID: 380332
+
+576. Orientia_TSA56: type-specific antigen TSA56
+This protein is the immunodominant major cell surface protein of Orienta tsutsugamushi, known as ""5...
+Accession: NF033390 ID: 380240
+
+577. PepSY_2: Peptidase propeptide and YPEB domain
+This region is likely to have a protease inhibitory function (personal obs:C Yeats). The name is der...
+Accession: pfam13670 ID: 379323
+
+578. VIT: Vault protein inter-alpha-trypsin domain
+Inter-alpha-trypsin inhibitors (ITIs) consist of one light chain and a variable set of heavy chains....
+Accession: pfam08487 ID: 378008
+
+579. zf-C4_ClpX: ClpX C4-type zinc finger
+The ClpX heat shock protein of Escherichia coli is a member of the universally conserved Hsp100 fami...
+Accession: pfam06689 ID: 377688
+
+580. FtsH_ext: FtsH Extracellular
+This domain is found in the FtsH family of proteins. FtsH is the only membrane-bound ATP-dependent p...
+Accession: pfam06480 ID: 377663
+
+581. Peptidase_U57: YabG peptidase U57
+YabG is a protease involved in the proteolysis and maturation of SpoIVA and YrbA proteins, conserved...
+Accession: pfam05582 ID: 377528
+
+582. Peptidase_M55: D-aminopeptidase
+Bacillus subtilis DppA is a binuclear zinc-dependent, D-specific aminopeptidase. The structure revea...
+Accession: pfam04951 ID: 377424
+
+583. SspB: Stringent starvation protein B
+Escherichia coli stringent starvation protein B (SspB), is thought to enhance the specificity of deg...
+Accession: pfam04386 ID: 377340
+
+584. Ecotin: Ecotin
+Ecotin is a broad range serine protease inhibitor, which forms homodimers. The C-terminal region con...
+Accession: pfam03974 ID: 377180
+
+585. PepSY: Peptidase propeptide and YPEB domain
+This region is likely to have an protease inhibitory function (personal obs:C Yeats). This model is ...
+Accession: pfam03413 ID: 377032
+
+586. PA: PA domain
+The PA (Protease associated) domain is found as an insert domain in diverse proteases. The PA domain...
+Accession: pfam02225 ID: 376741
+
+587. Transglut_core: Transglutaminase-like superfamily
+This family includes animal transglutaminases and other bacterial proteins of unknown function. Sequ...
+Accession: pfam01841 ID: 376628
+
+588. EspB_PE: ESX-1 secreted protein B PE domain
+The ESX-1 secretion system is an important virulence determinant in Mycobacterium tuberculosis. ESX-...
+Accession: pfam18625 ID: 376051
+
+589. ORF_2_N: Open reading frame 2 N-terminal domain
+This is the N-terminal domain found in ORF 2 (open reading frame 2), a protein encoded just downstre...
+Accession: pfam18492 ID: 375918
+
+590. Tk-SP_N-pro: Tk-SP N-propeptide domain
+This is the N-propeptide domain found in Tk-SP, a subtilisin-like serine protease from Thermococcus ...
+Accession: pfam18237 ID: 375664
+
+591. RPN5_C: 26S proteasome regulatory subunit RPN5 C-terminal domain
+This is the C-terminal domain of the 26S proteasome regulatory subunit RPN5 proteins.This helical do...
+Accession: pfam18098 ID: 375547
+
+592. Crystall_4: Beta/Gamma crystallin
+This is the C-terminal domain found in mucin glycoproteins such as secreted protease of C1 esterase ...
+Accession: pfam17945 ID: 375441
+
+593. Inhibitor_I66: Peptidase inhibitor I66
+This family of serine protease inhibitors has a beta-trefoil fold and inhibits trypsin and chymotryp...
+Accession: pfam16850 ID: 374843
+
+594. Peptidase_C98: Ubiquitin-specific peptidase-like, SUMO isopeptidase
+Peptidase_C98 is a small family of SUMO - small ubiquitin-related modifier - isopeptidases found in ...
+Accession: pfam15499 ID: 373902
+
+595. SRCR_2: Scavenger receptor cysteine-rich domain
+SRCR_2 is a scavenger receptor cysteine-rich domain family found largely on vertebrate sequences up-...
+Accession: pfam15494 ID: 373897
+
+596. GSAP-16: gamma-Secretase-activating protein C-term
+GSAP, or gamma-secretase-activating protein, also known as PION, regulates gamma-secretase activity....
+Accession: pfam14959 ID: 373425
+
+597. Jiv90: Cleavage inducing molecular chaperone
+Jiv90 is a fragment of the DnaJ protein in eukaryotes and in J-domain protein interacting with viral...
+Accession: pfam14901 ID: 373372
+
+598. HeLo: Prion-inhibition and propagation
+This N-terminal region, HeLo, has a prion-inhibitory effect in cis on its own prion-forming domain (...
+Accession: pfam14479 ID: 373089
+
+599. Pab87_oct: Pab87 octamerisation domain
+This domain was first characterized as the C-terminal domain of Pab87 serine protease from Pyrococcu...
+Accession: pfam13969 ID: 372852
+
+600. MKT1_N: Temperature dependent protein affecting M2 dsRNA replication
+This domain family is found in eukaryotes, and is typically between 231 and 255 amino acids in lengt...
+Accession: pfam12247 ID: 371988
+
+601. MKT1_C: Temperature dependent protein affecting M2 dsRNA replication
+This domain family is found in eukaryotes, and is typically between 231 and 255 amino acids in lengt...
+Accession: pfam12246 ID: 371987
+
+602. HflK_N: Bacterial membrane protein N terminal
+This domain is found in bacteria. This domain is typically between 65 to 81 amino acids in length. T...
+Accession: pfam12221 ID: 371970
+
+603. CLIP: Regulatory CLIP domain of proteinases
+CLIP is a regulatory domain which controls the proteinase action of various proteins of the trypsin ...
+Accession: pfam12032 ID: 371857
+
+604. Cementoin: Trappin protein transglutaminase binding domain
+Trappin-2, itself a protease inhibitor, has this unique N-terminal domain that enables it to become ...
+Accession: pfam10511 ID: 371104
+
+605. Proteasom_PSMB: Proteasome non-ATPase 26S subunit
+The 26S proteasome, a eukaryotic ATP-dependent, dumb-bell shaped, protease complex with a molecular ...
+Accession: pfam10508 ID: 371102
+
+606. Peptidase_C65: Peptidase C65 Otubain
+This family of proteins conserved from plants to humans is a highly specific ubiquitin iso-peptidase...
+Accession: pfam10275 ID: 370943
+
+607. PEN-2: Presenilin enhancer-2 subunit of gamma secretase
+This entry is a short 101 peptide protein which is the smallest subunit of the gamma-secretase aspar...
+Accession: pfam10251 ID: 370921
+
+608. DUF1935: Domain of unknown function (DUF1935)
+Members of this family are found in various bacterial and eukaryotic hypothetical proteins, as well ...
+Accession: pfam09149 ID: 370322
+
+609. Staphostatin_B: Staphostatin B
+Staphostatin B inhibits the cysteine protease Staphopain B, produced by Staphylococcus aureus, by bl...
+Accession: pfam09023 ID: 370248
+
+610. CathepsinC_exc: Cathepsin C exclusion domain
+Cathepsin C (dipeptidyl peptidase I) is the physiological activator of a group of serine proteases. ...
+Accession: pfam08773 ID: 370111
+
+611. SEP: SEP domain
+The SEP domain is named after Saccharomyces cerevisiae Shp1, Drosophila melanogaster eyes closed gen...
+Accession: pfam08059 ID: 369673
+
+612. Peptidase_C78: Peptidase family C78
+This family formerly known as DUF1671 has been shown to be a cysteine peptidase called (Ufm1)-specif...
+Accession: pfam07910 ID: 369589
+
+613. MANEC: MANEC domain
+This region of similarity, comprising 8 conserved cysteines, is found in the N-terminal region of se...
+Accession: pfam07502 ID: 369396
+
+614. Peptidase_S80: Bacteriophage T4-like capsid assembly protein (Gp20)
+This family consists of several bacteriophage T4-like capsid assembly (or portal) proteins. The exac...
+Accession: pfam07230 ID: 369274
+
+615. ITI_HC_C: Inter-alpha-trypsin inhibitor heavy chain C-terminus
+This family represents the C-terminal region of inter-alpha-trypsin inhibitor heavy chains. Inter-al...
+Accession: pfam06668 ID: 369030
+
+616. DUSP: DUSP domain
+The DUSP (domain present in ubiquitin-specific protease) domain is found at the N-terminus of Ubiqui...
+Accession: pfam06337 ID: 368848
+
+617. fn3_5: Fn3-like domain
+Fn3_5 is an fn3-like domain which is frequently found as the first of three on streptococcal C5a pep...
+Accession: pfam06280 ID: 368824
+
+618. Aph-1: Aph-1 protein
+This family consists of several eukaryotic Aph-1 proteins.Gamma-secretase catalyzes the intramembran...
+Accession: pfam06105 ID: 368748
+
+619. Prolamin_like: Prolamin-like
+Prolamin_like (in which DUF784 and DUF1278 have been merged) is found to be expressed in the plant e...
+Accession: pfam05617 ID: 368524
+
+620. Peptidase_M43: Pregnancy-associated plasma protein-A
+Pregnancy-associated plasma protein A (PAPP-A) is a metallo-protease belonging to Merops family M43....
+Accession: pfam05572 ID: 368506
+
+621. Thermopsin: Thermopsin
+This family consists of several thermopsin proteins from archaebacteria. Thermopsin is a thermostabl...
+Accession: pfam05317 ID: 368384
+
+622. Filament_head: Intermediate filament head (DNA binding) region
+This family represents the N-terminal head region of intermediate filaments. Intermediate filament h...
+Accession: pfam04732 ID: 368088
+
+623. NblA: Phycobilisome degradation protein nblA
+In the cyanobacterium Synechococcus PCC 7942, nblA triggers degradation of light-harvesting phycobil...
+Accession: pfam04485 ID: 367960
+
+624. BRICHOS: BRICHOS domain
+The BRICHOS domain is about 100 amino acids long. It is found in a variety of proteins implicated in...
+Accession: pfam04089 ID: 367806
+
+625. MazE_antitoxin: Antidote-toxin recognition MazE, bacterial antitoxin
+AbrB-like is a family of small proteins that operate in conjunction with a cognate toxin molecule. T...
+Accession: pfam04014 ID: 367773
+
+626. SHD1: SLA1 homology domain 1, SHD1
+NPFXD peptides specifically interact with the SHD1 domain. NPFXD is a clathrin-facilitated endocytic...
+Accession: pfam03983 ID: 367754
+
+627. Triabin: Triabin
+Triabin is a serine-protease inhibitor with a calycin fold.
+Accession: pfam03973 ID: 367750
+
+628. CsgG: Curli production assembly/transport component CsgG
+CsgG is an outer membrane-located lipoprotein that is highly resistant to protease digestion. During...
+Accession: pfam03783 ID: 367655
+
+629. Peptidase_C39: Peptidase C39 family
+Lantibiotic and non-lantibiotic bacteriocins are synthesized as precursor peptides containing N-term...
+Accession: pfam03412 ID: 367483
+
+630. MCPVI: Minor capsid protein VI
+This minor capsid protein may act as a link between the external capsid and the internal DNA-protein...
+Accession: pfam02993 ID: 367287
+
+631. Gag_p10: Retroviral GAG p10 protein
+This family consists of various retroviral GAG (core) polyproteins and encompasses the p10 region pr...
+Accession: pfam02337 ID: 367040
+
+632. Rhomboid: Rhomboid family
+This family contains integral membrane proteins that are related to Drosophila rhomboid protein. Mem...
+Accession: pfam01694 ID: 366759
+
+633. Astacin: Astacin (Peptidase family M12A)
+The members of this family are enzymes that cleave peptides. These proteases require zinc for cataly...
+Accession: pfam01400 ID: 366617
+
+634. Calpain_III: Calpain large subunit, domain III
+The function of the domain III and I are currently unknown. Domain II is a cysteine protease and dom...
+Accession: pfam01067 ID: 366446
+
+635. HCV_NS4a: Hepatitis C virus non-structural protein NS4a
+NS4a forms an integral part of the NS3 serine protease, as it is required in a number of cases as a ...
+Accession: pfam01006 ID: 366414
+
+636. Pico_P2A: Picornavirus core protein 2A
+This protein is a protease, involved in cleavage of the polyprotein.
+Accession: pfam00947 ID: 366382
+
+637. CAP: Cysteine-rich secretory protein family
+This is a large family of cysteine-rich secretory proteins, antigen 5, and pathogenesis-related 1 pr...
+Accession: pfam00188 ID: 365934
+
+638. ABC_6TM_exporters: Six-transmembrane helical domain of the ATP-binding cassette transporters
+This family represents a subunit of six transmembrane (TM) helices typically found in the ATP-bindin...
+Accession: cl38913 ID: 365789
+
+639. T3SC_I_like: class I type III secretion system (T3SS) chaperones and similar proteins
+This family contains class I type III secretion system (T3SS) chaperones mainly found in Gram-negati...
+Accession: cl38901 ID: 365777
+
+640. BBI
+Bowman-Birk type proteinase inhibitor (BBI); family of plant serine protease inhibitors that block t...
+Accession: cl27727 ID: 355673
+
+641. DUF2324: Putative membrane peptidase family (DUF2324)
+This domain, found in various hypothetical bacterial proteins, has no known function. This family ap...
+Accession: cl23964 ID: 355108
+
+642. Peptidase_M11: Gametolysin peptidase M11
+In the unicellular biflagellated alga, Chlamydomonas reinhardtii, gametolysin, a zinc-containing met...
+Accession: cl21618 ID: 354892
+
+643. V_Alix_like: Protein-interacting V-domain of mammalian Alix and related domains
+This superfamily contains the V-shaped (V) domain of mammalian Alix (apoptosis-linked gene-2 interac...
+Accession: cl14654 ID: 353824
+
+644. TA_inhibitor: Inhibitor of toxin/antitoxin system (Gp4.5)
+This is a family of prokaryotic toxin-antitoxin (TA) systems inhibitors, found in Podoviridae such a...
+Accession: cl10214 ID: 353062
+
+645. GumN: poorly characterized family of proteins related to gumN pathogenicity factor of Xanthomonas
+GumN, a poorly characterized protein, is part of the large gum cluster of pathogenicity factors of t...
+Accession: cd14788 ID: 350613
+
+646. TraB_PrgY-like: TraB/PryY confer plasmid-borne pheromone resistance
+TraB/PrgY proteins, identified in gut bacterium Enterococcus faecalis, are plasmid-borne homologs th...
+Accession: cd14726 ID: 350608
+
+647. ABC_6TM_PCAT1_LagD_like: Six-transmembrane helical domain (6-TMD) of the peptidase-containing ATP-binding cassette transporters
+This group includes the 6-TMD of the peptidase-containing ATP-binding cassette transporters (PCATs) ...
+Accession: cd18570 ID: 350014
+
+648. M28_like: M28 Zn-Peptidases
+Peptidase family M28 (also called aminopeptidase Y family), uncharacterized subfamily. The M28 famil...
+Accession: cd05662 ID: 349912
+
+649. M28_like_PA: M28 Zn-peptidase containing a PA domain insert
+Peptidase family M28 (also called aminopeptidase Y family), uncharacterized subfamily. The M28 famil...
+Accession: cd05661 ID: 349911
+
+650. CAP_R3HDML: CAP (cysteine-rich secretory proteins, antigen 5, and pathogenesis-related 1 proteins) domain of peptidase inhibitor R3HDML
+Peptidase inhibitor R3HDML, also called cysteine-rich secretory protein R3HDML, is a putative serine...
+Accession: cd18815 ID: 349409
+
+651. CAP_PI15: CAP (cysteine-rich secretory proteins, antigen 5, and pathogenesis-related 1 proteins) domain of peptidase inhibitor 15
+Peptidase inhibitor 15 (PI15) is also called 25 kDa trypsin inhibitor (p25TI), cysteine-rich secreto...
+Accession: cd18814 ID: 349408
+
+652. CAP_PI16_HrTT-1: CAP (cysteine-rich secretory proteins, antigen 5, and pathogenesis-related 1 proteins) domain of peptidase inhibitor 16 and HrTT-1 protein
+Human peptidase inhibitor 16 (PI16) is also called cysteine-rich secretory protein 9 (CRISP-9) or PS...
+Accession: cd05559 ID: 349405
+
+653. CAP_CRISP: CAP (cysteine-rich secretory proteins, antigen 5, and pathogenesis-related 1 proteins) domain of cysteine-rich secretory proteins
+Cysteine-rich secretory proteins (CRISPs) are two-domain proteins with an evolutionary diverse and s...
+Accession: cd05383 ID: 349402
+
+654. CD_POL_like: chromodomain of a Zea maize putative metaviridae (gypsy-type) retrotransposon polyproteins (Z195D10.9), and similar proteins
+This subgroup includes the CHROMO (CHRromatin Organization Modifier) domain found in Zea maize Z195D...
+Accession: cd18979 ID: 349335
+
+655. CD_POL_like: chromodomain of a Rhizoctonia solani AG-3 Rhs1AP polyprotein, and similar proteins
+This subgroup includes the CHROMO (CHRromatin Organization Modifier) domain found in a Rhizoctonia s...
+Accession: cd18977 ID: 349333
+
+656. CD_POL_like: chromodomain of Penicillium solitum protein PENSOL_c198G03123
+This subgroup includes the CHROMO (CHRromatin Organization Modifier) domain found in Penicillium sol...
+Accession: cd18974 ID: 349330
+
+657. CD_Tf2-1_POL_like: chromodomain of Rhizoctonia solani AG-1 IB retrotransposable element Tf2 155 kDa protein type 1, and similar proteins
+This subgroup includes the CHROMO (CHRromatin Organization Modifier) domain found in Rhizoctonia sol...
+Accession: cd18973 ID: 349329
+
+658. CD_POL_like: chromodomain of a Magnaporthe grisea putative retrotransposon polyprotein, and similar proteins
+This subgroup includes the CHROMO (CHRromatin Organization Modifier) domain found in a Magnaporthe g...
+Accession: cd18971 ID: 349327
+
+659. CD_POL_like: chromodomain of Hypsizygus marmoreus TY3B-I_0 protein, and similar proteins
+This subgroup includes the CHROMO (CHRromatin Organization Modifier) domain found in Hypsizygus marm...
+Accession: cd18970 ID: 349326
+
+660. 7tmA_purinoceptor-like: purinoceptor and its related proteins, member of the class A family of seven-transmembrane G protein-coupled receptors
+Members of this subfamily include lysophosphatidic acid receptor, P2 purinoceptor, protease-activate...
+Accession: cd14982 ID: 341318
+
+661. T3SC_IA_SycT-like: Class IA type III secretion system chaperone protein, similar to Yersinia enterocolitica SycT
+This family includes type III secretion system (T3SS) chaperone proteins similar to Yersinia enteroc...
+Accession: cd17032 ID: 341115
+
+662. ING_ING1: Inhibitor of growth (ING) domain of inhibitor of growth protein 1 (ING1)
+ING1 is an epigenetic regulator and a type II tumor suppressor that impacts cell growth, aging, apop...
+Accession: cd16860 ID: 341093
+
+663. ING_ING1_2: Inhibitor of growth (ING) domain of inhibitor of growth protein ING1, ING2, and similar proteins
+ING1 is an epigenetic regulator and a type II tumor suppressor that impacts cell growth, aging, apop...
+Accession: cd16857 ID: 341090
+
+664. M1_APN_like: Peptidase M1 family similar to aminopeptidase N catalytic domain
+This family contains bacterial M1 peptidases with smilarity to the catalytic domain of aminopeptidas...
+Accession: cd09604 ID: 341067
+
+665. M1_APN_like: Peptidase M1 family similar to aminopeptidase N catalytic domain
+This family contains mostly bacterial and some archaeal M1 peptidases with smilarity to the catalyti...
+Accession: cd09603 ID: 341066
+
+666. M1_APN: Peptidase M1 family including aminopeptidase N catalytic domain
+This model represents the catalytic domain of bacterial and eukaryotic aminopeptidase N (APN; CD13; ...
+Accession: cd09602 ID: 341065
+
+667. M1_APN: Peptidase M1 family, including aminopeptidase N catalytic domain
+This model represents the catalytic domain of aminopeptidase N (APN; CD13; alanyl aminopeptidase; EC...
+Accession: cd09600 ID: 341063
+
+668. M36: Peptidase M36 family, also known as fungalysin family
+The M36 peptidase family, also known as fungalysin (elastinolytic metalloproteinase) family, include...
+Accession: cd09596 ID: 341059
+
+669. VHS_GGA3: VHS (Vps27/Hrs/STAM) domain of ADP-ribosylation factor-binding protein GGA3
+ADP-ribosylation factor-binding protein GGA3 (Golgi-localized, Gamma-ear-containing, Arf-binding 3) ...
+Accession: cd17008 ID: 340805
+
+670. VHS_GGA_fungi: VHS (Vps27/Hrs/STAM) domain of fungal GGA (Golgi-localized, Gamma-ear-containing, Arf-binding) proteins
+GGA (Golgi-localized, Gamma-ear-containing, Arf-binding) comprises a subfamily of ubiquitously expre...
+Accession: cd16998 ID: 340795
+
+671. Ubl_ATG8_MAP1LC3C: ubiquitin-like (Ubl) domain found in microtubule associate protein 1 light chain 3C (MAPLC3C)
+Autophagy is an essential intracellular process that targets large protein complexes, bacterial path...
+Accession: cd17236 ID: 340756
+
+672. Ubl_ATG8_MAP1LC3B: ubiquitin-like (Ubl) domain found in microtubule associate protein 1 light chain 3B (MAP1LC3B)
+Autophagy is an essential intracellular process that targets large protein complexes, bacterial path...
+Accession: cd17235 ID: 340755
+
+673. Ubl_ATG8_MAP1LC3A: ubiquitin-like (Ubl) domain found in microtubule associate protein 1 light chain 3A (MAP1LC3A)
+Autophagy is an essential intracellular process that targets large protein complexes, bacterial path...
+Accession: cd17234 ID: 340754
+
+674. RAWUL_PCGF2: RING finger- and WD40-associated ubiquitin-like (RAWUL) domain found in polycomb group RING finger protein 2 (PCGF2)
+PCGF2, also termed DNA-binding protein Mel-18, or RING finger protein 110 (RNF110), or zinc finger p...
+Accession: cd17164 ID: 340684
+
+675. Ubl_UBP24: ubiquitin-like (Ubl) domain found in ubiquitin carboxyl-terminal hydrolase 24 (UBP24) and similar proteins
+UBP24 (EC 3.4.19.12), also termed deubiquitinating enzyme 24, or ubiquitin thioesterase 24, or ubiqu...
+Accession: cd17065 ID: 340585
+
+676. Ubl_OTU1: ubiquitin-like (Ubl) domain found in ubiquitin thioesterase OTU1 and similar proteins
+OTU1 (EC 3.4.19.12), also termed YOD1, or DUBA-8, or HIV-1-induced protease 7 (HIN-7), or OTU domain...
+Accession: cd17059 ID: 340579
+
+677. Ubl_ATG8_MAP1LC3: ubiquitin-like (Ubl) domain found in microtubule associate protein 1 light chain 3 (MAP1LC3)
+Autophagy is an essential intracellular process that targets large protein complexes, bacterial path...
+Accession: cd16129 ID: 340546
+
+678. Ubl_ATG8_like: ubiquitin-like (Ubl) domain found in autophagy-related 8 (ATG8) and similar proteins
+The ATG8 family of proteins constitute a single member in Saccharomyces cerevisiae, Atg8p, and multi...
+Accession: cd16108 ID: 340525
+
+679. Ubl_BAG6: ubiquitin-like (Ubl) domain found in BCL2-associated athanogene 6 (BAG6) and similar proteins
+BAG6, also termed large proline-rich protein BAG6, or BAG family molecular chaperone regulator 6, or...
+Accession: cd01809 ID: 340507
+
+680. TA_inhibitor: Inhibitor of toxin/antitoxin system (Gp4.5)
+This is a family of prokaryotic toxin-antitoxin (TA) systems inhibitors, found in Podoviridae such a...
+Accession: pfam17574 ID: 340289
+
+681. SwrA: Swarming motility protein
+This domain family is found in Bacillus. Members of this family are Swra proteins involved in swarmi...
+Accession: pfam17423 ID: 340138
+
+682. DUF2324: Putative membrane peptidase family (DUF2324)
+This domain, found in various hypothetical bacterial proteins, has no known function. This family ap...
+Accession: pfam10086 ID: 337619
+
+683. Peptidase_M11: Gametolysin peptidase M11
+In the unicellular biflagellated alga, Chlamydomonas reinhardtii, gametolysin, a zinc-containing met...
+Accession: pfam05548 ID: 336143
+
+684. DJ-1_PfpI: DJ-1/PfpI family
+The family includes the protease PfpI. This domain is also found in transcriptional regulators.
+Accession: pfam01965 ID: 334761
+
+685. EFh_PI-PLC: EF-hand motif found in eukaryotic phosphoinositide-specific phospholipase C (PI-PLC, EC 3.1.4.11) isozymes
+PI-PLC isozymes are signaling enzymes that hydrolyze the membrane phospholipids phosphatidylinositol...
+Accession: cl28895 ID: 333715
+
+686. Peptidase_C37: Southampton virus-type processing peptidase
+Corresponds to Merops family C37. Norwalk-like viruses (NLVs), including the Southampton virus, caus...
+Accession: cl28040 ID: 332861
+
+687. Peptidase_U32: Peptidase family U32
+putative protease; Provisional
+Accession: cl03113 ID: 322198
+
+688. M48A_Zmpste24p_like: Peptidase M48 subfamily A, a type 1 CaaX endopeptidase
+This family contains peptidase family M48 subfamily A which includes a number of well-characterized ...
+Accession: cd07343 ID: 320702
+
+689. M56_BlaR1_MecR1_like: Peptidase M56-like including those in BlaR1 and MecR1, integral membrane metallopeptidase
+This family contains peptidase M56, which includes zinc metalloprotease domain in MecR1 as well as B...
+Accession: cd07341 ID: 320700
+
+690. M48B_Htpx_like: Peptidase M48 subfamily B HtpX-like membrane-bound metallopeptidase
+This HtpX family of peptidase M48 subfamily B includes uncharacterized HtpX homologs and consists of...
+Accession: cd07340 ID: 320699
+
+691. M48B_HtpX_like: Peptidase M48 subfamily B HtpX-like membrane-bound metallopeptidase
+This HtpX family of peptidase M48 subfamily B includes uncharacterized HtpX homologs and consists of...
+Accession: cd07339 ID: 320698
+
+692. M48B_HtpX_like: Peptidase M48 subfamily B HtpX-like membrane-bound metallopeptidase
+This HtpX family of peptidase M48 subfamily B includes uncharacterized HtpX homologs and consists of...
+Accession: cd07338 ID: 320697
+
+693. M48B_HtpX_like: Peptidase M48 subfamily B HtpX-like membrane-bound metallopeptidase
+This HtpX family of peptidase M48 subfamily B includes uncharacterized HtpX homologs and consists of...
+Accession: cd07337 ID: 320696
+
+694. M48B_HtpX_like: Peptidase M48 subfamily B HtpX-like membrane-bound metallopeptidase
+This HtpX family of peptidase M48 subfamily B includes uncharacterized HtpX homologs and consists of...
+Accession: cd07336 ID: 320695
+
+695. M48B_HtpX_like: Peptidase M48 subfamily B HtpX-like membrane-bound metallopeptidase
+This family contains peptidase M48 subfamily B, also known as HtpX, which consists of proteins small...
+Accession: cd07335 ID: 320694
+
+696. M56_like: Peptidase M56-like, integral membrane metallopeptidase in bacteria
+This family contains peptidase M56, which includes zinc metalloprotease domain in MecR1 as well as B...
+Accession: cd07329 ID: 320688
+
+697. M48B_HtpX_like: HtpX-like membrane-bound metallopeptidase
+This family contains peptidase M48 subfamily B, also known as HtpX, which consists of proteins small...
+Accession: cd07327 ID: 320686
+
+698. M56_BlaR1_MecR1_like: Peptidase M56-like including those in BlaR1 and MecR1, integral membrane metallopeptidase
+This family contains peptidase M56, which includes zinc metalloprotease domain in MecR1 as well as B...
+Accession: cd07326 ID: 320685
+
+699. EFh_PEF_CAPN13_14: Penta-EF hand, calcium binding motifs, found in calpain-13 (CAPN13), calpain-14 (CAPN14), and similar proteins
+CAPN13, also termed calcium-activated neutral proteinase 13 (CANP 13), a 63.6 kDa calpain large subu...
+Accession: cd16195 ID: 320070
+
+700. EFh_PEF_CAPN12: Penta-EF hand, calcium binding motifs, found in calpain-12 (CAPN12)
+CAPN12, also termed calcium-activated neutral proteinase 12 (CANP 12), is a calpain large subunit ma...
+Accession: cd16194 ID: 320069
+
+701. EFh_PEF_CAPN11: Penta-EF hand, calcium binding motifs, found in calpain-11 (CAPN11)
+CAPN11, also termed calcium-activated neutral proteinase 11 (CANP 11), is a mammalian orthologue of ...
+Accession: cd16193 ID: 320068
+
+702. EFh_PEF_CAPN1_like: Penta-EF hand, calcium binding motifs, found in mu-type calpain (CAPN1), m-type calpain (CAPN2), and similar proteins
+The family includes mu-type calpain (CAPN1) and m-type calpain (CAPN2), both of which are ubiquitous...
+Accession: cd16189 ID: 320064
+
+703. EFh_PEF_Group_II_CAPN_like: Penta-EF hand, calcium binding motifs, found in PEF calpain family
+The PEF calpain family belongs to the second group of penta-EF hand (PEF) proteins. It includes clas...
+Accession: cd16182 ID: 320057
+
+704. EFh_PEF: The penta-EF hand (PEF) family
+The penta-EF hand (PEF) family contains a group of five EF-hand calcium-binding proteins, including ...
+Accession: cd15897 ID: 320054
+
+705. EFh_PI-PLCbeta2: EF-hand motif found in phosphoinositide phospholipase C beta 2 (PI-PLC-beta2)
+PI-PLC-beta2, also termed 1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-2, or phosp...
+Accession: cd16209 ID: 320039
+
+706. EFh_SPARC_TICN1: EF-hand, extracellular calcium-binding (EC) motif, found in testican-1 (TICN1)
+TICN1, also termed protein SPOCK, or SPARC/osteonectin, CWCV, and Kazal-like domains proteoglycan 1 ...
+Accession: cd16237 ID: 320016
+
+707. EFh_SPARC_TICN: EF-hand, extracellular calcium-binding (EC) motif, found in testicans
+Testicans are nervous system-expressed proteoglycans that play important roles in the regulation of ...
+Accession: cd16232 ID: 320011
+
+708. EFh_SPARC_EC: EF-hand, extracellular calcium-binding (EC) motif, found in secreted protein acidic and rich in cysteine (SPARC)-like proteins
+The SPARC protein family represents a diverse group of proteins that share a follistatin-like (FS) d...
+Accession: cd00252 ID: 320009
+
+709. RING-H2_RNF150: RING finger, H2 subclass, found in RING finger protein 150 (RNF150) and similar proteins
+RNF150 is a RING finger protein that its polymorphisms may be associated with chronic obstructive pu...
+Accession: cd16805 ID: 319719
+
+710. RING-H2_RNF149: RING finger, H2 subclass, found in RING finger protein 149 (RNF149) and similar proteins
+RNF149, also known as DNA polymerase-transactivated protein 2, is an E3 ubiquitin-protein ligase tha...
+Accession: cd16804 ID: 319718
+
+711. RING-H2_RNF130: RING finger, H2 subclass, found in RING finger protein 130 (RNF130) and similar proteins
+RNF130, also known as Goliath homolog (H-Goliath), is a paralog of RNF128, also known as gene relate...
+Accession: cd16803 ID: 319717
+
+712. RING-H2_RNF128_like: RING finger, H2 subclass, found in RING finger protein 128 (RNF128) and similar proteins
+This subfamily includes RING finger proteins RNF128, RNF133, RNF148, and similar proteins, which bel...
+Accession: cd16802 ID: 319716
+
+713. RING-H2_ZNRF3: RING finger, H2 subclass, found in zinc/RING finger protein 3 (ZNRF3) and similar proteins
+ZNRF3, also known as RING finger protein 203 (RNF203), is a homolog of Ring finger protein 43 (RNF43...
+Accession: cd16799 ID: 319713
+
+714. RING-H2_RNF43: RING finger, H2 subclass, found in RING finger protein 43 (RNF43) and similar proteins
+RNF43 is a transmembrane E3 ubiquitin-protein ligase that plays an important role in frizzled-depend...
+Accession: cd16798 ID: 319712
+
+715. RING-H2_RNF167: RING finger, H2 subclass, found in RING finger protein 167 (RNF167) and similar proteins
+RNF167, also known as RING105, is an endosomal/lysosomal E3 ubiquitin-protein ligase involved in alp...
+Accession: cd16797 ID: 319711
+
+716. RING-H2_RNF13: RING finger, H2 subclass, found in RING finger protein 13 (RNF13) and similar proteins
+RING finger, H2 subclass, found in RING finger protein 13 (RNF13) and similar proteins RNF13 is a wi...
+Accession: cd16796 ID: 319710
+
+717. RING-HC_PCGF2: RING finger found in polycomb group RING finger protein 2 (PCGF2) and similar proteins
+PCGF2, also known as DNA-binding protein Mel-18, RING finger protein 110 (RNF110), or zinc finger pr...
+Accession: cd16734 ID: 319648
+
+718. RING_CH-C4HC3_MARCH6: RING-CH finger, H2 subclass (C4HC3-type), found in membrane-associated RING-CH6 (MARCH6)
+MARCH6, also known as membrane-associated RING finger protein 6, membrane-associated RING-CH protein...
+Accession: cd16702 ID: 319616
+
+719. RING-H2_RNF215: RING finger, H2 subclass, found in RING finger protein 215 (RNF215) and similar proteins
+This family includes uncharacterized protein RNF215 and similar proteins. Although its biological fu...
+Accession: cd16670 ID: 319584
+
+720. RING-H2_GRAIL: RING finger, H2 subclass, found in the GRAIL transmembrane proteins family
+The GRAIL transmembrane proteins family includes RING finger proteins RNF128 (also known as GRAIL), ...
+Accession: cd16668 ID: 319582
+
+721. RING-H2_RNF43_like: RING finger, H2 subclass, found in RING finger proteins RNF43, ZNRF3, and similar proteins
+RNF43 and ZNRF3 (also known as RNF203) are transmembrane E3 ubiquitin-protein ligases that belong to...
+Accession: cd16666 ID: 319580
+
+722. RING-H2_RNF13_like: RING finger, H2 subclass, found in RING finger protein 13 (RNF13), RING finger protein 167 (RNF167), and similar proteins
+This subfamily includes RING finger protein 13 (RNF13), RING finger protein 167 (RNF167), Zinc/RING ...
+Accession: cd16665 ID: 319579
+
+723. mRING-HC-C3HC3D_Nrdp1: Modified RING finger, HC subclass (C3HC3D-type), found in neuregulin receptor degradation protein-1 (Nrdp1) and similar proteins
+Nrdp1 (referred to as FLRF in mice), also known as RING finger protein 41 (RNF41), is an E3 ubiquiti...
+Accession: cd16634 ID: 319548
+
+724. RING-HC_RNF220: RING finger, HC subclass, found in RING finger protein 220 (RNF220) and similar proteins
+RNF220 is an E3 ubiquitin-protein ligase that promotes the ubiquitination and proteasomal degradatio...
+Accession: cd16563 ID: 319477
+
+725. RING-HC_RNF4: RING finger, HC subclass, found in RING finger protein 4 (RNF4) and similar proteins
+RNF4, also known as small nuclear ring finger protein (SNURF), is a SUMO-targeted E3 ubiquitin-prote...
+Accession: cd16533 ID: 319447
+
+726. RING-H2_PA-TM-RING: RING finger, H2 subclass, found in the PA-TM-RING ubiquitin ligase family
+The PA-TM-RING family represents a group of transmembrane-type E3 ubiquitin ligases, which has been ...
+Accession: cd16454 ID: 319368
+
+727. VIT_2: Vault protein inter-alpha-trypsin domain
+Inter-alpha-trypsin inhibitors (ITIs) consist of one light chain and a variable set of heavy chains....
+Accession: pfam13757 ID: 316292
+
+728. Bac_small_YrzI: Probable sporulation protein (Bac_small_yrzI)
+Members of this family are very small proteins, about 47 residues each, in the genus Bacillus. Singl...
+Accession: pfam09501 ID: 312864
+
+729. Glug: The GLUG motif
+This family is found in the IgA1 (M26) peptidases, which attached to the cell wall peptidoglycan by ...
+Accession: pfam07581 ID: 311509
+
+730. Peptidase_C11: Clostripain family
+Clostripain is a cysteine protease characterized from Clostridium histolyticum, and also known from ...
+Accession: cl21652 ID: 304483
+
+731. Peptidase_U49: Peptidase U49
+This family contains Lit peptidase from Escherichia coli. Lit protease functions in bacterial cell d...
+Accession: cl19913 ID: 303079
+
+732. NRho: Rhomboid N-terminal domain
+This is the N-terminal domain of rhomboid protease.
+Accession: pfam16733 ID: 293338
+
+733. Staphopain_pro: Staphopain proregion
+This domain is the proregion of the cysteine protease staphopain. Like many papain type peptidases, ...
+Accession: pfam14731 ID: 291401
+
+734. Rubi_NSP_C: Rubivirus non-structural protein
+This domain family is found in viruses, and is approximately 70 amino acids in length. The family is...
+Accession: pfam12601 ID: 289375
+
+735. Peptidase_U49: Peptidase U49
+This family contains Lit peptidase from Escherichia coli. Lit protease functions in bacterial cell d...
+Accession: pfam10463 ID: 287441
+
+736. Staphostatin_A: Staphostatin A
+The staphostatin A polypeptide chain folds into a slightly deformed, eight-stranded beta-barrel, wit...
+Accession: pfam09022 ID: 286156
+
+737. Phage_AlpA: Prophage CP4-57 regulatory protein (AlpA)
+This family consists of several short bacterial and phage proteins which are related to the E. coli ...
+Accession: pfam05930 ID: 283558
+
+738. Peptidase_C36: Beet necrotic yellow vein furovirus-type papain-like endopeptidase
+Corresponds to Merops family C36. This protease involved in processing the viral polyprotein.
+Accession: pfam05415 ID: 283150
+
+739. TMP-TENI: Thiamine monophosphate synthase
+Thiamine monophosphate synthase (TMP) (EC:2.5.1.3) catalyzes the substitution of the pyrophosphate o...
+Accession: pfam02581 ID: 280703
+
+740. P35: Apoptosis preventing protein
+This viral protein functions to block the host apoptotic response caused by infection by the virus. ...
+Accession: pfam02331 ID: 280489
+
+741. Birna_VP4: Birnavirus VP4 protein
+VP4 is a viral protease. The large RNA segment of birnaviruses codes for a polyprotein (N-VP2-VP4-VP...
+Accession: pfam01768 ID: 280022
+
+742. Flavi_NS2A: Flavivirus non-structural protein NS2A
+NS2A is a hydrophobic protein about 25 kDa is size. NS2A is cleaved from NS1 by a membrane bound hos...
+Accession: pfam01005 ID: 279359
+
+743. Flavi_NS2B: Flavivirus non-structural protein NS2B
+Flaviviruses encode a single polyprotein. This is cleaved into three structural and seven non-struct...
+Accession: pfam01002 ID: 279357
+
+744. FYVE_ZF21: FYVE domain found in zinc finger FYVE domain-containing protein 21 (ZF21) and similar proteins
+ZF21 is phosphoinositide-binding protein that functions as a regulator of focal adhesions and cell m...
+Accession: cd15727 ID: 277266
+
+745. PHD_ING1: PHD finger found in inhibitor of growth protein 1 (ING1)
+ING1 is an epigenetic regulator and a type II tumor suppressor that impacts cell growth, aging, apop...
+Accession: cd15682 ID: 277152
+
+746. PHD_ING1_2: PHD finger found in inhibitor of growth protein 1 (ING1) and 2 (ING2)
+ING1 is an epigenetic regulator and a type II tumor suppressor that impacts cell growth, aging, apop...
+Accession: cd15584 ID: 277059
+
+747. Synergist_CTERM: Synergist-CTERM protein sorting domain
+This model identifies a C-terminal domain of about 27 residues whose features are 1) a short Gly/Ser...
+Accession: TIGR04564 ID: 275357
+
+748. VPAMP_CTERM: VPAMP-CTERM protein sorting domain
+This domain is found as the extreme C-terminal region of four extracellular protein (mostly protease...
+Accession: TIGR04513 ID: 275306
+
+749. rhombo_lipo: rhombotail lipoprotein
+Members of this protein family are probable lipoproteins. Nearly every member ends with a C-terminal...
+Accession: TIGR04179 ID: 275032
+
+750. cellulose_bcsE: cellulose biosynthesis protein BcsE
+This protein, called BcsE (bacterial cellulose synthase E) or YhjS, is required for cellulose biosyn...
+Accession: TIGR03369 ID: 274548
+
+751. chaperone_ClpB: ATP-dependent chaperone ClpB
+Members of this protein family are the bacterial ATP-dependent chaperone ClpB. This protein belongs ...
+Accession: TIGR03346 ID: 274529
+
+752. GTP_HflX: GTP-binding protein HflX
+This protein family is one of a number of homologous small, well-conserved GTP-binding proteins with...
+Accession: TIGR03156 ID: 274455
+
+753. trio_amidotrans: asparagine synthase family amidotransferase
+Members of this protein family are closely related to several isoforms of asparagine synthetase (glu...
+Accession: TIGR03104 ID: 274430
+
+754. PQQ_syn_pqqF: coenzyme PQQ biosynthesis probable peptidase PqqF
+In a subset of species that make coenzyme PQQ (pyrrolo-quinoline-quinone), this probable peptidase i...
+Accession: TIGR02110 ID: 273978
+
+755. major_cap_HK97: phage major capsid protein, HK97 family
+This model family represents the major capsid protein component of the heads (capsids) of bacterioph...
+Accession: TIGR01554 ID: 273690
+
+756. SASP_gamma: small, acid-soluble spore protein, gamma-type
+This model represents a family of small, glutamine and asparagine-rich peptides that store amino aci...
+Accession: TIGR01442 ID: 273627
+
+757. GPR: GPR endopeptidase
+This model describes a tetrameric protease that makes the rate-limiting first cut in the small, acid...
+Accession: TIGR01441 ID: 273626
+
+758. SppA_67K: signal peptide peptidase SppA, 67K type
+This model represents the signal peptide peptidase A (SppA, protease IV) as found in E. coli, Trepon...
+Accession: TIGR00705 ID: 273226
+
+759. sms: DNA repair protein RadA
+The gene protuct codes for a probable ATP-dependent protease involved in both DNA repair and degrada...
+Accession: TIGR00416 ID: 273067
+
+760. Taspase1_like: Taspase 1 (threonine aspartase 1) and similar proteins
+Taspase1 catalyzes the cleavage of the mix lineage leukemia (MLL) nuclear protein and transcription ...
+Accession: cd04514 ID: 271336
+
+761. Imelysin-like_IrpA: Imelysin-like domain in iron-regulated protein A
+This family includes putative iron-regulated protein A (IrpA) mainly from Bacteriodes, proteobacteri...
+Accession: cd14658 ID: 271141
+
+762. Imelysin_IrpA-like: Imelysin-like iron-regulated protein A-like
+This family includes putative iron-regulated protein A (IrpA) mainly from Bacteriodes, proteobacteri...
+Accession: cd14657 ID: 271140
+
+763. Imelysin-like: imelysin also called Peptidase M75
+This family includes insulin-cleaving membrane protease (imelysin, ICMP), imelysin-like protein (IPP...
+Accession: cd11376 ID: 271138
+
+764. Imelysin_like_PIBO: Permuted imelysin-like protein from Bacteroides ovatus (PIBO) and similar proteins
+This family includes imelysin-like proteins such as imelysin-like protein from gut bacteria Bacteroi...
+Accession: cd14661 ID: 271136
+
+765. STKc_PINK1: Catalytic domain of the Serine/Threonine protein kinase, Pten INduced Kinase 1
+STKs catalyze the transfer of the gamma-phosphoryl group from ATP to serine/threonine residues on pr...
+Accession: cd14018 ID: 270920
+
+766. UBA_MARK3_4: UBA domain found in MAP/microtubule affinity-regulating kinase MARK3, MARK4, and similar proteins
+MARK3, also called C-TAK1, Cdc25C-associated protein kinase 1, ELKL motif kinase 2 (EMK-2), protein ...
+Accession: cd14407 ID: 270590
+
+767. UBA2_atUBP14: UBA2 domain found in Arabidopsis thaliana ubiquitin carboxyl-terminal hydrolase 14 (atUBP14) and similar proteins
+atUBP14, also called deubiquitinating enzyme 14, TITAN-6 protein, ubiquitin thioesterase 14, or ubiq...
+Accession: cd14388 ID: 270571
+
+768. UBA1_spUBP14_like: UBA1 domain found in Schizosaccharomyces pombe ubiquitin carboxyl-terminal hydrolase 14 (spUBP14) and similar proteins
+spUBP14, also called deubiquitinating enzyme 14, UBA domain-containing protein 2, ubiquitin thioeste...
+Accession: cd14385 ID: 270568
+
+769. UBA_UBP25: UBA domain found in ubiquitin carboxyl-terminal hydrolase 25 (UBP25) and similar proteins
+UBP25, also called deubiquitinating enzyme 25, USP on chromosome 21, ubiquitin thioesterase 25, or u...
+Accession: cd14354 ID: 270539
+
+770. UBA_cnDdi1_like: UBA domain found in Cryptococcus neoformans DNA-damage response protein Ddi1 and similar proteins
+The family includes some uncharacterized Ddi and similar proteins which show a high level of sequenc...
+Accession: cd14310 ID: 270495
+
+771. UBA_scDdi1_like: UBA domain found in Saccharomyces cerevisiae DNA-damage response protein Ddi1 and similar proteins
+Ddi1, also called v-SNARE-master 1 (Vsm1), is a ubiquitin receptor involved in regulation of the cel...
+Accession: cd14309 ID: 270494
+
+772. UBA_Mud1_like: UBA domain found in Schizosaccharomyces pombe UBA domain-containing protein mud1 and similar proteins
+Schizosaccharomyces pombe mud1 is an ortholog of the Saccharomyces cerevisiae DNA-damage response pr...
+Accession: cd14308 ID: 270493
+
+773. UBA2_scUBP14_like: UBA2 domain found in Saccharomyces cerevisiae ubiquitin carboxyl-terminal hydrolase 14 (scUBP14) and similar proteins
+scUBP14, also called deubiquitinating enzyme 14, glucose-induced degradation protein 6, ubiquitin th...
+Accession: cd14298 ID: 270484
+
+774. UBA2_spUBP14_like: UBA2 domain found in Schizosaccharomyces pombe ubiquitin carboxyl-terminal hydrolase 14 (spUBP14) and similar proteins
+spUBP14, also called deubiquitinating enzyme 14, UBA domain-containing protein 2, ubiquitin thioeste...
+Accession: cd14297 ID: 270483
+
+775. UBA1_scUBP14_like: UBA1 domain found in Saccharomyces cerevisiae ubiquitin carboxyl-terminal hydrolase 14 (scUBP14) and similar proteins
+scUBP14, also called deubiquitinating enzyme 14, glucose-induced degradation protein 6, ubiquitin th...
+Accession: cd14296 ID: 270482
+
+776. UBA1_atUBP14: UBA1 domain found in Arabidopsis thaliana ubiquitin carboxyl-terminal hydrolase 14 (atUBP14) and similar proteins
+atUBP14, also called deubiquitinating enzyme 14, TITAN-6 protein, ubiquitin thioesterase 14, or ubiq...
+Accession: cd14295 ID: 270481
+
+777. UBA_UBP24: UBA domain found in ubiquitin carboxyl-terminal hydrolase 24 (UBP24) and similar proteins
+UBP24, also called deubiquitinating enzyme 24, ubiquitin thioesterase 24, or ubiquitin-specific-proc...
+Accession: cd14286 ID: 270472
+
+778. GAT_GGA3: GAT domain found in ADP-ribosylation factor-binding protein GGA3
+GGA3, also termed Golgi-localized gamma ear-containing Arf-binding protein 3, belongs to a family of...
+Accession: cd14240 ID: 260098
+
+779. SPFH_HflC: High frequency of lysogenization C (HflC) family; SPFH (stomatin, prohibitin, flotillin, and HflK/C) superfamily
+This model characterizes proteins similar to prokaryotic HflC (High frequency of lysogenization C). ...
+Accession: cd03405 ID: 259803
+
+780. SPFH_HflK: High frequency of lysogenization K (HflK) family; SPFH (stomatin, prohibitin, flotillin, and HflK/C) superfamily
+This model characterizes proteins similar to prokaryotic HflK (High frequency of lysogenization K). ...
+Accession: cd03404 ID: 259802
+
+781. SPFH_prohibitin: Prohibitin family; SPFH (stomatin, prohibitin, flotillin, and HflK/C) superfamily
+This model characterizes proteins similar to prohibitin (a lipid raft-associated integral membrane p...
+Accession: cd03401 ID: 259799
+
+782. Peptidase_C37: Southampton virus-type processing peptidase
+Corresponds to Merops family C37. Norwalk-like viruses (NLVs), including the Southampton virus, caus...
+Accession: pfam05416 ID: 253185
+
+783. Pacifastin_I: Pacifastin inhibitor (LCMII)
+Structures of members of this family show that they are comprised of a triple-stranded antiparallel ...
+Accession: pfam05375 ID: 253170
+
+784. RRM3_TIA1_like: RNA recognition motif 2 in granule-associated RNA binding proteins (p40-TIA-1 and TIAR), and yeast nuclear and cytoplasmic polyadenylated RNA-binding protein PUB1
+This subfamily corresponds to the RRM3 of TIA-1, TIAR, and PUB1. Nucleolysin TIA-1 isoform p40 (p40-...
+Accession: cd12354 ID: 240800
+
+785. RRM2_TIA1_like: RNA recognition motif 2 in granule-associated RNA binding proteins p40-TIA-1 and TIAR
+This subfamily corresponds to the RRM2 of nucleolysin TIA-1 isoform p40 (p40-TIA-1 or TIA-1) and nuc...
+Accession: cd12353 ID: 240799
+
+786. RRM1_TIA1_like: RNA recognition motif 1 in granule-associated RNA binding proteins p40-TIA-1 and TIAR
+This subfamily corresponds to the RRM1 of nucleolysin TIA-1 isoform p40 (p40-TIA-1 or TIA-1) and nuc...
+Accession: cd12352 ID: 240798
+
+787. PTZ00454
+26S protease regulatory subunit 6B-like protein; Provisional
+Accession: PTZ00454 ID: 240423
+
+788. PTZ00262
+subtilisin-like protease; Provisional
+Accession: PTZ00262 ID: 240338
+
+789. PTZ00165
+aspartyl protease; Provisional
+Accession: PTZ00165 ID: 240300
+
+790. PA_M28_1_3
+PA_M28_1_3: Protease-associated (PA) domain, peptidase family M28, subfamily-1, subgroup 3. A subgro...
+Accession: cd04822 ID: 240126
+
+791. PA_M28_1_2
+PA_M28_1_2: Protease-associated (PA) domain, peptidase family M28, subfamily-1, subgroup 2. A subgro...
+Accession: cd04821 ID: 240125
+
+792. PA_M28_1_1
+PA_M28_1_1: Protease-associated (PA) domain, peptidase family M28, subfamily-1, subgroup 1. A subgro...
+Accession: cd04820 ID: 240124
+
+793. PA_subtilisin_1
+PA_subtilisin_1: Protease-associated domain containing subtilisin-like proteases, subgroup 1. A subg...
+Accession: cd04818 ID: 240122
+
+794. PA_SaNapH_like
+PA_SaNapH_like: Protease-associated domain containing proteins like Streptomyces anulatus N-acetylpu...
+Accession: cd04816 ID: 240120
+
+795. PA_M28_2
+PA_M28_2: Protease-associated (PA) domain, peptidase family M28, subfamily-2. A subfamily of PA-doma...
+Accession: cd04815 ID: 240119
+
+796. PA_M28_1
+PA_M28_1: Protease-associated (PA) domain, peptidase family M28, subfamily-1. A subfamily of PA-doma...
+Accession: cd04814 ID: 240118
+
+797. ZnMc_astacin_like
+Zinc-dependent metalloprotease, astacin_like subfamily or peptidase family M12A, a group of zinc-dep...
+Accession: cd04280 ID: 239807
+
+798. MATH_Meprin_Beta
+Meprin family, Beta subunit, MATH domain; Meprins are multidomain extracellular metalloproteases cap...
+Accession: cd03782 ID: 239751
+
+799. MATH_Meprin
+Meprin family, MATH domain; Meprins are multidomain, highly glycosylated extracellular metalloprotea...
+Accession: cd03771 ID: 239740
+
+800. NTR_WFIKKN
+NTR domain, WFIKKN subfamily; WFIKKN proteins contain a C-terminal NTR domain and are putative secre...
+Accession: cd03575 ID: 239630
+
+801. MIT_calpain7_1
+MIT: domain contained within Microtubule Interacting and Trafficking molecules. This sub-family of M...
+Accession: cd02681 ID: 239144
+
+802. MIT_calpain7_2
+MIT: domain contained within Microtubule Interacting and Trafficking molecules. This sub-family of M...
+Accession: cd02680 ID: 239143
+
+803. MIT
+MIT: domain contained within Microtubule Interacting and Trafficking molecules. The MIT domain is fo...
+Accession: cd02656 ID: 239121
+
+804. Peptidase_C39A
+A sub-family of peptidase family C39. Peptidase family C39 mostly contains bacteriocin-processing en...
+Accession: cd02549 ID: 239109
+
+805. Peptidase_C39F
+A sub-family of peptidase family C39. Peptidase family C39 mostly contains bacteriocin-processing en...
+Accession: cd02425 ID: 239105
+
+806. Peptidase_C39E
+A sub-family of peptidase family C39. Peptidase family C39 mostly contains bacteriocin-processing en...
+Accession: cd02424 ID: 239104
+
+807. Peptidase_C39G
+A sub-family of peptidase family C39. Peptidase family C39 mostly contains bacteriocin-processing en...
+Accession: cd02423 ID: 239103
+
+808. Peptidase_C39_likeD
+A sub-family of peptidase family C39. Peptidase family C39 mostly contains bacteriocin-processing en...
+Accession: cd02421 ID: 239102
+
+809. Peptidase_C39D
+A sub-family of peptidase family C39. Peptidase family C39 mostly contains bacteriocin-processing en...
+Accession: cd02420 ID: 239101
+
+810. Peptidase_C39C
+A sub-family of peptidase family C39. Peptidase family C39 mostly contains bacteriocin-processing en...
+Accession: cd02419 ID: 239100
+
+811. Peptidase_C39B
+A sub-family of peptidase family C39. Peptidase family C39 mostly contains bacteriocin-processing en...
+Accession: cd02418 ID: 239099
+
+812. Peptidase_C39_likeA
+A sub-family of peptidase C39 which contains Cyclolysin and Hemolysin processing peptidases.  Peptid...
+Accession: cd02417 ID: 239098
+
+813. Peptidase_C39_like
+Peptidase family C39 mostly contains bacteriocin-processing endopeptidases from bacteria. The cystei...
+Accession: cd02259 ID: 239073
+
+814. PA_GO-like
+PA_GO-like: Protease-associated domain containing proteins like Arabidopsis thaliana growth-on prote...
+Accession: cd02132 ID: 239047
+
+815. PA_hNAALADL2_like
+PA_hNAALADL2_like: Protease-associated domain containing proteins like human N-acetylated alpha-link...
+Accession: cd02131 ID: 239046
+
+816. PA_ScAPY_like
+PA_ScAPY_like: Protease-associated domain containing proteins like Saccharomyces cerevisiae aminopep...
+Accession: cd02130 ID: 239045
+
+817. PA_hSPPL_like
+PA_hSPPL_like: Protease-associated domain containing human signal peptide peptidase-like (hSPPL)-lik...
+Accession: cd02129 ID: 239044
+
+818. PA_TfR
+PA_TfR: Protease-associated domain containing proteins like transferrin receptor (TfR). This group c...
+Accession: cd02128 ID: 239043
+
+819. PA_EDEM3_like
+PA_EDEM3_like: protease associated domain (PA) domain-containing EDEM3-like proteins. This group con...
+Accession: cd02126 ID: 239041
+
+820. PA_VSR
+PA_VSR: Protease-associated (PA) domain-containing plant vacuolar sorting receptor (VSR). This group...
+Accession: cd02125 ID: 239040
+
+821. PA_C_RZF_like
+PA_C-RZF_ like: Protease-associated (PA) domain C_RZF-like. This group includes various PA domain-co...
+Accession: cd02123 ID: 239038
+
+822. PA_GCPII_like
+PA_GCPII_like: Protease-associated domain containing protein, glutamate carboxypeptidase II (GCPII)-...
+Accession: cd02121 ID: 239036
+
+823. protease_HslV
+Protease HslV and the ATPase/chaperone HslU are part of an ATP-dependent proteolytic system that is ...
+Accession: cd01913 ID: 238894
+
+824. Lysophospholipase_L1_like
+Lysophospholipase L1-like subgroup of SGNH-hydrolases. The best characterized member in this family ...
+Accession: cd01822 ID: 238860
+
+825. vWA_interalpha_trypsin_inhibitor
+vWA_interalpha trypsin inhibitor (ITI): ITI is a glycoprotein composed of three polypeptides- two he...
+Accession: cd01461 ID: 238738
+
+826. VWA_26S_proteasome_subunit
+26S proteasome plays a major role in eukaryotic protein breakdown, especially for ubiquitin-tagged p...
+Accession: cd01452 ID: 238729
+
+827. PL1_Passenger_AT
+Pertactin-like passenger domains (virulence factors), C-terminal, subgroup 1, of autotransporter pro...
+Accession: cd01343 ID: 238653
+
+828. KAZAL_SLC21
+The kazal-type serine protease inhibitor domain has been detected in an extracellular loop region of...
+Accession: cd01330 ID: 238650
+
+829. PDZ_archaeal_metalloprotease
+PDZ domain of archaeal zinc metalloprotases, presumably membrane-associated or integral membrane pro...
+Accession: cd00991 ID: 238491
+
+830. PDZ_glycyl_aminopeptidase
+PDZ domain associated with archaeal and bacterial M61 glycyl-aminopeptidases. May be responsible for...
+Accession: cd00990 ID: 238490
+
+831. PDZ_metalloprotease
+PDZ domain of bacterial and plant zinc metalloprotases, presumably membrane-associated or integral m...
+Accession: cd00989 ID: 238489
+
+832. PDZ_CTP_protease
+PDZ domain of C-terminal processing-, tail-specific-, and tricorn proteases, which function in postt...
+Accession: cd00988 ID: 238488
+
+833. PDZ_serine_protease
+PDZ domain of trypsin-like serine proteases, such as DegP/HtrA, which are oligomeric proteins involv...
+Accession: cd00987 ID: 238487
+
+834. PDZ_LON_protease
+PDZ domain of ATP-dependent LON serine proteases. Most PDZ domains bind C-terminal polypeptides, tho...
+Accession: cd00986 ID: 238486
+
+835. PL_Passenger_AT
+Pertactin-like passenger domains (virulence factors) of autotransporter proteins of the type V secre...
+Accession: cd00253 ID: 238156
+
+836. Endostatin-like
+Endostatin-like domain; the angiogenesis inhibitor endostatin is a C-terminal fragment of collagen X...
+Accession: cd00247 ID: 238151
+
+837. Tryp_SPc
+Trypsin-like serine protease; Many of these are synthesized as inactive precursor zymogens that are ...
+Accession: cd00190 ID: 238113
+
+838. STI
+Soybean trypsin inhibitor (Kunitz) family of protease inhibitors. Inhibit proteases by binding with ...
+Accession: cd00178 ID: 238104
+
+839. PDZ
+PDZ domain, also called DHR (Dlg homologous region) or GLGF (after a conserved sequence motif). Many...
+Accession: cd00136 ID: 238080
+
+840. KU
+BPTI/Kunitz family of serine protease inhibitors; Structure is a disulfide rich alpha+beta fold. BPT...
+Accession: cd00109 ID: 238057
+
+841. KAZAL_FS
+Kazal type serine protease inhibitors and follistatin-like domains. Kazal inhibitors inhibit serine ...
+Accession: cd00104 ID: 238052
+
+842. CY
+Cystatin-like domain; Cystatins are a family of cysteine protease inhibitors that occur mainly as si...
+Accession: cd00042 ID: 238002
+
+843. BIR
+Baculoviral inhibition of apoptosis protein repeat domain; Found in inhibitors of apoptosis proteins...
+Accession: cd00022 ID: 237989
+
+844. PRK15452
+putative protease; Provisional
+Accession: PRK15452 ID: 237969
+
+845. PRK15447
+putative protease; Provisional
+Accession: PRK15447 ID: 237968
+
+846. PRK14513
+ATP-dependent Clp protease proteolytic subunit; Provisional
+Accession: PRK14513 ID: 237742
+
+847. PRK14512
+ATP-dependent Clp protease proteolytic subunit; Provisional
+Accession: PRK14512 ID: 237741
+
+848. PRK13765
+ATP-dependent protease Lon; Provisional
+Accession: PRK13765 ID: 237495
+
+849. PRK12553
+ATP-dependent Clp protease proteolytic subunit; Reviewed
+Accession: PRK12553 ID: 237133
+
+850. PRK12362
+germination protease; Provisional
+Accession: PRK12362 ID: 237076
+
+851. PRK11798
+ClpXP protease specificity-enhancing factor; Provisional
+Accession: PRK11798 ID: 236987
+
+852. hycI
+hydrogenase 3 maturation protease; Provisional
+Accession: PRK11544 ID: 236925
+
+853. clpA
+ATP-dependent Clp protease ATP-binding subunit; Provisional
+Accession: PRK11034 ID: 236828
+
+854. PRK02858
+germination protease; Provisional
+Accession: PRK02858 ID: 235078
+
+855. major_capsid_P2: phage major capsid protein, P2 family
+This model family represents the major capsid protein component of the heads (capsids) of bacterioph...
+Accession: TIGR01551 ID: 233464
+
+856. PHA03369
+capsid maturational protease; Provisional
+Accession: PHA03369 ID: 223061
+
+857. PHA01747
+putative ATP-dependent protease
+Accession: PHA01747 ID: 222831
+
+858. 21
+prohead core scaffolding protein and protease
+Accession: PHA00911 ID: 222816
+
+859. PHA00666
+putative protease
+Accession: PHA00666 ID: 222808
+
+860. PLN03189
+Protease specific for SMALL UBIQUITIN-RELATED MODIFIER (SUMO); Provisional
+Accession: PLN03189 ID: 215622
+
+861. Autotransporter: Autotransporter beta-domain
+Secretion of protein products occurs by a number of different pathways in bacteria. One of these pat...
+Accession: smart00869 ID: 214872
+
+862. CY: Cystatin-like domain
+Cystatins are a family of cysteine protease inhibitors that occur mainly as single domain proteins. ...
+Accession: smart00043 ID: 214484
+
+863. clpC
+Clp protease ATP binding subunit
+Accession: CHL00095 ID: 214361
+
+864. clpP
+ATP-dependent Clp protease proteolytic subunit
+Accession: CHL00028 ID: 214340
+
+865. Allergen_V_VI: Group V, VI major allergens from grass, including Phlp 5, Phlp 6, Pha a 5 and Lol p 5
+This family contains major allergens from various grass pollen, including Phl p 5 and Phl p 6 (timot...
+Accession: cd12805 ID: 214004
+
+866. not_thiJ: DJ-1 family protein
+This model represents the DJ-1 clade of the so-called ThiJ/PfpI family of proteins. PfpI, represente...
+Accession: TIGR01383 ID: 213612
+
+867. ABCC_Protease_Secretion: ATP-binding cassette domain of PrtD, subfamily C
+This family represents the ABC component of the protease secretion system PrtD, a 60-kDa integral me...
+Accession: cd03246 ID: 213213
+
+868. M35_Asp_f2_like: Peptidase M35 domain of Asp f2, a major allergen from Aspergillus fumigatus, and related proteins; non catalytic
+In this domain subgroup the unique zinc-binding motif (the aspzincin motif, characteristic of the M3...
+Accession: cd11307 ID: 199916
+
+869. M35_like: Peptidase M35 family
+Family M35 Zn2+-metallopeptidase domain, also known as the deuterolysin family, contains fungal as w...
+Accession: cd11005 ID: 199911
+
+870. YccA_like: YccA-like proteins
+A prokaryotic member of the BAX inhibitor (BI)-1 like family of small transmembrane proteins, Escher...
+Accession: cd10433 ID: 198415
+
+871. BI-1-like_bacterial: Bacterial BAX inhibitor (BI)-1/YccA-like proteins
+This family is comprised of bacterial relatives of the mammalian members of the BAX inhibitor (BI)-1...
+Accession: cd10432 ID: 198414
+
+872. BI-1-like: BAX inhibitor (BI)-1/YccA-like protein family
+Mammalian members of the BAX inhibitor (BI)-1 like family of small transmembrane proteins have been ...
+Accession: cd06181 ID: 198409
+
+873. BRICHOS: The BRICHOS domain is found in a variety of proteins implicated in dementia, respiratory distress and cancer
+Its exact function is unknown; roles that have been proposed for the domain, which is about 100 amin...
+Accession: smart01039 ID: 198107
+
+874. zf-C4_ClpX: ClpX C4-type zinc finger
+The ClpX heat shock protein of Escherichia coli is a member of the universally conserved Hsp100 fami...
+Accession: smart00994 ID: 198062
+
+875. SO: Somatomedin B -like domains
+Somatomedin-B is a peptide, proteolytically excised from vitronectin, that is a growth hormone-depen...
+Accession: smart00201 ID: 197571
+
+876. PRK03830
+small acid-soluble spore protein Tlp; Provisional
+Accession: cl07951 ID: 186720
+
+877. BRO1_ScBro1_like: Protein-interacting, N-terminal, Bro1-like domain of Saccharomyces cerevisiae Bro1 and related proteins
+This family contains the N-terminal, Bro1-like domain of Saccharomyces cerevisiae Bro1 and related p...
+Accession: cd09242 ID: 185765
+
+878. BRO1_ScRim20-like: Protein-interacting, N-terminal, Bro1-like domain of Saccharomyces cerevisiae Rim20 and related proteins
+This family contains the N-terminal, Bro1-like domain of Saccharomyces cerevisiae Rim20 (also known ...
+Accession: cd09241 ID: 185764
+
+879. V_Alix_like: Protein-interacting V-domain of mammalian Alix and related domains
+This superfamily contains the V-shaped (V) domain of mammalian Alix (apoptosis-linked gene-2 interac...
+Accession: cd08915 ID: 185746
+
+880. PTZ00337
+surface protease GP63; Provisional
+Accession: PTZ00337 ID: 185563
+
+881. PTZ00203
+cathepsin L protease; Provisional
+Accession: PTZ00203 ID: 185513
+
+882. PTZ00101
+rhomboid-1 protease; Provisional
+Accession: PTZ00101 ID: 185445
+
+883. PRK10907
+intramembrane serine protease GlpG; Provisional
+Accession: PRK10907 ID: 182828
+
+884. PRK10787
+DNA-binding ATP-dependent protease La; Provisional
+Accession: PRK10787 ID: 182730
+
+885. tldD
+protease TldD; Provisional
+Accession: PRK10735 ID: 182685
+
+886. PRK10528
+multifunctional acyl-CoA thioesterase I and protease I and lysophospholipase L1; Provisional
+Accession: PRK10528 ID: 182521
+
+887. PRK10264
+hydrogenase 1 maturation protease; Provisional
+Accession: PRK10264 ID: 182345
+
+888. PRK10115
+protease 2; Provisional
+Accession: PRK10115 ID: 182247
+
+889. clpP
+ATP-dependent Clp protease proteolytic subunit; Reviewed
+Accession: PRK00277 ID: 178955
+
+890. clpS
+ATP-dependent Clp protease adaptor protein ClpS; Reviewed
+Accession: PRK00033 ID: 178809
+
+891. PLN03146
+aspartyl protease family protein; Provisional
+Accession: PLN03146 ID: 178691
+
+892. PLN00049
+carboxyl-terminal processing protease; Provisional
+Accession: PLN00049 ID: 177681
+
+893. CARD_CASP9: Caspase activation and recruitment domain of Caspase-9
+Caspase activation and recruitment domain (CARD) similar to that found in caspase-9 (CASP9, MCH6, AP...
+Accession: cd08326 ID: 176740
+
+894. PEBP: PhosphatidylEthanolamine-Binding Protein (PEBP) domain
+PhosphatidylEthanolamine-Binding Proteins (PEBPs) are represented in all three major phylogenetic di...
+Accession: cd00457 ID: 176642
+
+895. Peptidases_S8_Thermitase_like: Peptidase S8 family domain in Thermitase-like proteins
+Thermitase is a non-specific, trypsin-related serine protease with a very high specific activity.  I...
+Accession: cd07484 ID: 173810
+
+896. Peptidases_S8_Lantibiotic_specific_protease: Peptidase S8 family domain in Lantiobiotic (lanthionine-containing antibiotics) specific proteases
+Lantiobiotic (lanthionine-containing antibiotics) specific proteases are very similar in structure t...
+Accession: cd07482 ID: 173808
+
+897. Peptidases_S8_BacillopeptidaseF-like: Peptidase S8 family domain in BacillopeptidaseF-like proteins
+Bacillus subtilis produces and secretes proteases and other types of exoenzymes at the end of the ex...
+Accession: cd07481 ID: 173807
+
+898. Peptidases_S8_CspA-like: Peptidase S8 family domain in CspA-like proteins
+GSP (germination-specific protease) converts the spore peptidoglycan hydrolase (SleC) precursor to a...
+Accession: cd07478 ID: 173804
+
+899. Peptidases_S8_thiazoline_oxidase_subtilisin-like_protease: Peptidase S8 family domain in Thiazoline oxidase/subtilisin-like proteases
+Thiazoline oxidase/subtilisin-like protease is produced by the symbiotic bacteria Prochloron spp. th...
+Accession: cd07476 ID: 173802
+
+900. Peptidases_S53_like: Peptidase domain in the S53 family
+Members of the peptidase S53 (sedolisin) family include endopeptidases and exopeptidases. The S53 fa...
+Accession: cd05562 ID: 173798
+
+901. Peptidases_S8_Autotransporter_serine_protease_like: Peptidase S8 family domain in Autotransporter serine proteases
+Autotransporter serine proteases belong to Peptidase S8 or Subtilase family. Subtilases, or subtilis...
+Accession: cd04848 ID: 173794
+
+902. Peptidases_S53: Peptidase domain in the S53 family
+Members of the peptidases S53 (sedolisin) family include endopeptidases and exopeptidases sedolisin,...
+Accession: cd04056 ID: 173788
+
+903. PRK13838
+conjugal transfer pilin processing protease TraF; Provisional
+Accession: PRK13838 ID: 172365
+
+904. PHA02948
+serine protease inhibitor-like protein; Provisional
+Accession: PHA02948 ID: 165258
+
+905. SASP_tlp: small, acid-soluble spore protein tlp
+This protein family is restricted to a subset of endospore-forming bacteria such as Bacillus subtili...
+Accession: TIGR03090 ID: 163133
+
+906. frhD: coenzyme F420-reducing hydrogenase delta subunit (putative coenzyme F420 hydrogenase processing subunit)
+FrhD is not part of the active FRH heterotrimer, but is probably a protease required for maturation....
+Accession: TIGR00130 ID: 161726
+
+907. GATase1_PfpI_like: A type 1 glutamine amidotransferase (GATase1)-like domain found in PfpI from Pyrococcus furiosus
+A type 1 glutamine amidotransferase (GATase1)-like domain found in PfpI from Pyrococcus furiosus.   ...
+Accession: cd03134 ID: 153228
+
+908. Peptidase_A2B: Ty3 transposon peptidase
+Ty3 is a gypsy-type, retrovirus-like, element found in the budding yeast. The Ty3 aspartyl protease ...
+Accession: pfam12384 ID: 152819
+
+909. CRD_LIN_17: Cysteine-rich domain (CRD) of LIN_17
+A cysteine-rich domain (CRD) is an essential component of a number of cell surface receptors, which ...
+Accession: cd07454 ID: 143563
+
+910. CRD_FZ: CRD_domain cysteine-rich domain, also known as Fz (frizzled) domain
+CRD_FZ is an essential component of a number of cell surface receptors, which are involved in multip...
+Accession: cd07066 ID: 143549
+
+911. Ig2_Follistatin_like: Second immunoglobulin (Ig)-like domain of a Follistatin-related protein 5 and similar proteins
+Ig2_Follistatin_like: domain similar to the second immunoglobulin (Ig)-like domain found in human Fo...
+Accession: cd05736 ID: 143213
+
+912. PRK12551
+ATP-dependent Clp protease proteolytic subunit; Reviewed
+Accession: PRK12551 ID: 139060
+
+913. Aspergillopepsin_like: Aspergillopepsin_like, aspartic proteases of fungal origin
+The members of this family are aspartic proteases of fungal origin, including aspergillopepsin, rhiz...
+Accession: cd06097 ID: 133161
+
+914. Plasmepsin_5: Plasmepsins are a class of aspartic proteinases produced by the plasmodium parasite
+The family contains a group of aspartic proteinases homologous to plasmepsin 5.  Plasmepsins are a c...
+Accession: cd06096 ID: 133160
+
+915. renin_like: Renin stimulates production of angiotensin and thus affects blood pressure
+Renin, also known as angiotensinogenase, is a circulating enzyme that participates in the renin-angi...
+Accession: cd05487 ID: 133154
+
+916. NRIP_C: NRIP_C; putative nuclear receptor interacting protein
+Proteins in this family have been described as probable nuclear receptor interacting proteins. The  ...
+Accession: cd05480 ID: 133147
+
+917. nucellin_like: Nucellins, plant aspartic proteases specifically expressed in nucellar cells during degradation
+Nucellins are important regulators of nucellar cell's progressive degradation after ovule fertilizat...
+Accession: cd05475 ID: 133142
+
+918. pepsin_retropepsin_like: Cellular and retroviral pepsin-like aspartate proteases
+This family includes both cellular and retroviral pepsin-like aspartate proteases. The cellular peps...
+Accession: cd05470 ID: 133137
+
+919. trio_acet_GNAT: GNAT-family acetyltransferase TIGR03103
+Members of this protein family belong to the GNAT family of acetyltransferases. Each is part of a co...
+Accession: TIGR03103 ID: 132147
+
+920. spore_II_GA: sigma-E processing peptidase SpoIIGA
+Members of this protein family are the stage II sporulation protein SpoIIGA. This protein acts as an...
+Accession: TIGR02854 ID: 131901
+
+921. spore_YyaC: putative sporulation protein YyaC
+A comparative genome analysis of all sequenced genomes of shows a number of proteins conserved stric...
+Accession: TIGR02841 ID: 131888
+
+922. clostrip: clostripain
+Clostripain is a cysteine protease characterized from Clostridium histolyticum, and also known from ...
+Accession: TIGR02806 ID: 131853
+
+923. sodN: superoxide dismutase, Ni
+This superoxide dismutase uses nickel, rather than iron, manganese, copper, or zinc. Its gene is alw...
+Accession: TIGR02753 ID: 131800
+
+924. Bac_small_yrzI: Bacillus tandem small hypothetical protein
+Members of this family are very small proteins, about 47 residues each, in the genus Bacillus. Singl...
+Accession: TIGR02413 ID: 131466
+
+925. hupD: hydrogenase expression/formation protein
+valid names: hupD, hynC, hoxM. C at 64 and 67 are believed to be metal binding. Postulated to be inv...
+Accession: TIGR00140 ID: 129246
+
+926. MANEC: The MANEC domain, formerly called MANSC
+This domain, comprising 8 conserved cysteines, is found in the N terminus of higher multicellular an...
+Accession: smart00765 ID: 129004
+
+927. Peptidase_S24_S26
+The S24, S26 LexA/signal peptidase superfamily contains LexA-related and type I signal peptidase fam...
+Accession: cd06462 ID: 119396
+
+928. TLP_Transthyretin
+Transthyretin (TTR) is a 55 kDa protein responsible for the transport of thyroid hormones and retino...
+Accession: cd05821 ID: 100113
+
+929. S2P-M50_SpoIVFB_CBS
+SpoIVFB Site-2 protease (S2P), a zinc metalloprotease (MEROPS family M50B), regulates intramembrane ...
+Accession: cd06164 ID: 100085
+
+930. S2P-M50_SpoIVFB
+SpoIVFB Site-2 protease (S2P), a zinc metalloprotease (MEROPS family M50B), regulates intramembrane ...
+Accession: cd06161 ID: 100082
+
+931. S2P-M50_like_2
+Uncharacterized homologs of Site-2 protease (S2P), zinc metalloproteases (MEROPS family M50) which c...
+Accession: cd06160 ID: 100081
+
+932. S2P-M50_PDZ_Arch
+Uncharacterized Archaeal homologs of Site-2 protease (S2P), zinc metalloproteases (MEROPS family M50...
+Accession: cd06159 ID: 100080
+
+933. S2P-M50_like_1
+Uncharacterized homologs of Site-2 protease (S2P), zinc metalloproteases (MEROPS family M50) which c...
+Accession: cd06158 ID: 100079
+
+934. H2MP_like-2
+Putative [NiFe] hydrogenase-specific C-terminal protease. Sequence comparison shows similarity to hy...
+Accession: cd06070 ID: 99879
+
+935. H2MP_like-1
+Putative [NiFe] hydrogenase-specific C-terminal protease. Sequence comparison shows similarity to hy...
+Accession: cd06068 ID: 99878
+
+936. H2MP_MemB-H2evol
+Endopeptidases belonging to membrane-bound hydrogen evolving hydrogenase group. In hydrogenase 3 fro...
+Accession: cd06067 ID: 99877
+
+937. H2MP_F420-Reduc
+Endopeptidases belonging to F420-reducing hydrogenases group. These hydrogenases from methanogens ar...
+Accession: cd06064 ID: 99875

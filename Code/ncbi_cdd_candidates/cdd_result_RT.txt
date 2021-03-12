@@ -1,0 +1,240 @@
+
+1. zf-RVT: zinc-binding in reverse transcriptase
+This domain would appear to be a zinc-binding region of a putative reverse transcriptase.
+Accession: pfam13966 ID: 372849
+
+2. RVT_2: Reverse transcriptase (RNA-dependent DNA polymerase)
+A reverse transcriptase gene is usually indicative of a mobile element such as a retrotransposon or ...
+Accession: pfam07727 ID: 369488
+
+3. RVT_1: Reverse transcriptase (RNA-dependent DNA polymerase)
+A reverse transcriptase gene is usually indicative of a mobile element such as a retrotransposon or ...
+Accession: pfam00078 ID: 365856
+
+4. group_II_RT_mat: group II intron reverse transcriptase/maturase
+Members of this protein family are multifunctional proteins encoded in most examples of bacterial gr...
+Accession: TIGR04416 ID: 275209
+
+5. N-Term_TEN: Telomerase reverse transcriptase TEN domain
+This is the N terminal domain of the protein telomerase reverse transcriptase called TEN. The TEN do...
+Accession: pfam11474 ID: 151913
+
+6. RVT_N: N-terminal domain of reverse transcriptase
+This domain is found at the N-terminus of bacterial reverse transcriptases.
+Accession: pfam13655 ID: 379315
+
+7. TERT_thumb: Telomerase reverse transcriptase thumb DNA binding domain
+The catalytic subunit of telomerase is structurally similar to retroviral reverse transcriptases, vi...
+Accession: pfam17984 ID: 375466
+
+8. RT_RNaseH_2: RNase H-like domain found in reverse transcriptase
+
+Accession: pfam17919 ID: 375430
+
+9. RT_RNaseH: RNase H-like domain found in reverse transcriptase
+DNA polymerase and ribonuclease H (RNase H) activities allow reverse transcriptases to convert the s...
+Accession: pfam17917 ID: 375428
+
+10. RVT_3: Reverse transcriptase-like
+This domain is found in plants and appears to be part of a retrotransposon.
+Accession: pfam13456 ID: 372609
+
+11. RVT_thumb: Reverse transcriptase thumb domain
+This domain is known as the thumb domain. It is composed of a four helix bundle.
+Accession: pfam06817 ID: 369092
+
+12. RVT_connect: Reverse transcriptase connection domain
+This domain is known as the connection domain. This domain lies between the thumb and palm domains.
+Accession: pfam06815 ID: 369090
+
+13. YkfC: Retron-type reverse transcriptase [Mobilome: prophages, transposons]
+
+Accession: COG3344 ID: 225881
+
+14. CD_CSD: CHROMO (CHRromatin Organization Modifier) domains and chromo shadow domains
+Members of this group are chromodomains or chromo shadow domains; these are SH3-fold-beta-barrel dom...
+Accession: cl28914 ID: 391946
+
+15. pepsin_retropepsin_like: Cellular and retroviral pepsin-like aspartate proteases
+This family includes both cellular and retroviral pepsin-like aspartate proteases. The cellular peps...
+Accession: cl11403 ID: 386101
+
+16. RNase_H_like: Ribonuclease H-like superfamily, including RNase H, HI, HII, HIII, and RNase-like domain IV of spliceosomal protein Prp8
+Ribonuclease H (RNase H) enzymes are divided into two major families, Type 1 and Type 2, based on am...
+Accession: cl14782 ID: 387386
+
+17. RT_like
+RT_like: Reverse transcriptase (RT, RNA-dependent DNA polymerase)_like family. An RT gene is usually...
+Accession: cl02808 ID: 383137
+
+18. Avd_IVP_like: proteins similar to the diversity-generating retroelement protein bAvd
+A superfamily of four-helix bundles that form homopentamers, including the bacterial accessory varia...
+Accession: cl28927 ID: 355803
+
+19. TERT
+TERT: Telomerase reverse transcriptase (TERT). Telomerase is a ribonucleoprotein (RNP) that synthesi...
+Accession: cd01648 ID: 238826
+
+20. Telomerase_RBD: Telomerase ribonucleoprotein complex - RNA binding domain
+Telomeres in most organisms are comprised of tandem simple sequence repeats. The total length of tel...
+Accession: cl13446 ID: 386986
+
+21. EEP: Exonuclease-Endonuclease-Phosphatase (EEP) domain superfamily
+This large superfamily includes the catalytic domain (exonuclease/endonuclease/phosphatase or EEP do...
+Accession: cl00490 ID: 382041
+
+22. Avd_like: diversity-generating retroelement protein bAvd and similar proteins
+The bacterial accessory variability determinant (bAvd) protein, together with a reverse transcriptas...
+Accession: cd16376 ID: 319868
+
+23. Rnase_HI_RT_non_LTR: non-LTR RNase HI domain of reverse transcriptases
+Ribonuclease H (RNase H) is classified into two families, type 1 (prokaryotic RNase HI, eukaryotic R...
+Accession: cd09276 ID: 260008
+
+24. RRM_SF: RNA recognition motif (RRM) superfamily
+RRM, also known as RBD (RNA binding domain) or RNP (ribonucleoprotein domain), is a highly abundant ...
+Accession: cl17169 ID: 388407
+
+25. GIY-YIG_SF: GIY-YIG nuclease domain superfamily
+The GIY-YIG nuclease domain superfamily includes a large and diverse group of proteins involved in m...
+Accession: cl15257 ID: 387588
+
+26. ADP_ribosyl
+ADP_ribosylating enzymes catalyze the transfer of ADP_ribose from NAD+ to substrates. Bacterial toxi...
+Accession: cl00283 ID: 381922
+
+27. HEPN_AbiA_CTD: HEPN like, Abia C-terminal domain
+AbiA-CTD-like HEPN nuclease. Fused to Reverse Transcriptase ; in operon with R-M system.
+Accession: pfam18732 ID: 376155
+
+28. SLATT_5: SMODS and SLOG-associating 2TM effector domain family 5
+The SLATT domain contains two transmembrane helices. SLATT domains are generally predicted to functi...
+Accession: pfam18160 ID: 375597
+
+29. Telomerase_RBD: Telomerase ribonucleoprotein complex - RNA binding domain
+Telomeres in most organisms are comprised of tandem simple sequence repeats. The total length of tel...
+Accession: pfam12009 ID: 371845
+
+30. DUF1725: Protein of unknown function (DUF1725)
+This family include many eukaryotic and one bacterial sequence. Many of its members are annotated as...
+Accession: pfam08333 ID: 369819
+
+31. RdRP_5: Reovirus RNA-dependent RNA polymerase lambda 3
+The sequences in this family are similar to the reoviral minor core protein lambda 3, which function...
+Accession: pfam07925 ID: 369599
+
+32. CD_POL_like: chromodomain of a Zea maize putative metaviridae (gypsy-type) retrotransposon polyproteins (Z195D10.9), and similar proteins
+This subgroup includes the CHROMO (CHRromatin Organization Modifier) domain found in Zea maize Z195D...
+Accession: cd18979 ID: 349335
+
+33. CD_POL_like: chromodomain of a Rhizoctonia solani AG-3 Rhs1AP polyprotein, and similar proteins
+This subgroup includes the CHROMO (CHRromatin Organization Modifier) domain found in a Rhizoctonia s...
+Accession: cd18977 ID: 349333
+
+34. CD_POL_like: chromodomain of Penicillium solitum protein PENSOL_c198G03123
+This subgroup includes the CHROMO (CHRromatin Organization Modifier) domain found in Penicillium sol...
+Accession: cd18974 ID: 349330
+
+35. CD_Tf2-1_POL_like: chromodomain of Rhizoctonia solani AG-1 IB retrotransposable element Tf2 155 kDa protein type 1, and similar proteins
+This subgroup includes the CHROMO (CHRromatin Organization Modifier) domain found in Rhizoctonia sol...
+Accession: cd18973 ID: 349329
+
+36. CD_POL_like: chromodomain of a Moniliophthora perniciosa FA553 putative retrotransposon polyprotein, and similar proteins
+This subgroup includes the CHROMO (CHRromatin Organization Modifier) domain found in a Moniliophthor...
+Accession: cd18972 ID: 349328
+
+37. CD_POL_like: chromodomain of a Magnaporthe grisea putative retrotransposon polyprotein, and similar proteins
+This subgroup includes the CHROMO (CHRromatin Organization Modifier) domain found in a Magnaporthe g...
+Accession: cd18971 ID: 349327
+
+38. CD_POL_like: chromodomain of Hypsizygus marmoreus TY3B-I_0 protein, and similar proteins
+This subgroup includes the CHROMO (CHRromatin Organization Modifier) domain found in Hypsizygus marm...
+Accession: cd18970 ID: 349326
+
+39. 23S_rRNA_IVP_like: 23S rRNA-intervening sequence protein and similar proteins
+A family of functionally uncharacterized bacterial proteins, some of which are encoded by an atypica...
+Accession: cd16377 ID: 319869
+
+40. Intron_maturas2: Type II intron maturase
+Group II introns use intron-encoded reverse transcriptase, maturase and DNA endonuclease activities ...
+Accession: pfam01348 ID: 279664
+
+41. RNase_HI_RT_DIRS1: DIRS1 family of RNase HI in long-term repeat retroelements
+Ribonuclease H (RNase H) enzymes are divided into two major families, Type 1 and Type 2, based on am...
+Accession: cd09275 ID: 260007
+
+42. RNase_HI_RT_Ty3: Ty3/Gypsy family of RNase HI in long-term repeat retroelements
+Ribonuclease H (RNase H) enzymes are divided into two major families, Type 1 and Type 2, based on am...
+Accession: cd09274 ID: 260006
+
+43. RNase_HI_RT_Bel: Bel/Pao family of RNase HI in long-term repeat retroelements
+Ribonuclease H (RNase H) enzymes are divided into two major families, Type 1 and Type 2, based on am...
+Accession: cd09273 ID: 260005
+
+44. RNase_HI_RT_Ty1: Ty1/Copia family of RNase HI in long-term repeat retroelements
+Ribonuclease H (RNase H) enzymes are divided into two major families, Type 1 and Type 2, based on am...
+Accession: cd09272 ID: 260004
+
+45. RRM_p65: RNA recognition motif in the holoenzyme La family protein p65
+This subfamily corresponds to the RRM of a lineage specific family containing the essential La famil...
+Accession: cd12456 ID: 240902
+
+46. RT_nLTR_like
+RT_nLTR: Non-LTR (long terminal repeat) retrotransposon and non-LTR retrovirus reverse transcriptase...
+Accession: cd01650 ID: 238827
+
+47. RT_pepA17
+RT_pepA17: Reverse transcriptase (RTs) in retrotransposons. This subfamily represents the RT domain ...
+Accession: cd01644 ID: 238822
+
+48. tankyrase_like
+Tankyrases interact with the telomere reverse transcriptase complex (TERT). Tankyrase 1 poly-ADP-rib...
+Accession: cd01438 ID: 238718
+
+49. RT_like
+RT_like: Reverse transcriptase (RT, RNA-dependent DNA polymerase)_like family. An RT gene is usually...
+Accession: cd00304 ID: 238185
+
+50. Telomerase_RBD: Telomerase ribonucleoprotein complex - RNA binding domain
+Telomeres in most organisms are comprised of tandem simple sequence repeats. The total length of tel...
+Accession: smart00975 ID: 214948
+
+51. GIY-YIG_bI1_like: Catalytic GIY-YIG domain of putative intron-encoded endonuclease bI1 and similar proteins
+The prototype of this family is a putative intron-encoded mitochondrial DNA endonuclease bI1 found i...
+Accession: cd10445 ID: 198392
+
+52. R1-I-EN: Endonuclease domain encoded by various R1- and I-clade non-long terminal repeat retrotransposons
+This family contains the endonuclease (EN) domain of various non-long terminal repeat (non-LTR) retr...
+Accession: cd09077 ID: 197311
+
+53. L1-EN: Endonuclease domain (L1-EN) of the non-LTR retrotransposon LINE-1 (L1), and related domains
+This family contains the endonuclease domain (L1-EN) of the non-LTR retrotransposon LINE-1 (L1), and...
+Accession: cd09076 ID: 197310
+
+54. RP_RTVL_H_like: Retropepsin of the RTVL_H family of human endogenous retrovirus-like elements
+This family includes aspartate proteases from retroelements with LTR (long terminal repeats) includi...
+Accession: cd06095 ID: 133159
+
+55. RP_Saci_like: RP_Saci_like, retropepsin family
+Retropepsin on retrotransposons with long terminal repeats (LTR) including Saci-1, -2 and -3 of Schi...
+Accession: cd06094 ID: 133158
+
+56. retropepsin_like_LTR_2: Retropepsins_like_LTR, pepsin-like aspartate proteases
+Retropepsin of retrotransposons with long terminal repeats are pepsin-like aspartate proteases. Whil...
+Accession: cd05484 ID: 133151
+
+57. HIV_retropepsin_like: Retropepsins, pepsin-like aspartate proteases
+This is a subfamily of retropepsins. The family includes pepsin-like aspartate proteases from retrov...
+Accession: cd05482 ID: 133149
+
+58. retropepsin_like_LTR_1: Retropepsins_like_LTR; pepsin-like aspartate protease from retrotransposons with long terminal repeats
+Retropepsin of retrotransposons with long terminal repeats are pepsin-like aspartate proteases. Whil...
+Accession: cd05481 ID: 133148
+
+59. pepsin_retropepsin_like: Cellular and retroviral pepsin-like aspartate proteases
+This family includes both cellular and retroviral pepsin-like aspartate proteases. The cellular peps...
+Accession: cd05470 ID: 133137
+
+60. retropepsin_like: Retropepsins; pepsin-like aspartate proteases
+The family includes pepsin-like aspartate proteases from retroviruses, retrotransposons and retroele...
+Accession: cd00303 ID: 133136

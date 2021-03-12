@@ -1,0 +1,8 @@
+
+1. NABP: Nucleic acid binding protein NABP
+Many members of this family are putative nucleic acid binding proteins. One member of this family ha...
+Accession: pfam07990 ID: 369638
+
+2. Viral_NABP: Viral nucleic acid binding
+This family is common to ssRNA positive-strand viruses and are commonly described as nucleic acid bi...
+Accession: pfam05515 ID: 283230

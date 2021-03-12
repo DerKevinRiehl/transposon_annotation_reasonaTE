@@ -1,0 +1,11 @@
+# RPSTBLASTN 2.10.0+
+# Query: seq1
+# Database: /mnt/home3/riehl/miniconda3/envs/transposon_annotation_tools_env/share/proteinNCBICDD1000/selection/Selection1000Library006
+# Fields: subject title, evalue, q. start, q. end
+# 1 hits found
+cd01882, BMS1, Bms1, an essential GTPase, promotes assembly of preribosomal RNA processing complexes.  Bms1 is an essential, evolutionarily conserved, nucleolar protein. Its depletion interferes with processing of the 35S pre-rRNA at sites A0, A1, and A2, and the formation of 40S subunits. Bms1, the putative endonuclease Rc11, and the essential U3 small nucleolar RNA form a stable subcomplex that is believed to control an early step in the formation of the 40S subumit. The C-terminal domain of Bms1 contains a GTPase-activating protein (GAP) that functions intramolecularly. It is believed that Rc11 activates Bms1 by acting as a guanine-nucleotide exchange factor (GEF) to promote GDP/GTP exchange, and that activated (GTP-bound) Bms1 delivers Rc11 to the preribosomes.	2.71e-124	464017	463325
+# RPSTBLASTN 2.10.0+
+# Query: seq2
+# Database: /mnt/home3/riehl/miniconda3/envs/transposon_annotation_tools_env/share/proteinNCBICDD1000/selection/Selection1000Library006
+# 0 hits found
+# BLAST processed 2 queries

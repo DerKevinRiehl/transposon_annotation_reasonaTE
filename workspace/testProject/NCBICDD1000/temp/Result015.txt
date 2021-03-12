@@ -1,0 +1,11 @@
+# RPSTBLASTN 2.10.0+
+# Query: seq1
+# Database: /mnt/home3/riehl/miniconda3/envs/transposon_annotation_tools_env/share/proteinNCBICDD1000/selection/Selection1000Library015
+# Fields: subject title, evalue, q. start, q. end
+# 1 hits found
+CHL00095, clpC, Clp protease ATP binding subunit.	5.36e-04	564568	564338
+# RPSTBLASTN 2.10.0+
+# Query: seq2
+# Database: /mnt/home3/riehl/miniconda3/envs/transposon_annotation_tools_env/share/proteinNCBICDD1000/selection/Selection1000Library015
+# 0 hits found
+# BLAST processed 2 queries

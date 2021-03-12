@@ -1,0 +1,60 @@
+##gff-version 3
+##sequence-region   seq0 1 793080
+##sequence-region   seq1 1 504300
+#seq1
+#seq2
+seq0	LTRharvest	repeat_region	142963	153023	.	-	.	ID=repeat_region1
+seq0	LTRharvest	target_site_duplication	142963	142966	.	-	.	Parent=repeat_region1
+seq0	LTRharvest	LTR_retrotransposon	142967	153019	.	-	.	ID=LTR_retrotransposon1;Parent=repeat_region1;ltr_similarity=99.39;seq_number=0
+seq0	LTRharvest	long_terminal_repeat	142967	143293	.	-	.	Parent=LTR_retrotransposon1
+seq0	LTRdigest	protein_match	147603	147720	5.8e-06	-	.	Parent=LTR_retrotransposon1;reading_frame=1;name=rve
+seq0	LTRdigest	primer_binding_site	152684	152694	11	-	.	Parent=LTR_retrotransposon1;trna=Gasterosteus_aculeatus_chrUn.trna1361-AspGTC (61834957-61835028)  Asp (GTC) 72 bp  Sc: 54.66;trnaoffset=0;pbsoffset=1;edist=1
+seq0	LTRharvest	long_terminal_repeat	152694	153019	.	-	.	Parent=LTR_retrotransposon1
+seq0	LTRharvest	target_site_duplication	153020	153023	.	-	.	Parent=repeat_region1
+###
+seq0	LTRharvest	repeat_region	186042	199526	.	?	.	ID=repeat_region2
+seq0	LTRharvest	target_site_duplication	186042	186045	.	?	.	Parent=repeat_region2
+seq0	LTRharvest	LTR_retrotransposon	186046	199522	.	?	.	ID=LTR_retrotransposon2;Parent=repeat_region2;ltr_similarity=75.00;seq_number=0
+seq0	LTRharvest	long_terminal_repeat	186046	186168	.	?	.	Parent=LTR_retrotransposon2
+seq0	LTRharvest	long_terminal_repeat	199383	199522	.	?	.	Parent=LTR_retrotransposon2
+seq0	LTRharvest	target_site_duplication	199523	199526	.	?	.	Parent=repeat_region2
+###
+seq0	LTRharvest	repeat_region	268291	276912	.	-	.	ID=repeat_region3
+seq0	LTRharvest	target_site_duplication	268291	268294	.	-	.	Parent=repeat_region3
+seq0	LTRharvest	LTR_retrotransposon	268295	276908	.	-	.	ID=LTR_retrotransposon3;Parent=repeat_region3;ltr_similarity=91.53;seq_number=0
+seq0	LTRharvest	long_terminal_repeat	268295	268482	.	-	.	Parent=LTR_retrotransposon3
+seq0	LTRdigest	primer_binding_site	276709	276719	10.2	-	.	Parent=LTR_retrotransposon3;trna=Bos_taurus_chr20.trna1552-GluCTC (42136910-42136981)  Glu (CTC) 72 bp  Sc: 42.16;trnaoffset=5;pbsoffset=0;edist=1
+seq0	LTRharvest	long_terminal_repeat	276720	276908	.	-	.	Parent=LTR_retrotransposon3
+seq0	LTRharvest	target_site_duplication	276909	276912	.	-	.	Parent=repeat_region3
+###
+seq0	LTRharvest	repeat_region	663199	677954	.	?	.	ID=repeat_region4
+seq0	LTRharvest	target_site_duplication	663199	663202	.	?	.	Parent=repeat_region4
+seq0	LTRharvest	LTR_retrotransposon	663203	677950	.	?	.	ID=LTR_retrotransposon4;Parent=repeat_region4;ltr_similarity=82.91;seq_number=0
+seq0	LTRharvest	long_terminal_repeat	663203	663308	.	?	.	Parent=LTR_retrotransposon4
+seq0	LTRharvest	long_terminal_repeat	677834	677950	.	?	.	Parent=LTR_retrotransposon4
+seq0	LTRharvest	target_site_duplication	677951	677954	.	?	.	Parent=repeat_region4
+###
+seq1	LTRharvest	repeat_region	40190	47930	.	-	.	ID=repeat_region5
+seq1	LTRharvest	target_site_duplication	40190	40193	.	-	.	Parent=repeat_region5
+seq1	LTRharvest	LTR_retrotransposon	40194	47926	.	-	.	ID=LTR_retrotransposon5;Parent=repeat_region5;ltr_similarity=78.34;seq_number=1
+seq1	LTRharvest	long_terminal_repeat	40194	40349	.	-	.	Parent=LTR_retrotransposon5
+seq1	LTRdigest	primer_binding_site	47752	47767	8	-	.	Parent=LTR_retrotransposon5;trna=Strongylocentrotus_purpuratus_Scaffold10423.trna3-LeuTAA (24395-24322)  Leu (TAA) 74 bp  Sc: 63.58;trnaoffset=0;pbsoffset=2;edist=1
+seq1	LTRharvest	long_terminal_repeat	47770	47926	.	-	.	Parent=LTR_retrotransposon5
+seq1	LTRharvest	target_site_duplication	47927	47930	.	-	.	Parent=repeat_region5
+###
+seq1	LTRharvest	repeat_region	245326	256877	.	+	.	ID=repeat_region6
+seq1	LTRharvest	target_site_duplication	245326	245329	.	+	.	Parent=repeat_region6
+seq1	LTRharvest	LTR_retrotransposon	245330	256873	.	+	.	ID=LTR_retrotransposon6;Parent=repeat_region6;ltr_similarity=98.78;seq_number=1
+seq1	LTRharvest	long_terminal_repeat	245330	245904	.	+	.	Parent=LTR_retrotransposon6
+seq1	LTRdigest	primer_binding_site	245907	245919	13	+	.	Parent=LTR_retrotransposon6;trna=Caenorhabditis_remanei_chrUn.trna65-GlyGCC (17157144-17157214)  Gly (GCC) 71 bp  Sc: 70.72;trnaoffset=0;pbsoffset=2;edist=0
+seq1	LTRharvest	long_terminal_repeat	256299	256873	.	+	.	Parent=LTR_retrotransposon6
+seq1	LTRharvest	target_site_duplication	256874	256877	.	+	.	Parent=repeat_region6
+###
+seq1	LTRharvest	repeat_region	278516	293719	.	+	.	ID=repeat_region7
+seq1	LTRharvest	target_site_duplication	278516	278519	.	+	.	Parent=repeat_region7
+seq1	LTRharvest	LTR_retrotransposon	278520	293715	.	+	.	ID=LTR_retrotransposon7;Parent=repeat_region7;ltr_similarity=86.09;seq_number=1
+seq1	LTRharvest	long_terminal_repeat	278520	278631	.	+	.	Parent=LTR_retrotransposon7
+seq1	LTRdigest	primer_binding_site	278635	278646	3.84	+	.	Parent=LTR_retrotransposon7;trna=Candida_glabrata_CBS138_chrMT.trna11-SupTTA (16292-16364)  Sup (TTA) 73 bp  Sc: 38.56;trnaoffset=3;pbsoffset=3;edist=1
+seq1	LTRharvest	long_terminal_repeat	293601	293715	.	+	.	Parent=LTR_retrotransposon7
+seq1	LTRharvest	target_site_duplication	293716	293719	.	+	.	Parent=repeat_region7
+###

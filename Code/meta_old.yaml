@@ -1,0 +1,31 @@
+package:
+  name: "transposon_annotator_reasonate"
+  version: "1.0.0"
+
+build:
+  number: 0
+
+requirements:
+  run:
+    - python
+    - biopython
+    - transposon_classifier_rfsb
+    - transposon_annotation_tools_sinefinder
+    - transposon_annotation_tools_mustv2
+    - transposon_annotation_tools_mitefinderii
+    - transposon_annotation_tools_helitronscanner
+    - transposon_annotation_tools_sinescan
+    - transposon_annotation_tools_mitetracker
+    - transposon_annotation_tools_transposonpsicli
+    - transposon_annotation_tools_proteinncbicdd1000
+    - repeatmodeler 
+    - repeatmasker
+    - genometools
+    - seqkit
+
+about:
+  home: https://github.com/DerKevinRiehl/transposon_annotation_resonaTE
+  license: GPL3
+  license_family: GPL
+  summary: Transposon Annotator "reasonaTE" - part of TransposonUltimate
+  description: Transposon Annotator "reasonaTE" - part of TransposonUltimate
