@@ -8,11 +8,31 @@ Transposon annotation tool for the annotation of transposons, transposon charact
 The reasonaTE pipeline comes with two conda environments due to package incompatibilities. For some steps of the environment you will need the first, for others the second conda environment.
 ```
 # Environment 1 - including all annotation tools
-wget https://raw.githubusercontent.com/DerKevinRiehl/transposon_annotation_tools/main/transposon_annotation_tools_env.yml
-conda env create -f transposon_annotation_tools_env.yml
+#wget https://raw.githubusercontent.com/DerKevinRiehl/transposon_annotation_tools/main/transposon_annotation_tools_env.yml
+#conda env create -f transposon_annotation_tools_env.yml
+conda create -y --name transposon_annotation_tools_env python=2.7
+conda activate transposon_annotation_tools_env
+conda install -y -c bioconda repeatmodeler repeatmasker genometools
+conda install -y -c derkevinriehl transposon_annotation_reasonate
+conda install -y -c derkevinriehl transposon_annotation_tools_proteinncbicdd1000
+conda install -y -c derkevinriehl transposon_annotation_tools_transposonpsicli
+conda install -y -c derkevinriehl transposon_annotation_tools_mitetracker
+conda install -y -c derkevinriehl transposon_annotation_tools_sinescan
+conda install -y -c derkevinriehl transposon_annotation_tools_helitronscanner
+conda install -y -c derkevinriehl transposon_annotation_tools_mitefinderii
+conda install -y -c derkevinriehl transposon_annotation_tools_mustv2
+conda install -y -c derkevinriehl transposon_annotation_tools_sinefinder
+conda install -y -c anaconda biopython
+conda deactivate
 # Environment 2 - including CD-Hit and Transposon Classifier RFSB
-wget https://raw.githubusercontent.com/DerKevinRiehl/transposon_annotation_reasonaTE/main/transposon_annotation_reasonaTE.yml
-conda env create -f transposon_annotation_reasonaTE.yml
+#wget https://raw.githubusercontent.com/DerKevinRiehl/transposon_annotation_reasonaTE/main/transposon_annotation_reasonaTE.yml
+#conda env create -f transposon_annotation_reasonaTE.yml
+conda create -y --name transposon_annotation_reasonaTE
+conda activate transposon_annotation_reasonaTE
+conda install -y -c anaconda biopython
+conda install -y -c derkevinriehl transposon_annotation_reasonate transposon_classifier_rfsb
+conda install -y -c bioconda cd-hit blast seqkit
+conda deactivate
 ```
 
 ## How to use ''reasonaTE''
