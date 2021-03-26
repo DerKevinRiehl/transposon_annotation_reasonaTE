@@ -40,6 +40,7 @@ conda deactivate
 ```
 conda activate transposon_annotation_tools_env
 mkdir workspace
+wget https://raw.githubusercontent.com/DerKevinRiehl/transposon_annotation_reasonaTE/main/workspace/testProject/sequence.fasta # demo fasta you could use
 reasonaTE -mode createProject -projectFolder workspace -projectName testProject -inputFasta sequence.fasta
 ```
 
