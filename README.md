@@ -30,8 +30,8 @@ conda deactivate
 conda create -y --name transposon_annotation_reasonaTE
 conda activate transposon_annotation_reasonaTE
 conda install -y -c anaconda biopython
-conda install -y -c derkevinriehl transposon_annotation_reasonate transposon_classifier_rfsb
 conda install -y -c bioconda cd-hit blast seqkit
+conda install -y -c derkevinriehl transposon_annotation_reasonate transposon_classifier_rfsb
 conda deactivate
 ```
 
