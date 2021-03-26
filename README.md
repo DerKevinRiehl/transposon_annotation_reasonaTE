@@ -12,7 +12,7 @@ The reasonaTE pipeline comes with two conda environments due to package incompat
 #conda env create -f transposon_annotation_tools_env.yml
 conda create -y --name transposon_annotation_tools_env python=2.7
 conda activate transposon_annotation_tools_env
-conda install -y -c bioconda repeatmodeler repeatmasker genometools
+conda install -y -c bioconda repeatmodeler repeatmasker genometools-genometools
 conda install -y -c derkevinriehl transposon_annotation_reasonate
 conda install -y -c derkevinriehl transposon_annotation_tools_proteinncbicdd1000
 conda install -y -c derkevinriehl transposon_annotation_tools_transposonpsicli
