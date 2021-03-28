@@ -5,14 +5,15 @@ Transposon annotation tool for the annotation of transposons, transposon charact
 - **Output**: Lots of transposon annotations (GFF3 file).
 
 ## Installation
-The reasonaTE pipeline comes with two conda environments due to package incompatibilities. For some steps of the environment you will need the first, for others the second conda environment.
+The reasonaTE pipeline comes with two conda environments due to package incompatibilities. For some steps of the environment you will need the first, for others the second conda environment. Please make sure you have "RepeatMasker" and "RepeatModeler" installed on your machine as well if you want the pipeline to consider their annotations as well. As issues with the conda packages of these tools are reported multiple times on the internet and github, we recommend to not use the conda packages of these tools.
 ```
 # Environment 1 - including all annotation tools
 #wget https://raw.githubusercontent.com/DerKevinRiehl/transposon_annotation_tools/main/transposon_annotation_tools_env.yml
 #conda env create -f transposon_annotation_tools_env.yml
 conda create -y --name transposon_annotation_tools_env python=2.7
 conda activate transposon_annotation_tools_env
-conda install -y -c bioconda repeatmodeler repeatmasker genometools-genometools
+#conda install -y -c bioconda repeatmodeler repeatmasker 
+conda install -y -c genometools-genometools
 conda install -y -c derkevinriehl transposon_annotation_reasonate
 conda install -y -c derkevinriehl transposon_annotation_tools_proteinncbicdd1000
 conda install -y -c derkevinriehl transposon_annotation_tools_transposonpsicli
