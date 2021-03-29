@@ -251,5 +251,5 @@ The folder *parsedAnnotations* includes the parsed transposon annotations, struc
 The folder *finalResults* includes all results - including the tool and pipeline annotations. The *ToolAnnotations_* files contain the tool annotations, the *PipelineAnnotations_* files contain the additional copies found and the *FinalAnnotations_* include both of the prior merged into one file. There are files of the annotated transposons, transposon characteristic proteins, structural features, the mask of transposon regions and the extracted and classified sequences as FASTA file. As transposon annotations are not intersection free and can include nested or overlapping transposon annotations, the basepairs annotated in the mask represent all base pairs that are annotated by one or more transposons of the transposon annotations.
 
 ## Citations
-Please cite our paper if you find transposition event detector "reasonaTE" useful:
+Please cite our paper if you find transposon annotator "reasonaTE" useful:
 (in progress)
