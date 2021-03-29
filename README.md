@@ -5,15 +5,13 @@ Transposon annotation tool for the annotation of transposons, transposon charact
 - **Output**: Lots of transposon annotations (GFF3 file).
 
 ## Installation
-The reasonaTE pipeline comes with two conda environments due to package incompatibilities. For some steps of the environment you will need the first, for others the second conda environment. Please make sure you have "RepeatMasker" and "RepeatModeler" installed on your machine as well if you want the pipeline to consider their annotations as well. As issues with the conda packages of these tools are reported multiple times on the internet and github, we recommend to not use the conda packages of these tools.
+The reasonaTE pipeline comes with two conda environments due to package incompatibilities. For some steps of the environment you will need the first, for others the second conda environment. **Note1:** *Please make sure you have "RepeatMasker" and "RepeatModeler" installed on your machine as well if you want the pipeline to consider their annotations as well. As issues with the conda packages of these tools are reported multiple times on the internet and github, we recommend to not use the conda packages of these tools.* **Note2:** *For some users the bioconda channel is reported to cause issues with genometools-genometools, therefore you might consider to download it from other channels, e.g. conda-forge: "conda install -y -c bioconda -c conda-forge genometools-genometools".*
 ```
 # Environment 1 - including all annotation tools
-#wget https://raw.githubusercontent.com/DerKevinRiehl/transposon_annotation_tools/main/transposon_annotation_tools_env.yml
-#conda env create -f transposon_annotation_tools_env.yml
 conda create -y --name transposon_annotation_tools_env python=2.7
 conda activate transposon_annotation_tools_env
-#conda install -y -c bioconda repeatmodeler repeatmasker 
-conda install -y -c bioconda genometools-genometools
+#conda install -y -c bioconda repeatmodeler repeatmasker # Recommended not too install via conda
+conda install -y -c bioconda genometools-genometools # for some users: conda install -y -c bioconda -c conda-forge genometools-genometools
 conda install -y -c derkevinriehl transposon_annotation_reasonate
 conda install -y -c derkevinriehl transposon_annotation_tools_proteinncbicdd1000
 conda install -y -c derkevinriehl transposon_annotation_tools_transposonpsicli
@@ -26,14 +24,21 @@ conda install -y -c derkevinriehl transposon_annotation_tools_sinefinder
 conda install -y -c anaconda biopython
 conda deactivate
 # Environment 2 - including CD-Hit and Transposon Classifier RFSB
-#wget https://raw.githubusercontent.com/DerKevinRiehl/transposon_annotation_reasonaTE/main/transposon_annotation_reasonaTE.yml
-#conda env create -f transposon_annotation_reasonaTE.yml
 conda create -y --name transposon_annotation_reasonaTE
 conda activate transposon_annotation_reasonaTE
 conda install -y -c anaconda biopython
 conda install -y -c bioconda cd-hit blast seqkit
 conda install -y -c derkevinriehl transposon_annotation_reasonate transposon_classifier_rfsb
 conda deactivate
+```
+Alternatively, you could chose to copy the yaml files for Linux64 systems:
+```
+# Environment 1 - including all annotation tools
+wget https://raw.githubusercontent.com/DerKevinRiehl/transposon_annotation_tools/main/transposon_annotation_tools_env.yml
+conda env create -f transposon_annotation_tools_env.yml
+# Environment 2 - including CD-Hit and Transposon Classifier RFSB
+wget https://raw.githubusercontent.com/DerKevinRiehl/transposon_annotation_reasonaTE/main/transposon_annotation_reasonaTE.yml
+conda env create -f transposon_annotation_reasonaTE.yml
 ```
 
 ## How to use ''reasonaTE''
