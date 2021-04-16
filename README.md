@@ -154,6 +154,27 @@ seq2	chrII	3492273
 ...
 ```
 
+**Usage Parameter Summary**
+ModeNr | Mode | Parameter | Mandatory | Description
+------------ | ------------ | ------------ | ------------- | -------------
+1 | "createProject" | projectFolder | (mandatory) | Directory to create annotation projects in (=annotation workspace)
+ | || projectName | (mandatory) | Desired name of the annotation project
+ | || inputFasta | (mandatory) | Genome file (FASTA) that should be annotated for transposons
+2 | "annotate" | projectFolder | (mandatory) | Directory with annotation projects (=annotation workspace)
+ | || projectName | (mandatory) | Name of the annotation project
+ | || tool | (mandatory) | Annotation tool that should be used. Possible options: "helitronScanner", "ltrHarvest", "mitefind", "mitetracker", "must", "repeatmodel", "repMasker", "sinefind", "sinescan", "tirvish", "transposonPSI", "NCBICDD1000", "all"
+3 | "checkAnnotations" | projectFolder | (mandatory) | Directory with annotation projects (=annotation workspace)
+ | || projectName | (mandatory) | Name of the annotation project
+4 | "parseAnnotations" | projectFolder | (mandatory) | Directory with annotation projects (=annotation workspace)
+ | || projectName | (mandatory) | Name of the annotation project
+5 | "checkParsed" | projectFolder | (mandatory) | Directory with annotation projects (=annotation workspace)
+ | || projectName | (mandatory) | Name of the annotation project
+6 | "pipeline" | projectFolder | (mandatory) | Directory with annotation projects (=annotation workspace)
+ | || projectName | (mandatory) | Name of the annotation project
+7 | "statistics" | projectFolder | (mandatory) | Directory with annotation projects (=annotation workspace)
+ | || projectName | (mandatory) | Name of the annotation project
+ 
+ 
 ## Documentation of output files
 
 **Introduction**
