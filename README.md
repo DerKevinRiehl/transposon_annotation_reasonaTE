@@ -78,6 +78,13 @@ reasonaTE -mode annotate -projectFolder workspace -projectName testProject -tool
 ```
 
 *Option 3:* run annotation tools with specified parameters (for advanced users)
+If you want reasonaTE to call all annotation tools and take care of the locations of input and output files, but would like to additionally set some parameters, you can do so as shown in the following example:
+```
+reasonaTE -mode annotate -projectFolder workspace -projectName testProject -tool tirvish xxxxx -mintsd 5
+```
+Additional parameters need to follow after five x symbols "xxxxx". Please note, do only set parameters that are not related to locations of input and output files. If you want total control please have a look for Option 3.
+
+*Option 4:* run annotation tools completely with user specified parameters (for expert users)
 For this purpose, we provide conda packages of all [transposon_annotation_tools](https://github.com/DerKevinRiehl/transposon_annotation_tools) except for ltrPred.
 Please use the fasta file with renamed sequence names of the workspace project folder. (e.g. *workspace/testProject/sequence.fasta*)
 Please note, as some tools (HelitronScanner, MiteFinderII, MITE-Tracker, SINE-Finder, TIRvish) do not annotate on both strands, we recommend to run these on the reverse complementary as well (e.g. *workspace/testProejct/sequence_rc.fasta*). Once you annotated the genomes with your own specified parameter settings, please copy the result files into the workspace's project Folder as shown in the example project (e.g. results of HelitronScanner to copy into *workspace/testProject/helitronScanner*) and rename the files accordingly. Please note, it is mandatory to run the protein annotation tools *transposonPSI* and *NCBICDD1000* for the next steps using the commands of *option 2*.
