@@ -78,11 +78,11 @@ reasonaTE -mode annotate -projectFolder workspace -projectName testProject -tool
 ```
 
 *Option 3:* run annotation tools with specified parameters (for advanced users)
-If you want reasonaTE to call all annotation tools and take care of the locations of input and output files, but would like to additionally set some parameters, you can do so as shown in the following example:
+If you want reasonaTE to call annotation tools with specific parameters, but do not want to take care of the locations of input and output files, you can do so as shown in the following example:
 ```
 reasonaTE -mode annotate -projectFolder workspace -projectName testProject -tool tirvish xxxxx -mintsd 5
 ```
-Additional parameters need to follow after five x symbols "xxxxx". Please note, do only set parameters that are not related to locations of input and output files. If you want total control please have a look for Option 3.
+Additional parameters need to follow after five x symbols "xxxxx". Please note, do only set parameters that are not related to locations of input and output files. If you want total control please have a look at Option 3.
 
 *Option 4:* run annotation tools completely with user specified parameters (for expert users)
 For this purpose, we provide conda packages of all [transposon_annotation_tools](https://github.com/DerKevinRiehl/transposon_annotation_tools) except for ltrPred.
