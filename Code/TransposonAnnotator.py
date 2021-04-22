@@ -1,3 +1,4 @@
+from __future__ import print_function
 ############################################################################
 ##### Transposon Annotator reasonaTE - part of Transposon Ultimate #########
 ##### Kevin Riehl (kevin.riehl.de@gmail.com, 2021) #########################
@@ -61,7 +62,12 @@ elif(mode=="annotate"):
     arg1 = getArgument(args,"projectFolder")
     arg2 = getArgument(args,"projectName")
     arg3 = getArgument(args,"tool")
-    
+    arg4 = ""
+    inputLine = " ".join(args)
+    addComments = inputLine.split("xxxxx")
+    if(len(addComments)>1):
+        arg4 = addComments[1]
+
     validSoftwares = ["helitronScanner", "ltrHarvest", "mitefind", "mitetracker", "must", "repeatmodel", "repMasker", "sinefind", "sinescan", "tirvish", "transposonPSI", "NCBICDD1000", "all"]
     error = False
     if(not os.path.isdir(arg1) or arg1==""):
@@ -76,7 +82,7 @@ elif(mode=="annotate"):
         print(str(validSoftwares))
         error=True
     if(not error):
-        runAnnotation(arg1, arg2, arg3)
+        runAnnotation(arg1, arg2, arg3, arg4)
         print("Annotation by software ",arg3," finished successfully...")
         
 elif(mode=="checkAnnotations"):
