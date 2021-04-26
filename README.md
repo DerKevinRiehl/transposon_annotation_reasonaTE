@@ -16,7 +16,7 @@ conda install -y -c derkevinriehl transposon_annotation_reasonate
 conda install -y -c derkevinriehl transposon_annotation_tools_proteinncbicdd1000
 conda install -y -c derkevinriehl transposon_annotation_tools_transposonpsicli
 conda install -y -c derkevinriehl transposon_annotation_tools_mitetracker
-conda install -y -c derkevinriehl transposon_annotation_tools_sinescan
+conda install -y -c derkevinriehl transposon_annotation_tools_sinescan=1.1.2
 conda install -y -c derkevinriehl transposon_annotation_tools_helitronscanner
 conda install -y -c derkevinriehl transposon_annotation_tools_mitefinderii
 conda install -y -c derkevinriehl transposon_annotation_tools_mustv2
