@@ -31,15 +31,6 @@ conda install -y -c bioconda cd-hit blast seqkit
 conda install -y -c derkevinriehl transposon_annotation_reasonate transposon_classifier_rfsb
 conda deactivate
 ```
-Alternatively, you could chose to copy the yaml files for Linux64 systems:
-```
-# Environment 1 - including all annotation tools
-wget https://raw.githubusercontent.com/DerKevinRiehl/transposon_annotation_tools/main/transposon_annotation_tools_env.yml
-conda env create -f transposon_annotation_tools_env.yml
-# Environment 2 - including CD-Hit and Transposon Classifier RFSB
-wget https://raw.githubusercontent.com/DerKevinRiehl/transposon_annotation_reasonaTE/main/transposon_annotation_reasonaTE.yml
-conda env create -f transposon_annotation_reasonaTE.yml
-```
 
 ## How to use ''reasonaTE''
 **Step 1) Create a project**
