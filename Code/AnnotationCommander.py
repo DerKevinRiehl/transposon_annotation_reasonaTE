@@ -130,8 +130,8 @@ def runAnnotation(projectFolder, projectName, tool, addCommand):
         runRepeatMasker(projectFolderPath, addCommand)
     elif(tool=="sinefind"):
         runSineFinder(projectFolderPath, addCommand)
-    elif(tool=="sinescan", addCommand):
-        runSineScan(projectFolderPath)
+    elif(tool=="sinescan"):
+        runSineScan(projectFolderPath, addComand)
     elif(tool=="tirvish"):
         runTirVish(projectFolderPath, addCommand)
     elif(tool=="transposonPSI"):
