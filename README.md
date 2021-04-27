@@ -76,9 +76,10 @@ reasonaTE -mode createProject -projectFolder workspace -projectName testProject 
 ```
 
 **Step 2) Annotate genome with annotation tools**
-To annotate the genome with different annotation tools, three possible ways exist. 
+To annotate the genome with different annotation tools, four possible ways exist. We recommend *Option 2* as it allows for parallelization which is vital for reducing processing times for very large genomes.
 
 *Option 1:* annotate with all tools automatically (this does not include ltrPred).
+This will annotate the genome with all tools (except for ltrPred) with standard parameters and tool after tool.
 ```
 conda activate transposon_annotation_tools_env
 reasonaTE -mode annotate -projectFolder workspace -projectName testProject -tool all
