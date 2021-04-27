@@ -8,6 +8,38 @@ Transposon annotation tool for the annotation of transposons, transposon charact
 The reasonaTE pipeline comes with two conda environments due to package incompatibilities. For some steps of the environment you will need the first, for others the second conda environment. 
 * **Note1:** *Please make sure you have "RepeatMasker" and "RepeatModeler" installed on your machine as well if you want the pipeline to consider their annotations as well. As issues with the conda packages of these tools are reported multiple times on the internet and github, we recommend to not use the conda packages of these tools.* 
 * **Note2:** *For some users the bioconda channel is reported to cause issues with genometools-genometools, therefore you might consider to download it from other channels, e.g. conda-forge: "conda install -y -c bioconda -c conda-forge genometools-genometools".*
+* **Note3:** *Some users experience problems with long "environment solving" times of conda. We therefore recommend the use of mamba to accelerate the installation process.*
+
+**Installation using mamba**
+```
+# Environment 1 - including all annotation tools
+conda create -y --name transposon_annotation_tools_env python=2.7
+conda activate transposon_annotation_tools_env
+conda install -y mamba
+#conda install -y -c bioconda repeatmodeler repeatmasker # Recommended not too install via conda
+mamba install -y -c bioconda genometools-genometools # for some users: mamba install -y -c bioconda -c conda-forge genometools-genometools
+mamba install -y -c derkevinriehl transposon_annotation_reasonate
+mamba install -y -c derkevinriehl transposon_annotation_tools_proteinncbicdd1000
+conda install -y -c derkevinriehl transposon_annotation_tools_transposonpsicli
+mamba install -y -c derkevinriehl transposon_annotation_tools_mitetracker
+mamba install -y -c derkevinriehl transposon_annotation_tools_sinescan=1.1.2
+mamba install -y -c derkevinriehl transposon_annotation_tools_helitronscanner
+mamba install -y -c derkevinriehl transposon_annotation_tools_mitefinderii
+mamba install -y -c derkevinriehl transposon_annotation_tools_mustv2
+mamba install -y -c derkevinriehl transposon_annotation_tools_sinefinder
+mamba install -y -c anaconda biopython
+conda deactivate
+# Environment 2 - including CD-Hit and Transposon Classifier RFSB
+conda create -y --name transposon_annotation_reasonaTE
+conda activate transposon_annotation_reasonaTE
+conda install -y mamba
+mamba install -y -c anaconda biopython
+mamba install -y -c bioconda cd-hit blast seqkit
+mamba install -y -c derkevinriehl transposon_annotation_reasonate transposon_classifier_rfsb
+conda deactivate
+```
+
+**Installation using conda**
 ```
 # Environment 1 - including all annotation tools
 conda create -y --name transposon_annotation_tools_env python=2.7
