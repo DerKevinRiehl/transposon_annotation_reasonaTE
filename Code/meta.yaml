@@ -1,9 +1,9 @@
 package:
   name: "transposon_annotation_reasonate"
-  version: "1.0.0"
+  version: "1.0.1"
 
 build:
-  number: 0
+  number: 1
 
 about:
   home: https://github.com/DerKevinRiehl/transposon_annotation_reasonaTE
