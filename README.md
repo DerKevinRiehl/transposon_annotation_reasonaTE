@@ -66,7 +66,7 @@ conda install -y -c derkevinriehl transposon_annotation_reasonate transposon_cla
 conda deactivate
 ```
 
-## How to use ''reasonaTE''
+## How to use "reasonaTE"
 **Step 1) Create a project**
 ```
 conda activate transposon_annotation_tools_env
