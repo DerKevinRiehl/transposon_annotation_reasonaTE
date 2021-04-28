@@ -135,7 +135,7 @@ def runAnnotation(projectFolder, projectName, tool, addCommand):
     elif(tool=="sinefind"):
         runSineFinder(projectFolderPath, addCommand)
     elif(tool=="sinescan"):
-        runSineScan(projectFolderPath, addComand)
+        runSineScan(projectFolderPath, addCommand)
     elif(tool=="tirvish"):
         runTirVish(projectFolderPath, addCommand)
     elif(tool=="transposonPSI"):

@@ -1,3 +1,4 @@
+from __future__ import print_function
 ############################################################################
 ##### Transposon Annotator reasonaTE - part of Transposon Ultimate #########
 ##### Kevin Riehl (kevin.riehl.de@gmail.com, 2021) #########################
@@ -62,5 +63,15 @@ def helpExplanations():
     print("    Directory with annotation projects (=annotation workspace)")
     print("  -projectName <String>")
     print("    Name of the annotation project")
+    print("")    
+    print("MODE [8] \"sequenceRenamer\"")
+    print("(mandatory):")
+    print("  -seqNames <String>")
+    print("    sequence_heads.txt file location with original and new sequence names")
+    print("  -inputGFF <String>")
+    print("    Input GFF file")
+    print("  -outputGFF <String>")
+    print("    Target location of GFF file with renamed (=original) sequences")
     print("")   
-    
+    print("!!! MORE HELP CAN BE FOUND ON THE OFFICIAL GITHUB TUTORIAL PAGE:")
+    print("https://github.com/DerKevinRiehl/transposon_annotation_reasonaTE")

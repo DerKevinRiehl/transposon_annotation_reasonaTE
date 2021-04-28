@@ -17,6 +17,7 @@ from Statistics import createParsedAnnotationStatistics
 from Statistics import createFinalStatistics
 from DuplicateFilterA import doFiltering
 from DuplicateFilterB import doFilteringB
+from SequenceRenamer import renameSequences
 from TransposonClustering import doTransposonClustering
 from TransposonClusterBlasting import doClusterBlasting
 from TransposonClusterBlastAnalysis import doAnalysis
@@ -167,3 +168,9 @@ elif(mode=="pipeline"):
         createFinalAnnotation_Files(os.path.join(arg1,arg2,"finalResults"), os.path.join(arg1,arg2,"parsedAnnotations"))
         # Finished
         print("Running pipeline successfully...")
+
+elif(mode=="convertGFF3names"):
+    arg1 = getArgument(args,"seqNames")
+    arg2 = getArgument(args,"inputGFF")
+    arg3 = getArgument(args,"outputGFF")
+    renameSequences(arg1, arg2, arg3)
