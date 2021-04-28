@@ -206,8 +206,10 @@ ModeNr | Mode | Parameter | Mandatory | Description
  | || projectName | (mandatory) | Name of the annotation project
 7 | "statistics" | projectFolder | (mandatory) | Directory with annotation projects (=annotation workspace)
  | || projectName | (mandatory) | Name of the annotation project
- 
- 
+8 | "sequenceRenamer" | seqNames | (mandatory) | sequence_heads.txt file location with original and new sequence names
+ | || inputGFF | (mandatory) | Input GFF file
+ | || outputGFF | (mandatory) | Target location of GFF file with renamed (=original) sequences
+  
 ## Documentation of output files
 
 **Introduction**
@@ -296,7 +298,7 @@ The collapsed folders and marked files (by the + symbol in green) represent the 
 └── transposonPSI
 ```
 
-First of all, the fasta file used for the creation of the project was copied to *sequence.fasta*. The sequences in the fasta file were renamed, a matching can be found in *sequence_heads.txt*. Also, the reverse complement sequence was copied to *sequence_rc.fasta* for all softwares that annotate a single strand only.
+First of all, the fasta file used for the creation of the project was copied to *sequence.fasta*. The sequences in the fasta file were renamed, a matching can be found in *sequence_heads.txt*. Also, the reverse complement sequence was copied to *sequence_rc.fasta* for all softwares that annotate a single strand only. If you would like to use the original sequence names, you can do so using Mode 8 of reasonaTE (see table before).
 
 Moreover, *Statistics_FinalAnnotations.txt* and *Statistics_ToolAnnotations.txt* contain the statistics produced by the statistics mode for the two outputs of **reasonaTE**.
 
