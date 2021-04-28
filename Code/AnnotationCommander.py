@@ -42,7 +42,9 @@ def runSineFinder(projectFolderPath, addCommand):
     else:
         os.system("sine_finder "+addCommand+" "+os.path.join(projectFolderPath,"sinefind","sequence.fasta"))
         os.system("sine_finder "+addCommand+" "+os.path.join(projectFolderPath,"sinefind_rc","sequence_rc.fasta"))
-        
+    os.remove(os.path.join(projectFolderPath,"sinefind","sequence.fasta")) 
+    os.remove(os.path.join(projectFolderPath,"sinefind_rc","sequence_rc.fasta")) 
+    
 def runMiteTracker(projectFolderPath, addCommand):
     if(path.isdir(os.path.join(projectFolderPath,"mitetracker","results"))):
         rmtree(os.path.join(projectFolderPath,"mitetracker","results"))
@@ -96,6 +98,7 @@ def runRepeatModeler(projectFolderPath, addCommand):
         os.system("cd "+os.path.join(projectFolderPath,"repeatmodel")+" && RepeatModeler -engine ncbi -pa 10 -database sequence_index")
     else:
         os.system("cd "+os.path.join(projectFolderPath,"repeatmodel")+" && RepeatModeler -engine ncbi -database sequence_index "+addCommand)
+    os.remove(os.path.join(projectFolderPath, "repeatmodel", "sequence.fasta"))
 
 def runRepeatMasker(projectFolderPath, addCommand):
     copyfile(os.path.join(projectFolderPath,"sequence.fasta"), os.path.join(projectFolderPath, "repMasker", "sequence.fasta"))
@@ -103,6 +106,7 @@ def runRepeatMasker(projectFolderPath, addCommand):
         os.system("cd "+os.path.join(projectFolderPath,"repMasker")+" && RepeatMasker -pa 10 sequence.fasta")
     else:
         os.system("cd "+os.path.join(projectFolderPath,"repMasker")+" && RepeatMasker sequence.fasta "+addCommand)
+    os.remove(os.path.join(projectFolderPath, "repMasker", "sequence.fasta"))
 
 def runTransposonPSI(projectFolderPath):
     os.mkdir(os.path.join(projectFolderPath,"transposonPSI","temp"))
