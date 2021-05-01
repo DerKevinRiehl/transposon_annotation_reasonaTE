@@ -307,6 +307,18 @@ The folder *parsedAnnotations* includes the parsed transposon annotations, struc
 The folder *finalResults* includes all results - including the tool and pipeline annotations. The *ToolAnnotations_* files contain the tool annotations, the *PipelineAnnotations_* files contain the additional copies found and the *FinalAnnotations_* include both of the prior merged into one file. There are files of the annotated transposons, transposon characteristic proteins, structural features, the mask of transposon regions and the extracted and classified sequences as FASTA file. As transposon annotations are not intersection free and can include nested or overlapping transposon annotations, the basepairs annotated in the mask represent all base pairs that are annotated by one or more transposons of the transposon annotations.
 
 ## Citations
-Please cite our paper if you find transposon annotator "reasonaTE" useful:
+Please cite our paper if you find TransposonUltimate useful:
 
 Riehl, Kevin and Riccio, Cristian and Miska, Eric and Hemberg, Martin. TransposonUltimate: software for transposon classification, annotation and detection. bioRxiv doi: https://doi.org/10.1101/2021.04.30.442214 (submitted to GenomeBiology, available on BioRxiv https://www.biorxiv.org/content/10.1101/2021.04.30.442214v1 )
+
+```
+@article{riehl2021transposonultimate,
+  title={TransposonUltimate: software for transposon classification, annotation and detection},
+  author={Riehl, Kevin and Riccio, Cristian and Miska, Eric and Hemberg, Martin},
+  journal={bioRxiv preprint https://www.biorxiv.org/content/10.1101/2021.04.30.442214v1},
+  year={2021}
+}
+```
+
+## Acknowledgements
+We would like to thank Sarah Buddle, Simone Procaccia, Fu Xiang Quah and Alexandra Dallaire for their assistance with testing and debugging the software.
