@@ -10,7 +10,7 @@ The reasonaTE pipeline comes with two conda environments due to package incompat
 * **Note2:** *For some users the bioconda channel is reported to cause issues with genometools-genometools, therefore you might consider to download it from other channels, e.g. conda-forge: "conda install -y -c bioconda -c conda-forge genometools-genometools".*
 * **Note3:** *Some users experience problems with long "environment solving" times of conda. We therefore recommend the use of mamba to accelerate the installation process.*
 
-**Installation using mamba (recommended)**
+**Installation using conda and mamba (recommended)**
 ```
 # Environment 1 - including all annotation tools
 conda create -y --name transposon_annotation_tools_env python=2.7
@@ -39,7 +39,15 @@ mamba install -y -c derkevinriehl transposon_annotation_reasonate transposon_cla
 conda deactivate
 ```
 
-**Installation using conda**
+**Installation using yml file (works for Linux64)**
+```
+wget https://raw.githubusercontent.com/DerKevinRiehl/transposon_annotation_reasonaTE/main/environment_yml/transposon_annotation_tools_env.yml
+wget https://raw.githubusercontent.com/DerKevinRiehl/transposon_annotation_reasonaTE/main/environment_yml/transposon_annotation_reasonaTE.yml
+conda env create -f transposon_annotation_tools_env.yml
+conda env create -f transposon_annotation_reasonaTE.yml
+```
+
+**Installation using plain conda (not recommended, can take long time)**
 ```
 # Environment 1 - including all annotation tools
 conda create -y --name transposon_annotation_tools_env python=2.7
